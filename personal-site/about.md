@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Contact
 
-[Send me an email](mailto:jrowe6720@gmail.com) or find me on [LinkedIn](https://linkedin.com/in/jsr6720)
+[Send me an email](mailto:jrowe6720@gmail.com) or find me on [LinkedIn](https://linkedin.com/in/jsr6720){:target="_blank"}
 
 ## Bio
 

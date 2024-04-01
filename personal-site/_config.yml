@@ -2,10 +2,11 @@
 #
 # Global site settings {{ site.** }}
 
-title: James Rowe - Personal Website
+title: James Rowe
+author: James Rowe
 email: jrowe6720@gmail.com
 description: >- # mutli line capable
-  The digital journal of James Rowe. Something between wordpress and livejournal and gists.
+  The digital journal of James Rowe. Something between wordpress, livejournal and gists.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jsr6720.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jrowe6720

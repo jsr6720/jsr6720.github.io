@@ -4,40 +4,40 @@ title: Portfolio/CV
 permalink: /portfolio/
 ---
 
-> **LinkedIn** https://linkedin.com/in/jsr6720
+> [LinkedIn](https://linkedin.com/in/jsr6720){:target="_blank"}
 
-## Clearcover
+### Clearcover
 
-### 2021 - Present
+#### 2021 - Present
 
-[Clearcover](https://clearcover.com/) is an insur-tech/fintech start up
+[Clearcover](https://clearcover.com/){:target="_blank"} is an insur-tech/fintech start up
 
-## Paychex
+### Paychex
 
-### 2015 - 2021
+#### 2015 - 2021
 
-[Paychex](https://paychex.com) is a leading HCM and Payroll provider for businesses
+[Paychex](https://paychex.com){:target="_blank"} is a leading HCM and Payroll provider for businesses
 
-## SIGMA Marketing Insights
+### SIGMA Marketing Insights
 
-### 2014 - 2015
+#### 2014 - 2015
 
-[Sigma Marketing Insights](https://sigmadatainsights.com)
+[Sigma Marketing Insights](https://sigmadatainsights.com){:target="_blank"}
 
-## Flower City Group
+### Flower City Group
 
-### 2008 - 2014
+#### 2008 - 2014
 
-[Flower City Printing](https://fcp.biz)
+[Flower City Printing](https://fcp.biz){:target="_blank"}
 
-## JP Morgan Chase
+### JP Morgan Chase
 
-### 2007 - 2007 (Summer co-op)
+#### 2007 - 2007 (Summer co-op)
 
-[Chase](https://chase.com)
+[Chase](https://chase.com){:target="_blank"}
 
-## GSD&M
+### GSD&M
 
-### 2003 - 2003 (Summer internship)
+#### 2003 - 2003 (Summer internship)
 
-[GSD&M](https://gsdm.com)
+[GSD&M](https://gsdm.com){:target="_blank"}
