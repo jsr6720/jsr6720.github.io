@@ -3,8 +3,9 @@ layout: post
 author: James Rowe
 title:  "Hello World, Jekyll"
 date:   2024-03-31 19:46:48 -0400
-categories: impressions technology
-tags: personal jekyll
+category: impressions
+tags: personal jekyll technology
+uid: EDD59760-5CD4-428F-A8F4-445D0F27DB1F
 ---
 
 ## Hello, world! Jekyll
