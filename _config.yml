@@ -8,12 +8,15 @@ email: jrowe6720@gmail.com
 description: >- # mutli line capable
   The digital journal of James Rowe. Something between wordpress, livejournal and gists.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jsr6720.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.jsrowe.com" # https://jsr6720.com -> https://jsr6720.github.io
+
+# kinda theme.. RIT assigned me a user id of "jsr6720" as you can see it stuck
 twitter_username: jrowe6720
 github_username:  jsr6720
 linkedin_username: jsr6720
 
 # Build settings
+# permalink: /:categories/:title/ # unsure on this right now.. maybe worth breaking URLs in the future
 theme: minima
 plugins:
   - jekyll-feed
