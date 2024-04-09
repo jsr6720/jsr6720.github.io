@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<!-- {{ site.time | date_to_xmlschema }} Last build --> 
