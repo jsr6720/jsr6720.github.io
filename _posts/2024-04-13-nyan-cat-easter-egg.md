@@ -10,7 +10,7 @@ uid: 55FD5095-FDA0-4103-8801-DC07E257DA9C
 
 # Nyan cat easter egg
 
-Early in my career circa 2010/2011 I was working on a web page that displayed a list view of records. The backing database wasn't very fast and load times could be up to 2-3 seconds.
+Early in my career circa 2011/2012 I was working on a web page that displayed a list view of records. The backing database wasn't very fast and load times could be up to 2-3 seconds.
 
 At first I went to an online gif spinner creator. Maybe something like this:
 
