@@ -3,8 +3,7 @@ layout: post
 author: James Rowe
 title:  "Hello World, Jekyll"
 date:   2024-03-31 19:46:48 -0400
-category: technology
-tags: personal jekyll reviews
+tags: technology jekyll tools reviews
 uid: EDD59760-5CD4-428F-A8F4-445D0F27DB1F
 ---
 
@@ -49,5 +48,7 @@ I've done setup on [Blogger](https://www.blogger.com/) and [Wordpress](http://wo
 
 #### Significant revisions
 
+tags: {{ page.tags | join: ", " }}
+
 - {{ "2024-04-08 21:18:23 -0400" | date_to_string: "ordinal", "US" }} Came in and added real content and impressions
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [https://jsrowe.com](https://jsrowe.com)
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}

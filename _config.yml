@@ -10,13 +10,16 @@ description: >- # mutli line capable
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.jsrowe.com" # https://jsr6720.com -> https://jsr6720.github.io
 
-# kinda theme.. RIT assigned me a user id of "jsr6720" as you can see it stuck
+# if you sense a theme.. RIT college assigned me a user id of "jsr6720" and it stuck
 twitter_username: jrowe6720
 github_username:  jsr6720
 linkedin_username: jsr6720
 
 # Build settings
-# permalink: /:categories/:title/ # unsure on this right now.. maybe worth breaking URLs in the future
+
+# decided against using categories as a url component
+permalink: /articles/:title/ # :output_ext meh(?)
+
 theme: minima
 plugins:
   - jekyll-feed

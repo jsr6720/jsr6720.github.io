@@ -3,8 +3,7 @@ layout: post
 author: James Rowe
 title:  "What's in your software product?"
 date:   2024-04-09 15:44:12 -0400
-category: technology
-tags: linkedin open-source
+tags: linkedin open-source business
 uid: 79572015-1F10-435E-B5D4-5BEB959EBD6C
 ---
 
@@ -27,6 +26,8 @@ Taking these three simple steps has improved cross-team communication, innovatio
 
 #### Significant revisions
 
-- {{ page.date | date_to_string: "ordinal", "US" }} Re-published on personal blog via jekyll
+tags: {{ page.tags | join: ", " }}
+
+- {{ page.date | date_to_string: "ordinal", "US" }} Re-published on [{{ site.url }}]({{ site.url }}) via jekyll with uid {{ page.uid }}
 - {{ "2020-04-28 14:38:00 -0400" | date_to_string: "ordinal", "US" }} Originally published to LinkedIn articles at [https://www.linkedin.com/pulse/whats-your-software-product-james-rowe/](https://www.linkedin.com/pulse/whats-your-software-product-james-rowe/)
 - {{ "2020-02-26 16:47:00 -0400" | date_to_string: "ordinal", "US" }} LinkedIn draft created

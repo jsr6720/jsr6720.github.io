@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Books
+tags: book reviews
 permalink: /books/
 ---
 
