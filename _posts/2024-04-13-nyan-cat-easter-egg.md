@@ -30,4 +30,4 @@ I always try and have fun at work. I think about this at least once a month.
 
 #### Significant revisions
 
-- {{ page.date | date_to_string: "ordinal", "US" }} First published
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [https://jsrowe.com](https://jsrowe.com)

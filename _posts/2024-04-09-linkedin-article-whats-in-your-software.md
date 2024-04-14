@@ -4,7 +4,7 @@ author: James Rowe
 title:  "What's in your software product?"
 date:   2024-04-09 15:44:12 -0400
 category: technology
-tags: linkedin open-source archive
+tags: linkedin open-source
 uid: 79572015-1F10-435E-B5D4-5BEB959EBD6C
 ---
 
