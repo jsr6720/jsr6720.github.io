@@ -1,18 +1,26 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-match-filename>>"
-date:   YYYY-MM-DD 00:00:00 -0400
+title:  "<<title-similiar-to-filename>>"
+date:   date "+%Y-%m-%d %H:%M:%S"
 tags: technology
 uid: uuidgen
 ---
 
-# Heading1
+## Intro Heading
 
 Content
 
-#### Significant revisions
+---
 
-tags: {{ page.tags | join: ", " }}
+##### Author's Note
+
+
+
+##### Significant revisions
+
+tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
+
+##### EOF/Footnotes
