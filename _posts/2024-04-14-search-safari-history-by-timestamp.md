@@ -107,6 +107,7 @@ Its been a long time since I worked with embeded sqlite. So I needed a way to in
 
 Ironically lost along the way was the post that directed me to the ```history_items``` and ```history_visits``` tables in ```History.db```... Maybe I'll come back and build a search bot that loads the content and searches content as well.
 
+---
 
 ##### Authors Note
 

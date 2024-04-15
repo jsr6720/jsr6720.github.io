@@ -15,7 +15,7 @@ In the spirit of true engineering, a first post and some code testing.
 puts "Hello world!"
 {% endhighlight %}
 
-## First Impressions
+### First Impressions
 
 Having worked with this a few days over a week I'm pretty happy with the tooling. I fell into [jekyll](http://jekyllrb.com/) as it was the default template engine to render [GitHub Pages](https://pages.github.com).
 
@@ -27,14 +27,14 @@ Having worked with ruby projects before I found the gem process straightforward 
 - Sctach the engineer itch to create without being burdened by app lock-in, new UIs or subscription fees
 - Allows me to pay hosting and serve content without ads, tracking or sign-in paywalls/soft-stops
 
-## What's next?
+### What's next?
 
 Well I will start adding content but also migrate the other two primary sources of previously published material here
 
 - [https://github.com/jsr6720/txcowboycoder](https://github.com/jsr6720/txcowboycoder) manual html scraping of old technology related posts
 - [https://github.com/jsr6720/goodreads-csv-to-md](https://github.com/jsr6720/goodreads-csv-to-md) takes an export from [goodreads](http://goodreads.com/) and exports it to jekyll md post files
 
-## Literally, no one
+### Literally, no one
 
 What are some blogging platforms I've used in the past you ask?
 
@@ -46,7 +46,9 @@ When I attended [RIT](http://rit.edu/) students were all allocated space on what
 
 I've done setup on [Blogger](https://www.blogger.com/) and [Wordpress](http://wordpress.com/) and whatever one-click installs [cPanel](https://www.cpanel.net) had available 2004-2010. Think Django, MyBB and other ruby on rails/php applications that were popular in that time.
 
-#### Significant revisions
+---
+
+##### Significant revisions
 
 tags: {{ page.tags | join: ", " }}
 

@@ -9,7 +9,7 @@ uid: 79572015-1F10-435E-B5D4-5BEB959EBD6C
 
 > **:warning:** A small corporate softball piece originally posted on [LinkedIn](https://www.linkedin.com/pulse/whats-your-software-product-james-rowe/). Republished here for posterity(?). Note to self, hire an editor.
 
-# What's in your software product?
+## What's in your software product?
 
 Today's software ecosystem is built on widely available free open source software (FOSS) stored for consumption at sites like GitHub.com, Bitbucket, StackOverflow and a wide variety of package managers. Startups and Fortune 100 enterprises alike have benefited tremendously from this arrangement; new projects can focus on the value-add proposition and not re-inventing the wheel.
 
@@ -24,7 +24,9 @@ Taking these three simple steps has improved cross-team communication, innovatio
 
 *Opinions expressed are solely my own and do not express the views or opinions of my employer.*
 
-#### Significant revisions
+---
+
+##### Significant revisions
 
 tags: {{ page.tags | join: ", " }}
 

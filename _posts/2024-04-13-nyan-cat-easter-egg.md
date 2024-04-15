@@ -7,7 +7,7 @@ tags: technology exploits javascript
 uid: 55FD5095-FDA0-4103-8801-DC07E257DA9C
 ---
 
-# Nyan cat easter egg
+## Nyan cat easter egg
 
 Early in my career circa 2011/2012 I was working on a web page that displayed a list view of records. The backing database wasn't very fast and load times could be up to 2-3 seconds.
 
@@ -23,11 +23,13 @@ To this day the most fun I've ever had building and releasing software. Fly on n
 
 ![nyan cat gif](/assets/posts-images/nyan-cat-transparent.gif)
 
-## Moral of the story
+### Moral of the story
 
 I always try and have fun at work. I think about this at least once a month. 
 
-#### Significant revisions
+---
+
+##### Significant revisions
 
 tags: {{ page.tags | join: ", " }}
 
