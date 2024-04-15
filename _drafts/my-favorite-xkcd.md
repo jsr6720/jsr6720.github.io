@@ -59,3 +59,6 @@ https://xkcd.com/323
 
 here to help
 https://xkcd.com/1831/
+
+datetime
+https://xkcd.com/2867/
