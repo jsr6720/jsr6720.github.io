@@ -9,16 +9,15 @@ uid: 878A409A-C705-49D4-BB71-B379F14D3D68
 
 ## Solution for searching Safari history by timestamp
 
-Because results matter.
+Because results matter.[^xkcd2867]
 
 1. [Copy file](#copy-the-file) ```% cp ~/Library/Safari/History.db ~/Desktop/History-copy.db```
 2. Load the file ```% sqlite3 ~/Desktop/History-copy.db```
 3. Query ```history_items``` and ```history_visits``` tables[^schema] by ```history_visits.visit_time```
 4. Read about [978307200 magic number](#whats-the-magic-number-in-your-query) and [CFAbsoluteTime](#a-bonus-lesson-with-cfabsolutetime)
 
-Outputs results of history in the past 2-4 hours.
-
 ```sql
+-- returns last 7 days of history
 select url, title, visit_time, 
     datetime(visit_time + 978307200, 'unixepoch', 'localtime') as visit_datetime 
 from history_items, history_visits
@@ -31,7 +30,7 @@ where history_items.id = history_visits.history_item
 
 Expanding the query to search by ```history_items.url``` and/or ```history_visits.title``` is also useful when searching on a particular domain and title.
 
-{% highlight sql %}
+```sql
 -- returns last 7 days of history from nytimes url
 select url, title, visit_time, 
     datetime(visit_time + 978307200, 'unixepoch', 'localtime') as visit_datetime 
@@ -40,11 +39,11 @@ where history_items.id = history_visits.history_item
     and visit_datetime > date('now', '-7') 
     and visit_datetime < date('now')
     and url like %nytimes%;
-{% endhighlight %}
+```
 
 #### Copy the file
 
-```
+```console
 % cp ~/Library/Safari/History.db ~/Desktop/History-copy.db
 % sqlite3 History-copy.db
 SQLite version 3.37.0 2021-12-09 01:34:53
@@ -74,7 +73,7 @@ I use a variety of browsers professionally and personally. I wanted to find some
 
 I found out quickly that even though [sqlite's public documentation](https://sqlite.org/lang_datefunc.html) shows using the ```REAL``` datatype to store ```datetime```. Safari stores the timestamp using ```CFAbsoluteTime``` which does **not** work with ```sqlite> date()/time()``` functions.
 
-```
+```console
 sqlite> select visit_time, datetime(visit_time), date(visit_time), time(visit_time), title from history_visits limit 1;
 701547789.516069||||example title
 -- note the empty |||| where results should be
@@ -86,8 +85,8 @@ Shamelessly stolen from the math posted on [apple stackexchange](https://apple.s
 
 Here's an example showing a stored Safari value converted to unixepoch.
 
-```
-sqlite> select datetime(701547789.516069 + 978307200, 'unixepoch', 'localtime') as 'normalized time';
+```console
+sqlite> select datetime(701547789.516069 + 978307200, 'unixepoch', 'localtime');
 2023-03-26 14:23:09
 ```
 
@@ -109,11 +108,9 @@ Ironically lost along the way was the post that directed me to the ```history_it
 
 ---
 
-##### Authors Note
+##### Author's Note
 
-First post with jekyll and expiermenting with md code escapes and jekyll codeparser
-
-Obligatory: [https://xkcd.com/2867/](https://xkcd.com/2867/)
+First post making use of more advanced markdown and jekyll parsing techniques.
 
 ##### Significant revisions
 
@@ -122,6 +119,8 @@ tags: {{ page.tags | join: ", " }}
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
 ##### EOF/Footnotes
+
+[^xkcd2867]: Obligatory: [https://xkcd.com/2867/](https://xkcd.com/2867/)
 
 [^schema]: history schema
 
