@@ -10,15 +10,15 @@ permalink: /about/
 
 ## Bio
 
-Hi! I'm James Rowe and I'm an engineer at heart. I've built software in a range of technologies and companies and I wanted a place to share what I've learned along the way while still maintaining ownership and flexibility of markdown -> published content.
+Hi! I'm James Rowe and I'm an engineer at heart. I've built software in a range of technologies and companies and I wanted a place to share what I've learned along the way.
 
 [Read more](/portfolio) about my career.
 
 ## Why a public GitHub site?
 
-I've used authoring platforms before and I tired of auto format updates, lack of data clarity and other small friction points along the way. This is my site, there are many like it, but this one is mine.
+Having used WYSIWYG authoring platforms like Wordpress, blogspot and roll-your-own implementations of Drupal and Joomla I grew tired of the clumsy UIs and lack of version control I was used to writing code. Combined with lack of data transparency and other small friction points along the way I decided to [revisit the markdown to static site generators](/articles/hello-world-jekyll/).
 
-Having seen the web grow from late 90s to present I like the idea of a simple mechanism to publish thoughts with the most advanced site feature an [atom feed](/feed.xml).
+Having seen the web grow from late 90s to present I like the idea of a simple build process to publish static content with the most advanced site feature an [atom feed](/feed.xml). This is my site, there are many like it, but this one is mine. 
 
 
 ## Support
