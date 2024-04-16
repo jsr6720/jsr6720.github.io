@@ -85,7 +85,7 @@ Sometimes I wonder about my old code. My professional career all my code changes
 
 ##### Author's Note
 
-Not my most original contribution. But it brought me joy to revisit and reminicse.
+Not my most original contribution. But it brought me joy to revisit and reminisce.
 
 ##### Significant revisions
 
