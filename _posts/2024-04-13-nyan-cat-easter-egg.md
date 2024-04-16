@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Nyan cat easter egg"
 date:   2024-04-13 00:48:43 -0400
-tags: technology exploits javascript
+tags: technology personal javascript
 uid: 55FD5095-FDA0-4103-8801-DC07E257DA9C
 ---
 
