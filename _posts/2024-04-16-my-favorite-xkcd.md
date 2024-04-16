@@ -1,8 +1,8 @@
 ---
 layout: post
 author: James Rowe
-title:  "My favorite xkcd"
-date:   date "+%Y-%m-%d %H:%M:%S"
+title:  "My favorite xkcd comics"
+date:  2024-04-16 00:58:06 -0400
 tags: personal
 uid: E0211686-944D-4F71-85FA-72E436805577
 ---
@@ -13,11 +13,13 @@ I wish I had written down the first time I encountered [xkcd](https://www.xkcd.c
 
 This is a silly list of my favorites that apply to many situations. I admit that waiting for [explainxkcd](https://www.explainxkcd.com) updates to understand the joke is painful...
 
-I share these at least once a month. Thank you Randall.
+I share these at least once a month. Thank you [Randall](https://xkcd.com/about/).
 
 ## Serious business
 
-I do think tools like GitHub Copilot and other LLM have dramatically shifted this table analysis. What might've taken a few hours to research and write might be done in less than one. Always make sure you include the time it takes to reference the chart.
+I do think tools like GitHub Copilot and other LLM have dramatically improved success rate of automating small tasks. What might've taken a few hours to research and write can be done in less than one.
+
+I have at various times in my career printed a copy of this and pinned it to my wall. Remember this is no greater waste of time than automating something that ought not be done at all.[^2]
 
 ![1205: is it worth the time](https://imgs.xkcd.com/comics/is_it_worth_the_time.png)
 
@@ -27,15 +29,13 @@ Another favorite, technology is ulimately a tool, what you build with it might n
 
 ## Programming
 
-Favorites pertaining to the profession of programming
+This is the earliest comic I remembered, and ironically my first job was primarily PHP, so no compiling until Java later.
 
 ![303: compiling](https://imgs.xkcd.com/comics/compiling.png)
 
-This is the earliest comic I remembered, and ironically my first job was primarily PHP, so no compiling until Java later.
+Another favoite of mine which pairs nicely with [435: purity](https://xkcd.com/435) and never ceases to amaze me everyone's unique setup. From DVORAK and mechanical keyboards. Personal prefernces on monitors and mice, editors and terminal environments. Everyone has a preference of setup.
 
 ![378: Real Programmers](https://imgs.xkcd.com/comics/real_programmers.png)
-
-Another favoite of mine which pairs nicely with [435: purity](https://xkcd.com/435) and never ceases to amaze me everyone's unique setup. From DVORAK and mechanical keyboards. Personal prefernces on monitors and mice, editors and terminal environments. Everyone has a preference of setup.
 
 ## Open source
 
@@ -95,4 +95,6 @@ tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 ##### EOF/Footnotes
 
-[^1] [xkcd wikipedia](https://en.wikipedia.org/wiki/Xkcd)
+[^1]: [xkcd wikipedia](https://en.wikipedia.org/wiki/Xkcd)
+
+[^2]: [Elon Musk 5 engineering philosophy](https://web.archive.org/web/20240416045402/https://mondaynote.com/what-makes-elon-musk-move-so-fast-8e7c91820923?gi=a7102ded87ed)
