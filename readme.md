@@ -1,22 +1,27 @@
 # jsr6720.github.io
 
-the code behind my blog and github pages
+Using GitHub Pages/jekyll to aggregate some content across several platforms and put it into readme format.
 
 [https://jsr6720.github.io](https://jsr6720.github.io)
 
-If I'm still paying for it also hosted at [https://jsrowe.com](https://www.jsrowe.com)
+If I'm still paying for hosting [https://jsrowe.com](https://www.jsrowe.com)
+
+## License
+
+Code snippets [MIT](/CODE-LICENSE) unless otherwise noted.
+
+Text written by stated author and covered by [CC0 1.0 Universal](/LICENSE)
 
 ## Tags
 
-Decided not to use ```Category``` as its the same as tags but jekyll uses it in its url which I overrode anyways.
+Decided not to use jekyll ```category|categories``` as its treated the same as ```tags``` but jekyll uses category in its url which I overrode anyways.
 
 Primarily tagging by language and whatever I might need to find things again
 
-- TIL (today I learned) / I find this interesting
 - coding lanaguge, i.e. javascript, shell, python etcetera
 - coding framework i.e. React, Spring Boot, Xcode
 
-Some companion tags
+Some other tags I've used before
 
 - technology
 - architecture
@@ -29,7 +34,6 @@ Some companion tags
 - reviews
 - tools
 - framework
-
 
 ### Book Review tags
 
@@ -50,12 +54,6 @@ Book tags (might be some overlap from above)
 - non-fiction
 - fiction
 
-## License
-
-Code snippets MIT unless otherwise noted
-
-Text copyright James Rowe 2024
-
 ## Other like-minded sites (?)
 
 Keeping a list here until I know what I want to do with it
@@ -65,6 +63,7 @@ Keeping a list here until I know what I want to do with it
 Sites that inspire me for both their content and design
 
 https://martinfowler.com
+
 https://lethain.com
 
 
