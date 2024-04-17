@@ -7,6 +7,18 @@ tags: technology safari browser sqlite datetime
 uid: 878A409A-C705-49D4-BB71-B379F14D3D68
 ---
 
+## How I ended up in this conudrum
+
+I was trying to find an article I read but all I could remember is I read it between X and Y time. Yes, after an hour of reverse engineering ```History.db``` I found what I was looking for.
+
+### Chromium browsers show a timestamp in history
+
+![chrome browser history](/assets/posts-images/chrome-history-timestamp.jpg)
+
+### Safari groups by date accessed
+
+![safari browser history](/assets/posts-images/safari-history-date-no-time.jpg)
+
 ## Solution for searching Safari history by timestamp
 
 Because results matter.[^xkcd2867]
@@ -41,7 +53,7 @@ where history_items.id = history_visits.history_item
     and url like %nytimes%;
 ```
 
-#### Copy the file
+#### Copying the file
 
 ```console
 % cp ~/Library/Safari/History.db ~/Desktop/History-copy.db
@@ -55,19 +67,9 @@ sqlite>
 
 ## The rest of the story
 
-I prioritized sharing the solution above because several online resources helped me reverse engineer and translate ```history_visits.visit_time REAL`` to a searchable human-readable value. But most assumed you already had the specific row data you wanted to convert.
+I use a variety of browsers personally and professionally. Being in the mobile/web development industry I try and keep current with active browsers on the market.
 
-### How I ended up in this conudrum
-
-I use a variety of browsers professionally and personally. I wanted to find something I had read,but I couldn't remember anything about it other than I had read it roughly between X and Y a few days ago. Like all great engineers after an hour of all this research I did find what I was looking for.
-
-#### Chromium browsers show a timestamp in history
-
-![chrome browser history](/assets/posts-images/chrome-history-timestamp.jpg)
-
-#### Safari groups by date accessed
-
-![safari browser history](/assets/posts-images/safari-history-date-no-time.jpg)
+I decided to write and share this solution because most online examples assumed you were trying to convert one ```history_visits.visit_time REAL``` value to ```datetime```.
 
 ### Whats the magic number in your query?
 
