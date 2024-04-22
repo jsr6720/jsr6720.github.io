@@ -1,9 +1,9 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Art of War\""
+title:  "Detect Thoughts on \"The Art of War\" by Great Courses"
 date:   2018-02-08 00:00:00 -0400
-tags: book review Wilson 
+tags: book review Wilson great-courses
 uid: 2f3121ce-36f8-482b-8c8c-d744949d7346
 ---
 
