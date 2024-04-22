@@ -14,6 +14,10 @@ uid: db185793-2936-4047-bca3-f50850539f0b
 
 Another fantastic portrait of American success story the Wright Brothers by McCullough.<br/><br/>Much like Michael Collins who orbited the moon, the unsung hero of this book is Charlie Taylor, the mechanic who ran the bike shop and provided the mechanical engine to power the first planes.<br/><br/>A classic "overnight success" traced through the 10 years leading up to it.
 
+### Copied from hardcover review
+
+Well written account of the turn of the century optimism the Wright brothers found themselves in. Also a great look at the 3rd hero Charlie Taylor. Fantastic story telling by McCullogh
+
 ### Date Read
 2020/02/20
 
@@ -35,6 +39,8 @@ Bookshelves: biography, history
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 David McCullough, *The Wright Brothers*,  Simon  Schuster Audio 2015 (Audio CD)[^1]
+
+Had accidently reviewed this twice(?) so combined onto the Audio CD format as I don't remember reading this hardcover.
 
 ##### Significant revisions
 
