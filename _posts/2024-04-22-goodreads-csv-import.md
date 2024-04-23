@@ -29,6 +29,19 @@ FAVORITE GENRES: Biography, Business, Classics, History, Non-fiction, Philosophy
 
 These genres were converted to `tags` as part of this migration.
 
+## Was it worth it?
+
+I figured it would take me anywhere from 15-20 min per post to convert it manually. Starting with the csv file.
+
+1. Create new file
+2. Copy/paste lots of content
+3. fiddle with all the auto gen content
+4. publish
+
+Not only would this be mind numbing, but so long as I spent less than 40 hours on a solution I'd come out ahead. Without a doubt I learned a ton about ChatGPT3.5 capabilities and python. Even at ~10 min a file 245 files would take almost 40 hours. I think I spent about 20 hours in total on various iterations of the script, testing, merge conflicts and niceities. I always did want my own `Makefile`.
+
+Would I do it again? Absolutely. Now "my content" is in flatfile format the way I would like it. And I deleted my goodreads account. No going back.
+
 ## Screenshot of stats
 
 ![good read stats from account overview page](/assets/posts-images/goodread-stats.png)
