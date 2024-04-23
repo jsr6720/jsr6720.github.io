@@ -15,6 +15,8 @@ This is a silly list of my favorites that apply to many situations. I admit that
 
 I share these at least once a month. Thank you [Randall](https://xkcd.com/about/).
 
+![1683: perfect digitial copy](/assets/posts-images/xkcd-1683-digitial-degradation.png)
+
 ## Serious business
 
 I do think tools like GitHub Copilot and other LLM have dramatically improved success rate of automating small tasks. What might've taken a few hours to research and write can be done in less than one.
