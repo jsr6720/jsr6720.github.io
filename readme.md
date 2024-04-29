@@ -2,6 +2,10 @@
 
 Using GitHub Pages/jekyll to share some thoughts. Dare I say publish them.
 
+## Version
+
+[Version](/VERSION) tagging alpha, still deciding on final URL structure and am making breaking changes
+
 ## Hosting
 
 GitHub Pages [https://jsr6720.github.io](https://jsr6720.github.io)

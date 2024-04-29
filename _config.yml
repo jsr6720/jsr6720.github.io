@@ -17,8 +17,9 @@ linkedin_username: jsr6720
 
 # Build settings
 
-# decided against using categories as a url component
-permalink: /articles/:title/ # :output_ext meh(?)
+# update semver major if changing url param
+# todo consider using collections one day
+permalink: /:title/ # :output_ext meh(?)
 
 # flip to true to push /archive/ folder to web server. warning doesn't show up in rest of site
 collections:
