@@ -1,0 +1,16 @@
+---
+---
+
+@import "minima";
+
+// chatGPT 4.0 told me this is kindle theme
+
+// Define color variables
+$kindle-background: #FBF7EC;
+$kindle-text: #3E3E3E;
+
+// Usage example
+body {
+  background-color: $kindle-background;
+  color: $kindle-text;
+}
