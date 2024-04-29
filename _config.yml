@@ -27,7 +27,7 @@ collections:
     output: false
     permalink: /:collection/:name
 
-theme: minima
+theme: minima # base instasll
 plugins:
   - jekyll-feed
   - jemoji
