@@ -5,19 +5,30 @@ tags: book reviews
 permalink: /books/
 ---
 
-# Books read
+## Book thoughts
 
-Or I guess more accurately consumed in all formats: audio CD, hardcover, paperback and maybe a few large print. 
+[`Detect Thoughts`](https://www.dndbeyond.com/spells/detect-thoughts) I thought was a clever way of reimaging "thoughts on" but perhaps I'll revisit it one day.
 
-todo: put a link here that loads all posts category [books](#)
+I indicate format in the rview: audio CD, hardcover, paperback and maybe a few large print.
 
-**Please** Consider visiting your [library](https://www.nypl.org) or supporting a [local bookstore](https://www.liftbridgebooks.com). You'll find no affiliant links here.
+**Please** Consider visiting your [library](https://www.nypl.org) or supporting a [local bookstore](https://www.liftbridgebooks.com).
+
+<!-- chatGPT 4.0 beat the top google search.. BUT I was faster at modifying date and DOM structure. -->
+## Last 5 books read
+
+<ul>
+  {% for post in site.tags.book limit:5 %}
+    <li>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} posted {{ post.date | date_to_string: "ordinal", "US" }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 ## Tier List
 
 A fun take on a [tier list](https://en.wikipedia.org/wiki/Tier_list) for books.
 
-Originally I was just going to import my 5/5 rated books, but that's too many so I give you my all time favorites by category. S-tier only.
+Originally I was just going to import my 5/5 rated books, but that's too many so I give you my all time favorites by category. todo-enhance
 
 ## Biographies / History
 
