@@ -14,3 +14,12 @@ body {
   background-color: $kindle-background;
   color: $kindle-text;
 }
+
+.header-icon {
+    border-radius: 50%;
+}
+
+.header-icon img {
+    margin-left: 15px;
+    width: 45px;
+}
