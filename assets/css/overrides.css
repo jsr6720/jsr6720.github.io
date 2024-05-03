@@ -1,0 +1,16 @@
+---
+---
+
+body {
+  background-color: #FBF7EC;
+  color: #3E3E3E;
+}
+
+.header-icon {
+    border-radius: 50%;
+}
+
+.header-icon img {
+    margin-left: 15px;
+    width: 45px;
+}
