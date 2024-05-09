@@ -85,3 +85,6 @@ When ChatGPT/LLM Gives you an answer I like to think sites like this made a diff
 
 https://timopartl.com/
 This guy builds apps
+
+https://scottnesbitt.gitlab.io/
+I see you buddy.
