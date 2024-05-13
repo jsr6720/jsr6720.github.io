@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Set enterable for list box object not just columns"
 date:   "2010-11-24 00:00:00 -0400"
-tags: 2010 wordpress, txcowboycoder, "Wish List", "list box", "set enterable"
+tags: 2010 wordpress txcowboycoder wish-list 4D configuration
 uid: f8afa7e4-f965-4df1-bc85-3ec869ba79c7
 ---
 

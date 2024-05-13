@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Slider bar for zoom level"
 date:   "2011-04-28 00:00:00 -0400"
-tags: 2011 wordpress, txcowboycoder, "4D", "Wish List", "magnify", "slider bar", "zoom"
+tags: 2011 wordpress txcowboycoder 4D wish-list configuration
 uid: fd8d1bfe-6d9d-452a-be65-153873ffe668
 ---
 

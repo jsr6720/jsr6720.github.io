@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "UUID in canonical form (no hyphens)"
 date:   "2010-10-26 00:00:00 -0400"
-tags: 2010 wordpress, txcowboycoder, "Wish List", "4D", "UUID"
+tags: 2010 wordpress txcowboycoder wish-list 4D uuid
 uid: fd5cfb88-fea7-4a9b-a9ca-3a5b470fa8fa
 ---
 

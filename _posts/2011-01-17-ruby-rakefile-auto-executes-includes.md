@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Ruby Rakefile auto executes includes"
 date:   "2011-01-17 00:00:00 -0400"
-tags: 2011 wordpress, txcowboycoder, "Ruby", "namespace", "rake"
+tags: 2011 wordpress txcowboycoder ruby namespace rake gotchas
 uid: a41da66c-b735-4380-ab0c-ec43ad759ef3
 ---
 

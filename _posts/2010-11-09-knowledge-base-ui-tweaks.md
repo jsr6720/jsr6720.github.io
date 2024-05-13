@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Knowledge base ui tweaks"
 date:   "2010-11-09 00:00:00 -0400"
-tags: 2010 wordpress, txcowboycoder, "Wish List", "4D", "knowledge base"
+tags: 2010 wordpress txcowboycoder wish-list 4D knowledge-base
 uid: 780ccbdc-e937-4aaa-a07a-ae5c5c824527
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Use 4D header macro to identify code blocks"
 date:   "2011-06-02 00:00:00 -0400"
-tags: 2011 wordpress, txcowboycoder, "4D", "4D", "auto-comment", "automatically repaired method", "clean code", "corrupt", "macro", "method header", "orphan method", "structure"
+tags: 2011 wordpress txcowboycoder 4D error-handling auto-comment macros clean-code
 uid: 90bcff0b-cfd2-4351-ad42-352fce0d6c07
 ---
 

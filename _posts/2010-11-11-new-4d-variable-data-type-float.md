@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "New 4D variable data type – float"
 date:   "2010-11-11 00:00:00 -0400"
-tags: 2010 wordpress, txcowboycoder, "Wish List", "4D", "data types", "float", "sql"
+tags: 2010 wordpress txcowboycoder wish-list feature-request 4D data-types float sql
 uid: 9aa7add4-7702-4387-88a6-a79df11688d9
 ---
 

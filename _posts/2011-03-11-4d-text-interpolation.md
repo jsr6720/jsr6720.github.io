@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "4D text interpolation"
 date:   "2011-03-11 00:00:00 -0400"
-tags: 2011 wordpress, txcowboycoder, "4D", "4d text object", "interpolate", "tip"
+tags: 2011 wordpress txcowboycoder 4D wish-list string-interpolation
 uid: d803522f-377e-4ade-8988-a2027f0a9da6
 ---
 

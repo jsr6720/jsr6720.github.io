@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "LDAP Authentication"
 date:   "2010-04-08 00:00:00 -0400"
-tags: 2010 wordpress, txcowboycoder, "Java", "flex", "Java", "ldap"
+tags: 2010 wordpress txcowboycoder java apache-flex ldap authentication
 uid: ec7b94d8-d72c-4fb0-9b7a-6b488df527e3
 ---
 

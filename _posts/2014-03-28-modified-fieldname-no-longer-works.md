@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Modified({fieldname}) no longer works"
 date:   "2014-03-28 00:00:00 -0400"
-tags: 2014 wordpress, txcowboycoder, "Misc", "4D"
+tags: 2014 wordpress txcowboycoder 4D
 uid: edb36778-ffa9-4a5d-af4b-c0c5c5f0db75
 ---
 

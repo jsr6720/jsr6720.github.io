@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "This month’s date range"
 date:   "2011-04-01 00:00:00 -0400"
-tags: 2011 wordpress, txcowboycoder, "PHP", "date range", "php 5.3"
+tags: 2011 wordpress txcowboycoder php date-ranges php-v5.3
 uid: 1a21734e-7cf3-4385-81f4-1794f26b33d4
 ---
 

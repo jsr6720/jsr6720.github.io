@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Universal micro usb charger with unique housing"
 date:   "2010-11-22 00:00:00 -0400"
-tags: 2010 wordpress, txcowboycoder, "Personal Musings", "housing", "micro usb"
+tags: 2010 wordpress txcowboycoder musings micro-usb
 uid: a4dac276-3ec1-44db-99f6-88b207f0b89f
 ---
 
@@ -33,6 +33,8 @@ Original Wordpress categories: ['Personal Musings']
 Original Wordpress tags: "Personal Musings", "housing", "micro usb"
 
 Original Wordpress comments: None
+
+- {{ "2024-05-13 01:28:58" | date_to_string: "ordinal", "US" }} Obligatory https://xkcd.com/927/
 
 ##### Significant revisions
 

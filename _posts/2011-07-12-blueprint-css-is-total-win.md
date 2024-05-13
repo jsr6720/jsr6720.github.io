@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Blueprint CSS is total win"
 date:   "2011-07-12 00:00:00 -0400"
-tags: 2011 wordpress, txcowboycoder, "Misc", "blueprint", "CSS"
+tags: 2011 wordpress txcowboycoder blueprint css review
 uid: 585f76ac-ed2a-4c56-8b33-23010d3b1b28
 ---
 

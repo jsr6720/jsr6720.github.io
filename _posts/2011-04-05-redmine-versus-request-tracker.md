@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Redmine versus Request Tracker"
 date:   "2011-04-05 00:00:00 -0400"
-tags: 2011 wordpress, txcowboycoder, "Misc", "redmine", "request tracker", "rt vs redmine", "rt3"
+tags: 2011 wordpress txcowboycoder redmine request-tracker comparison review
 uid: f4fbbfdc-180b-42ea-b022-a38d2153bcef
 ---
 
