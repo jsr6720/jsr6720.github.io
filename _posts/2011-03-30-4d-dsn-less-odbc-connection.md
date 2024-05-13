@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "4D DSN-less ODBC connection"
 date:   "2011-03-30 00:00:00 -0400"
-tags: 2011 wordpress, txcowboycoder, "4D", "4D ODBC driver", "DSN"
+tags: 2011 wordpress txcowboycoder 4D odbc dsn configuration
 uid: dc30133e-b5d9-4632-a423-f75a984cebd5
 ---
 

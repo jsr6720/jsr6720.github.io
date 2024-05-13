@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "4D based mirror component – take two"
 date:   "2011-01-28 00:00:00 -0400"
-tags: 2011 wordpress, txcowboycoder, "4D", "4d component", "mirroring", "v11"
+tags: 2011 wordpress txcowboycoder 4D 4D-component mirroring 4Dv11 change-data-capture
 uid: 1f50818d-77a7-4a2f-ba57-35b5a1c28f79
 ---
 

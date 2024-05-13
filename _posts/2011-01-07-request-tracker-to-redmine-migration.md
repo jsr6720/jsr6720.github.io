@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Request Tracker to Redmine Migration"
 date:   "2011-01-07 00:00:00 -0400"
-tags: 2011 wordpress, txcowboycoder, "Ruby", "rake task", "redmine", "request tracker", "ruby on rails"
+tags: 2011 wordpress txcowboycoder ruby rake-task redmine request-tracker ruby-on-rails
 uid: b14ed348-2d0b-458d-b436-23f0d91f3086
 ---
 

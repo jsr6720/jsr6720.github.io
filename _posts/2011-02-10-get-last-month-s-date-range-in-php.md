@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Get last month’s date range in PHP"
 date:   "2011-02-10 00:00:00 -0400"
-tags: 2011 wordpress, txcowboycoder, "PHP", "date", "monthly date range", "php"
+tags: 2011 wordpress txcowboycoder php date-ranges
 uid: bf4aac5b-8551-411c-b158-bfc6b57643a9
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Flex 4.0 drag-and-drop with skins"
 date:   "2010-04-14 00:00:00 -0400"
-tags: 2010 wordpress, txcowboycoder, "flex", "drag-and-drop", "flex", "skins"
+tags: 2010 wordpress txcowboycoder apache-flex drag-and-drop
 uid: 29f532df-bf3d-42f2-ac22-4bd87314dd9c
 ---
 

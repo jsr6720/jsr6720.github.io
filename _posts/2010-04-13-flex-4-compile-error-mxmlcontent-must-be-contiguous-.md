@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "flex 4 compile error “‘mxmlContent’ must be contiguous”"
 date:   "2010-04-13 00:00:00 -0400"
-tags: 2010 wordpress, txcowboycoder, "flex", "compile error", "flex", "mxmlContent"
+tags: 2010 wordpress txcowboycoder apache-flex compile-error error-messages mxmlContent
 uid: 1009bb0f-2826-4762-ac77-f89c4bb994f4
 ---
 

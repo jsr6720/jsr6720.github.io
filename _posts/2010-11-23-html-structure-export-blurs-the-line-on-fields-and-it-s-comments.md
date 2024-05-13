@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "HTML Structure export blurs the line on fields and it’s comments"
 date:   "2010-11-23 00:00:00 -0400"
-tags: 2010 wordpress, txcowboycoder, "4D", "4D", "HTML", "structure export", "XML"
+tags: 2010 wordpress txcowboycoder 4D html xml structure-export
 uid: ddbacb36-52df-46bc-981b-bbd7852a2b0a
 ---
 

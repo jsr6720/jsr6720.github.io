@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Import SQL files via psql command line scheduled task"
 date:   "2010-11-11 00:00:00 -0400"
-tags: 2010 wordpress, txcowboycoder, "Postgres", "psql", "Python", "scheduled task"
+tags: 2010 wordpress txcowboycoder postgreSQL psql python cron-job
 uid: c0db148d-196a-4370-83cd-4cf7516b5c7c
 ---
 

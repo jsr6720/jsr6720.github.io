@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "4Dv11.8 drag and drop with list boxes header gotcha"
 date:   "2010-11-17 00:00:00 -0400"
-tags: 2010 wordpress, txcowboycoder, "4D", "4D", "drag-and-drop", "listbox"
+tags: 2010 wordpress txcowboycoder 4D drag-and-drop listbox ui gotchas
 uid: 0c551d75-95d6-486b-84e4-88f3e48568e2
 ---
 

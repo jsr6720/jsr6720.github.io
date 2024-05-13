@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Apple’s Magic Mouse"
 date:   "2010-04-07 00:00:00 -0400"
-tags: 2010 wordpress, txcowboycoder, "Misc", "apple", "mouse"
+tags: 2010 wordpress txcowboycoder reviews apple
 uid: b635f552-59dc-408f-9d0a-2895b8d7dc3d
 ---
 

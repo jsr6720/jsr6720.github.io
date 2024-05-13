@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "4D Log Event command and log level importance"
 date:   "2011-03-08 00:00:00 -0400"
-tags: 2011 wordpress, txcowboycoder, "4D", "console", "log event", "mac console"
+tags: 2011 wordpress txcowboycoder 4D console log-event
 uid: 19636f63-63fc-4d92-b336-0fe3530a3b2c
 ---
 

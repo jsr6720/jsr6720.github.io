@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Rubies for the holidays"
 date:   "2011-01-06 00:00:00 -0400"
-tags: 2011 wordpress, txcowboycoder, musings, "ror", "ruby"
+tags: 2011 wordpress txcowboycoder musings ruby-on-rails ruby
 uid: a4dd9a60-403b-40d0-a55f-a87aa4dca387
 ---
 

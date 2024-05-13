@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "svn: Argument list too long"
 date:   "2010-11-29 00:00:00 -0400"
-tags: 2010 wordpress, txcowboycoder, "SVN", "svn add", "terminal"
+tags: 2010 wordpress txcowboycoder svn terminal mac-os
 uid: d68e181d-e47f-4a38-872e-720281b57ebf
 ---
 
