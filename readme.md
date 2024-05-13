@@ -2,15 +2,11 @@
 
 Using GitHub Pages/jekyll to share some thoughts. Dare I say publish them.
 
-## Version
-
-[Version](/VERSION) tagging alpha, still deciding on final URL structure and am making breaking changes
-
 ## Hosting
 
 GitHub Pages [https://jsr6720.github.io](https://jsr6720.github.io)
 
-If I'm still paying for hosting [https://jsrowe.com](https://www.jsrowe.com)
+If I'm still paying for hosting [https://www.jsrowe.com](https://www.jsrowe.com)
 
 ## Where did all the stuff come from pre-init date
 
@@ -53,7 +49,7 @@ Primary shelf IN (read, reading, want to read, did not finish)
 
 Book tags (might be some overlap from above)
 
-- pyschology
+- psychology
 - personal-development
 - fantasy
 - business (what a business is)
@@ -73,7 +69,7 @@ https://martinfowler.com
 https://lethain.com
 
 
-### Immitation is the best form of flattery(?)
+### Imitation is the best form of flattery(?)
 
 Sites that I stumble upon that I appreciate (usually with original link I found)
 

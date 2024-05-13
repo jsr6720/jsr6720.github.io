@@ -19,11 +19,26 @@ body {
   color: var(--text-color-dark);
 }
 
-.header-icon {
-    border-radius: 50%;
+.site-header .rowe-icon {
+  width: 50px;
+  float: left;
+  margin-right: 15px;
 }
 
-.header-icon img {
-    margin-left: 15px;
-    width: 45px;
+.center-img {
+  margin: 20px auto;  /* Center the image and give some space around */
+}
+
+/** thanks gpt4. I'm so cool */
+.img-stylish {
+  display: block;
+  max-width: 100%;    /* Responsive image sizing */
+  height: auto;       /* Maintain aspect ratio */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transitions for effects */
+}
+
+.img-stylish:hover {
+  box-shadow: 0 8px 16px rgba(0,0,0,0.15); /* Increase shadow effect on hover */
 }
