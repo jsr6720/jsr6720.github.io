@@ -16,7 +16,7 @@ Hi! I'm James and I'm an engineer at heart. I've been building software products
 
 ## [A mind at work](https://en.wikipedia.org/wiki/The_Schuyler_Sisters)
 
-A candid photo by my kids that captures how I like to myself "at work" on my personal projects. Complete with help from a lemur. Very serious stuff.
+A candid photo taken by my kids that captures how I frequently find myself "at work" on my personal projects. Complete with help from a lemur. Very serious business.
 
 <img src="/assets/site-photos/james-at-work.jpg" alt="james at work" class="about bio img james-at-work center-img img-stylish"/>
 
