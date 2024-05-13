@@ -2,24 +2,17 @@
     <data class="u-url" href="{{ "/" | relative_url }}"></data>
   
     <div class="wrapper">
-  
-      <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
-      <h2 class="footer-heading"><button onclick="switchTheme()">Switch Theme</button></h2>
 
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
-          <ul class="contact-list">
-            <li class="p-name">
-              {%- if site.author -%}
-                {{ site.author | escape }}
-              {%- else -%}
-                {{ site.title | escape }}
-              {%- endif -%}
-              </li>
-              {%- if site.email -%}
-              <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-              {%- endif -%}
-          </ul>
+          <a class="page-link" title="read bio" href="/about/">
+            <img src="/assets/site-photos/james-bio-picture.jpg" alt="james bio picture" class="footer img james-bio-picture img-stylish"/>
+          </a>
+          <p>
+            {%- if site.email -%}
+              <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+            {%- endif -%}
+          </p>
         </div>
   
         <div class="footer-col footer-col-2">
@@ -30,6 +23,8 @@
           <p>{{- site.description | escape -}}</p>
 
           <p>{{ site.time | date_to_xmlschema }} Last build</p>
+
+          <p class="footer-heading"><button onclick="switchTheme()">Switch Theme</button></p>
         </div>
       </div>
   
