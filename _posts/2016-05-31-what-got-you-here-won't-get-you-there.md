@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"What Got You Here Won't Get You There\""
 date:   2016-05-31 00:00:00 -0400
-tags: book review Goldsmith read-again business personal-development
+tags: 2016 book review Goldsmith read-again business personal-development
 uid: dbe981e3-e288-497b-a264-d48401d90c3f
 ---
 

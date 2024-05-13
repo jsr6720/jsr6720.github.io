@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Magician's Gambit (The Belgariad #3)\""
 date:   2021-03-07 00:00:00 -0400
-tags: book review Eddings fantasy childhood-favorite
+tags: 2021 book review Eddings fantasy childhood-favorite
 uid: d81f71ea-a9cf-4f39-935e-d79011b6ff69
 ---
 

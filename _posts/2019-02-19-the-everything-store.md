@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Everything Store\""
 date:   2019-02-19 00:00:00 -0400
-tags: book review Stone business biography
+tags: 2019 book review Stone business biography
 uid: 8767f9ff-9edd-42f9-beb8-4adea33ea29d
 ---
 

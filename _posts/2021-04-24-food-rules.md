@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Food Rules\""
 date:   2021-04-24 00:00:00 -0400
-tags: book review Pollan food
+tags: 2021 book review Pollan food
 uid: e171eaa9-e542-4b01-9fb2-2dfeed673c6b
 ---
 

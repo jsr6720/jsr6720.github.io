@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Infinite is a real number in 4D"
 date:   "2010-10-22 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "4D", "4D", "divide by zero", "infinate", "real"
+tags: 2010 wordpress, txcowboycoder, "4D", "4D", "divide by zero", "infinate", "real"
 uid: 1eae0bc3-f65e-4229-baf3-f887faa99638
 ---
 

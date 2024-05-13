@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Man's Search for Meaning\""
 date:   2016-04-01 00:00:00 -0400
-tags: book review Frankl 
+tags: 2016 book review Frankl 
 uid: d1f8c483-106a-43f2-a6ee-33b4cc6827cc
 ---
 

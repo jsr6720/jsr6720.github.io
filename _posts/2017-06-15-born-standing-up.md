@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Born Standing Up\""
 date:   2017-06-15 00:00:00 -0400
-tags: book review Martin biography
+tags: 2017 book review Martin biography
 uid: f63d6eb4-a4d8-4846-b331-09c04f592e79
 ---
 

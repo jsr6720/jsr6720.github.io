@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Thank You for Being Late\""
 date:   2018-04-20 00:00:00 -0400
-tags: book review Friedman history
+tags: 2018 book review Friedman history
 uid: b6137229-caf9-4d5e-ba63-e84346d81292
 ---
 

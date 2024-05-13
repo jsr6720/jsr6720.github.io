@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The 25 Sales Skills\""
 date:   2018-10-29 00:00:00 -0400
-tags: book review Schiffman business
+tags: 2018 book review Schiffman business
 uid: d4d5cce7-da03-4fa7-9be7-1b7f8cd42244
 ---
 

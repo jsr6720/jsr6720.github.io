@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time\""
 date:   2016-03-03 00:00:00 -0400
-tags: book review Tracy personal-development read-again
+tags: 2016 book review Tracy personal-development read-again
 uid: 13204fe4-4194-4158-ad53-8a4ae784e2ca
 ---
 

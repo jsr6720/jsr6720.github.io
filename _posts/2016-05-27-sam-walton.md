@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Sam Walton\""
 date:   2016-05-27 00:00:00 -0400
-tags: book review Walton biography
+tags: 2016 book review Walton biography
 uid: cec5f821-ddb7-462f-860f-83891b6f5824
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"John Adams\""
 date:   2015-06-24 00:00:00 -0400
-tags: book review McCullough biography history
+tags: 2015 book review McCullough biography history
 uid: 59af56a8-2ea6-4a07-bf44-85bd8acb6c06
 ---
 

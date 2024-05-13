@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Body Fat Solution\""
 date:   2016-07-13 00:00:00 -0400
-tags: book review Venuto personal-development read-again
+tags: 2016 book review Venuto personal-development read-again
 uid: 427d476d-28bc-4b1a-9b48-76e7bea258fc
 ---
 

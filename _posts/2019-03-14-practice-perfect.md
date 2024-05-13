@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Practice Perfect\""
 date:   2019-03-14 00:00:00 -0400
-tags: book review Lemov did-not-finish
+tags: 2019 book review Lemov did-not-finish
 uid: 39a49b70-ec08-407f-af7a-6758e5fca8c6
 ---
 

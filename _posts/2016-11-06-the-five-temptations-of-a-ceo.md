@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Five Temptations of a CEO\""
 date:   2016-11-06 00:00:00 -0400
-tags: book review Lencioni 
+tags: 2016 book review Lencioni 
 uid: d099781c-1d2d-48a3-828a-fca5fb0e64a7
 ---
 

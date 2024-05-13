@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Mornings on Horseback\""
 date:   2017-04-25 00:00:00 -0400
-tags: book review McCullough biography history
+tags: 2017 book review McCullough biography history
 uid: 91ee8bd6-473d-4268-8e30-405dcba58c27
 ---
 

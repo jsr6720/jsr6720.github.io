@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Lack of proofing will always mean bad english"
 date:   "2011-02-24 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "Misc", "bad english"
+tags: 2011 wordpress, txcowboycoder, "Misc", "bad english"
 uid: b3017c55-0521-4cd0-ac3a-6a3044cc8b26
 ---
 

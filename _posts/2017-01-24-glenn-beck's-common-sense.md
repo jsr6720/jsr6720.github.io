@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Glenn Beck's Common Sense\""
 date:   2017-01-24 00:00:00 -0400
-tags: book review Beck 
+tags: 2017 book review Beck 
 uid: 23c05e4b-cd72-4d84-927d-64caa9ad5666
 ---
 

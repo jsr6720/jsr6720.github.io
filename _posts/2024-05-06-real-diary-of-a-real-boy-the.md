@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "The Real Diary of a Real Boy"
 date:   "2024-05-06 08:37:27"
-tags: book review Shute writing legacy
+tags: 2024 book review Shute writing legacy
 uid: 59F17282-EAC1-4281-8D9F-C32B3AF15344
 ---
 

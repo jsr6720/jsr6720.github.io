@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Marshmallow Test\""
 date:   2015-12-24 00:00:00 -0400
-tags: book review Mischel psychology
+tags: 2015 book review Mischel psychology
 uid: 4dc4abfb-2b2d-47b1-8743-4c3468fa29ab
 ---
 

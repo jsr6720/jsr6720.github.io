@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Five Dysfunctions of a Team\""
 date:   2016-06-20 00:00:00 -0400
-tags: book review Lencioni business
+tags: 2016 book review Lencioni business
 uid: 7fcb88cc-f0ee-4423-a705-4be5f38d992a
 ---
 

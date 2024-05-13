@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Effective Negotiating Workbook and Discussion Guide\""
 date:   2016-09-15 00:00:00 -0400
-tags: book review Karrass business
+tags: 2016 book review Karrass business
 uid: 9152b74f-01cd-42aa-a489-ff17b8bcf2c0
 ---
 

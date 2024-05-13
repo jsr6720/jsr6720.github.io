@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Marriage Rules\""
 date:   2016-11-09 00:00:00 -0400
-tags: book review Lerner personal-development read-again
+tags: 2016 book review Lerner personal-development read-again
 uid: 4a3c2b1d-89fd-4767-be86-9e35101eb32d
 ---
 

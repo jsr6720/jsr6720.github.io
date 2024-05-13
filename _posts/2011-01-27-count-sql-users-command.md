@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Count SQL users command"
 date:   "2011-01-27 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "Wish List", "4D", "concurrent users", "count users"
+tags: 2011 wordpress, txcowboycoder, "Wish List", "4D", "concurrent users", "count users"
 uid: 7022c227-3160-4a80-96fa-5a753506f2bb
 ---
 

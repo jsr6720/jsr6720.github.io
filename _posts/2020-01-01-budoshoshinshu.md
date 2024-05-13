@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Budoshoshinshu\""
 date:   2020-01-01 00:00:00 -0400
-tags: book review Yūzan 
+tags: 2020 book review Yūzan 
 uid: c8625415-4c93-4b9d-9c14-c3722289aa30
 ---
 

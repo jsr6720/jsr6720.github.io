@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Endurance\""
 date:   2018-01-25 00:00:00 -0400
-tags: book review Lansing history
+tags: 2018 book review Lansing history
 uid: 8cbc189e-1218-40dd-8c40-32a0095b1db6
 ---
 

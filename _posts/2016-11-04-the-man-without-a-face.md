@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Man Without a Face\""
 date:   2016-11-04 00:00:00 -0400
-tags: book review Gessen history
+tags: 2016 book review Gessen history
 uid: 27372883-dca4-4dee-bc9d-876971b8c9e1
 ---
 

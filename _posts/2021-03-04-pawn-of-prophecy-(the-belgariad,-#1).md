@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Pawn of Prophecy (The Belgariad, #1)\""
 date:   2021-03-04 00:00:00 -0400
-tags: book review Eddings childhood-favorite fantasy
+tags: 2021 book review Eddings childhood-favorite fantasy
 uid: d527defe-0ccc-4881-9ffd-fd0e314593de
 ---
 

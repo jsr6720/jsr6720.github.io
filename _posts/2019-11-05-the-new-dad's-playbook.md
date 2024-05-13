@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The New Dad's Playbook\""
 date:   2019-11-05 00:00:00 -0400
-tags: book review Watson did-not-finish
+tags: 2019 book review Watson did-not-finish
 uid: 130ea39a-08f7-43ff-bf74-3ae4759f3c5f
 ---
 

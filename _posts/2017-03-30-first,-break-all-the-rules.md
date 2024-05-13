@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"First, Break All the Rules\""
 date:   2017-03-30 00:00:00 -0400
-tags: book review Buckingham business read-again
+tags: 2017 book review Buckingham business read-again
 uid: 5b246059-fcb0-4bb4-97a6-1a2b3cd1b6c3
 ---
 

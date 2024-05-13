@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Good Strategy/Bad Strategy\""
 date:   2019-12-23 00:00:00 -0400
-tags: book review Rumelt did-not-finish
+tags: 2019 book review Rumelt did-not-finish
 uid: 913e1549-13f3-4bf4-ae46-cc979492da2b
 ---
 

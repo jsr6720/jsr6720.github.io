@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Checklist Manifesto\""
 date:   2016-09-30 00:00:00 -0400
-tags: book review Gawande personal-development
+tags: 2016 book review Gawande personal-development
 uid: 3ed6220b-7d3b-44ee-8ff3-b53dbe04a0df
 ---
 

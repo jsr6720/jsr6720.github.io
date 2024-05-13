@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Collaboration Begins With You\""
 date:   2018-05-10 00:00:00 -0400
-tags: book review Blanchard business management
+tags: 2018 book review Blanchard business management
 uid: ad790e15-cbb5-4e7f-ab14-603bf264d253
 ---
 

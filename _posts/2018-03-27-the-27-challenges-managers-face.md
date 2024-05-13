@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The 27 Challenges Managers Face\""
 date:   2018-03-27 00:00:00 -0400
-tags: book review Tulgan business management
+tags: 2018 book review Tulgan business management
 uid: 145e536a-4fb4-4679-83c4-1d126972fc37
 ---
 

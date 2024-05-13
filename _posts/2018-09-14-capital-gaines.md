@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Capital Gaines\""
 date:   2018-09-14 00:00:00 -0400
-tags: book review Gaines did-not-finish
+tags: 2018 book review Gaines did-not-finish
 uid: 81548540-84d8-4388-b5f5-330ff69e6076
 ---
 

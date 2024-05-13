@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Doing the Right Things Right\""
 date:   2019-08-27 00:00:00 -0400
-tags: book review Stack did-not-finish
+tags: 2019 book review Stack did-not-finish
 uid: afb2e417-da95-4d06-8c92-119f232cce63
 ---
 

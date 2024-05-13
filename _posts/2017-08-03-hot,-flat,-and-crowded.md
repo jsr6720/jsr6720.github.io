@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Hot, Flat, and Crowded\""
 date:   2017-08-03 00:00:00 -0400
-tags: book review Friedman did-not-finish
+tags: 2017 book review Friedman did-not-finish
 uid: 03bed1fd-9776-4dbf-816a-2fa27d0c044d
 ---
 

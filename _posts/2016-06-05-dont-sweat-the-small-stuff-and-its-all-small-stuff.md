@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Dont Sweat the Small Stuff and Its All Small Stuff\""
 date:   2016-06-05 00:00:00 -0400
-tags: book review Carlson personal-development
+tags: 2016 book review Carlson personal-development
 uid: 04da6228-a29e-40f4-b61f-bb91d0daedba
 ---
 

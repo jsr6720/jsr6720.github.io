@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Letter from Birmingham Jail\""
 date:   2018-09-06 00:00:00 -0400
-tags: book review Jr. 
+tags: 2018 book review Jr. 
 uid: 6834d885-4fd4-4d8c-ad31-a64f7de656a4
 ---
 

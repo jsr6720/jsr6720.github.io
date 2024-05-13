@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Easy Company Soldier\""
 date:   2019-09-30 00:00:00 -0400
-tags: book review Malarkey 
+tags: 2019 book review Malarkey 
 uid: b2864c1b-be66-4484-a987-81ae41bdb3d3
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Business @ the Speed Thought\""
 date:   2017-07-31 00:00:00 -0400
-tags: book review Gates 
+tags: 2017 book review Gates 
 uid: 044a791c-b274-418b-ae9c-e03bafc309dc
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Ready, Set, Breathe\""
 date:   2019-10-25 00:00:00 -0400
-tags: book review Naumburg 
+tags: 2019 book review Naumburg 
 uid: 3d72054b-6428-4cb7-b727-7830a2215248
 ---
 

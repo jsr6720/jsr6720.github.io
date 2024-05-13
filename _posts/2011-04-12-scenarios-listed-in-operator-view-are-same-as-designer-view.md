@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Scenarios listed in Operator view are same as Designer view"
 date:   "2011-04-12 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "Oracle Data Integrator", "ODI", "Oracle Data Integrator", "Scenario"
+tags: 2011 wordpress, txcowboycoder, "Oracle Data Integrator", "ODI", "Oracle Data Integrator", "Scenario"
 uid: e0e6fcdd-d512-4437-99c8-14a7fe820c66
 ---
 

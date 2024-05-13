@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Primal Leadership\""
 date:   2019-06-11 00:00:00 -0400
-tags: book review Goleman leadership management philosophy
+tags: 2019 book review Goleman leadership management philosophy
 uid: 3507ffc4-4e36-40f1-8bc8-2360f230b88f
 ---
 

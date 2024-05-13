@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Who Moved My Cheese\""
 date:   2016-03-10 00:00:00 -0400
-tags: book review Johnson business read-again
+tags: 2016 book review Johnson business read-again
 uid: 5144ff1d-50f6-4f6b-a62b-1510c0edb749
 ---
 

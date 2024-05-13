@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "New Database event – On Transaction Validate"
 date:   "2010-11-04 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "Wish List", "4D", "database event", "transaction"
+tags: 2010 wordpress, txcowboycoder, "Wish List", "4D", "database event", "transaction"
 uid: 5fb22543-48fc-4acf-b39f-6f8b28159707
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Think and Grow Rich\""
 date:   2016-02-05 00:00:00 -0400
-tags: book review Hill read-again personal-development
+tags: 2016 book review Hill read-again personal-development
 uid: 5b90dd93-7068-4a2b-8da4-a83e9f54c999
 ---
 

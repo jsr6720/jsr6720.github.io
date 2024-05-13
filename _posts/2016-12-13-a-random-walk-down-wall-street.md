@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"A Random Walk Down Wall Street\""
 date:   2016-12-13 00:00:00 -0400
-tags: book review Malkiel business read-again
+tags: 2016 book review Malkiel business read-again
 uid: 584028ea-ec64-4a7b-8961-f202436e35ea
 ---
 

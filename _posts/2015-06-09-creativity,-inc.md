@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Creativity, Inc.\""
 date:   2015-06-09 00:00:00 -0400
-tags: book review Catmull did-not-finish
+tags: 2015 book review Catmull did-not-finish
 uid: 824929ab-b5a9-4d2a-a80c-a64579d21fe2
 ---
 

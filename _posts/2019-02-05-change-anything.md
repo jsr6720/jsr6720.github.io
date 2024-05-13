@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Change Anything\""
 date:   2019-02-05 00:00:00 -0400
-tags: book review Patterson 
+tags: 2019 book review Patterson 
 uid: f3f20e60-d3e6-4274-9bde-8a6eec696d3d
 ---
 

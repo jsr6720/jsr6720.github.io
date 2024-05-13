@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Tycoons\""
 date:   2018-10-12 00:00:00 -0400
-tags: book review Morris business history
+tags: 2018 book review Morris business history
 uid: 748fcfae-883c-4248-9729-14bc81dd161a
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "MySQL stored routines"
 date:   "2010-04-08 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "MySQL", "function", "MySQL", "stored procedure"
+tags: 2010 wordpress, txcowboycoder, "MySQL", "function", "MySQL", "stored procedure"
 uid: b6d11654-9c5d-4786-98de-ca3e2894ef96
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Four Disciplines of Execution\""
 date:   2015-10-09 00:00:00 -0400
-tags: book review Covey 
+tags: 2015 book review Covey 
 uid: 51654439-3757-47b1-8b37-1e9b94c8b988
 ---
 

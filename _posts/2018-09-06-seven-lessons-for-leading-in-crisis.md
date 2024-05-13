@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Seven Lessons for Leading in Crisis\""
 date:   2018-09-06 00:00:00 -0400
-tags: book review George business
+tags: 2018 book review George business
 uid: bf414e4a-3dce-4873-9dea-60d195933f6a
 ---
 

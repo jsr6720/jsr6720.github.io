@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Pass object association by reference via & to save resources"
 date:   "2011-06-15 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "PHP", "association", "clean code", "php", "resource management", "traverse array"
+tags: 2011 wordpress, txcowboycoder, "PHP", "association", "clean code", "php", "resource management", "traverse array"
 uid: d4ca8905-7fab-443e-97b8-9873975dde9c
 ---
 

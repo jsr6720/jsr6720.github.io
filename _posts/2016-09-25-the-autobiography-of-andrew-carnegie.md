@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Autobiography of Andrew Carnegie\""
 date:   2016-09-25 00:00:00 -0400
-tags: book review Carnegie biography
+tags: 2016 book review Carnegie biography
 uid: 2e39512f-f528-4e43-b869-af2d8b925682
 ---
 

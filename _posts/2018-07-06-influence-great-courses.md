@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Influence\" by Great Courses"
 date:   2018-07-06 00:00:00 -0400
-tags: book review Brown business psychology greate-courses
+tags: 2018 book review Brown business psychology greate-courses
 uid: 0bb5ddaf-1120-4cdc-9d55-da66631072ea
 ---
 

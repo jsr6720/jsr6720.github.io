@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Plato and a Platypus Walk Into a Bar...\""
 date:   2015-07-27 00:00:00 -0400
-tags: book review Cathcart philosophy
+tags: 2015 book review Cathcart philosophy
 uid: def321ee-743e-4d26-b02d-74a828c2ad1e
 ---
 

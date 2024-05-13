@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Is record number valid – command"
 date:   "2010-10-31 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "Wish List", "4D", "command"
+tags: 2010 wordpress, txcowboycoder, "Wish List", "4D", "command"
 uid: eb54d4ce-41a1-47c8-bbb7-e39aba40e240
 ---
 

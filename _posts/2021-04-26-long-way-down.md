@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Long Way Down\""
 date:   2021-04-26 00:00:00 -0400
-tags: book review Reynolds poetry
+tags: 2021 book review Reynolds poetry
 uid: 2e5fc12f-b3c0-4420-adcd-112310dc435b
 ---
 

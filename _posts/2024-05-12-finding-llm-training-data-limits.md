@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Finding llm training data limits"
 date: "2024-05-12 22:23:30 -04:00"
-tags: technology chatgpt llm llama ai
+tags: 2024 technology chatgpt llm llama ai
 uid: 8EBC48B5-9AC4-422D-98CF-60B315082BDC
 ---
 

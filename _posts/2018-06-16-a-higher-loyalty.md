@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"A Higher Loyalty\""
 date:   2018-06-16 00:00:00 -0400
-tags: book review Comey 
+tags: 2018 book review Comey 
 uid: 4f2d06f1-0e94-40f2-b9fb-1629025c93ab
 ---
 

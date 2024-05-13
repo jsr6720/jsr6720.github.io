@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Influence\""
 date:   2017-02-08 00:00:00 -0400
-tags: book review Cialdini did-not-finish
+tags: 2017 book review Cialdini did-not-finish
 uid: 06c0a4eb-7ddb-42b5-bb55-f9694665bff7
 ---
 

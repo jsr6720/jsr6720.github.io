@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Raising Men\""
 date:   2019-11-05 00:00:00 -0400
-tags: book review Davis did-not-finish
+tags: 2019 book review Davis did-not-finish
 uid: f7ec4de0-7ed8-4716-a1e9-747613ae03f1
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"American Hunter\""
 date:   2018-09-18 00:00:00 -0400
-tags: book review Robertson did-not-finish
+tags: 2018 book review Robertson did-not-finish
 uid: 64cdb994-275d-4999-87d3-cade97d3328c
 ---
 

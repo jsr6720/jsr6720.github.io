@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The 8th Habit\""
 date:   2015-01-01 00:00:00 -0400
-tags: book review Covey 
+tags: 2015 book review Covey 
 uid: 76db6e94-7752-4385-ad4e-3e9a660a35dd
 ---
 

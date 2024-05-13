@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Dumbing Us Down - 25th Anniversary Hardback Edition\""
 date:   2018-08-22 00:00:00 -0400
-tags: book review Gatto parenting
+tags: 2018 book review Gatto parenting
 uid: 14b9892b-bc11-42ae-936c-b3840aec15a3
 ---
 

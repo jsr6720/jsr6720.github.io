@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Rich Dad Poor Dad\""
 date:   2019-10-18 00:00:00 -0400
-tags: book review Kiyosaki 
+tags: 2019 book review Kiyosaki 
 uid: 05ff420d-8584-40a4-92b5-d14733af82dc
 ---
 

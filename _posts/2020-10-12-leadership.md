@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Leadership\""
 date:   2020-10-12 00:00:00 -0400
-tags: book review Goodwin biography leadership history
+tags: 2020 book review Goodwin biography leadership history
 uid: 1c653ce2-9aee-4eeb-b3e6-eada89a59878
 ---
 

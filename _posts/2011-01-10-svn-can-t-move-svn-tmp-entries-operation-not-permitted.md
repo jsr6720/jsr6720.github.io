@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "svn: Can’t move /.svn/tmp/entries: Operation not permitted"
 date:   "2011-01-10 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "SVN", "commit failed", "svn commit", "svn terminal"
+tags: 2011 wordpress, txcowboycoder, "SVN", "commit failed", "svn commit", "svn terminal"
 uid: e799d85e-4cee-4da2-a8f0-ad1f5caec477
 ---
 

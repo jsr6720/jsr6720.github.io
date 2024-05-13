@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Isaac's Storm\""
 date:   2015-07-22 00:00:00 -0400
-tags: book review Larson history
+tags: 2015 book review Larson history
 uid: a78a8639-b24a-4bc4-a47b-10369623a2ef
 ---
 

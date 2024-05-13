@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"David and Goliath\""
 date:   2018-01-12 00:00:00 -0400
-tags: book review Gladwell economics psychology
+tags: 2018 book review Gladwell economics psychology
 uid: b87a14da-2dff-455f-85c9-8decdd821f9d
 ---
 

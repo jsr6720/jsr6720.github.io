@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Collapse of Parenting\""
 date:   2018-05-17 00:00:00 -0400
-tags: book review Sax parenting personal-development
+tags: 2018 book review Sax parenting personal-development
 uid: b6a42bd1-7c2d-405b-b37f-3be3adf34fbd
 ---
 

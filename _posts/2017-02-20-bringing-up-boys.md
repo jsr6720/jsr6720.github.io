@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Bringing Up Boys\""
 date:   2017-02-20 00:00:00 -0400
-tags: book review Dobson did-not-finish
+tags: 2017 book review Dobson did-not-finish
 uid: 727c7a22-9bc6-4f18-b649-063b19465fee
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Long-Distance Leader\""
 date:   2021-01-09 00:00:00 -0400
-tags: book review Eikenberry 
+tags: 2021 book review Eikenberry 
 uid: 99989da3-ee8a-419f-b46f-2b9b4681261b
 ---
 

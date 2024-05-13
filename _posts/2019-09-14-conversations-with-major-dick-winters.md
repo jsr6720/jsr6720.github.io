@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Conversations With Major Dick Winters\""
 date:   2019-09-14 00:00:00 -0400
-tags: book review Kingseed 
+tags: 2019 book review Kingseed 
 uid: cc4334d8-59c2-4fff-a1cd-f6beae2f9bcc
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Age of Cryptocurrency\""
 date:   2016-08-24 00:00:00 -0400
-tags: book review Vigna business
+tags: 2016 book review Vigna business
 uid: 090fd950-48b3-4523-9027-316b185b2189
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "4D Database timestamp makes no sense"
 date:   "2011-01-20 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "4D", "datetime", "odbc", "time"
+tags: 2011 wordpress, txcowboycoder, "4D", "datetime", "odbc", "time"
 uid: f54ffbc1-6807-4e74-a212-9554aac8d4ca
 ---
 

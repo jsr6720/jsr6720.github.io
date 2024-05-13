@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Complete 101 Collection\""
 date:   2015-10-19 00:00:00 -0400
-tags: book review Maxwell business personal-development
+tags: 2015 book review Maxwell business personal-development
 uid: 9f618f67-cc2f-4c5d-8c62-2e4942b8a2bc
 ---
 

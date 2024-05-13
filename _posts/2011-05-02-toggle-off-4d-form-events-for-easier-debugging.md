@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Toggle off 4D form events for easier debugging"
 date:   "2011-05-02 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "4D", "4D", "4Dv11", "clean code", "debugger", "event", "form event"
+tags: 2011 wordpress, txcowboycoder, "4D", "4D", "4Dv11", "clean code", "debugger", "event", "form event"
 uid: 0d1f11d1-9d3c-454a-aad4-b404d2b84f1e
 ---
 

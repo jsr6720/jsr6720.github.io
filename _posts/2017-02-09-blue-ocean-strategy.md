@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Blue Ocean Strategy\""
 date:   2017-02-09 00:00:00 -0400
-tags: book review Kim business
+tags: 2017 book review Kim business
 uid: 93ec89c4-b918-47b2-af67-6055d3e754d1
 ---
 

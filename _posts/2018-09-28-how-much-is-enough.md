@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"How Much Is Enough?\""
 date:   2018-09-28 00:00:00 -0400
-tags: book review Clarke parenting
+tags: 2018 book review Clarke parenting
 uid: fcb50cc1-0781-4d4b-8f68-151af429c895
 ---
 

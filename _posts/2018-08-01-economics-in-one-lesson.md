@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Economics in One Lesson\""
 date:   2018-08-01 00:00:00 -0400
-tags: book review Hazlitt economics classics business
+tags: 2018 book review Hazlitt economics classics business
 uid: 758c3dd7-e8d7-4ca6-88e2-02cd6c408895
 ---
 

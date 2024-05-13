@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Wright Brothers\""
 date:   2020-02-20 00:00:00 -0400
-tags: book review McCullough biography history
+tags: 2020 book review McCullough biography history
 uid: db185793-2936-4047-bca3-f50850539f0b
 ---
 

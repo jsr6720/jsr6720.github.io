@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Aesop's Fables\""
 date:   2015-07-14 00:00:00 -0400
-tags: book review Aesop classics read-again
+tags: 2015 book review Aesop classics read-again
 uid: 79aa6892-e8c2-4735-b9b0-cd18520a1269
 ---
 

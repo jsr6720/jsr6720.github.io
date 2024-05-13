@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Boundaries with Kids\""
 date:   2017-01-09 00:00:00 -0400
-tags: book review Cloud personal-development parenting
+tags: 2017 book review Cloud personal-development parenting
 uid: 48383da0-b761-4af8-bfdb-b9dbdc87b4dc
 ---
 

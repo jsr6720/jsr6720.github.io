@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Flash Boys\""
 date:   2020-01-21 00:00:00 -0400
-tags: book review Lewis did-not-finish
+tags: 2020 book review Lewis did-not-finish
 uid: d5b784c9-37ed-4fac-86cd-b052ce28a4fb
 ---
 

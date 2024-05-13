@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Tipping Point\""
 date:   2016-06-14 00:00:00 -0400
-tags: book review Gladwell economics
+tags: 2016 book review Gladwell economics
 uid: 91d2c578-afda-4850-9cf6-a7d34ab251c5
 ---
 

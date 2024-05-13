@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Librarian of Auschwitz\""
 date:   2019-07-17 00:00:00 -0400
-tags: book review Iturbe history
+tags: 2019 book review Iturbe history
 uid: d4f66837-4c2a-4a97-9c0f-7bd1c3b97e26
 ---
 

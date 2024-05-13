@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "My favorite xkcd comics"
 date:  2024-04-16 00:58:06 -0400
-tags: personal
+tags: 2024 personal
 uid: E0211686-944D-4F71-85FA-72E436805577
 ---
 

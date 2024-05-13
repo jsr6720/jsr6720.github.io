@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Codependent No More\""
 date:   2016-08-09 00:00:00 -0400
-tags: book review Beattie personal-development
+tags: 2016 book review Beattie personal-development
 uid: b0d7468e-774e-48ba-80b4-14f39521ba15
 ---
 

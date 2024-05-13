@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"When to Rob a Bank...And 131 More Warped Suggestions and Well-Intended Rants\""
 date:   2019-10-18 00:00:00 -0400
-tags: book review Dubner economics
+tags: 2019 book review Dubner economics
 uid: d9d9afc9-b46a-4b90-98dd-793a6c3c4ae2
 ---
 

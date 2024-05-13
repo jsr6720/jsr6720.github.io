@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "What’s in a name?"
 date:   "2010-04-07 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "Personal Musings", "cowboy", "cowboy coder"
+tags: 2010 wordpress, txcowboycoder, "Personal Musings", "cowboy", "cowboy coder"
 uid: e3087b41-5c72-448c-a8b2-5196bcb8e7f3
 ---
 

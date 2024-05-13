@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Leading Change\""
 date:   2020-10-12 00:00:00 -0400
-tags: book review Kotter business leadership management personal-development read-again
+tags: 2020 book review Kotter business leadership management personal-development read-again
 uid: 98a06b9d-2882-44b0-a522-7126fd1e246c
 ---
 

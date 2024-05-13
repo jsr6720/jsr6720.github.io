@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"21 Lessons for the 21st Century\""
 date:   2019-02-05 00:00:00 -0400
-tags: book review Harari 
+tags: 2019 book review Harari 
 uid: d7e86f10-4036-4404-9d4e-5ea48152e072
 ---
 

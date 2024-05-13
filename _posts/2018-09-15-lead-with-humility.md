@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Lead with Humility\""
 date:   2018-09-15 00:00:00 -0400
-tags: book review Krames leadership
+tags: 2018 book review Krames leadership
 uid: 7d2b0c56-1002-4b96-ba55-636df2c2b661
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Verizon: restocking fee is not a penalty"
 date:   "2011-01-09 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "Personal Musings", "restocking fee", "verizon wireless"
+tags: 2011 wordpress, txcowboycoder, "Personal Musings", "restocking fee", "verizon wireless"
 uid: a7793268-bb30-4154-a13a-4f4abe49e2ce
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"HBR's 10 Must Reads\""
 date:   2019-11-15 00:00:00 -0400
-tags: book review Review business
+tags: 2019 book review Review business
 uid: 645318e1-6146-47ef-83f3-22bdd24ba896
 ---
 

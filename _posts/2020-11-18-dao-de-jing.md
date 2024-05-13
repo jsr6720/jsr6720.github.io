@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Dao De Jing\""
 date:   2020-11-18 00:00:00 -0400
-tags: book review Tzu 
+tags: 2020 book review Tzu 
 uid: 8c24ca78-acc5-4b3a-8a0f-2358cecec7e7
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Opposite of Spoiled\""
 date:   2017-03-10 00:00:00 -0400
-tags: book review Lieber parenting
+tags: 2017 book review Lieber parenting
 uid: 0f5a5717-cdd1-40d6-9472-77ca7b5d4f03
 ---
 

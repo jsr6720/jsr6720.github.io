@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Get Paid More and Promoted Faster\""
 date:   2018-09-07 00:00:00 -0400
-tags: book review Tracy business personal-development
+tags: 2018 book review Tracy business personal-development
 uid: c5211eab-6258-4a35-a9a6-f20906adebbf
 ---
 

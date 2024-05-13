@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Define constants without a plugin"
 date:   "2010-11-18 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "Wish List", "4D constants", "plugin"
+tags: 2010 wordpress, txcowboycoder, "Wish List", "4D constants", "plugin"
 uid: 4449bff8-af9c-487a-bf26-dae642b49018
 ---
 

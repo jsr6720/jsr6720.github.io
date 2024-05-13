@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Myth of the Spoiled Child\""
 date:   2019-11-05 00:00:00 -0400
-tags: book review Kohn parenting
+tags: 2019 book review Kohn parenting
 uid: 32b098b5-ddcd-40d2-937c-c1f1f93af24b
 ---
 

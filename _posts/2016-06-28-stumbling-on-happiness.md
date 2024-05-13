@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Stumbling on Happiness\""
 date:   2016-06-28 00:00:00 -0400
-tags: book review Gilbert psychology
+tags: 2016 book review Gilbert psychology
 uid: 6d8dea43-d13f-4fd1-aa9f-56542994d162
 ---
 

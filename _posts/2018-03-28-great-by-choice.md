@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Great by Choice\""
 date:   2018-03-28 00:00:00 -0400
-tags: book review Collins business
+tags: 2018 book review Collins business
 uid: 359068df-1dee-4ba2-82c6-f6e69f505821
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Prediction Machines\""
 date:   2018-06-17 00:00:00 -0400
-tags: book review Agrawal business
+tags: 2018 book review Agrawal business
 uid: 974b31f3-c2a2-4d23-a9fb-48e7225cfc7f
 ---
 

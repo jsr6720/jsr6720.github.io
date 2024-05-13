@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"River of Doubt\""
 date:   2017-04-11 00:00:00 -0400
-tags: book review Millard history biography
+tags: 2017 book review Millard history biography
 uid: 6fe33fe3-a532-4622-b0dd-e5c4aee6e9b7
 ---
 

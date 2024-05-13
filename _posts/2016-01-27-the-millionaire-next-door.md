@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Millionaire Next Door\""
 date:   2016-01-27 00:00:00 -0400
-tags: book review Stanley business
+tags: 2016 book review Stanley business
 uid: e01259b3-3baf-45a0-b3c2-8eae5024cbcb
 ---
 

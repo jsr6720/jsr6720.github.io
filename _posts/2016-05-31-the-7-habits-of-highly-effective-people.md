@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The 7 Habits of Highly Effective People\""
 date:   2016-05-31 00:00:00 -0400
-tags: book review Covey classics read-again business
+tags: 2016 book review Covey classics read-again business
 uid: 9146c8a1-93e2-457f-ba44-279fcb80c95a
 ---
 

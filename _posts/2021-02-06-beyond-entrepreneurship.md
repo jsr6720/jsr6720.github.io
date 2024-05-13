@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Beyond Entrepreneurship\""
 date:   2021-02-06 00:00:00 -0400
-tags: book review Collins business management
+tags: 2021 book review Collins business management
 uid: 7b9d6d61-4d0d-4a52-bdc2-962f0b2ab87d
 ---
 

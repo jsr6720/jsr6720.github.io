@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Leadership 2.0\""
 date:   2018-05-07 00:00:00 -0400
-tags: book review Bradberry management
+tags: 2018 book review Bradberry management
 uid: 9c4df9ae-42ad-455f-94b5-7612a28012f2
 ---
 

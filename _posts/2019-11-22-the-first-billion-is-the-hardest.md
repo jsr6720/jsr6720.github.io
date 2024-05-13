@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The First Billion Is the Hardest\""
 date:   2019-11-22 00:00:00 -0400
-tags: book review Pickens biography
+tags: 2019 book review Pickens biography
 uid: 202ab4c8-1ddc-4c95-8092-ff8b2eedd85f
 ---
 

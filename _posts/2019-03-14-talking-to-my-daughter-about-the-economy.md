@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Talking to my Daughter about the Economy\""
 date:   2019-03-14 00:00:00 -0400
-tags: book review Varoufakis economics
+tags: 2019 book review Varoufakis economics
 uid: 7810e165-66ae-45c6-85db-bf7eab3e6ea4
 ---
 

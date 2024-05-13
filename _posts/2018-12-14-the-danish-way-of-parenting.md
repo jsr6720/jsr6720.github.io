@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Danish Way of Parenting\""
 date:   2018-12-14 00:00:00 -0400
-tags: book review Alexander parenting
+tags: 2018 book review Alexander parenting
 uid: 1b45c423-95b4-42d3-932e-2fe439c1f789
 ---
 

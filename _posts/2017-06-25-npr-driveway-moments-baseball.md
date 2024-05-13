@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"NPR Driveway Moments Baseball\""
 date:   2017-06-25 00:00:00 -0400
-tags: book review Radio 
+tags: 2017 book review Radio 
 uid: 2ba2a3fc-9b43-491c-acc2-6c29a06e6305
 ---
 

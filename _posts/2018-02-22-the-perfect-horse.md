@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Perfect Horse\""
 date:   2018-02-22 00:00:00 -0400
-tags: book review Letts did-not-finish
+tags: 2018 book review Letts did-not-finish
 uid: c999dd7e-dadf-427b-8172-f3af3f8cce0c
 ---
 

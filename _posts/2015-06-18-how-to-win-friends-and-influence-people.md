@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"How To Win Friends And Influence People\""
 date:   2015-06-18 00:00:00 -0400
-tags: book review Carnegie classics read-again
+tags: 2015 book review Carnegie classics read-again
 uid: 9002c714-3c9c-4c3a-9ea3-9b2c46f725e9
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The On-Time, On-Target Manager\""
 date:   2017-09-18 00:00:00 -0400
-tags: book review Blanchard business
+tags: 2017 book review Blanchard business
 uid: 08ac3d3a-349e-49c0-9bcd-62e1fb14105a
 ---
 

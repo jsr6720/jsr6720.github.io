@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The 5 Levels of Leadership\""
 date:   2018-04-30 00:00:00 -0400
-tags: book review Maxwell management personal-development
+tags: 2018 book review Maxwell management personal-development
 uid: 9b6c3107-7c64-468e-9c5c-a4492ff1c6b9
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Audacity of Hope\""
 date:   2018-07-23 00:00:00 -0400
-tags: book review Obama biography
+tags: 2018 book review Obama biography
 uid: 025292a1-aadd-481a-92f3-1369d875099e
 ---
 

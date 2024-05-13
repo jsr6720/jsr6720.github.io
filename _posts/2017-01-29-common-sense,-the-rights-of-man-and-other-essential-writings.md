@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Common Sense, The Rights of Man and Other Essential Writings\""
 date:   2017-01-29 00:00:00 -0400
-tags: book review Paine history classics
+tags: 2017 book review Paine history classics
 uid: af8fe3f5-af36-4322-894e-84302c26eb46
 ---
 

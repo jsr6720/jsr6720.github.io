@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Happiness Advantage\""
 date:   2018-10-25 00:00:00 -0400
-tags: book review Achor 
+tags: 2018 book review Achor 
 uid: ade4d9bd-3ee0-4110-9d16-389d316b2a8d
 ---
 

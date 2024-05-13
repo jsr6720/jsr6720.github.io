@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Alexander Hamilton\""
 date:   2015-07-08 00:00:00 -0400
-tags: book review Chernow biography history
+tags: 2015 book review Chernow biography history
 uid: 4ec03f6f-8db6-4eb4-8078-674643855c88
 ---
 

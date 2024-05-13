@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Don't Think of an Elephant! Know Your Values and Frame the Debate\""
 date:   2020-09-09 00:00:00 -0400
-tags: book review Lakoff psychology
+tags: 2020 book review Lakoff psychology
 uid: e164c0a5-807d-4669-97c4-fa7e696d4d65
 ---
 

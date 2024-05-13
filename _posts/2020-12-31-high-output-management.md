@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"High Output Management\""
 date:   2020-12-31 00:00:00 -0400
-tags: book review Grove 
+tags: 2020 book review Grove 
 uid: 4a9bbef2-f490-4ea8-87da-5733d5d9f693
 ---
 

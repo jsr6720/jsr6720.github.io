@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Becoming a Resonant Leader\""
 date:   2019-05-09 00:00:00 -0400
-tags: book review McKee did-not-finish
+tags: 2019 book review McKee did-not-finish
 uid: dd56c42f-82d7-4383-a3df-84d923b8ec65
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Management\""
 date:   2019-06-07 00:00:00 -0400
-tags: book review Tracy 
+tags: 2019 book review Tracy 
 uid: 008c77fc-0bda-477a-b2fa-709c28c3be47
 ---
 
