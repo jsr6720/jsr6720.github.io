@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Request Tracker date picker"
 date:   "2011-04-04 00:00:00 -0400"
-tags: 2011 wordpress, txcowboycoder, "Personal Musings", "date picker", "request tracker"
+tags: 2011 wordpress, txcowboycoder, musings, "date picker", "request tracker"
 uid: 499397f3-35a5-4942-b5a8-df5113c86cb3
 ---
 

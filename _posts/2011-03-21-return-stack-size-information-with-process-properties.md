@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Return stack size information with PROCESS PROPERTIES"
 date:   "2011-03-21 00:00:00 -0400"
-tags: 2011 wordpress, txcowboycoder, "4D", "Wish List", "execute on server", "new process", "PROCESS PROPERTIES", "stack size"
+tags: 2011 wordpress txcowboycoder 4D
 uid: 2bd5eb09-f82a-4cf0-b3ab-5e99e83b284e
 ---
 

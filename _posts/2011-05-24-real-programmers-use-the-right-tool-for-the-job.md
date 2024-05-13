@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Real programmers use the right tool for the job"
 date:   "2011-05-24 00:00:00 -0400"
-tags: 2011 wordpress, txcowboycoder, "Personal Musings", "cli", "command line", "gui"
+tags: 2011 wordpress, txcowboycoder, musings, "cli", "command line", "gui"
 uid: 45b50e8b-499a-42e5-849a-3dc677e95672
 ---
 
