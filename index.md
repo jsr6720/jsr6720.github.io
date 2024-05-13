@@ -1,8 +1,9 @@
 ---
 layout: home
+exclude: true
 ---
 
-## You found me
+<h3>You found me</h3>
 
 My special little corner where I get to publish short posts on various topics.
 
