@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Undoing Project\""
 date:   2020-08-09 00:00:00 -0400
-tags: book review Lewis psychology
+tags: 2020 book review Lewis psychology
 uid: 5d86ebef-33b3-4907-ae9c-56b03831db9c
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Black Swan\""
 date:   2017-07-17 00:00:00 -0400
-tags: book review Taleb did-not-finish
+tags: 2017 book review Taleb did-not-finish
 uid: 1d3917d2-798e-46ae-98b2-5cdf060c4d73
 ---
 

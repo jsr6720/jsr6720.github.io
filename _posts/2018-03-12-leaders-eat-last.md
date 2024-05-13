@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Leaders eat last\""
 date:   2018-03-12 00:00:00 -0400
-tags: book review Sinek business psychology
+tags: 2018 book review Sinek business psychology
 uid: a9c9fba0-d916-4a16-a3be-f66b0ea4b321
 ---
 

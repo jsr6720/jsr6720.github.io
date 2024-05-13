@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The American Revolution\""
 date:   2015-08-28 00:00:00 -0400
-tags: book review Guelzo history
+tags: 2015 book review Guelzo history
 uid: 7a58c42f-e207-4156-b483-6baba71f2d94
 ---
 

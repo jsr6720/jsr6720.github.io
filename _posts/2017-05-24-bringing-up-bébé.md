@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Bringing Up Bébé\""
 date:   2017-05-24 00:00:00 -0400
-tags: book review Druckerman parenting biography
+tags: 2017 book review Druckerman parenting biography
 uid: a1cff445-fb6c-41e0-8a12-1fe2cb23183a
 ---
 

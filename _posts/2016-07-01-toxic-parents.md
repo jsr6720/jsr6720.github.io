@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Toxic Parents\""
 date:   2016-07-01 00:00:00 -0400
-tags: book review Forward 
+tags: 2016 book review Forward 
 uid: 52d58715-3df3-467a-bd01-0408a82cba08
 ---
 

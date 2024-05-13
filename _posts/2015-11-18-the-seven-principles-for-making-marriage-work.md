@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Seven Principles for Making Marriage Work\""
 date:   2015-11-18 00:00:00 -0400
-tags: book review Gottman psychology read-again
+tags: 2015 book review Gottman psychology read-again
 uid: c515e1ee-0bc8-431b-8da3-17d4bad436ae
 ---
 

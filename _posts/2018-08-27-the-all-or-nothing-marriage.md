@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The All-or-Nothing Marriage\""
 date:   2018-08-27 00:00:00 -0400
-tags: book review Finkel psychology
+tags: 2018 book review Finkel psychology
 uid: 89d5851c-3e86-4a04-8433-846d17ad1d0b
 ---
 

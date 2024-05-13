@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Freakonomics\""
 date:   2016-01-13 00:00:00 -0400
-tags: book review Levitt economics
+tags: 2016 book review Levitt economics
 uid: 98db3b45-f966-4b64-b3f4-ff52de4db503
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Miracle of Self-Discipline\""
 date:   2019-10-25 00:00:00 -0400
-tags: book review Tracy 
+tags: 2019 book review Tracy 
 uid: e6d8a449-0408-4895-9980-ab036049ea15
 ---
 

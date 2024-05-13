@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"A Whole New Mind\""
 date:   2016-03-08 00:00:00 -0400
-tags: book review Pink business
+tags: 2016 book review Pink business
 uid: f12d58c6-1d1e-4b53-bebb-84eed9f4b9a6
 ---
 

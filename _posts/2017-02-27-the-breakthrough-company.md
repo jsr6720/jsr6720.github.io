@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Breakthrough Company\""
 date:   2017-02-27 00:00:00 -0400
-tags: book review Mcfarland business
+tags: 2017 book review Mcfarland business
 uid: 968b3eb9-a6b5-44de-9e86-7fc910dff46b
 ---
 

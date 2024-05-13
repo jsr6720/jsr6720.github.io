@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Good to Great\""
 date:   2016-03-22 00:00:00 -0400
-tags: book review Collins business
+tags: 2016 book review Collins business
 uid: 21ce9677-9862-48c6-94b0-88b9bbe0ac55
 ---
 

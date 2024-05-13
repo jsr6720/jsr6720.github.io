@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Just One Thing\""
 date:   2021-02-19 00:00:00 -0400
-tags: book review Hanson personal-development philosophy
+tags: 2021 book review Hanson personal-development philosophy
 uid: 4fa8fd18-11e2-491f-902c-0e5e48c55c64
 ---
 

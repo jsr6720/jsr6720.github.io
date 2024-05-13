@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Failure Is Not an Option\""
 date:   2016-09-12 00:00:00 -0400
-tags: book review Kranz biography
+tags: 2016 book review Kranz biography
 uid: 9b442786-41b9-49d5-826a-f4bb7015036b
 ---
 

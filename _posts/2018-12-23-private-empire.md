@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Private Empire\""
 date:   2018-12-23 00:00:00 -0400
-tags: book review Coll business
+tags: 2018 book review Coll business
 uid: 2f14167d-dd8d-4902-8e75-6c47abd33e53
 ---
 

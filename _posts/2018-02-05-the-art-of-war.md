@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Art of War\""
 date:   2018-02-05 00:00:00 -0400
-tags: book review Tzu classics history
+tags: 2018 book review Tzu classics history
 uid: 865c2c47-a1ee-41e5-ab9a-fba85bc01f4d
 ---
 

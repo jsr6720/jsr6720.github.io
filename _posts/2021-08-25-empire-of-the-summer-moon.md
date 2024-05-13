@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Empire of the Summer Moon\""
 date:   2021-08-25 00:00:00 -0400
-tags: book review Gwynne history biography
+tags: 2021 book review Gwynne history biography
 uid: 2447e3cf-ccb5-480f-a2bc-d0798f919944
 ---
 

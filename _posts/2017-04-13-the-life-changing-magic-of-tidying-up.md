@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Life-Changing Magic of Tidying Up\""
 date:   2017-04-13 00:00:00 -0400
-tags: book review Kondō did-not-finish
+tags: 2017 book review Kondō did-not-finish
 uid: 1361f5fe-8b0f-4f7a-ae9f-6450c4817f8e
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Ideal Team Player\""
 date:   2018-04-30 00:00:00 -0400
-tags: book review Lencioni management business
+tags: 2018 book review Lencioni management business
 uid: 9728bda6-d3c4-480a-9c71-4513056c7c7a
 ---
 

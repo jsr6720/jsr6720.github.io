@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Command and Control\""
 date:   2016-02-12 00:00:00 -0400
-tags: book review Polelle history
+tags: 2016 book review Polelle history
 uid: 5f810778-6fb4-4096-b378-2ebb4814c7f1
 ---
 

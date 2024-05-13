@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Active Parenting Now\""
 date:   2016-11-20 00:00:00 -0400
-tags: book review Popkin read-again parenting
+tags: 2016 book review Popkin read-again parenting
 uid: 2cd4aa10-549c-45cd-a792-d408b8bb4439
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Essential Drucker, The\""
 date:   2015-12-17 00:00:00 -0400
-tags: book review Drucker business read-again
+tags: 2015 book review Drucker business read-again
 uid: 81a71e78-b804-405d-bbd9-4b1a814fb6c9
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Energy Bus\""
 date:   2021-04-07 00:00:00 -0400
-tags: book review Gordon personal-development
+tags: 2021 book review Gordon personal-development
 uid: 6fafa692-539a-4629-b262-c66974fe4c96
 ---
 

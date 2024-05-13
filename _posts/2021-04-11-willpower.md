@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Willpower\""
 date:   2021-04-11 00:00:00 -0400
-tags: book review Baumeister psychology personal-development
+tags: 2021 book review Baumeister psychology personal-development
 uid: 53244be9-0c5b-4fc0-aedc-acb6cc3cfc5d
 ---
 

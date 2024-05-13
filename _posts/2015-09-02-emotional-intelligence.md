@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Emotional Intelligence\""
 date:   2015-09-02 00:00:00 -0400
-tags: book review Goleman read-again psychology
+tags: 2015 book review Goleman read-again psychology
 uid: cda34865-ce22-4799-aac4-9090f1f3d8fd
 ---
 

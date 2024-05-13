@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Power of Habit\""
 date:   2017-05-05 00:00:00 -0400
-tags: book review Duhigg psychology
+tags: 2017 book review Duhigg psychology
 uid: e3bd3c2c-1970-4d28-9696-147681a29569
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Startup of You\""
 date:   2018-02-22 00:00:00 -0400
-tags: book review Hoffman 
+tags: 2018 book review Hoffman 
 uid: 38913bda-fa1b-46c8-bc99-673a54bacb04
 ---
 

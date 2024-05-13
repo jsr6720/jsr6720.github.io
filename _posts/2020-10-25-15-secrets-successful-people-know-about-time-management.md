@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"15 Secrets Successful People Know About Time Management\""
 date:   2020-10-25 00:00:00 -0400
-tags: book review Kruse 
+tags: 2020 book review Kruse 
 uid: c4a73cca-d61e-4ef4-8a1e-5b3b467eba3b
 ---
 

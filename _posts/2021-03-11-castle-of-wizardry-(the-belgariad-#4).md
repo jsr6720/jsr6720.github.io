@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Castle of Wizardry (The Belgariad #4)\""
 date:   2021-03-11 00:00:00 -0400
-tags: book review Eddings fantasy childhood-favorite
+tags: 2021 book review Eddings fantasy childhood-favorite
 uid: 736c705c-d0b6-4648-b309-7611c28fc103
 ---
 

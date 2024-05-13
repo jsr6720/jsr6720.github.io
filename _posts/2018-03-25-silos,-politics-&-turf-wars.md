@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Silos, Politics & Turf Wars\""
 date:   2018-03-25 00:00:00 -0400
-tags: book review Lencioni management
+tags: 2018 book review Lencioni management
 uid: 92701a98-24da-4c32-939e-da619fffb14a
 ---
 

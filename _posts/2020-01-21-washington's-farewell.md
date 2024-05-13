@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Washington's Farewell\""
 date:   2020-01-21 00:00:00 -0400
-tags: book review Avlon leadership history
+tags: 2020 book review Avlon leadership history
 uid: 52761329-4db4-4301-8ae6-056aa27dab8e
 ---
 

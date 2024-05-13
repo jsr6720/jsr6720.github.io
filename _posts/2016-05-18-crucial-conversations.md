@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Crucial Conversations\""
 date:   2016-05-18 00:00:00 -0400
-tags: book review Patterson personal-development business
+tags: 2016 book review Patterson personal-development business
 uid: fe05a450-5fee-4906-9217-6e103291e745
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Fiefdom Syndrome\""
 date:   2017-06-21 00:00:00 -0400
-tags: book review Herbold business
+tags: 2017 book review Herbold business
 uid: 700aabc0-a174-4652-b66f-73f9d63bfb29
 ---
 

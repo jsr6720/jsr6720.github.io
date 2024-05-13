@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Subtle Art of Not Giving a F*ck\""
 date:   2018-09-17 00:00:00 -0400
-tags: book review Manson personal-development
+tags: 2018 book review Manson personal-development
 uid: 62078d0e-7a34-4789-b805-cc4825a94239
 ---
 

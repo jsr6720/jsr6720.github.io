@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Black Box Thinking\""
 date:   2019-08-27 00:00:00 -0400
-tags: book review Syed business
+tags: 2019 book review Syed business
 uid: b9e78c53-22b9-4d55-92ca-4dd171f33f69
 ---
 

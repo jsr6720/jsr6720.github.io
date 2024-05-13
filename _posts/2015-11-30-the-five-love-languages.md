@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Five Love Languages\""
 date:   2015-11-30 00:00:00 -0400
-tags: book review Chapman 
+tags: 2015 book review Chapman 
 uid: 97136969-bd5a-432a-b489-1da377d9356c
 ---
 

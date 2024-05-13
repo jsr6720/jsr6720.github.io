@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The One Minute Manager\""
 date:   2017-09-16 00:00:00 -0400
-tags: book review Blanchard business
+tags: 2017 book review Blanchard business
 uid: 452412ae-fbd2-4864-98c7-9b2a40a96da5
 ---
 

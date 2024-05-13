@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Falling Up\""
 date:   2021-04-27 00:00:00 -0400
-tags: book review Silverstein poetry childhood-favorite
+tags: 2021 book review Silverstein poetry childhood-favorite
 uid: db617def-45ed-4cb0-a5a1-bd3f80e7b634
 ---
 

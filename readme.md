@@ -81,3 +81,9 @@ When ChatGPT/LLM Gives you an answer I like to think sites like this made a diff
 
 https://timopartl.com/
 This guy builds apps
+
+# Attribution
+
+[rss-feed-icon](/assets/rss-feed-icon.png) -> [wikimedia commons](https://commons.wikimedia.org/wiki/File:Generic_Feed-icon.svg)
+
+[rowe-icon](/assets/rowe-icon.png) -> ChatGTP Dalle4 image generator

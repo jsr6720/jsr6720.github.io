@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Confronting Reality Doing What Matters to Get Things Right\""
 date:   2017-12-17 00:00:00 -0400
-tags: book review Bossidy business
+tags: 2017 book review Bossidy business
 uid: 459bdb82-d0a8-431a-887e-63ec0272963a
 ---
 

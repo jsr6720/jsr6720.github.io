@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Steve Jobs\""
 date:   2019-04-26 00:00:00 -0400
-tags: book review Isaacson business biography management
+tags: 2019 book review Isaacson business biography management
 uid: 922a52e7-818b-4bb5-933f-7fc019616d6e
 ---
 

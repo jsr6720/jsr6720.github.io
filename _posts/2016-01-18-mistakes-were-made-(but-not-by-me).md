@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Mistakes Were Made (But Not by Me)\""
 date:   2016-01-18 00:00:00 -0400
-tags: book review Tavris personal-development psychology
+tags: 2016 book review Tavris personal-development psychology
 uid: 5a838f6f-84dc-4f29-bf36-30c5037bd6ca
 ---
 

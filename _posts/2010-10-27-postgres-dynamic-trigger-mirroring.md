@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Postgres dynamic trigger — mirroring"
 date:   "2010-10-27 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "Postgres", "4D", "plpythonu", "Postgres", "Python", "trigger"
+tags: 2010 wordpress, txcowboycoder, "Postgres", "4D", "plpythonu", "Postgres", "Python", "trigger"
 uid: da92199e-dcc3-4fa2-b07a-86315309977f
 ---
 

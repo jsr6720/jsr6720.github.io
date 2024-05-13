@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Rough Riders\""
 date:   2019-06-21 00:00:00 -0400
-tags: book review Gardner biography history leadership
+tags: 2019 book review Gardner biography history leadership
 uid: 18e8b481-1b52-421e-9739-7a635e71030c
 ---
 

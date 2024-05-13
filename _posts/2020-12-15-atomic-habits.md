@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Atomic Habits\""
 date:   2020-12-15 00:00:00 -0400
-tags: book review Clear business leadership personal-development
+tags: 2020 book review Clear business leadership personal-development
 uid: d8caf4a2-fb01-4fad-b5d0-2c8adb3d80b0
 ---
 

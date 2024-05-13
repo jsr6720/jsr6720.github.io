@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"How Google Works\""
 date:   2017-11-07 00:00:00 -0400
-tags: book review Schmidt business
+tags: 2017 book review Schmidt business
 uid: e6cb3253-3288-4a27-9e7d-d6bd2be1f7e1
 ---
 

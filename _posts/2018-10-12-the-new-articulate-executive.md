@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The New Articulate Executive\""
 date:   2018-10-12 00:00:00 -0400
-tags: book review Toogood business management
+tags: 2018 book review Toogood business management
 uid: 15c49b33-799c-47a2-b26e-2f875e5fe00a
 ---
 

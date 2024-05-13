@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Learning from the Giants\""
 date:   2018-09-14 00:00:00 -0400
-tags: book review Maxwell did-not-finish
+tags: 2018 book review Maxwell did-not-finish
 uid: 821c4828-a514-4daa-9bd2-a442d586cad4
 ---
 

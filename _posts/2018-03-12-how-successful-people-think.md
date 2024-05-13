@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"How Successful People Think\""
 date:   2018-03-12 00:00:00 -0400
-tags: book review Maxwell business
+tags: 2018 book review Maxwell business
 uid: d52c8c3f-63d4-43fb-84f5-3edd933854bf
 ---
 

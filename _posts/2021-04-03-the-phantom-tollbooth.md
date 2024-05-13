@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Phantom Tollbooth\""
 date:   2021-04-03 00:00:00 -0400
-tags: book review Juster childhood-favorite fiction
+tags: 2021 book review Juster childhood-favorite fiction
 uid: ed3f4198-54a5-4775-b64b-edfa57db55bb
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Half the Sky\""
 date:   2017-12-07 00:00:00 -0400
-tags: book review Kristof 
+tags: 2017 book review Kristof 
 uid: 1693409f-e2f0-4f62-9271-bd13191d73b0
 ---
 

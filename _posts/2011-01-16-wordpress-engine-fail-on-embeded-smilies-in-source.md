@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "WordPress engine fail on embeded smilies in source"
 date:   "2011-01-16 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "Misc", "parse", "smilies", "wordpress engine"
+tags: 2011 wordpress, txcowboycoder, "Misc", "parse", "smilies", "wordpress engine"
 uid: 8fb511d4-1143-434f-86f7-fa9dd761a349
 ---
 

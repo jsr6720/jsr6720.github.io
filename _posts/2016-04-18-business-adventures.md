@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Business Adventures\""
 date:   2016-04-18 00:00:00 -0400
-tags: book review Brooks business
+tags: 2016 book review Brooks business
 uid: d233b2d2-62ca-4728-9be3-51c889764435
 ---
 

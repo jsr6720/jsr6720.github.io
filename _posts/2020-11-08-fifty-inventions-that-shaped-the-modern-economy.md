@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Fifty Inventions That Shaped the Modern Economy\""
 date:   2020-11-08 00:00:00 -0400
-tags: book review Harford 
+tags: 2020 book review Harford 
 uid: d7241e24-7d54-4985-9a28-55e07b29525a
 ---
 

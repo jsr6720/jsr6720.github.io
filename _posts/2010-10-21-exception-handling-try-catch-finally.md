@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Exception handling – try/catch/finally"
 date:   "2010-10-21 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "Wish List", "4D", "programming structure", "try catch"
+tags: 2010 wordpress, txcowboycoder, "Wish List", "4D", "programming structure", "try catch"
 uid: a1f6ae08-5be2-47b1-a9f2-a074cd9dc5eb
 ---
 

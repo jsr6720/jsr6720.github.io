@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Dealing with China\""
 date:   2019-03-14 00:00:00 -0400
-tags: book review Jr. did-not-finish
+tags: 2019 book review Jr. did-not-finish
 uid: 30b7c0c8-f845-4799-bca7-fc60129a2364
 ---
 

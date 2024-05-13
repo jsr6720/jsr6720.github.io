@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Good Leaders Ask Great Questions\""
 date:   2018-05-30 00:00:00 -0400
-tags: book review Maxwell management business
+tags: 2018 book review Maxwell management business
 uid: d473e5a2-9b11-470c-ae8c-85da2ebe3f10
 ---
 

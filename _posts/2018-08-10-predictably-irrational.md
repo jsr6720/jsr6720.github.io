@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Predictably Irrational\""
 date:   2018-08-10 00:00:00 -0400
-tags: book review Ariely economics psychology
+tags: 2018 book review Ariely economics psychology
 uid: aa58abd0-b4ee-4dc8-a127-72a6a89ec648
 ---
 

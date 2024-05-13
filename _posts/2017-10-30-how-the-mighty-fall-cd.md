@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"How the Mighty Fall CD\""
 date:   2017-10-30 00:00:00 -0400
-tags: book review Collins business
+tags: 2017 book review Collins business
 uid: d3a6d72d-6076-4fd3-813f-e143d2ad5447
 ---
 

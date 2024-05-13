@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "4D Linux ODBC Driver"
 date:   "2011-03-31 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "Wish List", "4d odbc", "linux"
+tags: 2011 wordpress, txcowboycoder, "Wish List", "4d odbc", "linux"
 uid: c54f90be-d857-4c66-bd13-7f52dd2ba918
 ---
 

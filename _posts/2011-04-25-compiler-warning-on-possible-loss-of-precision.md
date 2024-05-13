@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Compiler warning on possible loss of precision"
 date:   "2011-04-25 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "4D", "Wish List", "possible loss of precision", "real to integer"
+tags: 2011 wordpress, txcowboycoder, "4D", "Wish List", "possible loss of precision", "real to integer"
 uid: 276ac24a-6b38-40ae-810d-9199ad51c29e
 ---
 

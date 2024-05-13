@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Bully Pulpit\""
 date:   2017-03-30 00:00:00 -0400
-tags: book review Goodwin history biography
+tags: 2017 book review Goodwin history biography
 uid: 9d30694e-c79b-4b68-b61d-2fa236e6838a
 ---
 

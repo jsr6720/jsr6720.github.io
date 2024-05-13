@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"What to Eat\""
 date:   2021-05-31 00:00:00 -0400
-tags: book review Nestle food personal-development
+tags: 2021 book review Nestle food personal-development
 uid: b5f53a84-9502-4b42-b0b8-2c395b9aac56
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Death by Meeting\""
 date:   2015-12-22 00:00:00 -0400
-tags: book review Lencioni business
+tags: 2015 book review Lencioni business
 uid: 5b0148ed-c40b-4af9-b3b6-5ca07e05a65a
 ---
 

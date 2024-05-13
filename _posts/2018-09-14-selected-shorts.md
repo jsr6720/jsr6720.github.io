@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Selected Shorts\""
 date:   2018-09-14 00:00:00 -0400
-tags: book review Space did-not-finish
+tags: 2018 book review Space did-not-finish
 uid: 300d0d8d-5354-426a-b33b-89b72f73aa60
 ---
 

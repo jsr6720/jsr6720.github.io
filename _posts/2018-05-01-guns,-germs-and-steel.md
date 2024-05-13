@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Guns, Germs and Steel\""
 date:   2018-05-01 00:00:00 -0400
-tags: book review Diamond history
+tags: 2018 book review Diamond history
 uid: 7bb5c315-cfcd-4383-8c8a-91754cc17ebf
 ---
 

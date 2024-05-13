@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"All I Really Need to Know I Learned in Kindergarten\""
 date:   2018-06-20 00:00:00 -0400
-tags: book review Fulghum 
+tags: 2018 book review Fulghum 
 uid: c59dbcb8-c99a-48bc-bd78-03c9bb19c2b0
 ---
 

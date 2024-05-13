@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Our Iceberg Is Melting\""
 date:   2016-05-11 00:00:00 -0400
-tags: book review Kotter business
+tags: 2016 book review Kotter business
 uid: 34ed6516-8106-4c6f-9d1c-54de213804f7
 ---
 

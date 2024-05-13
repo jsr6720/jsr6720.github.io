@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Queen of Sorcery (The Belgariad #2)\""
 date:   2021-03-08 00:00:00 -0400
-tags: book review Eddings fantasy childhood-favorite
+tags: 2021 book review Eddings fantasy childhood-favorite
 uid: 53ea2c85-1943-47e4-8e73-c4df41933918
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Brand real how smart companies live their brand promise and inspire fierce customer loyalty\""
 date:   2019-03-05 00:00:00 -0400
-tags: book review Vincent 
+tags: 2019 book review Vincent 
 uid: e6ec7d13-46ec-4f4d-8165-fd74eaf376c3
 ---
 

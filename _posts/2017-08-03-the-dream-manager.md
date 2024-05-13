@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Dream Manager\""
 date:   2017-08-03 00:00:00 -0400
-tags: book review Kelly 
+tags: 2017 book review Kelly 
 uid: 755113f5-c847-4027-801e-7b29b9b9b592
 ---
 

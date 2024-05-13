@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Alliance\""
 date:   2018-02-18 00:00:00 -0400
-tags: book review Hoffman 
+tags: 2018 book review Hoffman 
 uid: eaf36b50-143b-4c0e-ae89-b0a667ec5b39
 ---
 

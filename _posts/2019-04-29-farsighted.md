@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Farsighted\""
 date:   2019-04-29 00:00:00 -0400
-tags: book review Johnson did-not-finish
+tags: 2019 book review Johnson did-not-finish
 uid: 45151e04-dbdd-4d05-a23f-55c9345c265c
 ---
 

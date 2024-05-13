@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Losing the Signal\""
 date:   2018-01-03 00:00:00 -0400
-tags: book review McNish business
+tags: 2018 book review McNish business
 uid: da616dc6-f6c1-4cae-90b3-fc059b4788ff
 ---
 

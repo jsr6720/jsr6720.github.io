@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"An Elegant Puzzle\""
 date:   2020-08-26 00:00:00 -0400
-tags: book review Larson management
+tags: 2020 book review Larson management
 uid: 7c6d2fe8-52a7-4099-89a8-a131f7cd38c8
 ---
 

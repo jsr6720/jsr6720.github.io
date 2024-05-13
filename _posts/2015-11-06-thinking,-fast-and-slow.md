@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Thinking, Fast and Slow\""
 date:   2015-11-06 00:00:00 -0400
-tags: book review Kahneman psychology read-again
+tags: 2015 book review Kahneman psychology read-again
 uid: 1df6f7f2-821c-4cee-8fe8-a2f12039fc5b
 ---
 

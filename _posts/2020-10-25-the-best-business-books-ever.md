@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Best Business Books Ever\""
 date:   2020-10-25 00:00:00 -0400
-tags: book review Books 
+tags: 2020 book review Books 
 uid: a749b63a-981e-4bb7-85fb-79ffff957693
 ---
 

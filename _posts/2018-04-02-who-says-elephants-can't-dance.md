@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Who Says Elephants Can't Dance?\""
 date:   2018-04-02 00:00:00 -0400
-tags: book review Jr. 
+tags: 2018 book review Jr. 
 uid: 67be39aa-9cd5-4376-9e16-b10a69256fef
 ---
 

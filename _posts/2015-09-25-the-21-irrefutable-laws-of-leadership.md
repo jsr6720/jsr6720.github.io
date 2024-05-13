@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The 21 Irrefutable Laws of Leadership\""
 date:   2015-09-25 00:00:00 -0400
-tags: book review Maxwell business read-again personal-development
+tags: 2015 book review Maxwell business read-again personal-development
 uid: 8136bb19-c99b-40b9-ac18-987323b6774b
 ---
 

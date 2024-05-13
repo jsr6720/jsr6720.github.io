@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Last Lecture\""
 date:   2016-05-31 00:00:00 -0400
-tags: book review Pausch 
+tags: 2016 book review Pausch 
 uid: 101a0d06-e9b6-455e-8af9-ed762dd25807
 ---
 

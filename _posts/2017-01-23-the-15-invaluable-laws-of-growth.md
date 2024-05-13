@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The 15 Invaluable Laws of Growth\""
 date:   2017-01-23 00:00:00 -0400
-tags: book review Maxwell personal-development read-again
+tags: 2017 book review Maxwell personal-development read-again
 uid: acdc726e-7021-4857-bde5-8de43e8266cf
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Book of Five Rings\""
 date:   2020-02-20 00:00:00 -0400
-tags: book review Musashi history
+tags: 2020 book review Musashi history
 uid: c8cf82e7-857b-469e-9e13-dd3261e59eaf
 ---
 

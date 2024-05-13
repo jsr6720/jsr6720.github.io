@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Universe in a Nutshell\""
 date:   2019-03-19 00:00:00 -0400
-tags: book review Hawking 
+tags: 2019 book review Hawking 
 uid: 9f710eeb-380e-42dd-a14b-bbe879bb36fe
 ---
 

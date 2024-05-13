@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Big Short\""
 date:   2017-06-02 00:00:00 -0400
-tags: book review Lewis business history
+tags: 2017 book review Lewis business history
 uid: 7627870f-aceb-4467-bd51-7a6b31932bf6
 ---
 

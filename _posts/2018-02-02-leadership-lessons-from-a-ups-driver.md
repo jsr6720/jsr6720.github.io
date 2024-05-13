@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Leadership Lessons from a UPS Driver\""
 date:   2018-02-02 00:00:00 -0400
-tags: book review Wallace business
+tags: 2018 book review Wallace business
 uid: 76a72361-7058-487f-9ece-9bd674c234e9
 ---
 

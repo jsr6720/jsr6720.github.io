@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Comfort Trap\""
 date:   2016-10-18 00:00:00 -0400
-tags: book review Sills personal-development psychology
+tags: 2016 book review Sills personal-development psychology
 uid: 18a9b01f-8a22-465a-ac21-66c5c4530f00
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Power of Your Potential\""
 date:   2020-02-20 00:00:00 -0400
-tags: book review Maxwell did-not-finish
+tags: 2020 book review Maxwell did-not-finish
 uid: 801c8c1e-9e2e-4516-8a83-bdf7ac0f642b
 ---
 

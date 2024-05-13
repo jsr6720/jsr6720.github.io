@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"American Icon\""
 date:   2017-10-04 00:00:00 -0400
-tags: book review Hoffman 
+tags: 2017 book review Hoffman 
 uid: 2ed2cb55-f5d1-4723-bda5-c888a11cff8e
 ---
 

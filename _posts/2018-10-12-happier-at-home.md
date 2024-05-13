@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Happier at Home\""
 date:   2018-10-12 00:00:00 -0400
-tags: book review Rubin did-not-finish
+tags: 2018 book review Rubin did-not-finish
 uid: 875d105c-d95e-4993-b11e-018fc84669b8
 ---
 

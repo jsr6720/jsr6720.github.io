@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "4D Execute on sever command vs method checkbox differences"
 date:   "2011-01-31 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "4D", "4D", "execute on server", "stored procedure"
+tags: 2011 wordpress, txcowboycoder, "4D", "4D", "execute on server", "stored procedure"
 uid: 130d1c80-00e5-4be4-9a8d-d451755c7fd9
 ---
 

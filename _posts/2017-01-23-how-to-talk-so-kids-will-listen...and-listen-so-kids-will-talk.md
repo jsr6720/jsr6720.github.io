@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"How to Talk so Kids Will Listen...And Listen So Kids Will Talk\""
 date:   2017-01-23 00:00:00 -0400
-tags: book review Faber 
+tags: 2017 book review Faber 
 uid: 43c0caf8-f23d-4fa5-bb1b-856aa3b65865
 ---
 

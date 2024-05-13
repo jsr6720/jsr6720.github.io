@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Merge command/control down key functions"
 date:   "2010-11-03 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "Wish List", "4D", "control key", "key down"
+tags: 2010 wordpress, txcowboycoder, "Wish List", "4D", "control key", "key down"
 uid: e4007da7-5a11-4aaa-922e-c95058a3d520
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Full variable introspection in debugger window"
 date:   "2011-01-23 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "Wish List", "4D", "debugger window", "v11.8"
+tags: 2011 wordpress, txcowboycoder, "Wish List", "4D", "debugger window", "v11.8"
 uid: 1f4524d9-1cf9-4d04-bf77-221e790256fb
 ---
 

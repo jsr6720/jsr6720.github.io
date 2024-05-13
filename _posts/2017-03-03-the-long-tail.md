@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Long Tail\""
 date:   2017-03-03 00:00:00 -0400
-tags: book review Anderson did-not-finish
+tags: 2017 book review Anderson did-not-finish
 uid: ae3f34da-5192-4fec-8730-3111cb33e304
 ---
 

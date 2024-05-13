@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Charisma Myth\""
 date:   2018-09-06 00:00:00 -0400
-tags: book review Cabane did-not-finish
+tags: 2018 book review Cabane did-not-finish
 uid: a8c32843-0d1e-4f9e-a461-fabe2fadc7b8
 ---
 

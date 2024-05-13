@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The End of Overeating\""
 date:   2016-02-22 00:00:00 -0400
-tags: book review Kessler psychology food
+tags: 2016 book review Kessler psychology food
 uid: fdb0bb51-237f-4d22-9957-f7d3f159fd78
 ---
 

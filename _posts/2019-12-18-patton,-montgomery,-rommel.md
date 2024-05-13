@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Patton, Montgomery, Rommel\""
 date:   2019-12-18 00:00:00 -0400
-tags: book review Brighton history leadership
+tags: 2019 book review Brighton history leadership
 uid: c132c028-f6c8-4d2f-b926-174551bf79e3
 ---
 

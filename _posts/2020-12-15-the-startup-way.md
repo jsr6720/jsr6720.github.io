@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Startup Way\""
 date:   2020-12-15 00:00:00 -0400
-tags: book review Ries business management
+tags: 2020 book review Ries business management
 uid: fbeb6b11-2fef-4927-88b0-bf8f024082a0
 ---
 

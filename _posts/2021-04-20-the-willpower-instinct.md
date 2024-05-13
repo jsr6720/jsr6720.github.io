@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Willpower Instinct\""
 date:   2021-04-20 00:00:00 -0400
-tags: book review McGonigal personal-development psychology
+tags: 2021 book review McGonigal personal-development psychology
 uid: c13d4b48-ddbf-4774-abf7-e5fb56a68782
 ---
 

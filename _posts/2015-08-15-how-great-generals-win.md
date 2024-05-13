@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"How Great Generals Win\""
 date:   2015-08-15 00:00:00 -0400
-tags: book review Alexander history
+tags: 2015 book review Alexander history
 uid: cd62943a-85ce-4474-9721-10e89346f2e4
 ---
 

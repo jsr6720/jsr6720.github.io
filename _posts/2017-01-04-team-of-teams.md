@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Team of Teams\""
 date:   2017-01-04 00:00:00 -0400
-tags: book review McChrystal business
+tags: 2017 book review McChrystal business
 uid: eb4e8cc4-678a-4a44-80db-fe2f0fed80a6
 ---
 

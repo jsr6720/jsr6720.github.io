@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Built to Last CD\""
 date:   2016-03-25 00:00:00 -0400
-tags: book review Collins business
+tags: 2016 book review Collins business
 uid: 8f25d71e-5f61-45cb-abc9-aa0264ca82ce
 ---
 

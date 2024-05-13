@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The One Thing\""
 date:   2021-02-05 00:00:00 -0400
-tags: book review Keller business personal-development
+tags: 2021 book review Keller business personal-development
 uid: 913afe25-8dd5-4659-bc4d-39bd6c99b5f2
 ---
 

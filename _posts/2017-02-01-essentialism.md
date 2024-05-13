@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Essentialism\""
 date:   2017-02-01 00:00:00 -0400
-tags: book review McKeown personal-development did-not-finish
+tags: 2017 book review McKeown personal-development did-not-finish
 uid: b7e95b35-c427-4719-8b7e-301fa745f172
 ---
 

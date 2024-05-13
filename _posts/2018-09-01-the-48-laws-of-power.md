@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The 48 Laws of Power\""
 date:   2018-09-01 00:00:00 -0400
-tags: book review Greene business psychology
+tags: 2018 book review Greene business psychology
 uid: d33aaafc-54e5-4f25-ab48-d7a40cf116b1
 ---
 

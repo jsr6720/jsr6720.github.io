@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Lone Star Nation\""
 date:   2017-09-13 00:00:00 -0400
-tags: book review Brands history
+tags: 2017 book review Brands history
 uid: f48cca60-a3d9-4a66-a4a0-68f926605b39
 ---
 

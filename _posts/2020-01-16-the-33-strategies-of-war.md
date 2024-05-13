@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The 33 Strategies of War\""
 date:   2020-01-16 00:00:00 -0400
-tags: book review Greene 
+tags: 2020 book review Greene 
 uid: 3564b1bd-c46d-4db3-8d5f-49382c2e2e09
 ---
 

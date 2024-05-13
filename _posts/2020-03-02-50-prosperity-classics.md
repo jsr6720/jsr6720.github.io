@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"50 Prosperity Classics\""
 date:   2020-03-02 00:00:00 -0400
-tags: book review Butler-Bowdon 
+tags: 2020 book review Butler-Bowdon 
 uid: 8ce9b569-86e4-47d4-bfc5-ff640deec5a6
 ---
 

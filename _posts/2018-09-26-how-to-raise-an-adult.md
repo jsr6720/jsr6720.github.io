@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"How to Raise an Adult\""
 date:   2018-09-26 00:00:00 -0400
-tags: book review Lythcott-Haims did-not-finish
+tags: 2018 book review Lythcott-Haims did-not-finish
 uid: fc9cab92-50ce-4db7-8959-9cb888a7effc
 ---
 

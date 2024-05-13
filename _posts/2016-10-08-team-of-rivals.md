@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"Team of Rivals\""
 date:   2016-10-08 00:00:00 -0400
-tags: book review Goodwin biography history
+tags: 2016 book review Goodwin biography history
 uid: a182bcb4-0cb5-4d70-a7fc-aa27ed81509b
 ---
 

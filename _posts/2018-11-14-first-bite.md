@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"First Bite\""
 date:   2018-11-14 00:00:00 -0400
-tags: book review Wilson personal-development psychology food
+tags: 2018 book review Wilson personal-development psychology food
 uid: 758c7ffb-bf3c-4413-9a20-f24cf44f00f1
 ---
 

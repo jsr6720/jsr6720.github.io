@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"The Five Most Important Questions You Will Ever Ask About Your Organization\""
 date:   2020-12-25 00:00:00 -0400
-tags: book review Drucker 
+tags: 2020 book review Drucker 
 uid: 804e1381-627b-4162-b082-2ce66335fa6c
 ---
 

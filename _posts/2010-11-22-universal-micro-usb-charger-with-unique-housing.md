@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Universal micro usb charger with unique housing"
 date:   "2010-11-22 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "Personal Musings", "housing", "micro usb"
+tags: 2010 wordpress, txcowboycoder, "Personal Musings", "housing", "micro usb"
 uid: a4dac276-3ec1-44db-99f6-88b207f0b89f
 ---
 
