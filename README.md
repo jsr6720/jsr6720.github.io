@@ -1,6 +1,6 @@
 # jsr6720.github.io
 
-Using GitHub Pages/jekyll to share some thoughts. Dare I say publish them.
+Using GitHub Pages/Jekyll to share observations and opinions. Also known as thoughts. Dare I say publish them.
 
 ## Hosting
 
@@ -10,13 +10,13 @@ If I'm still paying for hosting [https://www.jsrowe.com](https://www.jsrowe.com)
 
 ## Where did all the stuff come from pre-init date
 
-Mostly [goodreads.com reviews](https://github.com/jsr6720/goodreads-csv-to-md) and [an old wordpress website](https://github.com/jsr6720/wordpress-html-scraper-to-md).
+Mostly [goodreads.com reviews](https://github.com/jsr6720/goodreads-csv-to-md) and [an old wordpress website](https://github.com/jsr6720/wordpress-html-scraper-to-md) aka [txcowboycoder](https://txcowboycoder.wordpress.com)
 
 ## License
 
-Code snippets [MIT](/CODE-LICENSE) unless otherwise noted.
+All code samples unless otherwise noted [CODE LICENSE](/CODE-LICENSE)
 
-Text written by stated author and covered by [CC0 1.0 Universal](/LICENSE)
+Anything not-code unless otherwise noted [LICENSE](/LICENSE)
 
 ## Tags
 
@@ -68,10 +68,9 @@ https://martinfowler.com
 
 https://lethain.com
 
-
 ### Imitation is the best form of flattery(?)
 
-Sites that I stumble upon that I appreciate (usually with original link I found)
+Sites that I appreciate
 
 https://gail.com
 Just a fun site registered early in the domain era
@@ -87,7 +86,7 @@ Carlos creates, writes and operates software.
 
 # Attribution
 
-**note:** If you're an artist or creator I'm always on the lookout to replace my AI good-enough regurgitation with original pieces. find me.
+**note:** If you're an artist or creator I'm always on the lookout to replace my AI good-enough regurgitation with original pieces. [contact me](/about.md).
 
 [rss-feed-icon](/assets/rss-feed-icon.png) -> [wikimedia commons](https://commons.wikimedia.org/wiki/File:Generic_Feed-icon.svg)
 
