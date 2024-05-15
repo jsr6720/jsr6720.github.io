@@ -92,3 +92,6 @@ Carlos creates, writes and operates software.
 [rss-feed-icon](/assets/rss-feed-icon.png) -> [wikimedia commons](https://commons.wikimedia.org/wiki/File:Generic_Feed-icon.svg)
 
 [rowe-icon](/assets/rowe-icon.png) -> ChatGTP Dalle4 image generator
+
+[github-social-preview.png](/jsr6720-github-io-repo-social-preview.png) -> 
+[ChatGPT-4o DallE original](/_archive/DALL·E%202024-05-15%2003.42.13%20-%20Create%20a%20social%20media%20preview%20image%20for%20a%20GitHub%20Pages%20blog%20titled%20'James'%20Thoughts'%20or%20'James'%20Digital%20Journal'.%20The%20image%20should%20have%20a%20clean,%20profe.webp)
