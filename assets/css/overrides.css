@@ -43,7 +43,7 @@ body {
   box-shadow: 0 8px 16px rgba(0,0,0,0.15); /* Increase shadow effect on hover */
 }
 
-.home .post-flex-container {
+.post-list .post-flex-container {
   display: flex;
   justify-content: space-between;
   align-items: flex-start; /* Align items to the top */
@@ -52,32 +52,32 @@ body {
   padding-bottom: 10px;
 }
 
-.home .post-left {
+.post-list .post-left {
   flex: 1; /* Allow the left column to take up as much space as possible */
 }
 
-.home .post-title {
+.post-list .post-title {
   margin-bottom: 5px;
 }
 
-.home .post-tags {
+.post-list .post-tags {
   display: flex;
   flex-wrap: wrap;
   gap: 5px;
 }
 
-.home .post-tag {
+.post-list .post-tag {
   background-color: #f0f0f0;
   border-radius: 3px;
   padding: 2px 5px;
 }
 
-.home .post-date {
+.post-list .post-date {
   flex: 0 0 auto; /* Prevent the date column from growing or shrinking */
   text-align: right;
   color: #666;
 }
 
-.home .post-item {
+.post-list .post-item {
   margin-bottom: 20px;
 }
