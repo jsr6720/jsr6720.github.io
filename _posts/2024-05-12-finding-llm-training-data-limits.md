@@ -11,7 +11,7 @@ uid: 8EBC48B5-9AC4-422D-98CF-60B315082BDC
 
 The large language models I'm working with include a disclaimer indicating date limits within its training data. One way I've found to directly assess these date ranges is by asking about specific versions of publicly published software packages.
 
-I've been working with `ruby` recently and decided to ask both `llama` and `ChatGPT4`:
+I've been working with `ruby` recently and decided to ask both `llama` and `ChatGPT-4`:
 
 > what is the latest ruby version on the 2.x series?[^1]
 
@@ -38,17 +38,17 @@ Primary sources of truth indicate `2.7.8` and was released on March 30, 2023.
 
 llama also has a `sources` link but in this example it linked to a bing search result. Everything your history and/or english teacher told you about citing primary sources is true.
 
-## ChatGPT4 - 2.7.6
+## ChatGPT-4[^3] - 2.7.6
 
 > The latest version of Ruby in the 2.x series is Ruby 2.7.6, which was released on April 12, 2022
 
-<img src="/assets/posts-images/chatgpt4-ruby-2version.png" alt="chatgpt4 ruby 2 version" class="center-img img-stylish"/>
+<img src="/assets/posts-images/chatgpt4-ruby-2version.png" alt="chatgpt-4 ruby 2 version" class="center-img img-stylish"/>
 
 ---
 
 ##### Author's Note
 
-It's very difficult for me to ascertain how large of a problem this is in the software field and beyond. Are the training sets going to be continuously updated? The biggest distinguishing mark from traditional search is the inclusion of publication dates from a variety of sites and publication sources. If I could wave a wand I would would get confidence and temperature settings back from the llm responses.
+It's very difficult for me to ascertain how large of a problem this is in the software field and beyond. Are the training sets going to be continuously updated? The biggest distinguishing mark from traditional search is the inclusion of publication dates from a variety of sites and publication sources.[^3] If I could wave a wand I would would get confidence and temperature settings back from the llm responses.
 
 See below a "traditional search" result. Never mind that I had to do a full page scroll below the fold to go past Google's own "quick answers" section... and of course reddit for the win.
 
@@ -64,3 +64,4 @@ tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 [^1]: The original queries were placed within a few hours of each other on May 2nd 2024.
 [^2]: I manually modified the screenshot from [ruby-lang releases](https://www.ruby-lang.org/en/downloads/releases/) page to focus on the named versions in this post.
+[^3]: Citations are now available in both ChatGPT-4o and Alphabet Gemini as noted in [ChatGPT-4o Initial impressions on latest model (with citations)]({% post_url 2024-05-15-chatgpt-v4o-initial-impressions %}) Posted with direct answers to the open questions in `Author's note`.

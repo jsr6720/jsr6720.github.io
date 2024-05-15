@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Short Bio
 
-Hi! I'm James and I'm an engineer at heart. I've been building software products for over 20 years. I've used a range of technologies and worked in a variety of industries. I wanted a place to share what I've learned along the way, this is that place.
+Hi! I'm James and I'm an engineer at heart. I've been a student of the business of software engineering products for over 20 years. I have experience with a wide range of technologies and worked in a variety of industries. I wanted a place to share what I've learned along the way, this is that place.
 
 [Read more](/portfolio) about my career.
 
@@ -18,11 +18,16 @@ Hi! I'm James and I'm an engineer at heart. I've been building software products
 
 A candid photo taken by my kids that captures how I frequently find myself "at work" on my personal projects. Complete with help from a lemur. Very serious business.
 
-<img src="/assets/site-photos/james-at-work.jpg" alt="james at work" class="about bio img james-at-work center-img img-stylish"/>
+<figure>
+  <img src="/assets/site-photos/james-at-work.jpg" alt="james at work" class="about bio img james-at-work center-img img-stylish"/>
+  <figcaption>Photo by Rowe Family taken on May 6th, 2024</figcaption>
+</figure>
 
-## Why a public GitHub site?
+## Why a Jekyll site?
 
-Previously I have used WYSIWYG authoring platforms like Wordpress, blogspot and roll-your-own implementations of Drupal and Joomla. I grew tired of the bulky UIs and lack of version control work process I was accustomed to with writing code. This combined with lack of data transparency and other small friction points along the way I decided to [revisit the markdown to static site generators](/hello-world-jekyll/) and found a lot of personal satisfaction with GitHub Pages/jekyll.
+I have used WYSIWYG authoring platforms like Wordpress, blogspot and roll-your-own implementations of Drupal and Joomla. I grew tired of the bulky UIs and lack of version control work process I was accustomed to with writing code.
+
+This combined with lack of data transparency and other small friction points along the way I decided to [revisit the markdown to static site generators](/hello-world-jekyll/) and found a lot of personal satisfaction with GitHub Pages/Jekyll authoring and publishing.
 
 Having seen the web grow from late 90s to present I really liked the idea of a writing-focused experienced combined with a simple build process to publish static content with some basic functionality like an [atom feed](/feed.xml). This is my site, there are many like it, but this one is mine.
 

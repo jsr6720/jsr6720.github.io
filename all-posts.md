@@ -4,30 +4,32 @@ title: All Posts
 permalink: /all-posts/
 ---
 
-<!-- {{ site.time | date_to_xmlschema }} Last build --> 
-<!-- TODO -->
-<!-- pagination? -->
-<!-- js quick filter -->
-<!-- click button filter by tags? -->
-<!-- random article -->
-
+<div class="post-list">
 {%- if site.posts.size > 0 -%}
-  <ul class="post-list">
-    {%- for post in site.posts -%}
-    <li>
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-      {%- if site.show_excerpts -%}
-        {{ post.excerpt }}
-      {%- endif -%}
-    </li>
-    {%- endfor -%}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- for post in site.posts -%}
+  <div class="post-item">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <div class="post-flex-container">
+      <div class="post-left">
+        <div class="post-title">
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </div>
+        <div class="post-tags">
+          {% for tag in post.tags %}
+            <span class="post-tag">{{ tag }}</span>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="post-date">
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+      </div>
+    </div>
+    {%- if site.show_excerpts -%}
+      {{ post.excerpt }}
+    {%- endif -%}
+  </div>
+  {%- endfor -%}
 {%- endif -%}
+</div>

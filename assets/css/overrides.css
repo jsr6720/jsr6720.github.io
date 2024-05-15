@@ -42,3 +42,42 @@ body {
 .img-stylish:hover {
   box-shadow: 0 8px 16px rgba(0,0,0,0.15); /* Increase shadow effect on hover */
 }
+
+.post-list .post-flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start; /* Align items to the top */
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.post-list .post-left {
+  flex: 1; /* Allow the left column to take up as much space as possible */
+}
+
+.post-list .post-title {
+  margin-bottom: 5px;
+}
+
+.post-list .post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.post-list .post-tag {
+  background-color: #f0f0f0;
+  border-radius: 3px;
+  padding: 2px 5px;
+}
+
+.post-list .post-date {
+  flex: 0 0 auto; /* Prevent the date column from growing or shrinking */
+  text-align: right;
+  color: #666;
+}
+
+.post-list .post-item {
+  margin-bottom: 20px;
+}

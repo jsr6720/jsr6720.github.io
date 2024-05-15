@@ -1,9 +1,9 @@
 ---
 layout: post
 author: James Rowe
-title:  "<<title-similiar-to-filename>>"
-date:   date "+%Y-%m-%d %H:%M:%S"
-tags: technology
+title:  "<<title-similar-to-filename>>"
+date:   date "+%Y-%m-%d %H:%M:%S %z"
+tags: whitespace deliminated tags
 uid: uuidgen
 ---
 
