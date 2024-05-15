@@ -1,7 +1,7 @@
 ---
 layout: post
 author: James Rowe
-title: "Chat-GPT4o Initial impressions on latest model (with citations)"
+title: "ChatGPT-4o Initial impressions on latest model (with citations)"
 date: "2024-05-15 00:48:56 -0400"
 tags: technology llm chatgpt
 uid: F3A05744-A899-4349-AB7F-121CE6A970BE

@@ -3,8 +3,8 @@ layout: home
 exclude: true
 ---
 
-<h3>You found me</h3>
+<h2>You found me</h2>
 
-My special little corner where I get to publish short posts on various topics.
+My little corner where I get to write short posts on various topics.
 
 Find out more [about](/about) me or read on for my latests thoughts.
