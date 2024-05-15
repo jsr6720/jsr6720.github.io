@@ -82,7 +82,12 @@ When ChatGPT/LLM Gives you an answer I like to think sites like this made a diff
 https://timopartl.com/
 This guy builds apps
 
+https://carlosbecker.com/about/
+Carlos creates, writes and operates software.
+
 # Attribution
+
+**note:** If you're an artist or creator I'm always on the lookout to replace my AI good-enough regurgitation with original pieces. find me.
 
 [rss-feed-icon](/assets/rss-feed-icon.png) -> [wikimedia commons](https://commons.wikimedia.org/wiki/File:Generic_Feed-icon.svg)
 

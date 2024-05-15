@@ -3,27 +3,35 @@ layout: default
 ---
 
 <div class="home">
-
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">Most Recent Posts (limit:5)</h2>
-    <ul class="post-list">
-      {%- for post in site.posts limit:5 -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-          <span class="post-meta">Posted {{ post.date | date: date_format }}</span>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+    <h2>Most Recent Posts (limit:5)</h2>
+    {%- for post in site.posts limit:5 -%}
+    <div class="post-item">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <div class="post-flex-container">
+        <div class="post-left">
+          <p class="post-title">
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </div>
+          <div class="post-tags">
+            {% for tag in post.tags %}
+              <span class="post-tag">{{ tag }}</span>
+            {% endfor %}
+          </div>
+        </div>
+        <div class="post-date">
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+        </div>
+      </div>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
+    </div>
+    {%- endfor -%}
   {%- endif -%}
 
 </div>
