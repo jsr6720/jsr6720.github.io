@@ -75,6 +75,9 @@ Sites that I appreciate
 https://gail.com
 Just a fun site registered early in the domain era
 
+https://dennis.mnuskin.com/blog/
+Personal friend on a leadership journey
+
 https://www.alanwsmith.com
 When ChatGPT/LLM Gives you an answer I like to think sites like this made a difference
 
