@@ -2,8 +2,8 @@
 layout: post
 author: James Rowe
 title:  "Journaling, why write?"
-date: 2024-05-19 16:00:59 -0400
-tags: personal reflection archive
+date: "2024-05-19 16:00:59 -0400"
+tags: 2024 personal reflection archive
 uid: 70796E95-880F-464C-8A0B-EB4B4BA04FC1
 ---
 

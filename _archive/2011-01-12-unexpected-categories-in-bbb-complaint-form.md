@@ -1,9 +1,9 @@
 ---
 layout: post
 author: James Rowe
-title:  "Unexpected categories in BBB complaint form"
-date:   "2011-01-12 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "Personal Musings", "bbb"
+title: "Unexpected categories in BBB complaint form"
+date: "2011-01-12 00:00:00 -0400"
+tags: wordpress txcowboycoder personal bbb
 uid: 0886ae8b-81ef-44bf-99f4-ab4d00950f7c
 ---
 

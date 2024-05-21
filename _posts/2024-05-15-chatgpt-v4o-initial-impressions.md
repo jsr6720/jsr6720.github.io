@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "ChatGPT-4o Initial impressions on latest model (with citations)"
 date: "2024-05-15 00:48:56 -0400"
-tags: technology llm chatgpt
+tags: 2024 technology llm chatgpt
 uid: F3A05744-A899-4349-AB7F-121CE6A970BE
 ---
 
