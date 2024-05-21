@@ -1,9 +1,9 @@
 ---
 layout: post
 author: James Rowe
-title:  "If you don’t know, how should I?"
-date:   "2011-02-25 00:00:00 -0400"
-tags: wordpress, txcowboycoder, "Misc", "bad content generation", "bad english"
+title: "If you don’t know, how should I?"
+date: "2011-02-25 00:00:00 -0400"
+tags: wordpress txcowboycoder
 uid: 820dc18d-d64d-40c5-b3cf-79f96e12ba10
 ---
 
@@ -28,6 +28,8 @@ See the example below.
 ---
 
 ##### Author's Note
+
+And then came the memes.
 
 Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
 
