@@ -1,6 +1,14 @@
 # Whitepapers Readme
 
-I like to read whitepapers, but often I either print them out and mark them up or forget where to find them. This will be my digital archive of things I read online that power discussions. IE Primary sources only.
+I like to read whitepapers, but often I either print them out and mark them up or forget where to find them. This will be my digital archive of things I read online that power discussions. Maybe.. Always trying new things.
+
+# 2024-05-21
+
+[Link Rot and Content Drift in Scholarly Publications](/_whitepapers/pl_2024.05.17_link-rot_report.pdf)
+
+**Personal note** Based on this and my own porting of old content I've tried to use [https://archive.org](https://archive.org) and since storage is indefinitely free just import it here. Just in trying to download this again I had trouble finding it. Was it on slashdot? Wired? digg?
+
+Pew Research Center, "Link Rot and Content Drift in Scholarly Publications," Pew Research Center, Washington, D.C., Report, May 2024. [Online]. Available: https://www.pewresearch.org/wp-content/uploads/sites/20/2024/05/pl_2024.05.17_link-rot_report.pdf. [Accessed: May 21, 2024].
 
 # 2024-05-14 
 

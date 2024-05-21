@@ -1,0 +1,109 @@
+Smithsonian Institution
+______________________
+Asset Name:
+damsmdm:NMAH-NMAH2000-03035
+
+File Usage:
+
+Not determined
+There are restrictions for re-using this media. For more information, visit the Smithsonian's Terms of Use page at https://www.si.edu/Termsofuse
+
+
+______________________
+Object details:
+
+Title: Log Book With Computer Bug
+Smithsonian Record ID: edanmdm:nmah_334663
+
+	Title
+	Log Book With Computer Bug
+
+	Metadata Usage
+	CC0
+
+	Guid
+	http://n2t.net/ark:/65665/ng49ca746a3-b8b7-704b-e053-15f76fa0b4fa
+
+	Data Source
+	National Museum of American History
+
+	Director
+	Aiken, Howard Hathaway
+
+	Maker
+	Harvard University
+
+	Maker
+	IBM
+
+	Maker
+	Harvard University
+
+	Maker
+	Aiken, Howard
+
+	Physical Description
+	tape (overall material)
+
+	Physical Description
+	paper (overall material)
+
+	Physical Description
+	cloth (overall material)
+
+	Physical Description
+	ink (overall material)
+
+	Physical Description
+	biologicals (overall material)
+
+	Measurements
+	overall: 1.5 cm x 48.4 cm x 29.5 cm; 9/16 in x 19 1/16 in x 11 5/8 in
+
+	Description
+	American engineers have been calling small flaws in machines "bugs" for over a century. Thomas Edison talked about bugs in electrical circuits in the 1870s. When the first computers were built during the early 1940s, people working on them found bugs in both the hardware of the machines and in the programs that ran them. 
+
+	Description
+	In 1947, engineers working on the Mark II computer at Harvard University found a moth stuck in one of the components. They taped the insect in their logbook and labeled it "first actual case of bug being found." The words "bug" and "debug" soon became a standard part of the language of computer programmers.
+
+	Description
+	Among those working on the Mark II in 1947 was mathematician and computer programmer Grace Hopper, who later became a Navy rear admiral. This log book was probably not Hopper's, but she and the rest of the Mark II team helped popularize the use of the term computer bug and the related phrase "debug."
+
+	Description
+	References:
+
+	Description
+	Grace Murray Hopper,"The First Bug," Annals of the History of Computing,vol. 3 #3, 1981, pp. 285-286.
+
+	Description
+	P. A. Kidwell, "Stalking the ElusiveComputer Bug," IEEE Annals of the History of Computing, vo.20, #4, 1998, pp.5-9.
+
+	Location
+	Currently not on view
+
+	Place Made
+	United States: Massachusetts, Cambridge
+
+	Credit Line
+	Transfer from United States Department of Defense, Naval Surface Warfare Center
+
+	ID Number
+	1994.0191.01
+
+	Catalog number
+	1994.0191.1
+
+	Accession number
+	1994.0191
+
+	Date made
+	1947
+
+	Object Name
+	log book
+
+	Subject
+	Computer Bug
+
+______________________
+
