@@ -60,36 +60,9 @@ Book tags (might be some overlap from above)
 - non-fiction
 - fiction
 
-### Inspiration
+# Asset Attribution
 
-Sites that inspire me for both their content and design
-
-https://martinfowler.com
-
-https://lethain.com
-
-### Imitation is the best form of flattery(?)
-
-Sites that I appreciate
-
-https://gail.com
-Just a fun site registered early in the domain era
-
-https://dennis.mnuskin.com/blog/
-Personal friend on a leadership journey
-
-https://www.alanwsmith.com
-When ChatGPT/LLM Gives you an answer I like to think sites like this made a difference
-
-https://timopartl.com/
-This guy builds apps
-
-https://carlosbecker.com/about/
-Carlos creates, writes and operates software.
-
-# Attribution
-
-**note:** If you're an artist or creator I'm always on the lookout to replace my AI good-enough regurgitation with original pieces. [contact me](/about.md).
+**note:** If you're an artist or creator I'd love to replace my AI good-enough regurgitation with original pieces. [contact me](/about.md).
 
 [rss-feed-icon](/assets/rss-feed-icon.png) -> [wikimedia commons](https://commons.wikimedia.org/wiki/File:Generic_Feed-icon.svg)
 

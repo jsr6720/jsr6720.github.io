@@ -14,14 +14,15 @@ layout: default
       <span class="h-card reading-time" title="Estimated read time">
         <!-- thanks https://carlosbecker.com/posts/jekyll-reading-time-without-plugins/ -->
         {% assign words = content | number_of_words %}
-        {{ words | divided_by:160 | plus:1}} mins | {{ words }} words
+        {{ words | divided_by:160 | plus:1}} mins &bullet; {{ words }} words
       </span>
       {%- if page.author -%}
         &bullet; 
         <span itemprop="author" itemscope itemtype="http://schema.org/Person">
           <span class="p-author h-card" itemprop="name">{{ page.author }}</span>
         </span>
-      {%- endif -%}</p>
+      {%- endif -%}
+    </p>
       
   </header>
 
@@ -35,3 +36,21 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+<footer>
+  <nav class="post-navigation">
+    {% include share-buttons.html %}
+    <ul>
+        {% if page.previous %}
+        <li class="prev">
+          Previous Thought: <a href="{{ page.previous.url }}" title="{{ page.previous.title }}">{{ page.previous.title }}</a>
+        </li>
+        {% endif %}
+        {% if page.next %}
+        <li class="next">
+          Next Thought: <a href="{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.title }}</a>
+        </li>
+        {% endif %}
+    </ul>
+  </nav>
+</footer>

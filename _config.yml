@@ -32,6 +32,9 @@ collections:
   whitepapers: # see readme in _whitepapers
     output: false
     permalink: /:collection/:name
+  recipes: 
+    output: true
+    permalink: /:collection/:name
 
 theme: minima # base install
 plugins:
