@@ -8,11 +8,9 @@ permalink: /about/
 
 Hi! I'm James and I'm an engineer at heart. I've been a student of the business of software engineering products for over 20 years. I have experience with a wide range of technologies and worked in a variety of industries. I wanted a place to share what I've learned along the way, this is that place.
 
-[Read more](/portfolio) about my career.
+### | more
 
-### Contact me
-
-[Send me an email](mailto:jrowe6720@gmail.com) find me on [LinkedIn](https://linkedin.com/in/jsr6720){:target="_blank"} or see if [I'm still alive](https://status.jsrowe.com).
+[Read more](/portfolio) about my career, find me on [LinkedIn](https://linkedin.com/in/jsr6720){:target="_blank"} or see if [I'm still alive](https://status.jsrowe.com). [Send me an email](mailto:jrowe6720@gmail.com) 
 
 ## [A mind at work](https://en.wikipedia.org/wiki/The_Schuyler_Sisters)
 
@@ -25,15 +23,15 @@ A candid photo taken by my kids that captures how I frequently find myself "at w
 
 ## Why a Jekyll site?
 
-I have used WYSIWYG authoring platforms like Wordpress, blogspot and roll-your-own implementations of Drupal and Joomla. I grew tired of the bulky UIs and lack of version control work process I was accustomed to with writing code.
+Having used WYSIWYG authoring platforms like Wordpress, blogspot and roll-your-own implementations of Drupal and Joomla. I grew tired of the bulky UIs and lack of version control work process I was accustomed to with writing code. I just want to open a file, write my content and see it on screen.
 
 This combined with lack of data transparency and other small friction points along the way I decided to [revisit the markdown to static site generators](/hello-world-jekyll/) and found a lot of personal satisfaction with GitHub Pages/Jekyll authoring and publishing.
 
-Having seen the web grow from late 90s to present I really liked the idea of a writing-focused experienced combined with a simple build process to publish static content with some basic functionality like an [atom feed](/feed.xml). This is my site, there are many like it, but this one is mine.
+Having seen the web grow from late 90s to present I really liked the idea of a writing-focused experienced combined with a simple build process to publish static content with some basic functionality like an [atom feed](/feed.xml). This is my site, [there are many like it](/inspiration.md), but this one is mine.
 
-## FYI Basic web tracking at use (at some point)
+## FYI Basic web tracking
 
-Implemented using GDRP compliant functionality. Just a way to understand what is being read.
+TBD - But with intent to implement using GDRP compliant functionality, ie [web counter](https://en.wikipedia.org/wiki/Web_counter)
 
 One of my favorite thought pieces. [Are you really leading, or are you just taking a walk?](https://www.johnmaxwell.com/blog/are-you-really-leading-or-are-you-just-taking-a-walk/) Writing and putting my works 'out there' is half the endeavor. Seeing what is meeting a need is another.
 
