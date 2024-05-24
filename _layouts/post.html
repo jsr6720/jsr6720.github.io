@@ -36,6 +36,21 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
 <footer>
-  {% include share-buttons.html %}
+  <nav class="post-navigation">
+    {% include share-buttons.html %}
+    <ul>
+        {% if page.previous %}
+        <li class="prev">
+          Previous Thought: <a href="{{ page.previous.url }}" title="{{ page.previous.title }}">{{ page.previous.title }}</a>
+        </li>
+        {% endif %}
+        {% if page.next %}
+        <li class="next">
+          Next Thought: <a href="{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.title }}</a>
+        </li>
+        {% endif %}
+    </ul>
+  </nav>
 </footer>
