@@ -1,0 +1,147 @@
+<html>
+<head>
+  <title>What's in your software product?</title>
+  <style>
+    body {
+      margin: 0 auto;
+      width: 744px;
+      font-family: Source Serif Pro, serif;
+      line-height: 32px;
+      font-weight: 400;
+      color: rgba(0, 0, 0, 0.7);
+      font-size: 21px;
+    }
+    h1, h2, h3 {
+      font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+    }
+    h1 a, h1 a:visited {
+      color: inherit;
+      text-decoration: none;
+    }
+    h1 {
+      line-height: 48px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 42px;
+      margin: 32px 0 20px;
+    }
+    h2 {
+      line-height: 32px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 26px;
+      margin: 28px 0;
+    }
+    h3 {
+      line-height: 28px;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.85);
+      font-size: 21px;
+      margin: 24px 0;
+    }
+    p {
+      margin: 32px 0;
+    }
+    .created, .published {
+      color: rgba(0, 0, 0, 0.55);
+      font-size: 15px;
+      line-height: 15px;
+      margin: 20px 0;
+    }
+    .created + .published {
+      margin-top: -12px;
+    }
+    blockquote {
+      font-family: Georgia, Source Serif Pro, serif;
+      font-style: italic;
+      font-size: 24px;
+      line-height: 36px;
+      margin: 48px 120px;
+      text-align: center;
+    }
+    a {
+      word-wrap: break-word;
+      outline: none;
+      text-decoration: none;
+      background-color: transparent;
+      border: 0;
+      color: #008CC9;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    a:visited {
+      color: #8C68CB;
+    }
+    .center {
+      text-align: center;
+    }
+    iframe {
+      display: block;
+      margin: 44px auto;
+    }
+    *:not(pre) + pre, pre:first-of-type {
+      margin-top: 32px;
+      padding-top: 32px;
+    }
+    pre:only-of-type {
+      margin: 32px 0;
+      padding: 32px;
+    }
+    pre {
+      background: #F3F6F8;
+      overflow-x: auto;
+      display: block;
+      font-size: 13px;
+      font-family: monospace;
+      line-height: 13px;
+      padding: 0 32px 32px;
+      white-space: pre;
+    }
+    a.embedded {
+      background: #F3F6F8;
+      display: block;
+      padding: 32px;
+      margin: 32px 0;
+    }
+    img {
+      height: auto;
+      max-width: 100%;
+    }
+    .slate-image-embed__resize-full-width img {
+      width: 100%;
+    }
+    .series-logo {
+      width: 48px;
+      height: 48px;
+      box-sizing: border-box;
+      background-clip: content-box;
+      border: 4px solid transparent;
+      border-radius: 6px;
+      object-fit: scale-down;
+      float: left;
+    }
+    .series-title {
+      font-size: 16px;
+      font-weight: 600;
+      vertical-align: top;
+    }
+    .series-description {
+      color: rgba(0,0,0,.6);
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 20px;
+    }
+    div {
+      margin: 32px 0;
+    }
+  </style>
+</head>
+<body>
+    <img src="https://media.licdn.com/mediaC4D12AQF4GwyLSP4L9A" alt="Photo by Christopher Robin Ebbinghaus" title="Photo by Christopher Robin Ebbinghaus" />
+      <h1><a href="https://www.linkedin.com/pulse/whats-your-software-product-james-rowe">What's in your software product?</a></h1>
+    <p class="created">Created on 2020-02-26 16:47</p>
+  <p class="published">Published on 2020-04-28 14:38</p>
+  <div><p>Today's software ecosystem is built on widely available free open source software (FOSS) stored for consumption at sites like GitHub.com, Bitbucket, StackOverflow and a wide variety of package managers. Startups and Fortune 100 enterprises alike have benefited tremendously from this arrangement; new projects can focus on the value-add proposition and not re-inventing the wheel.</p><p>This explosion of open source packages has introduced a new problem: "what is being bundled into my software products?". Like any port of entry, consuming these 3rd party software packages require an inspection of goods. For more details on the perils of trusting the internet look no further than this study recently published by the <a href="https://www.coreinfrastructure.org/programs/census-program-ii/" target="_blank">Core Infrastructure Initiative.</a> It identified that 'Seven of the top ten most used software packages were hosted under individual accounts.' If this sounds at all familiar, look no further than the <a href="https://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm" target="_blank">2016 "left-pad"</a> package that 'broke' the internet.</p><p>Even the simplest <a href="https://angular.io/tutorial" target="_blank">Angular.io hero application</a> requires 12 core dependencies and results in ~870 installed node module packages! Any team could spend its <a href="https://hbswk.hbs.edu/item/the-hidden-vulnerabilities-of-open-source-software" target="_blank">entire time worrying about publicly hosted packages</a>, or it could implement a few simple steps to mitigate this risk.</p><ol><li>Fork the target open source project and maintain a sync version. Stay current and update the forked repository after confirming the latest code is what it purports to be.</li><li>Leverage an open source scanning solution like <a href="https://www.blackducksoftware.com/" target="_blank">Black Duck</a> or <a href="https://www.checkmarx.com/products/open-source-analysis" target="_blank">CheckMarx</a> to systematically review and <a href="https://blogs.apache.org/foundation/entry/apache-struts-statement-on-equifax" target="_blank">mitigate the risk of open source software defects</a>.</li><li>Form an Open Source stewardship committee to oversee the consumption and contribution back to Open Source Software. All contributions count! Even bug reports, documentation contributions and issue triage.</li></ol><p>Taking these three simple steps has improved cross-team communication, innovation and security at Paychex. Learn more about our open source contributions at <a href="https://github.com/Paychex" target="_blank">https://github.com/Paychex</a></p><p><em>Opinions expressed are solely my own and do not express the views or opinions of my employer.</em></p></div>
+</body>
+</html>
