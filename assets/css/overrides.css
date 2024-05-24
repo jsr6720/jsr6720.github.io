@@ -1,9 +1,17 @@
 ---
 ---
 
+/** 
+Off white background colors I've tried
+#f5f5dc - chatGPT-3.5 told me this was the kindle color, but it looked too pale green
+#FFF8DC - chatGPT-4o told me it had that "Cornsilk color for a yellowed paper look" lies
+#faebd0 - stolen from project gutenberg. Too yellow
+*/
+
 :root {
-  --bg-color-light: #faebd0;
-  --text-color-light: #3E3E3E;
+  color-scheme: light dark;
+  --bg-color-light: #faf0e6; /* Linen color for a softer vintage paper look */
+  --text-color-light: #333333;
   --bg-color-dark: #333333;
   --text-color-dark: #ffffff;
 }
@@ -12,7 +20,15 @@ body {
   background-color: var(--bg-color-light);
   color: var(--text-color-light);
   transition: background-color 0.3s, color 0.3s;
+
+  font-family: "Georgia", "Courier New", serif;
 }
+
+/** 
+some other fonts I've played with
+font-family: "Consolas", "Courier New", monospace; // I used to program exclusively in this.. 
+font-family: "Comic Sans MS", "Comic Sans", cursive; // I mean just because
+*/
 
 .dark-mode {
   background-color: var(--bg-color-dark);
