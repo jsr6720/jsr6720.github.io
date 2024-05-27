@@ -2,7 +2,7 @@
 layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"If you give a mouse a cookie\""
-date: "2024-05-27 00:10:27 -0400"
+date: "2024-05-27 00:21:19 -0400"
 tags: book review Numeroff childhood-classics
 uid: 6DEDF293-4120-4BD2-A7A4-6546297A422A
 ---
