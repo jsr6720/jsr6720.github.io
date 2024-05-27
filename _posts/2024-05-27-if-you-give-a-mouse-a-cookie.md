@@ -19,7 +19,7 @@ There are merits and efficiencies gained by getting a variety of things done in 
 
 ## The friends you made along the way
 
-Part of my new objective with this github repository is to archive some of the things I see online that I enjoy. Years ago I read a post on the organizational sidequest[^sidequest] and how contributing to things along the way make for a better outcome.
+Part of my new objective with this github repository is to archive some of the things I see online that I enjoy. Years ago I read a post on the organizational side-quests[^sidequest] and how contributing to things along the way make for a better outcome.
 
 I remember spending what felt like forever in Chapter 2 of Baulders Gate 2. Side quest after side quest. Not realizing that the groundwork of the rest of the game and my character's strength going into the end game was based on.
 
