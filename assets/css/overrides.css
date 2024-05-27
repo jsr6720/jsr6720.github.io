@@ -45,6 +45,18 @@ font-family: "Comic Sans MS", "Comic Sans", cursive; // I mean just because
   margin: 20px auto;  /* Center the image and give some space around */
 }
 
+/** just spit them out in a row. chatgpt-4o */
+.flex-row {
+  display: flex;
+  justify-content: space-between; /* Adjusts space between the images */
+  align-items: center; /* Aligns images vertically in the center */
+}
+
+.flex-row img {
+  max-width: 48%; /* Ensures the images fit nicely in the row */
+  height: auto; /* Maintains the aspect ratio of the images */
+}
+
 /** thanks gpt4. I'm so cool */
 .img-stylish {
   display: block;
