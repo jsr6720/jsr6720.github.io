@@ -29,9 +29,10 @@ I was at an estate sale and bought a couple boxes of crayons for $1. I noticed t
     <img src="/assets/posts-images/small-crayola-box-back.png" alt="small crayola box back" class="center-img img-stylish"/>
 </div>
 
-## Jc James, whats the moral here
+## J.c. James, whats the moral here
 
-Cherish the time you have. There will be more firsts, but there will also be lasts.
+Cherish the time you have. There will be more firsts, but there will also be lasts. And yes, even this project will have one last `_post`. Just don't know when that'll be right this minute.
+
 
 <img src="/assets/posts-images/kym-last-online-5-years-ago.jpeg" alt="know your meme last online" class="center-img img-stylish"/>
 
