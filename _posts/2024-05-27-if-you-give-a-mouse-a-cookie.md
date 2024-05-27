@@ -15,7 +15,7 @@ I always liked this book, if only because I identified with its roundabout accom
 
 ## What is the lesson?
 
-I think there is merit and efficiencies gained by getting a variety of things done in a semi-organized manner. So long as we bend towards our primary objective it seems that having a cookie with a glass of milk and sweeping the floor is worth the journey. Remember also the power of 'no' and that the Mouse does eventually sit and eat his cookie. With a glass of milk.
+There are merits and efficiencies gained by getting a variety of things done in a semi-organized manner. So long as we bend towards our primary objective it seems side quests are worth the journey. Corollary remember the power of 'no' and that the Mouse does eventually sit and eat his cookie. With a glass of milk.
 
 ## The friends you made along the way
 
