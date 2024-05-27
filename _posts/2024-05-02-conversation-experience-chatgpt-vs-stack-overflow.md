@@ -93,7 +93,7 @@ I decided to compare the above experience to ChatGPT. One huge advantage, all of
 
 ---
 
-##### Author's Note
+## Author's Note
 
 I didn't think the raw code was relevant to this post so I copied it to `gist`
 
@@ -107,13 +107,13 @@ I had to ask
 > **ChatGPT**
 > Nope, I didn't copy that example from Stack Overflow or any other specific source. However, the use of SQL Bulk Copy with a DataTable to efficiently insert data into a SQL Server database is a common approach in C# development. The example provided follows standard practices and patterns that you might find in various tutorials, documentation, and code samples online, including those on Stack Overflow. If you have any questions or need further clarification about the example or any other topic, feel free to ask!
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-##### EOF/Footnotes
+## EOF/Footnotes
 
 [^1]: ChatGPT 3.5 May 2nd, 2024
 

@@ -30,19 +30,19 @@ Bookshelves: parenting
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 John Taylor Gatto, *Dumbing Us Down - 25th Anniversary Hardback Edition: The Hidden Curriculum of Compulsory Schooling - 25th Anniversary Edition*,  New Society Publishers 2017 (Hardcover)[^1]
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
-##### EOF/Footnotes
+## EOF/Footnotes
 
 [^1]: ISBN: ="0865718563"

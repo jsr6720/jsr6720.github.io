@@ -55,7 +55,7 @@ I won’t go into much detail as it is well documented, but if you do some deep 
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
 
@@ -65,12 +65,12 @@ Original Wordpress tags: "4D", "4D", "execute on server", "stored procedure"
 
 Original Wordpress comments: None
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/01/31/4d-execute-on-sever-command-vs-method-checkbox-differences/)
 
-##### EOF/Footnotes
+## EOF/Footnotes
 

@@ -46,7 +46,7 @@ llama also has a `sources` link but in this example it linked to a bing search r
 
 ---
 
-##### Author's Note
+## Author's Note
 
 It's very difficult for me to ascertain how large of a problem this is in the software field and beyond. Are the training sets going to be continuously updated? The biggest distinguishing mark from traditional search is the inclusion of publication dates from a variety of sites and publication sources.[^3] If I could wave a wand I would would get confidence and temperature settings back from the llm responses.
 
@@ -54,13 +54,13 @@ See below a "traditional search" result. Never mind that I had to do a full page
 
 <img src="/assets/posts-images/traditional-google-search-ruby-2.png" alt="google search ruby 2 version" class="center-img img-stylish"/>
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-##### EOF/Footnotes
+## EOF/Footnotes
 
 [^1]: The original queries were placed within a few hours of each other on May 2nd 2024.
 [^2]: I manually modified the screenshot from [ruby-lang releases](https://www.ruby-lang.org/en/downloads/releases/) page to focus on the named versions in this post.

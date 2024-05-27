@@ -49,7 +49,7 @@ Link to official [4D feature request](http://forums.4d.fr/Post//5588408/1/) (log
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
 
@@ -59,12 +59,12 @@ Original Wordpress tags: "4D", "Wish List", "possible loss of precision", "real 
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/04/25/compiler-warning-on-possible-loss-of-precision/#comments">1 Comment</a>
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/04/25/compiler-warning-on-possible-loss-of-precision/)
 
-##### EOF/Footnotes
+## EOF/Footnotes
 

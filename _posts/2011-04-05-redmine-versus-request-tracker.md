@@ -145,7 +145,7 @@ For just issue tracking, both systems offer lots of features. However for me Red
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
 
@@ -155,12 +155,12 @@ Original Wordpress tags: "Misc", "redmine", "request tracker", "rt vs redmine", 
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/04/05/redmine-versus-request-tracker/#comments">6 Comments</a>
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/04/05/redmine-versus-request-tracker/)
 
-##### EOF/Footnotes
+## EOF/Footnotes
 

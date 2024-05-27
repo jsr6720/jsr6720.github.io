@@ -77,19 +77,19 @@ But James, digital will go poof one day. I know. Which is why I wrote this in `p
 
 ---
 
-##### Author's Note
+## Author's Note
 
 If Steve Jobs gets to put a dent into the universe, then why not my observations of his dent? I was here. I saw.
 
 On the golden records[^voyager] of humanity, having etched perhaps a singular micron is a fun thought. Who knows, maybe I'll be the sole surviving record of copper ingots.[^copper]
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-##### EOF/Footnotes
+## EOF/Footnotes
 
 [^assholes]: For this post, please allow me to set aside serious works documenting atrocities. These deserve their own preservation and study far beyond any of my personal ramblings.
 

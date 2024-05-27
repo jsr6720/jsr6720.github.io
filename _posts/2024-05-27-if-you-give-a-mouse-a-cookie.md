@@ -15,11 +15,11 @@ I always liked this book, if only because I identified with its roundabout accom
 
 ## What is the lesson?
 
-I think there is merit and efficiencies gained by getting a variety of things done in a semi-organized manner. So long as we bend towards our primary objective it seems that having a cookie with a glass of milk and sweeping the floor is worth the journey. Remember also the power of 'no' and that the Mouse does eventually sit and eat his cookie. With a glass of milk.
+There are merits and efficiencies gained by getting a variety of things done in a semi-organized manner. So long as we bend towards our primary objective it seems side quests are worth the journey. Corollary remember the power of 'no' and that the Mouse does eventually sit and eat his cookie. With a glass of milk.
 
 ## The friends you made along the way
 
-Part of my new objective with this github repository is to archive some of the things I see online that I enjoy. Years ago I read a post on the organizational sidequest[^sidequest] and how contributing to things along the way make for a better outcome.
+Part of my new objective with this github repository is to archive some of the things I see online that I enjoy. Years ago I read a post on the organizational side-quests[^sidequest] and how contributing to things along the way make for a better outcome.
 
 I remember spending what felt like forever in Chapter 2 of Baulders Gate 2. Side quest after side quest. Not realizing that the groundwork of the rest of the game and my character's strength going into the end game was based on.
 
@@ -34,16 +34,16 @@ Accept quests. Especially with the vigor of Quest Sprout.
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Book cover image hotlink credit https://en.wikipedia.org/wiki/If_You_Give_a_Mouse_a_Cookie until I can find my copy to take a picture. I guess I have my own side quest now.
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-##### EOF/Footnotes
+## EOF/Footnotes
 
 [^sidequest]: If you know what I'm talking about submit a PR! Drop me a line! It used primarily Diablo 2 as an example, but Baulders Gate also comes to mind.

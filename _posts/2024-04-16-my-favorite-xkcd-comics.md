@@ -85,17 +85,17 @@ Sometimes I wonder about my old code. My professional career all my code changes
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Not my most original contribution. But it brought me joy to revisit and reminisce.
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-##### EOF/Footnotes
+## EOF/Footnotes
 
 [^1]: [xkcd wikipedia](https://en.wikipedia.org/wiki/Xkcd)
 

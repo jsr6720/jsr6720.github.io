@@ -27,16 +27,16 @@ And as a bonus thought [Who lives, who dies, who tells your story](https://en.wi
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Henry A. Shute, *The Real Diary of a Real Boy*,  Franklin Covey 2011 (Audio CD)[^1]
 
 Accessed via [Project Gutenberg's site](https://www.gutenberg.org/files/5111/5111-h/5111-h.htm)
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-##### EOF/Footnotes
+## EOF/Footnotes

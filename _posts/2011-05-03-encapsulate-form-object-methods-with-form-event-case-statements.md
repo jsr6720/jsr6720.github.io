@@ -61,7 +61,7 @@ I don’t type this every time I want to trap events. So I put the following in 
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
 
@@ -71,12 +71,12 @@ Original Wordpress tags: "4D", "4D", "4D v11", "case of", "clean code", "form ev
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/05/03/encapsulate-formobject-methods-with-form-event-case-statements/#comments">1 Comment</a>
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/05/03/encapsulate-formobject-methods-with-form-event-case-statements/)
 
-##### EOF/Footnotes
+## EOF/Footnotes
 

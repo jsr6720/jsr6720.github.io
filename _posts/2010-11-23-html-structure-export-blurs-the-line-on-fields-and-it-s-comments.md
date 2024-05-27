@@ -67,7 +67,7 @@ Also, this is a standing [feature request](http://forums.4d.fr/Post/EN/4703688/)
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
 
@@ -77,12 +77,12 @@ Original Wordpress tags: "4D", "4D", "HTML", "structure export", "XML"
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2010/11/23/html-structure-export-blurs-the-line-on-fields-and-its-comments/#comments">1 Comment</a>
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-05-06 22:47:18" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/11/23/html-structure-export-blurs-the-line-on-fields-and-its-comments/)
 
-##### EOF/Footnotes
+## EOF/Footnotes
 

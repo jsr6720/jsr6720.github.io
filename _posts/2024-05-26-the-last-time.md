@@ -29,16 +29,17 @@ I was at an estate sale and bought a couple boxes of crayons for $1. I noticed t
     <img src="/assets/posts-images/small-crayola-box-back.png" alt="small crayola box back" class="center-img img-stylish"/>
 </div>
 
-## Jc James, whats the moral here
+## J.c. James, whats the moral here
 
-Cherish the time you have. There will be more firsts, but there will also be lasts.
+Cherish the time you have. There will be more firsts, but there will also be lasts. And yes, even this project will have one last `_post`. Just don't know when that'll be right this minute.
+
 
 <img src="/assets/posts-images/kym-last-online-5-years-ago.jpeg" alt="know your meme last online" class="center-img img-stylish"/>
 
 
 ---
 
-##### Author's Note
+## Author's Note
 
 [big crayola box](/assets/posts-images/big-crayola-box.png)
 
@@ -46,13 +47,13 @@ Not sure if there is an archivist in me, but it certainly can't take photos.
 
 Mostly an excuse to stick an old photo of me online.
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-##### EOF/Footnotes
+## EOF/Footnotes
 
 [^youtube]: https://www.youtube.com/watch?v=yEBDsX7YbDc
 

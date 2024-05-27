@@ -21,10 +21,11 @@ body {
   color: var(--text-color-light);
   transition: background-color 0.3s, color 0.3s;
 
-  font-family: "Georgia", "Courier New", serif;
 }
 
 /** 
+tbd
+  font-family: "Georgia", "Courier New", serif;
 some other fonts I've played with
 font-family: "Consolas", "Courier New", monospace; // I used to program exclusively in this.. 
 font-family: "Comic Sans MS", "Comic Sans", cursive; // I mean just because
@@ -108,4 +109,32 @@ font-family: "Comic Sans MS", "Comic Sans", cursive; // I mean just because
 
 .post-list .post-item {
   margin-bottom: 20px;
+}
+
+.post-header .post-title {
+  font-size: 2em;
+}
+
+.post-content h1 {
+  font-size: 1.75em;
+}
+
+.post-content h2 {
+  font-size: 1.5em;
+}
+
+.post-content h3 {
+  font-size: 1.25em;
+}
+
+.post-content h4 {
+  font-size: 1.1em;
+}
+
+.post-content h5 {
+  font-size: 1em;
+}
+
+.post-content h6 {
+  font-size: 0.9em;
 }
