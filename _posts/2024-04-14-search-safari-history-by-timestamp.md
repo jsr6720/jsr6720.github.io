@@ -110,17 +110,17 @@ Ironically lost along the way was the post that directed me to the ```history_it
 
 ---
 
-##### Author's Note
+## Author's Note
 
 First post making use of more advanced markdown and jekyll parsing techniques.
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }}
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-##### EOF/Footnotes
+## EOF/Footnotes
 
 [^xkcd2867]: Obligatory: [https://xkcd.com/2867/](https://xkcd.com/2867/)
 

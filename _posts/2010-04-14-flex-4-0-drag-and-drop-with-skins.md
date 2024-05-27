@@ -68,7 +68,7 @@ Three links that helped me with this endeavor:
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
 
@@ -78,12 +78,12 @@ Original Wordpress tags: "flex", "drag-and-drop", "flex", "skins"
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2010/04/14/flex-4-0-drag-and-drop-with-skins/#comments">2 Comments</a>
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-05-06 22:47:18" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/04/14/flex-4-0-drag-and-drop-with-skins/)
 
-##### EOF/Footnotes
+## EOF/Footnotes
 

@@ -30,7 +30,7 @@ Turns out [smilies](http://en.support.wordpress.com/smilies/) can be disabled bl
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
 
@@ -42,12 +42,12 @@ Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/0
 
 - {{ "2024-05-13 01:32:08" | date_to_string: "ordinal", "US" }} in revisiting this post just over 13 years later I laugh at my use of "smilies"\[sic\].
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/01/16/wordpress-engine-fail-on-embeded-smilies-in-source/)
 
-##### EOF/Footnotes
+## EOF/Footnotes
 

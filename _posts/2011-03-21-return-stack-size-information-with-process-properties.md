@@ -37,7 +37,7 @@ This would allow me to get a point in time measurement of what I allocated to th
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
 
@@ -47,12 +47,12 @@ Original Wordpress tags: "4D", "Wish List", "execute on server", "new process", 
 
 Original Wordpress comments: None
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/03/21/return-stack-size-information-with-process-properties/)
 
-##### EOF/Footnotes
+## EOF/Footnotes
 

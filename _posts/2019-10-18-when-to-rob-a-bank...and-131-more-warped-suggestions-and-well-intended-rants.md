@@ -30,19 +30,19 @@ Bookshelves: economics
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Stephen J. Dubner, *When to Rob a Bank...And 131 More Warped Suggestions and Well-Intended Rants*, Steven D. Levitt, Erik Bergmann, Thérèse Plummer HarperCollins 2015 (Audiobook)[^1]
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
-##### EOF/Footnotes
+## EOF/Footnotes
 
 [^1]: ISBN: ="0062394932"

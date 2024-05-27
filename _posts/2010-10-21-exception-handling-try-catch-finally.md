@@ -34,7 +34,7 @@ $result:=Create document($1) ` none specified
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
 
@@ -44,12 +44,12 @@ Original Wordpress tags: "Wish List", "4D", "programming structure", "try catch"
 
 Original Wordpress comments: None
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-05-06 22:47:18" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/10/21/exception-handling-trycatchfinally/)
 
-##### EOF/Footnotes
+## EOF/Footnotes
 

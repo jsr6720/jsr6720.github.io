@@ -48,7 +48,7 @@ I've done setup on [Blogger](https://www.blogger.com/) and [Wordpress](http://wo
 
 ---
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }}
 

@@ -47,7 +47,7 @@ More information here: <http://php.net/manual/en/language.references.pass.php>
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
 
@@ -57,12 +57,12 @@ Original Wordpress tags: "PHP", "association", "clean code", "php", "resource ma
 
 Original Wordpress comments: None
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/06/15/pass-object-association-by-reference-via-to-save-resources/)
 
-##### EOF/Footnotes
+## EOF/Footnotes
 

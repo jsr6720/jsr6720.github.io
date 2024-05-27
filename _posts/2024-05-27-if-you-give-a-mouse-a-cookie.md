@@ -34,16 +34,16 @@ Accept quests. Especially with the vigor of Quest Sprout.
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Book cover image hotlink credit https://en.wikipedia.org/wiki/If_You_Give_a_Mouse_a_Cookie until I can find my copy to take a picture. I guess I have my own side quest now.
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-##### EOF/Footnotes
+## EOF/Footnotes
 
 [^sidequest]: If you know what I'm talking about submit a PR! Drop me a line! It used primarily Diablo 2 as an example, but Baulders Gate also comes to mind.

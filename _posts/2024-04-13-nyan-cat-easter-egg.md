@@ -29,7 +29,7 @@ I always try and have fun at work. I think about this at least once a month.
 
 ---
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }}
 

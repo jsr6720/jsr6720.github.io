@@ -195,7 +195,7 @@ GRANT EXECUTE ON FUNCTION trigger_sync() TO postgres;
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
 
@@ -205,12 +205,12 @@ Original Wordpress tags: "Postgres", "4D", "plpythonu", "Postgres", "Python", "t
 
 Original Wordpress comments: None
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-05-06 22:47:18" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/10/27/postgres-dynamic-trigger/)
 
-##### EOF/Footnotes
+## EOF/Footnotes
 

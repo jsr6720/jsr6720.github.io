@@ -50,7 +50,7 @@ Unknown is how changing an immutable flag affects the windows system it runs on.
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
 
@@ -60,12 +60,12 @@ Original Wordpress tags: "SVN", "commit failed", "svn commit", "svn terminal"
 
 Original Wordpress comments: None
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/01/10/svn-cant-move-svntmpentries-operation-not-permitted/)
 
-##### EOF/Footnotes
+## EOF/Footnotes
 

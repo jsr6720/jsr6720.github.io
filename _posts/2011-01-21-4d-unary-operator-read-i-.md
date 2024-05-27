@@ -26,7 +26,7 @@ $i:=$i+1 ` why not $i+:=1 or $i++
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
 
@@ -36,12 +36,12 @@ Original Wordpress tags: "Wish List", "4D", "increment"
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/01/21/4d-unary-operator-read-i/#comments">3 Comments</a>
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/01/21/4d-unary-operator-read-i/)
 
-##### EOF/Footnotes
+## EOF/Footnotes
 

@@ -30,19 +30,19 @@ Bookshelves: parenting, biography
 
 ---
 
-##### Author's Note
+## Author's Note
 
 Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Pamela Druckerman, *Bringing Up Bébé: One American Mother Discovers the Wisdom of French Parenting*, Abby Craden Random House Audio 2012 (Audio CD)[^1]
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
 
-##### EOF/Footnotes
+## EOF/Footnotes
 
 [^1]: ISBN: ="0449806979"

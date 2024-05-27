@@ -38,7 +38,7 @@ Cherish the time you have. There will be more firsts, but there will also be las
 
 ---
 
-##### Author's Note
+## Author's Note
 
 [big crayola box](/assets/posts-images/big-crayola-box.png)
 
@@ -46,13 +46,13 @@ Not sure if there is an archivist in me, but it certainly can't take photos.
 
 Mostly an excuse to stick an old photo of me online.
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-##### EOF/Footnotes
+## EOF/Footnotes
 
 [^youtube]: https://www.youtube.com/watch?v=yEBDsX7YbDc
 
