@@ -17,12 +17,12 @@ Here is a young me. Proudly holding one of my the stuffed animals from my childh
 
 <figure>
   <img src="/assets/posts-images/james-94-95-with-dog.png" alt="young james" class="center-img img-stylish"/>
-  <figcaption>James Rowe circa 1994/1995[^kym]</figcaption>
+  <figcaption>James Rowe circa 1994/1995</figcaption>
 </figure>
 
 ## Crayons at an estate sale
 
-I was at an estate sale and bought a couple boxes of crayons for $1. I noticed that one had a name on it and I think about the above quote or some variation of it I've seen on the interwebs. So many things in life happen a 'last' time and in the moment we're not always aware of that fact.
+I bought a couple boxes of crayons for $1 at an estate stale and noticed a name. And I think about the above quote or some variation of it I've seen on the interwebs. So many things in life happen a 'last' time and in the moment we're not always aware of that fact.
 
 <div class="flex-row">
     <img src="/assets/posts-images/small-crayola-box.png" alt="small crayola box" class="center-img img-stylish"/>
@@ -33,9 +33,7 @@ I was at an estate sale and bought a couple boxes of crayons for $1. I noticed t
 
 Cherish the time you have. There will be more firsts, but there will also be lasts. And yes, even this project will have one last `_post`. Just don't know when that'll be right this minute.
 
-
 <img src="/assets/posts-images/kym-last-online-5-years-ago.jpeg" alt="know your meme last online" class="center-img img-stylish"/>
-
 
 ---
 
