@@ -6,17 +6,21 @@ permalink: /about/
 
 ## About James Rowe
 
-Hi! I'm James and I'm an engineer at heart. I've been a student of the business of software engineering products for over 20 years. I have experience with a wide range of technologies and worked in a variety of industries. I wanted a place to share what I've learned along the way, this is that place.
+Hi! I'm James, and I've been a student of delivering solutions via software for over 20 years in a variety of industries. I have experience as a software engineer, software architect, and people leader with a wide range of technologies. Right now I’m transforming insurance [@Clearcover]( https://www.linkedin.com/company/clearcover-inc/).
 
-[Read more](/portfolio) about my career, find me on [LinkedIn](https://linkedin.com/in/jsr6720){:target="_blank"} or see if [I'm still alive](https://status.jsrowe.com). [Send me an email](mailto:jrowe6720@gmail.com) 
+Previously I’ve worked in manufacturing, finance, and healthcare. I wanted a place to publish and share what I've learned along my journey; this is that place.
+
+[Read more](/portfolio) about my career, find me on [LinkedIn](https://linkedin.com/in/jsr6720){:target="_blank"} or check [my latest status](https://status.jsrowe.com).
+
+[Send me an email](mailto:jrowe6720@gmail.com) 
 
 ## A mind at work
 
-A candid photo taken by my kids that I feel captures how I find myself "at work" on my personal projects. Complete with help from a lemur. Very serious business.
+A candid photo taken by my kids that I feel captures how I frequently find myself "at work" on my personal projects—complete with help from a lemur. Very serious business.
 
 <figure>
   <img src="/assets/site-photos/james-at-work.jpg" alt="james at work" class="about bio img james-at-work center-img img-stylish"/>
-  <figcaption>Photo by Rowe Family taken on May 6th, 2024</figcaption>
+  <figcaption>Photo by Rowe Family taken on May 6, 2024</figcaption>
 </figure>
 
 ## Fuel This Content
