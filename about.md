@@ -25,7 +25,7 @@ A candid photo taken by my kids that I feel captures how I frequently find mysel
 
 ## Fuel This Content
 
-Did something here save you time? Help you? Entertain you? Consider whether all that is worth a cup of coffee, at least until I can directly plug my AWS invoice here. All funds spent locally at <a href="https://maps.apple.com/place?auid=14788558629908521873&lsp=9902">Coleen's Kitchen</a>
+Did something here save you time? Help you? Entertain you? Consider whether all that is worth a cup of coffee, at least until I can directly plug my AWS invoice here. All funds spent locally at <a href="https://maps.apple.com/place?auid=14788558629908521873&lsp=9902">Coleen's Kitchen</a>.
 
 <img alt="venmo brand" src="/assets/venmo-blue.png" />
 
