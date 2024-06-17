@@ -6,7 +6,7 @@ title: James' Thoughts
 author: James Rowe
 email: jrowe6720@gmail.com
 description: >- # mutli line capable
-  The digital journal of James Rowe. Something between wordpress, livejournal and gists.
+  The digital journal of James Rowe. Something between WordPress, LiveJournal and gists.
 baseurl: "" # the subpath of your site, e.g. /blog
 # TODO aws redirect https://jsr6720.com -> https://jsr6720.github.io
 url: "https://www.jsrowe.com" # backup --> github pages --> "https://jsr6720.github.io"
