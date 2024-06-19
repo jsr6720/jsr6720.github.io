@@ -38,15 +38,15 @@ As of June 2024, I’m alive and well; check out [https://status.jsrowe.com](htt
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
-- June 13, 2024 Come back to this placeholder and write draft
-- May 13, 2024 [commit](https://github.com/jsr6720/jsr6720.github.io/commit/ed65badbfaeb1af8b0976c4a7b1447eb5e9b8554) this draft idea for later
+- {{ "2024-06-13" | date_to_string: "ordinal", "US" }} Came back to this placeholder and completed draft
+- {{ "2024-05-13" | date_to_string: "ordinal", "US" }} [commit](https://github.com/jsr6720/jsr6720.github.io/commit/ed65badbfaeb1af8b0976c4a7b1447eb5e9b8554) this draft idea for later
 
 ## EOF/Footnotes
 
-[^1]: https://web.archive.org/web/20200303190726/https://westsidenewsny.com/features/2020-03-02/tree-slab-display-provides-a-slice-of-our-history/ 
+[^1]: [https://web.archive.org/web/20200303190726/https://westsidenewsny.com/features/2020-03-02/tree-slab-display-provides-a-slice-of-our-history/](https://web.archive.org/web/20200303190726/https://westsidenewsny.com/features/2020-03-02/tree-slab-display-provides-a-slice-of-our-history/) 
 
-[^2]: https://www.nps.gov/articles/000/tree-rings.htm
+[^2]: [https://www.nps.gov/articles/000/tree-rings.htm](https://www.nps.gov/articles/000/tree-rings.htm)
 
-[^3]: I had originally written “my final discharge from the hospital.” I hope it is.
+[^3]: I had originally written “my final discharge from the hospital.” I hope that it is.
 
-[^4]: https://en.wikipedia.org/wiki/The_old_man_lost_his_horse 
+[^4]: Good Luck? Bad Luck? Who Knows? [https://en.wikipedia.org/wiki/The_old_man_lost_his_horse](https://en.wikipedia.org/wiki/The_old_man_lost_his_horse) 
