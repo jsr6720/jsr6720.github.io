@@ -37,6 +37,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: configure aws credentials
+        uses: aws-actions/configure-aws-credentials@v1.7.0
+        with:
+          role-to-assume: arn:aws:iam::058264284723:role/GitHubAction-AssumeRoleWithAction
+          role-session-name: GitHub_to_AWS_via_FederatedOIDC
+          aws-region: ${{ env.AWS_REGION }}
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Ruby
@@ -56,24 +62,6 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
-
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: configure aws credentials
-        uses: aws-actions/configure-aws-credentials@v1.7.0
-        with:
-          role-to-assume: arn:aws:iam::058264284723:role/GitHubAction-AssumeRoleWithAction
-          role-session-name: GitHub_to_AWS_via_FederatedOIDC
-          aws-region: ${{ env.AWS_REGION }}
-      - name: Sts GetCallerIdentity
-        run: |
-          aws sts get-caller-identity
       - name: Deploy to S3
         run: |
           aws s3 sync ./_site/ s3://$S3_BUCKET --delete --region $AWS_REGION
