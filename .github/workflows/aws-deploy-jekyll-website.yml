@@ -64,4 +64,4 @@ jobs:
         uses: actions/upload-pages-artifact@v3
       - name: Deploy to S3
         run: |
-          aws s3 sync ./_site/ s3://$S3_BUCKET --delete --region $AWS_REGION
+          aws s3 sync _site/ s3://${{ secrets.S3_BUCKET }} --delete --region $AWS_REGION
