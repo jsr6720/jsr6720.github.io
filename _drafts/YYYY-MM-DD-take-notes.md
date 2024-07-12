@@ -18,15 +18,15 @@ Some ideas that popped into my head
 
 ---
 
-##### Author's Note
+## Author's Note
 
 
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "2024-05-23 23:53:08 -0400" | date_to_string: "ordinal", "US" }} Draft created
 
-##### EOF/Footnotes
+## EOF/Footnotes
