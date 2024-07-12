@@ -27,7 +27,7 @@ See the example below.
 
 ---
 
-##### Author's Note
+## Author's Note
 
 And then came the memes.
 
@@ -39,12 +39,12 @@ Original Wordpress tags: "Misc", "bad content generation", "bad english"
 
 Original Wordpress comments: None
 
-##### Significant revisions
+## Significant revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/02/25/if-you-dont-know-how-should-i/)
 
-##### EOF/Footnotes
+## EOF/Footnotes
 
