@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about/index.html
 ---
 
 ## About James Rowe
@@ -10,7 +10,7 @@ Hi! I'm James, and I've been a student of delivering solutions via software for 
 
 Previously I’ve worked in manufacturing, finance, and healthcare. I wanted a place to publish and share what I've learned along my journey; this is that place.
 
-[Read more](/portfolio) about my career, find me on [LinkedIn](https://linkedin.com/in/jsr6720){:target="_blank"} or check [my latest status](https://status.jsrowe.com).
+Find me on [LinkedIn](https://linkedin.com/in/jsr6720){:target="_blank"} or check [my latest status](https://status.jsrowe.com).
 
 [Send me an email](mailto:jrowe6720@gmail.com) 
 

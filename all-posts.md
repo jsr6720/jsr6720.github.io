@@ -1,7 +1,7 @@
 ---
 layout: page
 title: All Posts
-permalink: /all-posts/
+permalink: /all-posts/index.html
 ---
 
 <div class="post-list">

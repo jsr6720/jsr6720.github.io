@@ -19,9 +19,8 @@ linkedin_username: jsr6720
 
 # Build settings
 
-# update semver major if changing url param
 # todo consider using collections one day
-permalink: /:title/ # :output_ext meh(?)
+permalink: /:title/index.html # :output_ext meh(?)
 
 # using collections to keep content in this repo but away from published site
 # but linkable back via github hosting
@@ -33,7 +32,7 @@ collections:
     output: false
     permalink: /:collection/:name
   recipes: # todo something fun
-    output: true
+    output: false
     permalink: /:collection/:name
 
 theme: minima # base install
