@@ -7,8 +7,7 @@ tags: 2019 book review Watson did-not-finish
 uid: 130ea39a-08f7-43ff-bf74-3ae4759f3c5f
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 0/5
 

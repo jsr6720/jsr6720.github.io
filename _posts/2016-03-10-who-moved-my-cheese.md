@@ -7,8 +7,7 @@ tags: 2016 book review Johnson business read-again
 uid: 5144ff1d-50f6-4f6b-a62b-1510c0edb749
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

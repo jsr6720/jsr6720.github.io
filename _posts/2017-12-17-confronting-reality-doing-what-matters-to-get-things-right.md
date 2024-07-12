@@ -7,8 +7,7 @@ tags: 2017 book review Bossidy business
 uid: 459bdb82-d0a8-431a-887e-63ec0272963a
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

@@ -7,8 +7,7 @@ tags: 2018 book review Sax parenting personal-development
 uid: b6a42bd1-7c2d-405b-b37f-3be3adf34fbd
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

@@ -7,8 +7,7 @@ tags: 2017 book review Taleb did-not-finish
 uid: 1d3917d2-798e-46ae-98b2-5cdf060c4d73
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 1/5
 

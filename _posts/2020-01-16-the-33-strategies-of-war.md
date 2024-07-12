@@ -7,8 +7,7 @@ tags: 2020 book review Greene
 uid: 3564b1bd-c46d-4db3-8d5f-49382c2e2e09
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

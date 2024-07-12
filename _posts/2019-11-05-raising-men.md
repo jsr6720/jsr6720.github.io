@@ -7,8 +7,7 @@ tags: 2019 book review Davis did-not-finish
 uid: f7ec4de0-7ed8-4716-a1e9-747613ae03f1
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 0/5
 

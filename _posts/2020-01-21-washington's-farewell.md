@@ -7,8 +7,7 @@ tags: 2020 book review Avlon leadership history
 uid: 52761329-4db4-4301-8ae6-056aa27dab8e
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

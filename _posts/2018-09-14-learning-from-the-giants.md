@@ -7,8 +7,7 @@ tags: 2018 book review Maxwell did-not-finish
 uid: 821c4828-a514-4daa-9bd2-a442d586cad4
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 0/5
 

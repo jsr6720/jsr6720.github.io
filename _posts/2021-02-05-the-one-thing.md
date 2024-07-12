@@ -7,8 +7,7 @@ tags: 2021 book review Keller business personal-development
 uid: 913afe25-8dd5-4659-bc4d-39bd6c99b5f2
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

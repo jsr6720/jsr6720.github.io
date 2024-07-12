@@ -7,8 +7,7 @@ tags: 2020 book review Drucker
 uid: 804e1381-627b-4162-b082-2ce66335fa6c
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

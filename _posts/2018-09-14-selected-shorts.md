@@ -7,8 +7,7 @@ tags: 2018 book review Space did-not-finish
 uid: 300d0d8d-5354-426a-b33b-89b72f73aa60
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 0/5
 

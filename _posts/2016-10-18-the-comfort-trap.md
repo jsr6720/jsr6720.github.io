@@ -7,8 +7,7 @@ tags: 2016 book review Sills personal-development psychology
 uid: 18a9b01f-8a22-465a-ac21-66c5c4530f00
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

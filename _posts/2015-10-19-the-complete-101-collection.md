@@ -7,8 +7,7 @@ tags: 2015 book review Maxwell business personal-development
 uid: 9f618f67-cc2f-4c5d-8c62-2e4942b8a2bc
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

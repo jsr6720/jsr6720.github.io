@@ -7,8 +7,7 @@ tags: 2016 book review Malkiel business read-again
 uid: 584028ea-ec64-4a7b-8961-f202436e35ea
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

@@ -7,8 +7,7 @@ tags: 2018 book review Krames leadership
 uid: 7d2b0c56-1002-4b96-ba55-636df2c2b661
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

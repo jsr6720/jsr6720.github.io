@@ -7,8 +7,7 @@ tags: 2016 book review Beattie personal-development
 uid: b0d7468e-774e-48ba-80b4-14f39521ba15
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

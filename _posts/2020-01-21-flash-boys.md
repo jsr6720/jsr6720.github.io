@@ -7,8 +7,7 @@ tags: 2020 book review Lewis did-not-finish
 uid: d5b784c9-37ed-4fac-86cd-b052ce28a4fb
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 0/5
 

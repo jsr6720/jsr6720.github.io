@@ -7,8 +7,7 @@ tags: 2018 book review Brown business psychology great-courses
 uid: 0bb5ddaf-1120-4cdc-9d55-da66631072ea
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

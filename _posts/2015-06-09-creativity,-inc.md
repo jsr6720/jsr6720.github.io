@@ -7,8 +7,7 @@ tags: 2015 book review Catmull did-not-finish
 uid: 824929ab-b5a9-4d2a-a80c-a64579d21fe2
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 1/5
 

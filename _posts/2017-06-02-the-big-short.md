@@ -7,8 +7,7 @@ tags: 2017 book review Lewis business history
 uid: 7627870f-aceb-4467-bd51-7a6b31932bf6
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

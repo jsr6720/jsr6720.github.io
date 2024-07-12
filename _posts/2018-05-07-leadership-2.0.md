@@ -7,8 +7,7 @@ tags: 2018 book review Bradberry management
 uid: 9c4df9ae-42ad-455f-94b5-7612a28012f2
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

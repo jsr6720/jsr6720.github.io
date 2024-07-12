@@ -7,8 +7,7 @@ tags: 2017 book review Maxwell personal-development read-again
 uid: acdc726e-7021-4857-bde5-8de43e8266cf
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

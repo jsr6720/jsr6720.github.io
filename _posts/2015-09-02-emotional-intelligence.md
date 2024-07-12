@@ -7,8 +7,7 @@ tags: 2015 book review Goleman read-again psychology
 uid: cda34865-ce22-4799-aac4-9090f1f3d8fd
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

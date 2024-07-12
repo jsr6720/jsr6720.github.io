@@ -7,8 +7,7 @@ tags: 2019 book review McKee did-not-finish
 uid: dd56c42f-82d7-4383-a3df-84d923b8ec65
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 0/5
 

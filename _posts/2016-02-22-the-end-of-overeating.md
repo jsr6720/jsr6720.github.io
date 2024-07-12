@@ -7,8 +7,7 @@ tags: 2016 book review Kessler psychology food
 uid: fdb0bb51-237f-4d22-9957-f7d3f159fd78
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

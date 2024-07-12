@@ -7,8 +7,7 @@ tags: 2016 book review Stanley business
 uid: e01259b3-3baf-45a0-b3c2-8eae5024cbcb
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

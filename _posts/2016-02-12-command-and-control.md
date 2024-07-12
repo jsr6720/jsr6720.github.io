@@ -7,8 +7,7 @@ tags: 2016 book review Polelle history
 uid: 5f810778-6fb4-4096-b378-2ebb4814c7f1
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

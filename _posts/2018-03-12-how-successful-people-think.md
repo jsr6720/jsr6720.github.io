@@ -7,8 +7,7 @@ tags: 2018 book review Maxwell business
 uid: d52c8c3f-63d4-43fb-84f5-3edd933854bf
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

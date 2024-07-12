@@ -7,8 +7,7 @@ tags: 2021 book review Nestle food personal-development
 uid: b5f53a84-9502-4b42-b0b8-2c395b9aac56
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

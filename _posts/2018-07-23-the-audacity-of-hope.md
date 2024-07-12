@@ -7,8 +7,7 @@ tags: 2018 book review Obama biography
 uid: 025292a1-aadd-481a-92f3-1369d875099e
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

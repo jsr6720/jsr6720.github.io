@@ -7,8 +7,7 @@ tags: 2020 book review Larson management
 uid: 7c6d2fe8-52a7-4099-89a8-a131f7cd38c8
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

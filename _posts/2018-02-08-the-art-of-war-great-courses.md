@@ -7,8 +7,7 @@ tags: 2018 book review Wilson great-courses
 uid: 2f3121ce-36f8-482b-8c8c-d744949d7346
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 2/5
 

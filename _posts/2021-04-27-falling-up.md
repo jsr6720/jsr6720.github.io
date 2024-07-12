@@ -7,8 +7,7 @@ tags: 2021 book review Silverstein poetry childhood-favorite
 uid: db617def-45ed-4cb0-a5a1-bd3f80e7b634
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

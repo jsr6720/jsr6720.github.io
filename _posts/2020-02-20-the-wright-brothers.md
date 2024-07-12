@@ -7,8 +7,7 @@ tags: 2020 book review McCullough biography history
 uid: db185793-2936-4047-bca3-f50850539f0b
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

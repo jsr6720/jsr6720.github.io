@@ -7,8 +7,7 @@ tags: 2017 book review Druckerman parenting biography
 uid: a1cff445-fb6c-41e0-8a12-1fe2cb23183a
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

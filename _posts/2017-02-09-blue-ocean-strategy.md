@@ -7,8 +7,7 @@ tags: 2017 book review Kim business
 uid: 93ec89c4-b918-47b2-af67-6055d3e754d1
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

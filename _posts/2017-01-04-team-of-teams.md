@@ -7,8 +7,7 @@ tags: 2017 book review McChrystal business
 uid: eb4e8cc4-678a-4a44-80db-fe2f0fed80a6
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

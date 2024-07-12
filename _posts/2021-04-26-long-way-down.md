@@ -7,8 +7,7 @@ tags: 2021 book review Reynolds poetry
 uid: 2e5fc12f-b3c0-4420-adcd-112310dc435b
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

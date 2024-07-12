@@ -7,8 +7,7 @@ tags: 2017 book review Lieber parenting
 uid: 0f5a5717-cdd1-40d6-9472-77ca7b5d4f03
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

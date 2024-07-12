@@ -7,8 +7,7 @@ tags: 2019 book review Tracy
 uid: e6d8a449-0408-4895-9980-ab036049ea15
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

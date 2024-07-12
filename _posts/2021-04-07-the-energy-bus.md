@@ -7,8 +7,7 @@ tags: 2021 book review Gordon personal-development
 uid: 6fafa692-539a-4629-b262-c66974fe4c96
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 2/5
 

@@ -7,8 +7,7 @@ tags: 2017 book review Blanchard business
 uid: 08ac3d3a-349e-49c0-9bcd-62e1fb14105a
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 2/5
 

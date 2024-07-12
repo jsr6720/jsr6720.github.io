@@ -7,8 +7,7 @@ tags: 2018 book review Lencioni management business
 uid: 9728bda6-d3c4-480a-9c71-4513056c7c7a
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

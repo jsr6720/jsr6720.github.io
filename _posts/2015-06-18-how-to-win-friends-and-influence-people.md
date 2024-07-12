@@ -7,8 +7,7 @@ tags: 2015 book review Carnegie classics read-again
 uid: 9002c714-3c9c-4c3a-9ea3-9b2c46f725e9
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

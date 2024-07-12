@@ -7,8 +7,7 @@ tags: 2019 book review Vincent
 uid: e6ec7d13-46ec-4f4d-8165-fd74eaf376c3
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

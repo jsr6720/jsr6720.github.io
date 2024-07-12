@@ -7,8 +7,7 @@ tags: 2019 book review Malarkey
 uid: b2864c1b-be66-4484-a987-81ae41bdb3d3
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

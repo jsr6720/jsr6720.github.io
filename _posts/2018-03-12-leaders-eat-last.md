@@ -7,8 +7,7 @@ tags: 2018 book review Sinek business psychology
 uid: a9c9fba0-d916-4a16-a3be-f66b0ea4b321
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

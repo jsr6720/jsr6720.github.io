@@ -7,8 +7,7 @@ tags: 2015 book review Gottman psychology read-again
 uid: c515e1ee-0bc8-431b-8da3-17d4bad436ae
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

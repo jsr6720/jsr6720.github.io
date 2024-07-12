@@ -7,8 +7,7 @@ tags: 2019 book review Lemov did-not-finish
 uid: 39a49b70-ec08-407f-af7a-6758e5fca8c6
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 2/5
 

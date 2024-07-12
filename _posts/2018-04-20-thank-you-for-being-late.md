@@ -7,8 +7,7 @@ tags: 2018 book review Friedman history
 uid: b6137229-caf9-4d5e-ba63-e84346d81292
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

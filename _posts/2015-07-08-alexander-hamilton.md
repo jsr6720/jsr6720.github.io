@@ -7,8 +7,7 @@ tags: 2015 book review Chernow biography history
 uid: 4ec03f6f-8db6-4eb4-8078-674643855c88
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

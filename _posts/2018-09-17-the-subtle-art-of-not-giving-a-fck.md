@@ -7,8 +7,7 @@ tags: 2018 book review Manson personal-development
 uid: 62078d0e-7a34-4789-b805-cc4825a94239
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

@@ -7,8 +7,7 @@ tags: 2020 book review Harford
 uid: d7241e24-7d54-4985-9a28-55e07b29525a
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

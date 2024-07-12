@@ -7,8 +7,7 @@ tags: 2018 book review Cabane did-not-finish
 uid: a8c32843-0d1e-4f9e-a461-fabe2fadc7b8
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 2/5
 

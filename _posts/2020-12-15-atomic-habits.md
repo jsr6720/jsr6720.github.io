@@ -7,8 +7,7 @@ tags: 2020 book review Clear business leadership personal-development
 uid: d8caf4a2-fb01-4fad-b5d0-2c8adb3d80b0
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

@@ -7,8 +7,7 @@ tags: 2018 book review Agrawal business
 uid: 974b31f3-c2a2-4d23-a9fb-48e7225cfc7f
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

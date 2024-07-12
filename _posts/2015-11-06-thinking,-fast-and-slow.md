@@ -7,8 +7,7 @@ tags: 2015 book review Kahneman psychology read-again
 uid: 1df6f7f2-821c-4cee-8fe8-a2f12039fc5b
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

@@ -7,8 +7,7 @@ tags: 2018 book review Alexander parenting
 uid: 1b45c423-95b4-42d3-932e-2fe439c1f789
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

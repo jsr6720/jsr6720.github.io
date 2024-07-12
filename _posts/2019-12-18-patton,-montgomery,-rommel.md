@@ -7,8 +7,7 @@ tags: 2019 book review Brighton history leadership
 uid: c132c028-f6c8-4d2f-b926-174551bf79e3
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

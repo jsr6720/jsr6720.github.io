@@ -7,8 +7,7 @@ tags: 2018 book review Blanchard business management
 uid: ad790e15-cbb5-4e7f-ab14-603bf264d253
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 2/5
 

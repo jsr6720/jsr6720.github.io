@@ -7,8 +7,7 @@ tags: 2018 book review Schiffman business
 uid: d4d5cce7-da03-4fa7-9be7-1b7f8cd42244
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

@@ -7,8 +7,7 @@ tags: 2018 book review Comey
 uid: 4f2d06f1-0e94-40f2-b9fb-1629025c93ab
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

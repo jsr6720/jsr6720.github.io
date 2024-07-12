@@ -7,8 +7,7 @@ tags: 2019 book review Pickens biography
 uid: 202ab4c8-1ddc-4c95-8092-ff8b2eedd85f
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

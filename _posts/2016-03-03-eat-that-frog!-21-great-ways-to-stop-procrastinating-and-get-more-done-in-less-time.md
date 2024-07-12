@@ -7,8 +7,7 @@ tags: 2016 book review Tracy personal-development read-again
 uid: 13204fe4-4194-4158-ad53-8a4ae784e2ca
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

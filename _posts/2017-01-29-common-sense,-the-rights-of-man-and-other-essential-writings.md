@@ -7,8 +7,7 @@ tags: 2017 book review Paine history classics
 uid: af8fe3f5-af36-4322-894e-84302c26eb46
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

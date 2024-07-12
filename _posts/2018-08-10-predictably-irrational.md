@@ -7,8 +7,7 @@ tags: 2018 book review Ariely economics psychology
 uid: aa58abd0-b4ee-4dc8-a127-72a6a89ec648
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

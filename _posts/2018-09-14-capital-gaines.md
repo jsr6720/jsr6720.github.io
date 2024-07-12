@@ -7,8 +7,7 @@ tags: 2018 book review Gaines did-not-finish
 uid: 81548540-84d8-4388-b5f5-330ff69e6076
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 0/5
 

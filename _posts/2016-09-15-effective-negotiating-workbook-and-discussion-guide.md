@@ -7,8 +7,7 @@ tags: 2016 book review Karrass business
 uid: 9152b74f-01cd-42aa-a489-ff17b8bcf2c0
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 2/5
 

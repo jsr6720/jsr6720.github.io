@@ -7,8 +7,7 @@ tags: 2015 book review Covey
 uid: 76db6e94-7752-4385-ad4e-3e9a660a35dd
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

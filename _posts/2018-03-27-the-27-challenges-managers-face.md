@@ -7,8 +7,7 @@ tags: 2018 book review Tulgan business management
 uid: 145e536a-4fb4-4679-83c4-1d126972fc37
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

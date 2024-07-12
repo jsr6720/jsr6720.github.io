@@ -7,8 +7,7 @@ tags: 2017 book review Anderson did-not-finish
 uid: ae3f34da-5192-4fec-8730-3111cb33e304
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

@@ -7,8 +7,7 @@ tags: 2018 book review McNish business
 uid: da616dc6-f6c1-4cae-90b3-fc059b4788ff
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

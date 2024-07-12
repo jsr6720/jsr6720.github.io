@@ -57,7 +57,7 @@ Written as a corporate LinkedIn piece.
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }} cross published on [LinkedIn](https://www.linkedin.com/pulse/daily-standup-status-update-trap-james-rowe-q8boc)
 - {{ "2024-06-26 23:39:22 -400" | date_to_string: "ordinal", "US" }} First draft
 
 ## EOF/Footnotes

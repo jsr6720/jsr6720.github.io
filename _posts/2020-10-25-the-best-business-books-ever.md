@@ -7,8 +7,7 @@ tags: 2020 book review Books
 uid: a749b63a-981e-4bb7-85fb-79ffff957693
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

@@ -7,8 +7,7 @@ tags: 2016 book review Venuto personal-development read-again
 uid: 427d476d-28bc-4b1a-9b48-76e7bea258fc
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

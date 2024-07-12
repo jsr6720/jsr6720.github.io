@@ -7,8 +7,7 @@ tags: 2016 book review Gilbert psychology
 uid: 6d8dea43-d13f-4fd1-aa9f-56542994d162
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

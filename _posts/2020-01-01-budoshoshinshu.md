@@ -7,8 +7,7 @@ tags: 2020 book review Yūzan
 uid: c8625415-4c93-4b9d-9c14-c3722289aa30
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

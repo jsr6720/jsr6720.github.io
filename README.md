@@ -60,6 +60,16 @@ Book tags (might be some overlap from above)
 - non-fiction
 - fiction
 
+# Inspiration
+
+Sites that inspire me for both their content and design. It's not that these sites are better than the rest, but that when I first started on restarting my writing these were the ones I thought of first.
+
+https://martinfowler.com
+
+https://lethain.com
+
+https://seths.blog
+
 # Asset Attribution
 
 **note:** If you're an artist or creator I'd love to replace my AI good-enough regurgitation with original pieces. [contact me](/about.md).

@@ -7,8 +7,7 @@ tags: 2016 book review Gladwell economics
 uid: 91d2c578-afda-4850-9cf6-a7d34ab251c5
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

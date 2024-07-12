@@ -7,8 +7,7 @@ tags: 2017 book review Duhigg psychology
 uid: e3bd3c2c-1970-4d28-9696-147681a29569
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

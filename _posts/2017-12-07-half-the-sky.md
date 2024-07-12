@@ -7,8 +7,7 @@ tags: 2017 book review Kristof
 uid: 1693409f-e2f0-4f62-9271-bd13191d73b0
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

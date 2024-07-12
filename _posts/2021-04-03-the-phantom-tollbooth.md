@@ -7,8 +7,7 @@ tags: 2021 book review Juster childhood-favorite fiction
 uid: ed3f4198-54a5-4775-b64b-edfa57db55bb
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

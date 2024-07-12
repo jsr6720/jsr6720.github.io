@@ -7,8 +7,7 @@ tags: 2016 book review Brooks business
 uid: d233b2d2-62ca-4728-9be3-51c889764435
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

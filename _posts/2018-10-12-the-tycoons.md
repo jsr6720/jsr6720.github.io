@@ -7,8 +7,7 @@ tags: 2018 book review Morris business history
 uid: 748fcfae-883c-4248-9729-14bc81dd161a
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

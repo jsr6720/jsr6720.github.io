@@ -7,8 +7,7 @@ tags: 2018 book review Gladwell economics psychology
 uid: b87a14da-2dff-455f-85c9-8decdd821f9d
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

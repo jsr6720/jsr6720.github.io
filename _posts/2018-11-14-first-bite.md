@@ -7,8 +7,7 @@ tags: 2018 book review Wilson personal-development psychology food
 uid: 758c7ffb-bf3c-4413-9a20-f24cf44f00f1
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

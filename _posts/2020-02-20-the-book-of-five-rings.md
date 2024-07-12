@@ -7,8 +7,7 @@ tags: 2020 book review Musashi history
 uid: c8cf82e7-857b-469e-9e13-dd3261e59eaf
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

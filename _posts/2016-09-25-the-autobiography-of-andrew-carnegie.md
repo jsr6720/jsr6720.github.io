@@ -7,8 +7,7 @@ tags: 2016 book review Carnegie biography
 uid: 2e39512f-f528-4e43-b869-af2d8b925682
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

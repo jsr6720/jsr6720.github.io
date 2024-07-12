@@ -7,8 +7,7 @@ tags: 2019 book review Isaacson business biography management
 uid: 922a52e7-818b-4bb5-933f-7fc019616d6e
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

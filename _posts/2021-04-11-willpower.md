@@ -7,8 +7,7 @@ tags: 2021 book review Baumeister psychology personal-development
 uid: 53244be9-0c5b-4fc0-aedc-acb6cc3cfc5d
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

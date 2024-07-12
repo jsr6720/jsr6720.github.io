@@ -7,8 +7,7 @@ tags: 2018 book review Tracy business personal-development
 uid: c5211eab-6258-4a35-a9a6-f20906adebbf
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

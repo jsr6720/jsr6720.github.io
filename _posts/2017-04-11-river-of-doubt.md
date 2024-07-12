@@ -7,8 +7,7 @@ tags: 2017 book review Millard history biography
 uid: 6fe33fe3-a532-4622-b0dd-e5c4aee6e9b7
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

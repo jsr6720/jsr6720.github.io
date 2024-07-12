@@ -7,8 +7,7 @@ tags: 2018 book review Rubin did-not-finish
 uid: 875d105c-d95e-4993-b11e-018fc84669b8
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 1/5
 

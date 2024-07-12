@@ -7,8 +7,7 @@ tags: 2019 book review Gardner biography history leadership
 uid: 18e8b481-1b52-421e-9739-7a635e71030c
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

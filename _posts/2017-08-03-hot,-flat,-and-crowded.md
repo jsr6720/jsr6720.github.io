@@ -7,8 +7,7 @@ tags: 2017 book review Friedman did-not-finish
 uid: 03bed1fd-9776-4dbf-816a-2fa27d0c044d
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 2/5
 

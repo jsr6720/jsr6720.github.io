@@ -7,8 +7,7 @@ tags: 2019 book review Johnson did-not-finish
 uid: 45151e04-dbdd-4d05-a23f-55c9345c265c
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 1/5
 

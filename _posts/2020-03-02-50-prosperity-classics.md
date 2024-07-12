@@ -7,8 +7,7 @@ tags: 2020 book review Butler-Bowdon
 uid: 8ce9b569-86e4-47d4-bfc5-ff640deec5a6
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

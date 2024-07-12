@@ -7,8 +7,7 @@ tags: 2018 book review Lythcott-Haims did-not-finish
 uid: fc9cab92-50ce-4db7-8959-9cb888a7effc
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 1/5
 

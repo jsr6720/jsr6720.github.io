@@ -7,8 +7,7 @@ tags: 2018 book review Maxwell management personal-development
 uid: 9b6c3107-7c64-468e-9c5c-a4492ff1c6b9
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

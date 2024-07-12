@@ -7,8 +7,7 @@ tags: 2016 book review Goldsmith read-again business personal-development
 uid: dbe981e3-e288-497b-a264-d48401d90c3f
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

@@ -7,8 +7,7 @@ tags: 2020 book review Kruse
 uid: c4a73cca-d61e-4ef4-8a1e-5b3b467eba3b
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 
