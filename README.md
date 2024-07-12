@@ -70,6 +70,7 @@ https://lethain.com
 
 https://seths.blog
 
+
 # Asset Attribution
 
 **note:** If you're an artist or creator I'd love to replace my AI good-enough regurgitation with original pieces. [contact me](/about.md).
