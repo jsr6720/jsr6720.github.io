@@ -7,8 +7,7 @@ tags: 2015 book review Cathcart philosophy
 uid: def321ee-743e-4d26-b02d-74a828c2ad1e
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 2/5
 

@@ -7,8 +7,7 @@ tags: 2017 book review Mcfarland business
 uid: 968b3eb9-a6b5-44de-9e86-7fc910dff46b
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

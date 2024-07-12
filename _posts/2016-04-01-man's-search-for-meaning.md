@@ -7,8 +7,7 @@ tags: 2016 book review Frankl
 uid: d1f8c483-106a-43f2-a6ee-33b4cc6827cc
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

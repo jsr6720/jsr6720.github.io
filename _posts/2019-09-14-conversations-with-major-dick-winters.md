@@ -7,8 +7,7 @@ tags: 2019 book review Kingseed
 uid: cc4334d8-59c2-4fff-a1cd-f6beae2f9bcc
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

@@ -7,8 +7,7 @@ tags: 2015 book review Alexander history
 uid: cd62943a-85ce-4474-9721-10e89346f2e4
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

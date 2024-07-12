@@ -7,8 +7,7 @@ tags: 2021 book review Gwynne history biography
 uid: 2447e3cf-ccb5-480f-a2bc-d0798f919944
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

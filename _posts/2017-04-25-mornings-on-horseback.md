@@ -7,8 +7,7 @@ tags: 2017 book review McCullough biography history
 uid: 91ee8bd6-473d-4268-8e30-405dcba58c27
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

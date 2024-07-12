@@ -7,8 +7,7 @@ tags: 2018 book review Achor
 uid: ade4d9bd-3ee0-4110-9d16-389d316b2a8d
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

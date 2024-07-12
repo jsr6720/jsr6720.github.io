@@ -7,8 +7,7 @@ tags: 2021 book review Eikenberry
 uid: 99989da3-ee8a-419f-b46f-2b9b4681261b
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

@@ -7,8 +7,7 @@ tags: 2019 book review Goleman leadership management philosophy
 uid: 3507ffc4-4e36-40f1-8bc8-2360f230b88f
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

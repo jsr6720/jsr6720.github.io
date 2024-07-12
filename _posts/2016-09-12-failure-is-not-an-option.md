@@ -7,8 +7,7 @@ tags: 2016 book review Kranz biography
 uid: 9b442786-41b9-49d5-826a-f4bb7015036b
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

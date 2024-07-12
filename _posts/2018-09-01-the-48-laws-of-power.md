@@ -7,8 +7,7 @@ tags: 2018 book review Greene business psychology
 uid: d33aaafc-54e5-4f25-ab48-d7a40cf116b1
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

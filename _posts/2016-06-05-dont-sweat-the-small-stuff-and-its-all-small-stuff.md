@@ -7,8 +7,7 @@ tags: 2016 book review Carlson personal-development
 uid: 04da6228-a29e-40f4-b61f-bb91d0daedba
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

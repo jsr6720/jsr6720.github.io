@@ -7,8 +7,7 @@ tags: 2019 book review Syed business
 uid: b9e78c53-22b9-4d55-92ca-4dd171f33f69
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

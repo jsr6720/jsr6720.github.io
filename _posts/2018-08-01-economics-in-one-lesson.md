@@ -7,8 +7,7 @@ tags: 2018 book review Hazlitt economics classics business
 uid: 758c3dd7-e8d7-4ca6-88e2-02cd6c408895
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

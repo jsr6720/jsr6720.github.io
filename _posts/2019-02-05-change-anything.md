@@ -7,8 +7,7 @@ tags: 2019 book review Patterson
 uid: f3f20e60-d3e6-4274-9bde-8a6eec696d3d
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 0/5
 

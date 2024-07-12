@@ -7,8 +7,7 @@ tags: 2018 book review Letts did-not-finish
 uid: c999dd7e-dadf-427b-8172-f3af3f8cce0c
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 0/5
 

@@ -7,8 +7,7 @@ tags: 2019 book review Kiyosaki
 uid: 05ff420d-8584-40a4-92b5-d14733af82dc
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

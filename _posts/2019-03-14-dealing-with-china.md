@@ -7,8 +7,7 @@ tags: 2019 book review Jr. did-not-finish
 uid: 30b7c0c8-f845-4799-bca7-fc60129a2364
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 0/5
 

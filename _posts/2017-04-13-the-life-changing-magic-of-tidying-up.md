@@ -7,8 +7,7 @@ tags: 2017 book review Kondō did-not-finish
 uid: 1361f5fe-8b0f-4f7a-ae9f-6450c4817f8e
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

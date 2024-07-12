@@ -7,8 +7,7 @@ tags: 2015 book review Mischel psychology
 uid: 4dc4abfb-2b2d-47b1-8743-4c3468fa29ab
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

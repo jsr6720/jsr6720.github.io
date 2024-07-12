@@ -7,8 +7,7 @@ tags: 2016 book review Forward
 uid: 52d58715-3df3-467a-bd01-0408a82cba08
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

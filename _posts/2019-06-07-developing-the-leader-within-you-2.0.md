@@ -7,8 +7,7 @@ tags: 2019 book review Maxwell
 uid: 8a4802e3-01aa-4e86-8ce6-ade5433d461d
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

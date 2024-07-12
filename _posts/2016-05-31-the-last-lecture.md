@@ -7,8 +7,7 @@ tags: 2016 book review Pausch
 uid: 101a0d06-e9b6-455e-8af9-ed762dd25807
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

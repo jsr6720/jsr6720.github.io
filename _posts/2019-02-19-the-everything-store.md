@@ -7,8 +7,7 @@ tags: 2019 book review Stone business biography
 uid: 8767f9ff-9edd-42f9-beb8-4adea33ea29d
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

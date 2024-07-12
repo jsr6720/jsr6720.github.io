@@ -7,8 +7,7 @@ tags: 2018 book review Wallace business
 uid: 76a72361-7058-487f-9ece-9bd674c234e9
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

@@ -7,8 +7,7 @@ tags: 2018 book review Finkel psychology
 uid: 89d5851c-3e86-4a04-8433-846d17ad1d0b
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

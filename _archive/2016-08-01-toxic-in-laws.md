@@ -7,8 +7,7 @@ tags: book review Forward
 uid: 0077be48-3d5e-42f3-87a8-d360ca703be0
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

@@ -7,8 +7,7 @@ tags: 2017 book review Beck
 uid: 23c05e4b-cd72-4d84-927d-64caa9ad5666
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

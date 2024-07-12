@@ -7,8 +7,7 @@ tags: 2015 book review Larson history
 uid: a78a8639-b24a-4bc4-a47b-10369623a2ef
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

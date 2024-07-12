@@ -7,8 +7,7 @@ tags: 2016 book review Collins business
 uid: 21ce9677-9862-48c6-94b0-88b9bbe0ac55
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

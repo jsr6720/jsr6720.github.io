@@ -7,8 +7,7 @@ tags: 2016 book review Patterson business personal-development
 uid: 5c3df7dd-aa3b-41b3-9a7c-cd21ec368b29
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

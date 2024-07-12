@@ -7,8 +7,7 @@ tags: 2021 book review McGonigal personal-development psychology
 uid: c13d4b48-ddbf-4774-abf7-e5fb56a68782
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

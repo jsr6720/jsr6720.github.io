@@ -7,8 +7,7 @@ tags: 2020 book review Tzu
 uid: 8c24ca78-acc5-4b3a-8a0f-2358cecec7e7
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

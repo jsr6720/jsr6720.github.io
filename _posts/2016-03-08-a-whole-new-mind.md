@@ -7,8 +7,7 @@ tags: 2016 book review Pink business
 uid: f12d58c6-1d1e-4b53-bebb-84eed9f4b9a6
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 2/5
 

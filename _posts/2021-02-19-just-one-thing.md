@@ -7,8 +7,7 @@ tags: 2021 book review Hanson personal-development philosophy
 uid: 4fa8fd18-11e2-491f-902c-0e5e48c55c64
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

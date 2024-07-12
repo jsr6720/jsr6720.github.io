@@ -7,8 +7,7 @@ tags: 2019 book review Naumburg
 uid: 3d72054b-6428-4cb7-b727-7830a2215248
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

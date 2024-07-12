@@ -7,8 +7,7 @@ tags: 2021 book review Eddings fantasy childhood-favorite
 uid: dc1d45f9-3f10-4318-9c92-0a656dab361c
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

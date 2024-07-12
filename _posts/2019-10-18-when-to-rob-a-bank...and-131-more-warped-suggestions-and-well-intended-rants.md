@@ -7,8 +7,7 @@ tags: 2019 book review Dubner economics
 uid: d9d9afc9-b46a-4b90-98dd-793a6c3c4ae2
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

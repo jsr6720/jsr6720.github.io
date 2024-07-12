@@ -7,8 +7,7 @@ tags: 2018 book review Robertson did-not-finish
 uid: 64cdb994-275d-4999-87d3-cade97d3328c
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 1/5
 

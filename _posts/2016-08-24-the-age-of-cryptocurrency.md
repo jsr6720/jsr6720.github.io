@@ -7,8 +7,7 @@ tags: 2016 book review Vigna business
 uid: 090fd950-48b3-4523-9027-316b185b2189
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

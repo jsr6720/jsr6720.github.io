@@ -7,8 +7,7 @@ tags: 2017 book review Martin biography
 uid: f63d6eb4-a4d8-4846-b331-09c04f592e79
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

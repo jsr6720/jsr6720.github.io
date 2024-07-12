@@ -7,8 +7,7 @@ tags: 2020 book review Lakoff psychology
 uid: e164c0a5-807d-4669-97c4-fa7e696d4d65
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

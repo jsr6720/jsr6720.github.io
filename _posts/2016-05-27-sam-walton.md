@@ -7,8 +7,7 @@ tags: 2016 book review Walton biography
 uid: cec5f821-ddb7-462f-860f-83891b6f5824
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

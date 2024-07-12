@@ -7,8 +7,7 @@ tags: 2019 book review Kohn parenting
 uid: 32b098b5-ddcd-40d2-937c-c1f1f93af24b
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

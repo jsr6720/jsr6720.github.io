@@ -7,8 +7,7 @@ tags: 2018 book review Lencioni management
 uid: 92701a98-24da-4c32-939e-da619fffb14a
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

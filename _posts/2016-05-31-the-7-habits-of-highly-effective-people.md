@@ -7,8 +7,7 @@ tags: 2016 book review Covey classics read-again business
 uid: 9146c8a1-93e2-457f-ba44-279fcb80c95a
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

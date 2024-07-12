@@ -7,8 +7,7 @@ tags: 2017 book review Radio
 uid: 2ba2a3fc-9b43-491c-acc2-6c29a06e6305
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

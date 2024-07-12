@@ -7,8 +7,7 @@ tags: 2019 book review Varoufakis economics
 uid: 7810e165-66ae-45c6-85db-bf7eab3e6ea4
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

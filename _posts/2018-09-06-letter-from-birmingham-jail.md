@@ -7,8 +7,7 @@ tags: 2018 book review Jr.
 uid: 6834d885-4fd4-4d8c-ad31-a64f7de656a4
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

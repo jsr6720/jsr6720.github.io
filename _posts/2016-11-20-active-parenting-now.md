@@ -7,8 +7,7 @@ tags: 2016 book review Popkin read-again parenting
 uid: 2cd4aa10-549c-45cd-a792-d408b8bb4439
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

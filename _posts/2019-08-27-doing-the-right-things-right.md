@@ -7,8 +7,7 @@ tags: 2019 book review Stack did-not-finish
 uid: afb2e417-da95-4d06-8c92-119f232cce63
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 0/5
 

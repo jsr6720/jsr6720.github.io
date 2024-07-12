@@ -7,8 +7,7 @@ tags: 2016 book review Goodwin biography history
 uid: a182bcb4-0cb5-4d70-a7fc-aa27ed81509b
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

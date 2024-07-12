@@ -7,8 +7,7 @@ tags: 2016 book review Lerner personal-development read-again
 uid: 4a3c2b1d-89fd-4767-be86-9e35101eb32d
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

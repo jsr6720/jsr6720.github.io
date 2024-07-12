@@ -7,8 +7,7 @@ tags: 2016 book review Kotter business
 uid: 34ed6516-8106-4c6f-9d1c-54de213804f7
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 2/5
 

@@ -7,8 +7,7 @@ tags: 2018 book review Hoffman
 uid: eaf36b50-143b-4c0e-ae89-b0a667ec5b39
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

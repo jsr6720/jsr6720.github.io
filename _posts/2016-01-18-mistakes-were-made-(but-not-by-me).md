@@ -7,8 +7,7 @@ tags: 2016 book review Tavris personal-development psychology
 uid: 5a838f6f-84dc-4f29-bf36-30c5037bd6ca
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

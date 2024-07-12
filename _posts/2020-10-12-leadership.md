@@ -7,8 +7,7 @@ tags: 2020 book review Goodwin biography leadership history
 uid: 1c653ce2-9aee-4eeb-b3e6-eada89a59878
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

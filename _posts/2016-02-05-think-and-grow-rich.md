@@ -7,8 +7,7 @@ tags: 2016 book review Hill read-again personal-development
 uid: 5b90dd93-7068-4a2b-8da4-a83e9f54c999
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

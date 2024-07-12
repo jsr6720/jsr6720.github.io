@@ -7,8 +7,7 @@ tags: 2017 book review Buckingham business read-again
 uid: 5b246059-fcb0-4bb4-97a6-1a2b3cd1b6c3
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

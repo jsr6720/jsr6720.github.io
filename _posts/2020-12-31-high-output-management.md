@@ -7,8 +7,7 @@ tags: 2020 book review Grove
 uid: 4a9bbef2-f490-4ea8-87da-5733d5d9f693
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

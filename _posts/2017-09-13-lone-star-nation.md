@@ -7,8 +7,7 @@ tags: 2017 book review Brands history
 uid: f48cca60-a3d9-4a66-a4a0-68f926605b39
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

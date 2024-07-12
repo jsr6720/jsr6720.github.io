@@ -7,8 +7,7 @@ tags: 2017 book review Cloud personal-development parenting
 uid: 48383da0-b761-4af8-bfdb-b9dbdc87b4dc
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

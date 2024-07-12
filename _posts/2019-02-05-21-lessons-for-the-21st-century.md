@@ -7,8 +7,7 @@ tags: 2019 book review Harari
 uid: d7e86f10-4036-4404-9d4e-5ea48152e072
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

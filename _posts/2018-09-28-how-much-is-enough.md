@@ -7,8 +7,7 @@ tags: 2018 book review Clarke parenting
 uid: fcb50cc1-0781-4d4b-8f68-151af429c895
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

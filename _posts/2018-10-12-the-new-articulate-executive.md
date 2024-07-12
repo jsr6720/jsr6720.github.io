@@ -7,8 +7,7 @@ tags: 2018 book review Toogood business management
 uid: 15c49b33-799c-47a2-b26e-2f875e5fe00a
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

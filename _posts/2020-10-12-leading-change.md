@@ -7,8 +7,7 @@ tags: 2020 book review Kotter business leadership management personal-developmen
 uid: 98a06b9d-2882-44b0-a522-7126fd1e246c
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

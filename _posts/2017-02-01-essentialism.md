@@ -7,8 +7,7 @@ tags: 2017 book review McKeown personal-development did-not-finish
 uid: b7e95b35-c427-4719-8b7e-301fa745f172
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 2/5
 

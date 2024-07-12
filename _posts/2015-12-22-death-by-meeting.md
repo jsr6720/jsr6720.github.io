@@ -7,8 +7,7 @@ tags: 2015 book review Lencioni business
 uid: 5b0148ed-c40b-4af9-b3b6-5ca07e05a65a
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 2/5
 

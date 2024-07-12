@@ -7,8 +7,7 @@ tags: 2020 book review Lewis psychology
 uid: 5d86ebef-33b3-4907-ae9c-56b03831db9c
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

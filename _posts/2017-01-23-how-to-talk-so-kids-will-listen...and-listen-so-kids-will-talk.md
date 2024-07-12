@@ -7,8 +7,7 @@ tags: 2017 book review Faber
 uid: 43c0caf8-f23d-4fa5-bb1b-856aa3b65865
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 2/5
 

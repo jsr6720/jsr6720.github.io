@@ -7,8 +7,7 @@ tags: 2018 book review Lansing history
 uid: 8cbc189e-1218-40dd-8c40-32a0095b1db6
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

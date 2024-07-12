@@ -7,8 +7,7 @@ tags: 2018 book review Maxwell management business
 uid: d473e5a2-9b11-470c-ae8c-85da2ebe3f10
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

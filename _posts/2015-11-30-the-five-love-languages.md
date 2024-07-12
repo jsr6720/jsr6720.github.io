@@ -7,8 +7,7 @@ tags: 2015 book review Chapman
 uid: 97136969-bd5a-432a-b489-1da377d9356c
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

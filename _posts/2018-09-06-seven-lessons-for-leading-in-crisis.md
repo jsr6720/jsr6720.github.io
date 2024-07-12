@@ -7,8 +7,7 @@ tags: 2018 book review George business
 uid: bf414e4a-3dce-4873-9dea-60d195933f6a
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 3/5
 

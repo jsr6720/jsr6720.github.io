@@ -7,8 +7,7 @@ tags: 2021 book review Collins business management
 uid: 7b9d6d61-4d0d-4a52-bdc2-962f0b2ab87d
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

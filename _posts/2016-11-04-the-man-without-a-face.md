@@ -7,8 +7,7 @@ tags: 2016 book review Gessen history
 uid: 27372883-dca4-4dee-bc9d-876971b8c9e1
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 2/5
 

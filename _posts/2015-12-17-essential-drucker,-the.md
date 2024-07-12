@@ -7,8 +7,7 @@ tags: 2015 book review Drucker business read-again
 uid: 81a71e78-b804-405d-bbd9-4b1a814fb6c9
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 5/5
 

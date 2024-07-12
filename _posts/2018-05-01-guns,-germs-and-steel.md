@@ -7,8 +7,7 @@ tags: 2018 book review Diamond history
 uid: 7bb5c315-cfcd-4383-8c8a-91754cc17ebf
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 

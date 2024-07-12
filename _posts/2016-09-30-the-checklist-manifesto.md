@@ -7,8 +7,7 @@ tags: 2016 book review Gawande personal-development
 uid: 3ed6220b-7d3b-44ee-8ff3-b53dbe04a0df
 ---
 
-<!-- highly dependent on how you personally use jekyll templates, and how you want this to show up -->
-<!-- escape any jekyll keys with double brackets -->
+
 
 ## My Review 4/5
 
