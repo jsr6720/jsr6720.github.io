@@ -20,7 +20,6 @@ body {
   background-color: var(--bg-color-light);
   color: var(--text-color-light);
   transition: background-color 0.3s, color 0.3s;
-
 }
 
 /** 
