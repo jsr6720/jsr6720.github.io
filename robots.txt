@@ -3,11 +3,9 @@
 
 # Yea. I guess I am leaving the barn door open and saying "have at"...
 # see how I let robots eat my thoughts. so demure. so mindful.
-
 User-agent: *
 Allow: /
 
 # I publish this via GitHub actions both to AWS S3 and GitHub Pages
-
 Sitemap: https://www.jsrowe.com/sitemap.xml
 Sitemap: https://jsr6720.github.io/sitemap.xml
