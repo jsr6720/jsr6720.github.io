@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Thomas Paine, *Common Sense, The Rights of Man and Other Essential Writings*, Jack Fruchtman Jr., Sidney Hook Signet 2003 (Paperback)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

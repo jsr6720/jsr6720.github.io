@@ -54,7 +54,7 @@ Original Wordpress tags: "Personal Musings", "ror", "ruby"
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

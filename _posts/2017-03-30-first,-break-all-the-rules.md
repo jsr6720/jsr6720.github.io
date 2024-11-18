@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Marcus Buckingham, *First, Break All the Rules: What the World's Greatest Managers Do Differently*, Curt Coffman Gallup Press 1999 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

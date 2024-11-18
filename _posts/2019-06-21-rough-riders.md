@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Mark Lee Gardner, *Rough Riders: Theordore Roosevelt, His Cowboy Regiment, and the Immortal Charge Up San Juan Hill*, Danny Campbell HarperCollins 2016 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

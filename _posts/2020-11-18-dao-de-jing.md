@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Lao Tzu, *Dao De Jing: The United Version*, Yang Peng AmazonUs/INDPB 2017 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

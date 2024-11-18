@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Alfie Kohn, *The Myth of the Spoiled Child: Challenging the Conventional Wisdom About Children and Parenting*,  Tantor Audio 2014 (MP3 CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

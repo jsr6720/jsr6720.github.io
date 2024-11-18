@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Michael   Lewis, *The Big Short: Inside the Doomsday Machine*, Jesse Boggs Simon  Schuster Audio 2010 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

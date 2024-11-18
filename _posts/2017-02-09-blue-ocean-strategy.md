@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 W. Chan Kim, *Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant*, Renée Mauborgne Your Coach Digital 2006 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

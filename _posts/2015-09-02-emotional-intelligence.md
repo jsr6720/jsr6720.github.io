@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Daniel Goleman, *Emotional Intelligence: Why It Can Matter More Than IQ (Leading with Emotional Intelligence)*, Barrett Whitener Macmillan Audio 2005 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

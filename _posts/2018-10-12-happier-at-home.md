@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Gretchen Rubin, *Happier at Home: Kiss More, Jump More, Abandon a Project, Read Samuel Johnson, and My Other Experiments in the Practice of Everyday Life*, Käthe Mazur Books on Tape 2012 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

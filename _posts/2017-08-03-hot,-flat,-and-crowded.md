@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Thomas L. Friedman, *Hot, Flat, and Crowded: Why We Need a Green Revolution and How It Can Renew America*, Oliver Wyman Macmillan Audio 2008 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

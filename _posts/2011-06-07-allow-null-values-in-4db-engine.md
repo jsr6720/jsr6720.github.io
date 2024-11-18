@@ -61,7 +61,7 @@ Original Wordpress tags: "4D", "4D", "clean code", "null", "sql", "v11", "v12"
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/06/07/allow-null-values-in-4db-engine/#comments">1 Comment</a>
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

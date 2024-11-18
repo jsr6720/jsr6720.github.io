@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Adele Faber, *How to Talk so Kids Will Listen...And Listen So Kids Will Talk*, Elaine Mazlish Simon  Schuster Audio/Nightingale-Conant 2002 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

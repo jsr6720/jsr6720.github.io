@@ -205,7 +205,7 @@ Original Wordpress tags: "Postgres", "4D", "plpythonu", "Postgres", "Python", "t
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

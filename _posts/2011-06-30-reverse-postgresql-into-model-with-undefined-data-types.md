@@ -37,7 +37,7 @@ Original Wordpress tags: "Oracle Data Integrator", "data types", "ODI", "Postgre
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

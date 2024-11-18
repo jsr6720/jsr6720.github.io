@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Eric  Davis, *Raising Men: Lessons Navy SEALs Learned from Their Training and Taught to Their Sons*, Chris  Martin St. Martin's Press 2016 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

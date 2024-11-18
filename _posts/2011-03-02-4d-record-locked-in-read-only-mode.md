@@ -62,7 +62,7 @@ Original Wordpress tags: "4D", "4D v11", "locked record", "read only mode"
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

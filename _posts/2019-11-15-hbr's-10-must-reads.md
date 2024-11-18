@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Harvard Business Review, *HBR's 10 Must Reads: The Essentials*, Peter F. Drucker, Clayton M. Christensen, Michael E. Porter, Daniel Goleman, Brad Sanders, Susan Larkin Audible Studios on Brilliance Audio 2015 (MP3 CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

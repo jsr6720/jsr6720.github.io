@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Laura Stack, *Doing the Right Things Right: How the Effective Executive Spends Time*, William A. Cohen Berrett-Koehler Publishers 2016 (Paperback)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Brian Tracy, *Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time*,  BBC Audiobooks America 2007 (Audiobook)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

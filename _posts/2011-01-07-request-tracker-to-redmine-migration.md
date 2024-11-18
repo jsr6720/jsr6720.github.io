@@ -40,7 +40,7 @@ Original Wordpress tags: "Ruby", "rake task", "redmine", "request tracker", "rub
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/01/07/request-tracker-to-redmine-migration/#comments">5 Comments</a>
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

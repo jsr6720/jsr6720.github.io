@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Miyamoto Musashi, *The Book of Five Rings*, Shiro Tsujimura, William Scott Wilson Shambhala 2012 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

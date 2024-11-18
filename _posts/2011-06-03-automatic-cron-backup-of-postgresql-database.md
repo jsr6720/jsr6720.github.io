@@ -90,7 +90,7 @@ Original Wordpress tags: "Bash", "Postgres", "backup", "cron", "pgsql", "pg_dump
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/06/03/automatic-cron-backup-of-postgresql-database/#comments">6 Comments</a>
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

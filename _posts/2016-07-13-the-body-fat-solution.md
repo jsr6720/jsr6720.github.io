@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Tom Venuto, *The Body Fat Solution: 5 Principles for Burning Fat, Building Lean Muscle, Ending Emotional Eating, and Maintaining Your Perfect Weight*, L.J. Ganser BBC Audiobooks America 2009 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

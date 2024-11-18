@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Daidōji Yūzan, *Budoshoshinshu: Essential Teachings on the Way of the Warrior*, Bill Wilson Shambhala 2018 (Kindle Edition)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

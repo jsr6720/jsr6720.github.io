@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Susan Forward, *Toxic In-Laws: Loving Strategies for Protecting Your Marriage*, Donna Frazier HarperCollins Publishers Inc. 2002 (Paperback)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

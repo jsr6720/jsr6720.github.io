@@ -17,7 +17,7 @@ Just some personal thoughts on download progress bars, and why you can never tru
 
 
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

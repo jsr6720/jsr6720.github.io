@@ -45,7 +45,7 @@ Original Wordpress tags: "Wish List", "4D", "data types", "float", "sql"
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2010/11/11/new-4d-variable-data-type-float/#comments">1 Comment</a>
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

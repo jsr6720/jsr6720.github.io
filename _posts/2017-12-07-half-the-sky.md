@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Nicholas D. Kristof, *Half the Sky: Turning Oppression into Opportunity for Women Worldwide*, Sheryl WuDunn HighBridge Audio 2009 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

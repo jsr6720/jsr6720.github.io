@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Richard Carlson, *Dont Sweat the Small Stuff and Its All Small Stuff*,  Simon & Schuster Audio 1999 (Audio Cassette)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

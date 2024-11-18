@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 John P. Avlon, *Washington's Farewell: The Founding Father's Warning to Future Generations*,  Simon  Schuster Audio 2017 (Audiobook)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

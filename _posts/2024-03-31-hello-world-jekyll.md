@@ -60,7 +60,7 @@ I've done setup on [Blogger](https://www.blogger.com/) and [Wordpress](http://wo
 ## Author's Note
 
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }}
 

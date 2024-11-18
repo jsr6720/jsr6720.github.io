@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Doris Kearns Goodwin, *The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism*, Edward Herrmann Simon  Schuster Audio 2013 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

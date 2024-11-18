@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Leonard Sax, *The Collapse of Parenting: How We Hurt Our Kids When We Treat Them Like Grown-Ups*,  Blackstone Audiobooks 2015 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

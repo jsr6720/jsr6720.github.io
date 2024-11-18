@@ -53,7 +53,7 @@ Try this easy way to check with your team on how they feel about standups: ask i
 
 Written as a corporate LinkedIn piece.
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

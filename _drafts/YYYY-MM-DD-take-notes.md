@@ -22,7 +22,7 @@ Some ideas that popped into my head
 
 
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

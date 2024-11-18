@@ -67,7 +67,7 @@ Original Wordpress tags: "Postgres", "psql", "Python", "scheduled task"
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

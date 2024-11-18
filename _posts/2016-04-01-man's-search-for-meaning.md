@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Viktor E. Frankl, *Man's Search for Meaning*, Simon Vance Blackstone Audio, Inc. 2004 (Audiobook)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

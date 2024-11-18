@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Pamela Druckerman, *Bringing Up Bébé: One American Mother Discovers the Wisdom of French Parenting*, Abby Craden Random House Audio 2012 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

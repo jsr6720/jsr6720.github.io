@@ -155,7 +155,7 @@ Original Wordpress tags: "Misc", "redmine", "request tracker", "rt vs redmine", 
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/04/05/redmine-versus-request-tracker/#comments">6 Comments</a>
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

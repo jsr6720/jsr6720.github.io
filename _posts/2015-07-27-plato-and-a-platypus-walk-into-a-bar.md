@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Thomas Cathcart, *Plato and a Platypus Walk Into a Bar...: Understanding Philosophy Through Jokes*, Johnny Heller Recorded Books 2007 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

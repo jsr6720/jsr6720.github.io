@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Patrick Lencioni, *Silos, Politics & Turf Wars: A Leadership Fable About Destroying the Barriers that Turn Colleagues into Competitors*,  Macmillan Audio 2006 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

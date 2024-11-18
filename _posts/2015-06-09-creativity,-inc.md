@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Ed Catmull, *Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration*, Amy    Wallace Random House Audio 2014 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Cole C. Kingseed, *Conversations With Major Dick Winters: Life Lessons from the Commander of the Band of Brothers*,  Blackstone Audio, Inc. 2014 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

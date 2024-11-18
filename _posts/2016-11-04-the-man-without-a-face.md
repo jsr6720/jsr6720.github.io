@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Masha Gessen, *The Man Without a Face: The Unlikely Rise of Vladimir Putin*, Justine Eyre Blackstone Audiobooks 2012 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

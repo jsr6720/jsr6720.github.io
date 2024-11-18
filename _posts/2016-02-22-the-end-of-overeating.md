@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 David A. Kessler, *The End of Overeating: Taking Control of the Insatiable American Appetite*, Blair Hardman Simon  Schuster Audio 2009 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

@@ -52,7 +52,7 @@ Original Wordpress tags: "Java", "Java", "string comparison"
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

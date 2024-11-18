@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Elizabeth Letts, *The Perfect Horse: the Daring U.S. Mission to Rescue the Priceless Stallions Kidnapped by the Nazis*,  Ballantine Books 2016 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

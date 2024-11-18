@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 John P. Kotter, *Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions*, Holger Rathgeber, Oliver Wyman Macmillan Audio 2006 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

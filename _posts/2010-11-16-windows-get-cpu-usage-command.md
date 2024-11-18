@@ -46,7 +46,7 @@ Original Wordpress tags: "DOS", "CPU", "DOS CPU usage", "utilization"
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

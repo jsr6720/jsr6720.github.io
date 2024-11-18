@@ -34,7 +34,7 @@ Original Wordpress tags: "MySQL", "i am a dummy", "MySQL"
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

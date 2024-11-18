@@ -33,7 +33,7 @@ Originally, I hadn’t intended to publish anything online about my cancer, but 
 
 As of June 2024, I’m alive and well; check out [https://status.jsrowe.com](https://status.jsrowe.com) to see what I’m up to.
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

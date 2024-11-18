@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 John M. Gottman, *The Seven Principles for Making Marriage Work: A Practical Guide from the Country's Foremost Relationship Expert*, Nan Silver, John Allen Nelson Tantor Audio 2011 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

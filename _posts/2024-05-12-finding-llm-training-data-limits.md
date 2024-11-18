@@ -54,7 +54,7 @@ See below a "traditional search" result. Never mind that I had to do a full page
 
 <img src="/assets/posts-images/traditional-google-search-ruby-2.png" alt="google search ruby 2 version" class="center-img img-stylish"/>
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

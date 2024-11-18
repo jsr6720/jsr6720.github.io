@@ -114,7 +114,7 @@ Ironically lost along the way was the post that directed me to the ```history_it
 
 First post making use of more advanced markdown and jekyll parsing techniques.
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }}
 

@@ -42,7 +42,7 @@ Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/0
 
 - {{ "2024-05-13 01:32:08" | date_to_string: "ordinal", "US" }} in revisiting this post just over 13 years later I laugh at my use of "smilies"\[sic\].
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

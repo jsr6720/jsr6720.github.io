@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Julie Lythcott-Haims, *How to Raise an Adult: Break Free of the Overparenting Trap and Prepare Your Kid for Success*,  Henry Holt and Co. 2015 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

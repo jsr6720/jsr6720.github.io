@@ -52,7 +52,7 @@ Would I do it again? Absolutely. Now "my content" is in flatfile format the way 
 
 
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

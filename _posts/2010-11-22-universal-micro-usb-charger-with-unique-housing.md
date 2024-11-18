@@ -36,7 +36,7 @@ Original Wordpress comments: None
 
 - {{ "2024-05-13 01:28:58" | date_to_string: "ordinal", "US" }} Obligatory https://xkcd.com/927/
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

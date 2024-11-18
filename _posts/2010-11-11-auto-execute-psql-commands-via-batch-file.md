@@ -52,7 +52,7 @@ Original Wordpress tags: "DOS", "bat file", "batch file", "DOS", "psql"
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2010/11/11/auto-execute-psql-commands-via-batch-file/#comments">2 Comments</a>
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Bruce Tulgan, *The 27 Challenges Managers Face: Step-by-Step Solutions to (Nearly) All of Your Management Problems*,  Jossey-Bass 2014 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

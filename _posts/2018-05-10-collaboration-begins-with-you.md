@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Kenneth H. Blanchard, *Collaboration Begins With You: Be a Silo Buster*, Jane Ripley, Eunice Parisi-Carew Berrett-Koehler on Dreamscape Audio 2015 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

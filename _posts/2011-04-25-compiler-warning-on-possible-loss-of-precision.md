@@ -59,7 +59,7 @@ Original Wordpress tags: "4D", "Wish List", "possible loss of precision", "real 
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/04/25/compiler-warning-on-possible-loss-of-precision/#comments">1 Comment</a>
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

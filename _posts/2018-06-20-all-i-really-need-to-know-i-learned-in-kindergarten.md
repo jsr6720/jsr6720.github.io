@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Robert Fulghum, *All I Really Need to Know I Learned in Kindergarten: Uncommon Thoughts on Common Things*,  Ballantine Books 2003 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

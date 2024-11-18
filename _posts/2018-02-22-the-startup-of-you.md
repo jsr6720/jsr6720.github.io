@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Reid Hoffman, *The Startup of You: Adapt to the Future, Invest in Yourself, and Transform Your Career*, Ben Casnocha Crown Business 2012 (Kindle Edition)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

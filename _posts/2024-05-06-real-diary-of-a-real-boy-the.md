@@ -33,7 +33,7 @@ Henry A. Shute, *The Real Diary of a Real Boy*,  Franklin Covey 2011 (Audio CD)[
 
 Accessed via [Project Gutenberg's site](https://www.gutenberg.org/files/5111/5111-h/5111-h.htm)
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

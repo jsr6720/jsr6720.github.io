@@ -77,7 +77,7 @@ Original Wordpress tags: "4D", "Postgres", "4D SQL", "Postgres", "SQL function"
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 George Lakoff, *Don't Think of an Elephant! Know Your Values and Frame the Debate: The Essential Guide for Progressives*, Howard Dean, Don Hazen Chelsea Green Publishing 2004 (Paperback)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

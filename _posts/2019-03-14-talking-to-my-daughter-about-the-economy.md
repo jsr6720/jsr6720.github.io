@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Yanis Varoufakis, *Talking to my Daughter about the Economy: or, How Capitalism Works--and How It Fails*,  Macmillan Audio 2018 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

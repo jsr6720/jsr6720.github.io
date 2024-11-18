@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Chip Gaines, *Capital Gaines: Smart Things I Learned Doing Stupid Stuff*, Mark Dagostino Thomas Nelson on Brilliance Audio 2017 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

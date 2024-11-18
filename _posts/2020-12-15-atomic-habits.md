@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 James Clear, *Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones*,  Avery 2018 (Kindle Edition)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

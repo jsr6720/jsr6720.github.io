@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Shawn Achor, *The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work*,  Random House Audio 2010 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

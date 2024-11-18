@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Brian Tracy, *Get Paid More and Promoted Faster: 21 Great Ways to Get Ahead in Your Career*,  Berrett-Koehler Publishers 2001 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Henry Hazlitt, *Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics*,  Blackstone Publishing 2000 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

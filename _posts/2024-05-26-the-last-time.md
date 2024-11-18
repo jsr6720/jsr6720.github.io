@@ -45,7 +45,7 @@ Not sure if there is an archivist in me, but it certainly can't take photos.
 
 Mostly an excuse to stick an old photo of me online.
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

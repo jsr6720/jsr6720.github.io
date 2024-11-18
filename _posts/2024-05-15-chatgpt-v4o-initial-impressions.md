@@ -47,7 +47,7 @@ In reviewing these two examples I think ChatGPT-4o has the better UI experience 
 
 [^subscription]: I subscribe to `ChatGPT Pro` but I do not subscribe to `Gemini Advance`
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

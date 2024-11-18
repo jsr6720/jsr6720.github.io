@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Patrick Lencioni, *The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues (J-B Lencioni Series)*,  Jossey-Bass 2016 (Kindle Edition)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

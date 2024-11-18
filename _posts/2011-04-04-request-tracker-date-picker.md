@@ -31,7 +31,7 @@ Original Wordpress tags: "Personal Musings", "date picker", "request tracker"
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

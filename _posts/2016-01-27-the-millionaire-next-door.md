@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Thomas J. Stanley, *The Millionaire Next Door: The Surprising Secrets of Americas Wealthy*, William D. Danko Simon  Schuster Audio 2000 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
