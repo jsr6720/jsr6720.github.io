@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Symphony Space, *Selected Shorts: American Classics*, Amy Tan, Donald Barthelme, Eudora Welty, Joyce Carol Oates, John Sayles, Alice Walker, John Cheever, Edgar Allan Poe Symphony Space 2010 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

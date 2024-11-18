@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Jon Gordon, *The Energy Bus: 10 Rules to Fuel Your Life, Work, and Team with Positive Energy*, Ken Blanchard Wiley 2007 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

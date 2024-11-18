@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Kerry Patterson, *Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior*,  Amer Media Intl - McGraw Hill audio 2005 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

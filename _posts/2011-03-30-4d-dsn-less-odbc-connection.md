@@ -49,7 +49,7 @@ Original Wordpress tags: "4D", "4D ODBC driver", "DSN"
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/03/30/4d-dsn-less-odbc-connection/#comments">7 Comments</a>
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

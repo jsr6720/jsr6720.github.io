@@ -37,7 +37,7 @@ Original Wordpress tags: "PHP", "date range", "php 5.3"
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Jeffrey A. Krames, *Lead with Humility: 12 Leadership Lessons from Pope Francis*, Walter Dixon Gildan Media on Dreamscape Audio 2015 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

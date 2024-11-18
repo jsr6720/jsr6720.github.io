@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Gene Kranz, *Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond*, Danny Campbell Tantor Media 2011 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

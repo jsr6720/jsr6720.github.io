@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Henry Cloud, *Boundaries with Kids: When to Say Yes, When to Say No, to Help Your Children Gain Control of Their Lives*,  Zondervan Publishing Company 2006 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

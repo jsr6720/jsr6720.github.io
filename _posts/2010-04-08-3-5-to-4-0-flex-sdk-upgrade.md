@@ -57,7 +57,7 @@ Original Wordpress tags: "flex", "4.0", "flex"
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

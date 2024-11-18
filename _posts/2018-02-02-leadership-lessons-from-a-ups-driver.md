@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Ron Wallace, *Leadership Lessons from a UPS Driver: Delivering a Culture of We, Not Me*,  Berrett-Koehler on Dreamscape Audio 2016 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

@@ -78,7 +78,7 @@ Original Wordpress tags: "flex", "drag-and-drop", "flex", "skins"
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2010/04/14/flex-4-0-drag-and-drop-with-skins/#comments">2 Comments</a>
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

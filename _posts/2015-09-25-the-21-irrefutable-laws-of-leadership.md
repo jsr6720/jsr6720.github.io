@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 John C. Maxwell, *The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You*,  Thomas Nelson on Brilliance Audio 2013 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

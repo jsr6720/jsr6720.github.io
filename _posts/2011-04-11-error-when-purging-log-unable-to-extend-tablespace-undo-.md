@@ -55,7 +55,7 @@ Original Wordpress tags: "Oracle Data Integrator", "Data Integrator", "log purge
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

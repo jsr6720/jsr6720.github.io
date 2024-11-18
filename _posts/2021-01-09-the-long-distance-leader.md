@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Kevin Eikenberry, *The Long-Distance Leader: Rules for Remarkable Remote Leadership*, Wayne Turmel Berrett-Koehler Publishers 2018 (Paperback)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

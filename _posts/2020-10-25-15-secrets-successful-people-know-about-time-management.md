@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Kevin E. Kruse, *15 Secrets Successful People Know About Time Management: The Productivity Habits of 7 Billionaires, 13 Olympic Athletes, 29 Straight-A Students, and 239 Entrepreneurs*,  The Kruse Group 2015 (Kindle Edition)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

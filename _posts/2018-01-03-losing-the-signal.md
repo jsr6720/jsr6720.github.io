@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Jacquie McNish, *Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry*, Sean Silcoff, William Hughes Blackstone Audio, Inc. 2015 (Audible Audio)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

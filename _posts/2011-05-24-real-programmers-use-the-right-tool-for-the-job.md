@@ -40,7 +40,7 @@ Original Wordpress tags: "Personal Musings", "cli", "command line", "gui"
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

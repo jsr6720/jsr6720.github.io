@@ -55,7 +55,7 @@ Are you cheap like me? Are you using Amazon Free Tier and S3 buckets to host a s
 
 But no, where’s the fun in that? I’ll just call my humble website “artisanal.”
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

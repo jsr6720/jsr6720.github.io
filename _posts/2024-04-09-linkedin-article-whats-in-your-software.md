@@ -26,7 +26,7 @@ Taking these three simple steps has improved cross-team communication, innovatio
 
 ---
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }}
 

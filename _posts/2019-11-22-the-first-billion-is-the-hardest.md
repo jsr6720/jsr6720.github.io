@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 T. Boone Pickens, *The First Billion Is the Hardest: Reflections on a Life of Comebacks and America's Energy Future*, Arthur Morey Random House Audio 2008 (Audio)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

@@ -83,7 +83,7 @@ If Steve Jobs gets to put a dent into the universe, then why not my observations
 
 On the golden records[^voyager] of humanity, having etched perhaps a singular micron is a fun thought. Who knows, maybe I'll be the sole surviving record of copper ingots.[^copper]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

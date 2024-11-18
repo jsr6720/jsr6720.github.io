@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Carla Naumburg, *Ready, Set, Breathe: Practicing Mindfulness with Your Children for Fewer Meltdowns and a More Peaceful Family*,  New Harbinger Publications 2015 (Paperback)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

@@ -72,7 +72,7 @@ Original Wordpress tags: "4D", "4D", "CAST", "data types", "Error code: 1108", "
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/04/26/use-cast-in-4d-volatile-sql-statements/#comments">1 Comment</a>
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

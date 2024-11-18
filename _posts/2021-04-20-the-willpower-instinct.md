@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Kelly McGonigal, *The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It*,  Avery 2011 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

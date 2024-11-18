@@ -89,7 +89,7 @@ Sometimes I wonder about my old code. My professional career all my code changes
 
 Not my most original contribution. But it brought me joy to revisit and reminisce.
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

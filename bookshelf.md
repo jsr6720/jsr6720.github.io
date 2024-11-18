@@ -66,7 +66,7 @@ Some books leave me with a heavy heart at the closeâ€”a book so good that I canâ
 ## Author's Note
 
 
-## Significant revisions
+## Significant Revisions
 
 - {{ "2024-07-19 21:22:50 -0400" | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "2024-07-13 01:36:53 -0400" | date_to_string: "ordinal", "US" }} First draft

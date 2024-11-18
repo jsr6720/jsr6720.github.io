@@ -38,7 +38,7 @@ Accept quests. Especially with the vigor of Quest Sprout.
 
 Book cover image hotlink credit https://en.wikipedia.org/wiki/If_You_Give_a_Mouse_a_Cookie until I can find my copy to take a picture. I guess I have my own side quest now.
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

@@ -71,7 +71,7 @@ Original Wordpress tags: "4D", "4D", "4D v11", "case of", "clean code", "form ev
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/05/03/encapsulate-formobject-methods-with-form-event-case-statements/#comments">1 Comment</a>
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

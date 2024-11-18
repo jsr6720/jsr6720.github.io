@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Daniel Goleman, *Primal Leadership: Realizing the Power of Emotional Intelligence (Leading with Emotional Intelligence)*, Richard E. Boyatzis, Annie McKee Macmillan Audio 2002 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

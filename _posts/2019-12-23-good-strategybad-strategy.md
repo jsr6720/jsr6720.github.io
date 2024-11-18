@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Richard P. Rumelt, *Good Strategy/Bad Strategy: The Difference and Why It Matters*, Sean Runnette HighBridge Company 2012 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

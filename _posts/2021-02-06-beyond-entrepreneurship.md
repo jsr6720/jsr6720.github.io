@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 James C. Collins, *Beyond Entrepreneurship: Turning Your Business into an Enduring Great Company*, William C. Lazier Prentice Hall Press 1995 (Paperback)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

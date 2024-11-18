@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Glenn Beck, *Glenn Beck's Common Sense: The Case Against an Out-of-Control Government, Inspired by Thomas Paine*,  Threshold Editions 2009 (Paperback)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

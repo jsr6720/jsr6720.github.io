@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Mark Manson, *The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life*, Roger Wayne HarperAudio 2016 (Audible Audio)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

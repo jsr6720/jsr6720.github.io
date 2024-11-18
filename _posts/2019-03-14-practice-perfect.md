@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Doug Lemov, *Practice Perfect: 42 Rules for Getting Better at Getting Better*, Erica Woolway, Katie Yezzi, Dan Heath Jossey-Bass 2012 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

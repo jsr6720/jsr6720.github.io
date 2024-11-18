@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Benjamin Watson, *The New Dad's Playbook: Gearing Up for the Biggest Game of Your Life*, Meg Meeker Baker Books 2017 (Paperback)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

@@ -145,7 +145,7 @@ Original Wordpress tags: "4D", "4D", "clean code", "dry", "error", "ON ERR CALL"
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/06/01/generic-4d-error-catcher/#comments">2 Comments</a>
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

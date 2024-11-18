@@ -93,7 +93,7 @@ Original Wordpress comments: None
 
 - {{ "2024-05-13 01:20:32" | date_to_string: "ordinal", "US" }} just wait until I discover `JavaScript` math...
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

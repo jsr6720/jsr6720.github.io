@@ -39,7 +39,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Bill  Gates, *Business @ the Speed Thought*,  Books on Tape 2000 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

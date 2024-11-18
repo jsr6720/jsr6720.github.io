@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Marie Kondō, *The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing*, Emily Woo Zeller Tantor 2015 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

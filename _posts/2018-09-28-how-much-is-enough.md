@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Jean Illsley Clarke, *How Much Is Enough?: Everything You Need to Know to Steer Clear of Overindulgence and Raise Likeable, Responsible and Respectful Ch*, Connie Dawson, David Bredehoft Da Capo Lifelong Books 2003 (Paperback)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

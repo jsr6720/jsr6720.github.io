@@ -59,7 +59,7 @@ Original Wordpress tags: "4D", "4D", "clean code", "object method", "optimizatio
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

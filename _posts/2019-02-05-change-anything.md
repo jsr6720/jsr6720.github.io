@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Kerry Patterson, *Change Anything: The New Science of Personal Success*, Joseph Grenny, David Maxfield, Ron McMillan, Al Switzler Balance 2011 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

@@ -116,7 +116,7 @@ Available Commands:
 
 Most of this troubleshooting and setup was done in July but I'm just now getting around to publishing this in September. Since I installed Writebook in the first week of its release, I had to install this with RTFM as my mantra. Incidentally, `once.com` uses the Writebook product itself to host the manual. ChatGPT-4o essentially said to register a domain name, launch an EC2 instance, and "use the provided single command from the terminal on your server to set everything up, including SSL" with a link to the [Writebook marketing page](https://once.com/writebook).
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

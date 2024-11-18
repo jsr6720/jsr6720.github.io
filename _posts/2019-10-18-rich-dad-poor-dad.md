@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Robert T. Kiyosaki, *Rich Dad Poor Dad*, Tim Wheeler Rich Dad on Brilliance Audio 2014 (Audible Audio)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

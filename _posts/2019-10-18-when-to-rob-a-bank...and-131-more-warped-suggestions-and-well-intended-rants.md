@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Stephen J. Dubner, *When to Rob a Bank...And 131 More Warped Suggestions and Well-Intended Rants*, Steven D. Levitt, Erik Bergmann, Thérèse Plummer HarperCollins 2015 (Audiobook)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

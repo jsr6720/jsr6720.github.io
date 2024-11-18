@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Nassim Nicholas Taleb, *The Black Swan: The Impact of the Highly Improbable*, David Chandler, Микола Климчук Random House  2007 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

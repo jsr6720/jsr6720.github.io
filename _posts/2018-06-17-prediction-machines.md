@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Ajay Agrawal, *Prediction Machines: The Simple Economics of Artificial Intelligence*, Joshua Gans, Avi Goldfarb Harvard Business Review Press 2018 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

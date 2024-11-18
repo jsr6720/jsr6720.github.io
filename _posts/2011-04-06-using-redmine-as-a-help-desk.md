@@ -40,7 +40,7 @@ Original Wordpress tags: "Misc", "help desk", "redmine"
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/04/06/using-redmine-as-a-help-desk/#comments">3 Comments</a>
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

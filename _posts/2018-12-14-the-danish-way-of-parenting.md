@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Jessica Joelle Alexander, *The Danish Way of Parenting: What the Happiest People in the World Know About Raising Confident, Capable Kids*, Iben Sandahl TarcherPerigee 2016 (Paperback)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Reid Hoffman, *The Alliance: Managing Talent in the Networked Age*, Ben Casnocha, Chris Yeh Harvard Business Review Press 2014 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

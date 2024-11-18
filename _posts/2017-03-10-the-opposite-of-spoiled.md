@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Ron Lieber, *The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money*,  HarperCollins Publishers and Blackstone Audio 2015 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

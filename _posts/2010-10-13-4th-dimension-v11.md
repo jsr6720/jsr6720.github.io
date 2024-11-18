@@ -31,7 +31,7 @@ Original Wordpress tags: "Personal Musings", "4D"
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

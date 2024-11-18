@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Olivia  Fox Cabane, *The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism*, Lisa Cordileone Your Coach In A Box 2013 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

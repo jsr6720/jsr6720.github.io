@@ -107,7 +107,7 @@ I had to ask
 > **ChatGPT**
 > Nope, I didn't copy that example from Stack Overflow or any other specific source. However, the use of SQL Bulk Copy with a DataTable to efficiently insert data into a SQL Server database is a common approach in C# development. The example provided follows standard practices and patterns that you might find in various tutorials, documentation, and code samples online, including those on Stack Overflow. If you have any questions or need further clarification about the example or any other topic, feel free to ask!
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

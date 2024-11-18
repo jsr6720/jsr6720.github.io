@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Doris Kearns Goodwin, *Team of Rivals: The Political Genius of Abraham Lincoln*, Richard Thomas Simon  Schuster Audio 2005 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

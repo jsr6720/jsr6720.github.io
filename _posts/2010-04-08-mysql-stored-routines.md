@@ -48,7 +48,7 @@ Original Wordpress tags: "MySQL", "function", "MySQL", "stored procedure"
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

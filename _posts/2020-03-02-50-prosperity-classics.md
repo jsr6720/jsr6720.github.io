@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Tom Butler-Bowdon, *50 Prosperity Classics: Attract It, Create It, Manage It, Share It - Wisdom From the Most Valuable Books on Wealth Creation and Abundance*, Sean Pratt Your Coach In A Box 2008 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

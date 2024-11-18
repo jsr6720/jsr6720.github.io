@@ -77,7 +77,7 @@ Original Wordpress tags: "4D", "4D", "HTML", "structure export", "XML"
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2010/11/23/html-structure-export-blurs-the-line-on-fields-and-its-comments/#comments">1 Comment</a>
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

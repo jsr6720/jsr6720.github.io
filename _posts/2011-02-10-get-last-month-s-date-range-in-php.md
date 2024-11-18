@@ -37,7 +37,7 @@ Original Wordpress tags: "PHP", "date", "monthly date range", "php"
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/02/10/get-last-months-date-range-in-php/#comments">2 Comments</a>
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

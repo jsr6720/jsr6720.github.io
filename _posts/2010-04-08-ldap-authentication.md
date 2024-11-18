@@ -336,7 +336,7 @@ Original Wordpress tags: "Java", "flex", "Java", "ldap"
 
 Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2010/04/08/ldap-authentication/#comments">2 Comments</a>
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

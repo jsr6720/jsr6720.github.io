@@ -40,7 +40,7 @@ Original Wordpress tags: "Ruby on Rails", "find each", "ruby active record"
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

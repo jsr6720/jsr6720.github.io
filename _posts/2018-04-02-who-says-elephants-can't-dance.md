@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Louis V. Gerstner Jr., *Who Says Elephants Can't Dance?:  Inside IBM's Historic Turnaround*,  Harper Business 2002 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

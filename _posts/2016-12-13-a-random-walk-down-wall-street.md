@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Burton G. Malkiel, *A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing*, Kerin McCue Recorded Books 2008 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

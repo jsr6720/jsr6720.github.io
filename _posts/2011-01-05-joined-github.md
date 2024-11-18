@@ -53,7 +53,7 @@ Original Wordpress tags: "Git", "git", "svn"
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

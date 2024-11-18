@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Peter F. Drucker, *The Five Most Important Questions You Will Ever Ask About Your Organization*, Frances Hesselbein Leadership Institute Jossey-Bass 2008 (Paperback)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

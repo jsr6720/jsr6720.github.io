@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 John Taylor Gatto, *Dumbing Us Down - 25th Anniversary Hardback Edition: The Hidden Curriculum of Compulsory Schooling - 25th Anniversary Edition*,  New Society Publishers 2017 (Hardcover)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

@@ -43,7 +43,7 @@ Original Wordpress tags: "Clean Code", "clean code", "temp variables"
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

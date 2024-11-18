@@ -35,7 +35,7 @@ Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
 
 Thomas L. Friedman, *Thank You for Being Late: Finding a Job, Running a Country, and Keeping Your Head in an Age of Accelerations*, Oliver Wyman Macmillan Audio 2016 (Audio CD)[^1]
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

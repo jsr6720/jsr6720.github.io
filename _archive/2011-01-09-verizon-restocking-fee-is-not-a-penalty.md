@@ -64,7 +64,7 @@ Original Wordpress tags: "Personal Musings", "restocking fee", "verizon wireless
 
 Original Wordpress comments: None
 
-## Significant revisions
+## Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
