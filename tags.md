@@ -4,8 +4,10 @@ title: Tags
 permalink: /tags/index.html
 ---
 
+{% assign sorted_tags = site.tags | sort %}
+
 <p>
-{% for tag in site.tags %}
+{% for tag in sorted_tags %}
   <span>
     <a href="#{{ tag[0] | slugify }}" onclick="showTagged('{{ tag[0] | slugify }}')">{{ tag[0] }}</a> | 
   </span>
@@ -19,7 +21,7 @@ function showTagged(tag) {
 }
 </script>
 
-{% for tag in site.tags %}
+{% for tag in sorted_tags %}
 <div id="{{ tag[0] | slugify }}" class="tagged-posts" style="display:none;">
   <h2>Posts tagged with {{ tag[0] }}</h2>
   <ul>
