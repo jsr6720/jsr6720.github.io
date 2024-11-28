@@ -137,3 +137,8 @@ font-family: "Comic Sans MS", "Comic Sans", cursive; // I mean just because
 .post-content h6 {
   font-size: 0.9em;
 }
+
+.post-content hr {
+  margin: 10px 0;
+  border: 1px solid lightgray;
+}

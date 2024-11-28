@@ -7,9 +7,13 @@ permalink: /books/index.html
 
 ## Book thoughts
 
-[`Detect Thoughts`](https://www.dndbeyond.com/spells/detect-thoughts) I thought was a clever way of reimaging "thoughts on" but perhaps I'll revisit it one day.
+[`Detect Thoughts`](https://www.dndbeyond.com/spells/detect-thoughts) I thought was a clever way of restating "thoughts on" but perhaps I'll revisit it one day.
 
-I indicate format in the rview: audio CD, hardcover, paperback and maybe a few large print.
+One day has come and I was going to bulk replace with ["Into the Pensieve"](https://harrypotter.fandom.com/wiki/Pensieve), but I feel like moving from one niche (Dungeons and Dragons) to another (Harry Potter) isn't answer.
+
+So I'll likely replace all with "Book Review". Which will match title to content.
+
+I indicate format in the review: audio CD, hardcover, paperback and maybe a few large print.
 
 **Please** Consider visiting your [library](https://www.nypl.org) or supporting a [local bookstore](https://www.liftbridgebooks.com).
 
