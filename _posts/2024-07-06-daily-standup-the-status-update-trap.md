@@ -3,7 +3,8 @@ layout: post
 author: James Rowe
 title: "Daily Standup: The Status Update Trap"
 date: "2024-07-06 23:13:22 -0400"
-tags: 2024 management agile
+category: management
+tags: 2024 agile stand-up
 uid: E3C2DF76-E36B-4BBB-8834-349C4B365D26
 ---
 
@@ -15,7 +16,7 @@ By now, most software engineering teams have adopted some form of Agile software
 
 Here’s how to fix it by injecting dialogue into the process rather than reading off a task board.
 
-## Start with Why
+## Start with Why[^why]
 
 Standups should provide context, direction, and a forum to quickly course-correct on the question of “why are we here?” The dialogues held during standups are discussions on the tangible steps needed to complete team goals. It’s never too early to demonstrate that outcomes matter by inspecting the progress of the team against those commitments.
 
@@ -49,17 +50,11 @@ Try this easy way to check with your team on how they feel about standups: ask i
 
 ---
 
-## Author's Note
-
-Written as a corporate LinkedIn piece.
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }} cross published on [LinkedIn](https://www.linkedin.com/pulse/daily-standup-status-update-trap-james-rowe-q8boc)
 - {{ "2024-06-26 23:39:22 -400" | date_to_string: "ordinal", "US" }} First draft
 
-## EOF/Footnotes
+### Footnotes
 
-[Start With Why](https://en.wikipedia.org/wiki/Start_with_Why)
+[^why]: [Start With Why](https://en.wikipedia.org/wiki/Start_with_Why)

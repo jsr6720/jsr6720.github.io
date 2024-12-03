@@ -1,15 +1,16 @@
 ---
 layout: post
 author: James Rowe
-title: Thoughts on Self-Publishing "AI Primer for Business Leaders"
+title: Self-Publishing "AI Primer for Business Leaders"
 date: 2024-11-21 21:04:56 -0500
-tags: 2024 book self-publishing
+category: personal
+tags: 2024 book self-publishing writing ai
 uid: 44EC4119-0A57-4B89-8B56-A09315A3B0F5
 ---
 
 ## From Writer to Author
 
-November 18 marked a new accomplishment in my life: I’ve self-published a book, *[AI Primer For Business Leaders](http://amazon.com/dp/B0DKQSV5H4)*. I’ve always enjoyed reading and [writing](https://www.jsrowe.com/journaling-why-write/index.html)[^inspiration], and had penciled onto my bucket list “publish something one day.” I figured that with the right topic and work/life expertise, I could compile enough thoughts to complete a small work. With the explosion of generative AI, I saw a topic that I felt suited to write about that also had a sparce collection of books published about it. Before, whenever I wanted to research something, I was able to find [definitive books](https://www.jsrowe.com/bookshelf/index.html) that provided valuable insights.
+November 18 marked a new accomplishment in my life: I’ve self-published a book, *[AI Primer For Business Leaders](http://amazon.com/dp/B0DKQSV5H4)*. I’ve always enjoyed reading and [writing](https://www.jsrowe.com/journaling-why-write/index.html), and had penciled onto my bucket list “publish something one day.” I figured that with the right topic and work/life expertise, I could compile enough thoughts to complete a small work. With the explosion of generative AI, I saw a topic that I felt suited to write about that also had a sparce collection of books published about it. Before, whenever I wanted to research something, I was able to find [definitive books](https://www.jsrowe.com/bookshelf/index.html) that provided valuable insights.
 
 As I started collecting whitepapers and articles, I thought that I could address a niche at the intersection of business leadership and technical acumen—which, ironically, was an early business objective on my resume (when those were in vogue). I took this rough idea of a series of blog posts on the topic[^posts] and wrote around 10k words in one weekend. I felt like with a little more work, I could make a small primer on everything I’ve observed in the AI marketplace over the past year. Like many things e-commercialized, the basic building blocks of self-publication can be purchased online; a set of 10 ISBNs can be yours for the low price of $295. Assign some metadata, a title, and boom—you’re on your way. But I’m getting ahead of myself. 
 
@@ -53,29 +54,27 @@ I guess here is a glimpse into the future: I’ve been using ChatGPT for almost 
 
 ---
 
-## Author's Note
+## Postscript
 
 I really like the [advice for authors](https://seths.blog/2006/08/advice_for_auth/) that Seth put together.
 
-There were many sources of inspiration for this project, but of particular note, I thank Will for the inspiration of including [QR codes in books](https://lethain.com/qr-codes-in-books/) and his posts on [publishing](https://lethain.com/more-publshing-thoughts/) and [thoughts on writing](https://lethain.com/publishing-eng-execs-primer/).
+There were many sources of inspiration[^inspiration] for this project, but of particular note, I thank Will Larson for his many posts on writing: [QR codes in books](https://lethain.com/qr-codes-in-books/), [publishing](https://lethain.com/more-publshing-thoughts/), and [thoughts on writing](https://lethain.com/publishing-eng-execs-primer/).
 
 I think my biggest regret in this project is not writing more. I got so focused on writing a “primer,” which I felt meant it needed to be really short. I guess the consolation prize is that for a brief moment I was the “#1 New release” in Amazon’s “Two-Hour Computers & Technology Short Reads” category.
 
-<img src="/assets/posts-images/amazon-book-publication-page-ai-primer.png" alt="picture of my listing on amazon.com #1" class="img-stylish center"/>
+<img src="/assets/posts-images/amazon-book-publication-page-ai-primer.png" alt="picture of my listing on amazon.com #1" class=""/>
 
-[^inspiration]: When I think about this blog, I realize the major influences are [http://lethain.com/](http://lethain.com/) and [http://martinfowler.com/](http://martinfowler.com/). But deep down, this blog is inspired by the hundreds of small text-based websites published by engineers all over the world who saw a problem without a solution until they posted one. It’s these unsung heroes on whom generative AI builds its success, and it’s them whom I salute. I can only hope that one day I can be as famous as DenverCoder09 in [“Wisdom of the Ancients.”](https://xkcd.com/979/)
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "2024-08-24 18:06:59 -0500" | date_to_string: "ordinal", "US" }} Draft created
 
-## EOF/Footnotes
+### Footnotes
 
 [^posts]: Some of my initial posts to this site strictly explored the novel UI interaction of ChatGPT and other models and how one could interact with them while understanding the [limits of their training data](https://jsrowe.com/finding-llm-training-data-limits/index.html).
 
 [^papers]: Many of which I started collecting in my [github account](https://github.com/jsr6720/jsr6720.github.io/tree/main/_whitepapers/ai).
 
 [^publishers]: I did reach out to a couple of publishing houses, but their first question was, “How many followers do you have on social media?” This took me aback; it felt clear that the publisher route favored established brands/authors. And why wouldn’t it? Less risk to take on a known commodity. I did take the time to submit a book proposal to Kogan Page and didn’t hear back at all. I can’t say I’m surprised—[who am I](https://github.com/jsr6720/jsr6720.github.io/blob/main/_archive/2024-05-21-who-am-i.md), after all? And my meager sales weren’t their target audience.
+
+[^inspiration]: When I think about this blog, I acknowledge the major influences are [http://lethain.com/](http://lethain.com/) and [http://martinfowler.com/](http://martinfowler.com/). But deep down, this blog is inspired by the hundreds of small text-based websites published by engineers all over the world who saw a problem without a solution and posted one. It’s these unsung heroes on whom generative AI builds its success, and it’s them whom I salute. I can only hope that one day I can be as famous as `DenverCoder09` in [“Wisdom of the Ancients.”](https://xkcd.com/979/)
