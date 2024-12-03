@@ -1,11 +1,16 @@
 ---
 layout: post
 author: James Rowe
-title:  "Tree Rings and the Invisible Scars of Life"
+title: "Tree Rings and the Invisible Scars of Life"
 date: "2024-06-19 11:30:21 -0400"
-tags: 2024 cancer personal
+category: personal
+tags: 2024 cancer reflection
 uid: 4F750A7F-4294-4BBE-9C9E-341BB0DEDCAB
 ---
+
+## Preface
+
+Originally, I hadn’t intended to publish anything online about my cancer, but I was inspired by [https://xkcd.com/1141/](https://xkcd.com/1141/) to share parts of my survivor’s journey. Besides, I think about cancer a lot[^6], and this site is called “James’s Thoughts”...
 
 ## Slice of life
 
@@ -21,27 +26,19 @@ My cancer and subsequent treatments have left invisible scars on my life as well
 
 During my chemo treatment, my nails developed a “fracture point”: a scar marking when all my cells turned over, most pronounced on my thumbs. Here I compare notes with the tree. This scar here—what did you see? Was it hard? What lessons did you learn?
 
-If you can move forward, so can I.
+If you can move forward, so can I[^5].
 
 <img src="/assets/posts-images/finger.png" alt="tree slab with thumb" class="center-img img-stylish"/>
 
 ---
 
-## Author's Note
-
-Originally, I hadn’t intended to publish anything online about my cancer, but I was inspired by [https://xkcd.com/1141/](https://xkcd.com/1141/) to share parts of my survivor’s journey. Besides, I think about cancer a lot, and this site is called “James’s Thoughts”...
-
-As of June 2024, I’m alive and well; check out [https://status.jsrowe.com](https://status.jsrowe.com) to see what I’m up to.
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "2024-06-13" | date_to_string: "ordinal", "US" }} Came back to this placeholder and completed draft
 - {{ "2024-05-13" | date_to_string: "ordinal", "US" }} [commit](https://github.com/jsr6720/jsr6720.github.io/commit/ed65badbfaeb1af8b0976c4a7b1447eb5e9b8554) this draft idea for later
 
-## EOF/Footnotes
+### Footnotes
 
 [^1]: [https://web.archive.org/web/20200303190726/https://westsidenewsny.com/features/2020-03-02/tree-slab-display-provides-a-slice-of-our-history/](https://web.archive.org/web/20200303190726/https://westsidenewsny.com/features/2020-03-02/tree-slab-display-provides-a-slice-of-our-history/) 
 
@@ -50,3 +47,7 @@ tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 [^3]: I had originally written “my final discharge from the hospital.” I hope that it is.
 
 [^4]: Good Luck? Bad Luck? Who Knows? [https://en.wikipedia.org/wiki/The_old_man_lost_his_horse](https://en.wikipedia.org/wiki/The_old_man_lost_his_horse) 
+
+[^5]: As of June 2024, I’m alive and well; check out [https://status.jsrowe.com](https://status.jsrowe.com) to see what I’m up to.
+
+[^6]: When I wrote this post it was just a few months after my treatment. I'm happy to say a year later Nov 2025 I think about cancer much less.

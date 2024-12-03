@@ -3,7 +3,8 @@ layout: post
 author: James Rowe
 title: Hosting Writebook on AWS
 date: 2024-09-12 22:33:15 -0400
-tags: 2024 aws self-publishing
+category: software
+tags: 2024 aws writebook
 uid: A177F24A-4C7A-448A-A293-260C7171B369
 ---
 
@@ -112,15 +113,11 @@ Available Commands:
 
 ---
 
-## Author's Note
+## Postscript
 
-Most of this troubleshooting and setup was done in July but I'm just now getting around to publishing this in September. Since I installed Writebook in the first week of its release, I had to install this with RTFM as my mantra. Incidentally, `once.com` uses the Writebook product itself to host the manual. ChatGPT-4o essentially said to register a domain name, launch an EC2 instance, and "use the provided single command from the terminal on your server to set everything up, including SSL" with a link to the [Writebook marketing page](https://once.com/writebook).
+Most of this troubleshooting and setup was done in July but I'm just now getting around to publishing this in September. Since I installed Writebook in the first week of its release, I had to install this with RTFM as my mantra. Incidentally, `once.com` uses the Writebook product itself to host the manual.
 
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "2024-07-07 18:13:27 -0400" | date_to_string: "ordinal", "US" }} Draft and original setup attempted as a weekend project.
-
-## EOF/Footnotes

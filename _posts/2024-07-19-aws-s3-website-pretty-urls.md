@@ -3,6 +3,7 @@ layout: post
 author: James Rowe
 title: "Jekyll Pretty URLs and AWS S3 HTTP 403 Errors"
 date: "2024-07-19 21:34:54 -0400"
+category: software
 tags: 2024 aws jekyll chatgpt
 uid: 2978A937-9A88-4ABF-B792-85CEE8027C60
 ---
@@ -27,7 +28,7 @@ After I tried and was unhappy with ChatGPT (below), I was able to find another w
 
 My goal has always been to maintain my Jekyll configuration and deployment to be backward-compatible with GitHub Pages so my site continues to work at [https://jsr6720.github.io](jsr6720.github.io) so I simply ditched pretty URLs and [changed the Jekyll _config.yml permalink attribute to include index.html](https://github.com/jsr6720/jsr6720.github.io/commit/ff563a45470e49ccad10ff3ae85de08c9647cb89). 
 
-Now I don’t have pretty URLs, but isn’t beauty in the eye of the beholder?
+Now I don’t have pretty URLs, but isn’t beauty in the eye of the beholder?[^frugal]
 
 ## What does ChatGPT-4o say?
 
@@ -47,23 +48,17 @@ So as I explore and adopt generative AI into my work, as models get more advance
 
 ---
 
-## Author's Note
-
-### Stepping over a Dollar to Pick up a Penny
-
-Are you cheap like me? Are you using Amazon Free Tier and S3 buckets to host a static website? I suppose the real answer would be to pay for monthly hosting and actually serve the files using a real webserver like Apache or nginx. Or I could use a SPA like Next.js with a router that gives me pretty URLs.
-
-But no, where’s the fun in that? I’ll just call my humble website “artisanal.”
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "2024-07-12 23:34:46 -0400" | date_to_string: "ordinal", "US" }} Initial draft
 
-## EOF/Footnotes
+### Footnotes
 
-[^free]: Yes, creating a lambda function requires money. See me being frugal above.
+[^frugal]: Are you using Amazon Free Tier and S3 buckets to host a static website? I concede the real answer would be to pay for monthly hosting and serve files with a real webserver like `Apache` or `nginx`. Or build this website with a SPA framework that has a router that gives me pretty URLs.
+
+    But no, where’s the fun in that? I’ll just call my humble website “artisanal.”
+
+[^free]: Yes, creating a lambda function requires money.
 
 [^docs]: I think it’s worth acknowledging that well-written documentation quickly supersedes the statistical “right” response from generative AI. After all, where did ChatGPT get its “answer” from? That’s right, very likely the same site I was reading.
