@@ -42,8 +42,6 @@ From left to right:
 
 ### Significant Revisions
 
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
 - {{ "2024-12-08 00:09:56 -0500" | date_to_string: "ordinal", "US" }} Came back to have a final word
 - {{ "2024-05-06 22:47:18" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/04/07/apples-magic-mouse/)[^txcowboycoder]
