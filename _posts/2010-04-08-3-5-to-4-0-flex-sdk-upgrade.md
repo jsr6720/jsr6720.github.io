@@ -47,4 +47,4 @@ tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
     Original Wordpress categories: ['flex']
 
-    Original Wordpress tags: "flex", "4.0", "flex"
+    Original Wordpress tags: "flex", "4.0"
