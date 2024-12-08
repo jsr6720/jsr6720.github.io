@@ -1,22 +1,18 @@
 ---
 layout: post
 author: James Rowe
-title:  "Validate 4d string data with regex by data type"
-date:   "2010-11-03 00:00:00 -0400"
-tags: 2010 wordpress txcowboycoder 4D regex
+title: "Validate 4d string data with regex by data type"
+date: "2010-11-03 00:00:00 -0400"
+category: software
+tags: 2010 txcowboycoder 4D
 uid: 47ba2acc-c090-465e-83b6-064ee4a55b1c
 ---
 
-
 ## Validate 4d string data with regex by data type
-
 
 [`Match regex`](http://doc.4d.com/4D-Language-Reference-12/String/Match-regex.301-155340.en.html) is a great addition to 4Dv11, but what I really need is a function that takes a string value, a data type and tells me if it’s valid or not.
 
-
 I’m no regex expert, just compiled some online examples into one function. This is only a starting point, but it completes my needs for the time being. There is a whole [forum section](http://forums.4d.fr/List_Message/EN:0/0/2/1/1/1/1434147/0/0/1/-1/0/0/0/0/0/0) devoted to this online.
-
-
 
 ```
   ` ----------------------------------------------------
@@ -136,26 +132,17 @@ $0:=$vb_Return
 
 ```
 
-
-
 ---
 
-## Author's Note
-
-Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
-
-Original Wordpress categories: ['4D']
-
-Original Wordpress tags: "4D", "4D", "Match regex", "regex"
-
-Original Wordpress comments: None
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+### Significant Revisions
 
 - {{ "2024-05-06 22:47:18" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/11/03/validate-4d-string-data-with-regex-by-data-type/)
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/11/03/validate-4d-string-data-with-regex-by-data-type/)[^draft]
 
-## EOF/Footnotes
+### Footnotes
 
+[^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
+	
+	Original Wordpress categories: ['4D']
+
+	Original Wordpress tags: "4D", "4D", "Match regex", "regex"

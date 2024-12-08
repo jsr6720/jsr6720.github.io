@@ -1,32 +1,28 @@
 ---
 layout: post
 author: James Rowe
-title:  "Postgres dynamic trigger — mirroring"
-date:   "2010-10-27 00:00:00 -0400"
-tags: 2010 wordpress txcowboycoder postgreSQL 4D plpythonu python triggers
+title: "Postgres dynamic trigger — mirroring"
+date: "2010-10-27 00:00:00 -0400"
+category: software
+tags: 2010 txcowboycoder PostgreSQL 4D python
 uid: da92199e-dcc3-4fa2-b07a-86315309977f
 ---
 
-
 ## Postgres dynamic trigger — mirroring
-
 
 This is a companion post to the [4D mirroring](http://txcowboycoder.wordpress.com/2010/10/20/mirroring-data-to-another-database/) The approach to this problem, is to have data from the source mirror itself out to a target and accept changes from that mirror system back. All sql based INSERT UPDATE and DELETE operations are to send their changes to the target.
 
-
 It is very important to stress this is only used for Postgres UPDATE statements sending data back to the source. It does however provide an example of iterating over all the fields in a table using the python dict that is populated in `TD["new"]` and `TD["old"]`.
 
+Limitations* Requires `plpythonu` language installed on postgres
 
- Limitations* Requires `plpythonu` language installed on postgres
 * Not designed to handle `DELETE`
 * Not designed to handle `INSERT` can do so with UUID (not until 4Dv12)
 * This is a work in progress, but it is a starting point I hope
 
-
 **Iterate over table fields via python**  
 
- You could even do a dictionary compare to find the difference between `TD["new"]` and `TD["old"]`.
-
+You could even do a dictionary compare to find the difference between `TD["new"]` and `TD["old"]`.
 
 
 ```
@@ -39,11 +35,9 @@ for field_name, field_value in TD["new"].items():
 
 **Full mirroring code**  
 
- Warning there is code here that makes the generated SQL statements 4D compliant only. This is merely a starting point.
+Warning there is code here that makes the generated SQL statements 4D compliant only. This is merely a starting point.
 
-
-
-```
+```python
 -- Function: trigger_sync()
 
 CREATE OR REPLACE FUNCTION trigger_sync()
@@ -191,26 +185,17 @@ GRANT EXECUTE ON FUNCTION trigger_sync() TO postgres;
 
 ```
 
-
-
 ---
 
-## Author's Note
-
-Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
-
-Original Wordpress categories: ['Postgres']
-
-Original Wordpress tags: "Postgres", "4D", "plpythonu", "Postgres", "Python", "trigger"
-
-Original Wordpress comments: None
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+### Significant Revisions
 
 - {{ "2024-05-06 22:47:18" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/10/27/postgres-dynamic-trigger/)
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/10/27/postgres-dynamic-trigger/)[^draft]
 
-## EOF/Footnotes
+### Footnotes
 
+[^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
+
+	Original Wordpress categories: ['Postgres']
+
+	Original Wordpress tags: "Postgres", "4D", "plpythonu", "Postgres", "Python", "trigger"
