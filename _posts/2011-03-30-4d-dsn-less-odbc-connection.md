@@ -41,7 +41,7 @@ If I recall correctly our `4D` instance was deployed on a Mac Server and `PHP` a
 
 In hindsight one of my more "popular" 4D/technology posts. [2024-05-27 comments screenshot](/assets/posts-images/4d-dsn-less-odbc-connection-comments.png)
 
-Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
+Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 
 Original Wordpress categories: ['4D']
 

@@ -36,7 +36,7 @@ Notice the error mentions a file with a ‘.\_’ prefix. On a windows box I dis
 
 ## Author's Note
 
-Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
+Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 
 Original Wordpress categories: ['SVN']
 

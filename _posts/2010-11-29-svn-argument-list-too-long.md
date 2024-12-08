@@ -41,7 +41,7 @@ I think `find` is the best way to do this, with regex support; but again I just 
 
 ## Author's Note
 
-Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
+Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 
 Original Wordpress categories: ['SVN']
 

@@ -64,7 +64,7 @@ Of course it would be nice if [4D compiler could detect these](http://txcowboyco
 
 ## Author's Note
 
-Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
+Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 
 Original Wordpress categories: ['4D']
 

@@ -63,7 +63,7 @@ I don’t type this every time I want to trap events. So I put the following in 
 
 ## Author's Note
 
-Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
+Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 
 Original Wordpress categories: ['4D']
 

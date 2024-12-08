@@ -56,7 +56,7 @@ I filled a complaint with the BBB and within 24 hours a Verizon Wireless corpora
 
 ## Author's Note
 
-Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
+Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 
 Original Wordpress categories: ['Personal Musings']
 

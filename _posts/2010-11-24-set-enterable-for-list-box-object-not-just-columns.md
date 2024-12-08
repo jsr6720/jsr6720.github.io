@@ -26,7 +26,7 @@ Forum based [feature request](http://forums.4d.fr/Post/EN/4708782/) with 4D.
 
 ## Author's Note
 
-Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
+Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 
 Original Wordpress categories: ['Wish List']
 

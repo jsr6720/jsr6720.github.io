@@ -29,7 +29,7 @@ Vote for the [feature request here](http://forums.4d.fr/Post/EN/4622327/1/462232
 
 ## Author's Note
 
-Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
+Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 
 Original Wordpress categories: ['Wish List']
 
