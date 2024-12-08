@@ -12,7 +12,7 @@ uid: ec7b94d8-d72c-4fb0-9b7a-6b488df527e3
 
 Recently I needed a way to build authentication into a Flex application.[^github]
 
-Instead of using a model baked into the Flex code that need recompilation, or other security concerns with flat files, I built a simple LDAP authentication java file, paired with a .properties file and is called via [RemoteObject](http://livedocs.adobe.com/flex/3/langref/mx/rpc/remoting/mxml/RemoteObject.html "RemoteObject") in flex.
+Instead of using a model baked into the Flex code that need recompilation, or other security concerns with flat files, I built a simple LDAP authentication java file, paired with a .properties file and is called via [RemoteObject](http://livedocs.adobe.com/flex/3/langref/mx/rpc/remoting/mxml/RemoteObject.html) in flex.
 
 I’ve posted code that uses simple authentication (no encryption over the wire) as this is an internal application, but it can be enhanced to do so.
 
@@ -316,8 +316,6 @@ GROUP_C=<ldap group>
 
 ### Significant Revisions
 
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
 - {{ "2024-05-06 22:47:18" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/04/08/ldap-authentication/)[^draft]
 
@@ -325,7 +323,7 @@ tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 [^github]: 2024 and upon reflection I really did just plaintext publish code to the internet. Later I would move this code to its own repository [jsr6720/java-ldap-ad-authentication](https://github.com/jsr6720/java-ldap-ad-authentication)
 
-[^draft]: Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
+[^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 
 	Original Wordpress categories: ['Java']
 

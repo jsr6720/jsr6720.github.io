@@ -43,7 +43,7 @@ tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 ### EOF/Footnotes
 
-[^draft]: Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
+[^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 
     Original Wordpress categories: ['flex']
 

@@ -31,7 +31,7 @@ So saddle up and ride into the west, for there are countless problems to be solv
 
 ### Footnotes
 
-[^draft]: Initial draft created using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
+[^draft]: Initial draft created using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 
 [^txcowboycoder]: Original Wordpress categories: ['Personal Musings']
 

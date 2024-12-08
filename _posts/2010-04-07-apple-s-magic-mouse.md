@@ -8,7 +8,7 @@ tags: 2010 txcowboycoder hardware apple
 uid: b635f552-59dc-408f-9d0a-2895b8d7dc3d
 ---
 
-## Apple’s Magic Mouse[^draft]
+## Apple’s Magic Mouse
 
 First, I like the small form factor, and tracking is very accurate.
 
@@ -44,20 +44,20 @@ From left to right:
 
 - {{ "2024-12-08 00:09:56 -0500" | date_to_string: "ordinal", "US" }} Came back to have a final word
 - {{ "2024-05-06 22:47:18" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/04/07/apples-magic-mouse/)[^txcowboycoder]
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/04/07/apples-magic-mouse/)[^draft]
 
 ### Footnotes
 
-[^draft]: Initial draft created using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
+[^draft]: Initial draft created using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 
-[^verge]: Source [https://www.theverge.com/2024/10/28/24276043/apple-new-usb-c-magic-mouse-charging-port-bottom](https://www.theverge.com/2024/10/28/24276043/apple-new-usb-c-magic-mouse-charging-port-bottom)
+    Original Wordpress categories: ['Misc']
+
+    Original Wordpress tags: "Misc", "apple", "mouse"
+
+[^verge]: Source <https://www.theverge.com/2024/10/28/24276043/apple-new-usb-c-magic-mouse-charging-port-bottom>
 
 [^small]: Just really no support for the hand. Feels like I was "clawing" the mouse all day.
 
 [^jobs]: I'm sure Steve Jobs would tell me that [I'm doing it wrong](https://www.wired.com/2010/06/iphone-4-holding-it-wrong/).
 
-[^mice]: Credit [https://upload.wikimedia.org/wikipedia/commons/0/00/The_Apple_Mouse.jpg](https://upload.wikimedia.org/wikipedia/commons/0/00/The_Apple_Mouse.jpg)
-
-[^txcowboycoder]: Original Wordpress categories: ['Misc']
-
-    Original Wordpress tags: "Misc", "apple", "mouse"
+[^mice]: Credit <https://upload.wikimedia.org/wikipedia/commons/0/00/The_Apple_Mouse.jpg>
