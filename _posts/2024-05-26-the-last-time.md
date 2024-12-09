@@ -3,7 +3,8 @@ layout: post
 author: James Rowe
 title: "The last time"
 date: "2024-05-26 22:51:59 -0400"
-tags: 2024 personal musings mortality
+category: personal
+tags: 2024 life
 uid: 7D3CFD4B-F3ED-473A-9F1C-2A71E16ADD7E
 ---
 
@@ -22,7 +23,7 @@ Here is a young me. Proudly holding one of my the stuffed animals from my childh
 
 ## Crayons at an estate sale
 
-I bought a couple boxes of crayons for $1 at an estate stale and noticed a name. And I think about the above quote or some variation of it I've seen on the interwebs. So many things in life happen a 'last' time and in the moment we're not always aware of that fact.
+I bought a couple boxes of crayons[^archive] for $1 at an estate stale and noticed a name. And I think about the above quote or some variation of it I've seen on the interwebs. So many things in life happen a 'last' time and in the moment we're not always aware of that fact.
 
 <div class="flex-row">
     <img src="/assets/posts-images/small-crayola-box.png" alt="small crayola box" class="center-img img-stylish"/>
@@ -37,22 +38,14 @@ Cherish the time you have. There will be more firsts, but there will also be las
 
 ---
 
-## Author's Note
-
-[big crayola box](/assets/posts-images/big-crayola-box.png)
-
-Not sure if there is an archivist in me, but it certainly can't take photos.
-
-Mostly an excuse to stick an old photo of me online.
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-## EOF/Footnotes
+### Footnotes
 
-[^youtube]: https://www.youtube.com/watch?v=yEBDsX7YbDc
+[^youtube]: <https://www.youtube.com/watch?v=yEBDsX7YbDc>
 
-[^kym]: https://knowyourmeme.com/memes/last-online-5-years-ago/photos
+[^kym]: <https://knowyourmeme.com/memes/last-online-5-years-ago/photos>
+
+[^archive]: [big crayola box](/assets/posts-images/big-crayola-box.png) Not sure if there is an archivist in me, but it certainly can't take photos.

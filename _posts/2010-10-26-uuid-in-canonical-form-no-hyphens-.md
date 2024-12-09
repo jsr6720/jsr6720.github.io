@@ -1,9 +1,9 @@
 ---
 layout: post
 author: James Rowe
-title:  "UUID in canonical form (no hyphens)"
-date:   "2010-10-26 00:00:00 -0400"
-tags: 2010 txcowboycoder feature-request 4D
+title: "UUID in canonical form (no hyphens)"
+date: "2010-10-26 00:00:00 -0400"
+tags: 2010 txcowboycoder 4D
 uid: fd5cfb88-fea7-4a9b-a9ca-3a5b470fa8fa
 ---
 
@@ -29,28 +29,22 @@ Don't worry `4D`, you still hold a special place in my heart.
 
 ---
 
-## Author's Note
-
-Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
-
-Original Wordpress categories: ['Wish List']
-
-Original Wordpress tags: "Wish List", "4D", "UUID"
-
-Original Wordpress comments: None
-
 ## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-05-24 01:03:56 -0400" | date_to_string: "ordinal", "US" }} Picked this one post to modernize for funzies. One of my earliest aspirations was to influence the future of a major software product that I had to use everyday at work.
 - {{ "2024-05-06 22:47:18 -0400" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/10/26/uuid-in-canonical-form/)
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/10/26/uuid-in-canonical-form/)[^draft]
 
 ## EOF/Footnotes
 
 [^1]: New link [4Dv20R5 Generate UUID](https://doc.4d.com/4Dv20R5/4D/20-R5/Generate-UUID.301-6817829.en.html#186330)
 
-[^2]: Ah yes. `Everyone` which I'm guessing I meant `postgreSQL`?
+[^2]: Ah yes. `Everyone` which I'm guessing I meant `PostgreSQL`?
 
 [^3]: As identified by doing a `structure export as xml`
+
+[^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
+
+    Original Wordpress categories: ['Wish List']
+
+    Original Wordpress tags: "Wish List", "4D", "UUID"

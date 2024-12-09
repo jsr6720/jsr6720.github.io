@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Search Safari history by timestamp"
+title: "Search Safari history by timestamp"
 date: 2024-04-14 20:47:18 -0400
-tags: 2024 technology safari browser sqlite datetime
+category: software
+tags: 2024 safari sqlite
 uid: 878A409A-C705-49D4-BB71-B379F14D3D68
 ---
 
-## How I ended up in this conudrum
+## How I ended up in this conundrum
 
 I was trying to find an article I read but all I could remember is I read it between X and Y time. Yes, after an hour of reverse engineering ```History.db``` I found what I was looking for.
 
@@ -110,19 +111,13 @@ Ironically lost along the way was the post that directed me to the ```history_it
 
 ---
 
-## Author's Note
-
-First post making use of more advanced markdown and jekyll parsing techniques.
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }}
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-## EOF/Footnotes
+### EOF/Footnotes
 
-[^xkcd2867]: Obligatory: [https://xkcd.com/2867/](https://xkcd.com/2867/)
+[^xkcd2867]: Obligatory: <https://xkcd.com/2867/>
 
 [^schema]: history schema
 

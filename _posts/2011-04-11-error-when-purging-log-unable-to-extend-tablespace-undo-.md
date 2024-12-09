@@ -1,16 +1,16 @@
 ---
 layout: post
 author: James Rowe
-title:  "Error when purging log unable to extend tablespace ‘UNDO’"
-date:   "2011-04-11 00:00:00 -0400"
-tags: 2011 wordpress txcowboycoder odi oracle-data-integrator error troubleshooting oracle
+title: "Error when purging log unable to extend tablespace ‘UNDO’"
+date: "2011-04-11 00:00:00 -0400"
+category: software
+tags: 2011 txcowboycoder odi oracle
 uid: db005aaf-78c2-4da1-a264-8852428aa434
 ---
 
 ## Error when purging log unable to extend tablespace ‘UNDO’
 
 [Oracle Data Integrator 10.1.3](http://www.oracle.com/technetwork/middleware/data-integrator/downloads/index.html) is a great tool and can even run fully functional against [Oracle Express](http://www.oracle.com/technetwork/database/express-edition/overview/index.html) which is the only free Oracle database product available.
-
 
 ## Problem
 
@@ -45,23 +45,16 @@ If this doesn’t work [delete the contents of the reports tables](http://www.bu
 
 ---
 
-## Author's Note
-
-Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
-
-Original Wordpress categories: ['Oracle Data Integrator']
-
-Original Wordpress tags: "Oracle Data Integrator", "Data Integrator", "log purge error", "ODI", "oracle express", "ORA_30036"
-
-Original Wordpress comments: None
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+### Significant Revisions
 
 - {{ "2024-11-17 21:09:22" | date_to_string: "ordinal", "US" }} Copied down original files and updated layout
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/04/11/error-when-purging-log-unable-to-extend-tablespace-undo/)
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/04/11/error-when-purging-log-unable-to-extend-tablespace-undo/)[^draft]
 
-## EOF/Footnotes
+### Footnotes
 
+[^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
+
+    Original Wordpress categories: ['Oracle Data Integrator']
+
+    Original Wordpress tags: "Oracle Data Integrator", "Data Integrator", "log purge error", "ODI", "oracle express", "ORA_30036"

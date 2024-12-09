@@ -1,9 +1,10 @@
 ---
 layout: post
 author: James Rowe
-title:  "Hello World, Jekyll"
-date:   2024-03-31 19:46:48 -0400
-tags: 2024 technology jekyll tools reviews
+title: "Hello World, Jekyll"
+date: 2024-03-31 19:46:48 -0400
+category: review
+tags: 2024 technology jekyll
 uid: EDD59760-5CD4-428F-A8F4-445D0F27DB1F
 ---
 
@@ -57,15 +58,10 @@ I've done setup on [Blogger](https://www.blogger.com/) and [Wordpress](http://wo
 
 ---
 
-## Author's Note
-
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }}
+### Significant Revisions
 
 - {{ "2024-06-09 20:50:21 -0400" | date_to_string: "ordinal", "US" }} Moved "Why `Jekyll`" to this page from `about.md` and cleaned up text
 - {{ "2024-04-08 21:18:23 -0400" | date_to_string: "ordinal", "US" }} Came in and added real content and impressions
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-## EOF/Footnotes
+## Footnotes

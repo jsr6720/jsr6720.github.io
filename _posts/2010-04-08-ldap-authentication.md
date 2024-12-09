@@ -1,33 +1,26 @@
 ---
 layout: post
 author: James Rowe
-title:  "LDAP Authentication"
-date:   "2010-04-08 00:00:00 -0400"
-tags: 2010 wordpress txcowboycoder java apache-flex ldap authentication
+title: "LDAP Authentication"
+date: "2010-04-08 00:00:00 -0400"
+category: software
+tags: 2010 txcowboycoder java apache-flex
 uid: ec7b94d8-d72c-4fb0-9b7a-6b488df527e3
 ---
 
-
 ## LDAP Authentication
 
+Recently I needed a way to build authentication into a Flex application.[^github]
 
-Recently I needed a way to build authentication into a Flex application.
-
-
-Instead of using a model baked into the Flex code that need recompilation, or other security concerns with flat files, I built a simple LDAP authentication java file, paired with a .properties file and is called via [RemoteObject](http://livedocs.adobe.com/flex/3/langref/mx/rpc/remoting/mxml/RemoteObject.html "RemoteObject") in flex.
-
+Instead of using a model baked into the Flex code that need recompilation, or other security concerns with flat files, I built a simple LDAP authentication java file, paired with a .properties file and is called via [RemoteObject](http://livedocs.adobe.com/flex/3/langref/mx/rpc/remoting/mxml/RemoteObject.html) in flex.
 
 I’ve posted code that uses simple authentication (no encryption over the wire) as this is an internal application, but it can be enhanced to do so.
 
-
 The constructor builds an object that can connect to a LDAP source, all LDAP configuration is managed via the .properties file.
-
 
 The heavy lifting is done by an authenticate method, returns a hash table (serialized as an object in flex). This allows me to see a) if they are authenticated, and b) what groups they are in using dot notation. 
 
-
-
-```
+```java
 // Pseudocode -- remote object has a handler method, doesn't actually return an object (java code returns HashTable, serialized as object)
 ldapAuthObj:Object = remoteObject.authenticate("username","password");
 
@@ -39,9 +32,7 @@ if (ldapAuthObj.GROUP_<name>) { /** user was in group */ }
 
 java file
 
-
-
-```
+```java
 import javax.naming.*;
 import javax.naming.directory.*;
 
@@ -273,9 +264,7 @@ public class LDAPAuthenticationService {
 
 .properties file
 
-
-
-```
+```conf
 # This is a config file for specifing some generic information
 # about the LDAP location to avoid recompiling the source code
 
@@ -323,25 +312,21 @@ GROUP_C=<ldap group>
 ```
 
 
-
 ---
 
-## Author's Note
-
-Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
-
-Original Wordpress categories: ['Java']
-
-Original Wordpress tags: "Java", "flex", "Java", "ldap"
-
-Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2010/04/08/ldap-authentication/#comments">2 Comments</a>
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+### Significant Revisions
 
 - {{ "2024-05-06 22:47:18" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/04/08/ldap-authentication/)
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/04/08/ldap-authentication/)[^draft]
 
-## EOF/Footnotes
+### Footnotes
 
+[^github]: 2024 and upon reflection I really did just plaintext publish code to the internet. Later I would move this code to its own repository [jsr6720/java-ldap-ad-authentication](https://github.com/jsr6720/java-ldap-ad-authentication)
+
+[^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
+
+	Original Wordpress categories: ['Java']
+
+	Original Wordpress tags: "flex", "Java", "ldap"
+
+	Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2010/04/08/ldap-authentication/#comments">2 Comments</a>

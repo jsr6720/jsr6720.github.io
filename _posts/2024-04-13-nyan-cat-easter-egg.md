@@ -1,9 +1,10 @@
 ---
 layout: post
 author: James Rowe
-title:  "Nyan cat easter egg"
-date:   2024-04-13 00:48:43 -0400
-tags: 2024 technology personal javascript
+title: "Nyan cat easter egg"
+date: 2024-04-13 00:48:43 -0400
+category: personal
+tags: 2024 humor
 uid: 55FD5095-FDA0-4103-8801-DC07E257DA9C
 ---
 
@@ -29,8 +30,6 @@ I always try and have fun at work. I think about this at least once a month.
 
 ---
 
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }}
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}

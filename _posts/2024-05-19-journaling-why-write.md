@@ -1,9 +1,10 @@
 ---
 layout: post
 author: James Rowe
-title:  "Journaling, why write?"
+title: "Journaling, why write?"
 date: "2024-05-19 16:00:59 -0400"
-tags: 2024 personal reflection archive
+category: personal
+tags: 2024 writing
 uid: 70796E95-880F-464C-8A0B-EB4B4BA04FC1
 ---
 
@@ -71,25 +72,21 @@ So many (all?) of the episodes of [Family Roots](https://www.pbs.org/show/findin
 
 Closing with some humor. With my own distortion.
 
+If Steve Jobs gets to put a dent into the universe, then why not my observations of his dent? I was here. I saw.
+
+On the golden records[^voyager] of humanity, having etched perhaps a singular micron is a fun thought. Who knows, maybe I'll be the sole surviving record of copper ingots.[^copper]
+
 But James, digital will go poof one day. I know. Which is why I wrote this in `plaintext` so I can spool it to pdf and print to paperback and maybe even laser etch into scrap metal and send it to space!
 
 <img src="/assets/posts-images/xkcd-digitial-data-jrowe.png" width="50%" alt="xkcd 1683 digital data" class="center-img img-stylish"/>
 
 ---
 
-## Author's Note
-
-If Steve Jobs gets to put a dent into the universe, then why not my observations of his dent? I was here. I saw.
-
-On the golden records[^voyager] of humanity, having etched perhaps a singular micron is a fun thought. Who knows, maybe I'll be the sole surviving record of copper ingots.[^copper]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-## EOF/Footnotes
+### Footnotes
 
 [^assholes]: For this post, please allow me to set aside serious works documenting atrocities. These deserve their own preservation and study far beyond any of my personal ramblings.
 

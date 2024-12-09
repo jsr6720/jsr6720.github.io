@@ -1,36 +1,29 @@
 ---
 layout: post
 author: James Rowe
-title:  "flex 4 compile error “‘mxmlContent’ must be contiguous”"
-date:   "2010-04-13 00:00:00 -0400"
-tags: 2010 wordpress txcowboycoder apache-flex compile-error error-messages mxmlContent
+title: "flex 4 compile error “‘mxmlContent’ must be contiguous”"
+date: "2010-04-13 00:00:00 -0400"
+category: software
+tags: 2010 txcowboycoder apache-flex
 uid: 1009bb0f-2826-4762-ac77-f89c4bb994f4
 ---
 
-
 ## flex 4 compile error “‘mxmlContent’ must be contiguous”
-
 
 Converting over from 3.5 to 4.0 has been a blast. Lots of new features have been introduced. However I started to see this error every now and again:
 
-
 `Error: Child elements of 'Group' serving as the default property value for 'mxmlContent' must be contiguous.`
-
 
 I would be able to get rid of it undoing whatever I had recently changed, but I pushed it to the back of my mind until now. I can replicate this error by creating a group that contains a layout tag after any visible children.
 
-
 Over zealous copy/pasting a rectangle with a stroke into a group tag, bumping the layout tag lower caused this error for me. 
 
-
 Flex, trying to add visible elements and not knowing how to layout this component complains that child elements aren’t `contiguous`. Needless to say, the error message could be worded differently.
-
 
 This code generates the error. Notice the comment to fix the error; move the layout tag to the first element after the declaration.
 
 
-
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <s:Application name="Test" xmlns:s="library://ns.adobe.com/flex/spark">
 <s:Group>
@@ -65,7 +58,6 @@ This code generates the error. Notice the comment to fix the error; move the lay
 Looking at the documentation (see below) we see that ‘mxmlContent’ refers to the visible children of that mxml tag. The description clued me that the error message referred to layout and children of the container.
 
 
-
 ```
 [Write Only] The visual content children for this Group. This method is used internally by Flex and is not intended for direct use by developers.
 The content items should only be IVisualElement objects. An mxmlContent Array should not be shared between multiple Group containers because visual elements can only live in one container at a time.
@@ -81,26 +73,19 @@ Flex 4
 
 ```
 
-
-
 ---
 
-## Author's Note
-
-Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
-
-Original Wordpress categories: ['flex']
-
-Original Wordpress tags: "flex", "compile error", "flex", "mxmlContent"
-
-Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2010/04/13/mxmlcontent-must-be-contiguous/#comments">2 Comments</a>
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+### Significant Revisions
 
 - {{ "2024-05-06 22:47:18" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/04/13/mxmlcontent-must-be-contiguous/)
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/04/13/mxmlcontent-must-be-contiguous/)[^draft]
 
-## EOF/Footnotes
+### Footnotes
 
+[^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
+
+	Original Wordpress categories: ['flex']
+
+	Original Wordpress tags: "flex", "compile error", "flex", "mxmlContent"
+
+	Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2010/04/13/mxmlcontent-must-be-contiguous/#comments">2 Comments</a>

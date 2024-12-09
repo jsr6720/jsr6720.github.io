@@ -1,45 +1,35 @@
 ---
 layout: post
 author: James Rowe
-title:  "Mirroring 4D data to another database"
-date:   "2010-10-20 00:00:00 -0400"
-tags: 2010 wordpress txcowboycoder 4D replicate change-data-capture
+title: "Mirroring 4D data to another database"
+date: "2010-10-20 00:00:00 -0400"
+category: software
+tags: 2010 txcowboycoder 4D
 uid: 9aad86d4-74a4-4fd1-811f-d127303db935
 ---
 
-
 ## Mirroring 4D data to another database
 
-
-UPDATE:
-
+**UPDATE:**
 
 Code rewrite is more generic, not rely on executing in the context of a trigger, and is meant to be spawned with a `New Process` command. Removing the processing burden from the client. Before it was executing on server, but in a trigger, thus the client still had to wait for a response (300-500 milliseconds vs instantaneous).
 
-
-ORIGINAL POST:
-
+**ORIGINAL POST:**
 
 4Dv11 is an integrated part of my work environment. However it can’t do everything, so the decision was made to mirror the data from 4D (source) to another DBMS system (target). This is not to be confused with 4Dv12 synchronize and replicate functions, which only work from 4D to 4D.
 
-
 We have done exactly this using a great tool called Oracle Data Integrator (ODI). However ODI relies on JDBC connectivity, which 4D stopped updating as of its v2004 line. The ODBC-JDBC bridge did not work properly, and here is a shameless plug for an outstanding [feature request](http://forums.4d.fr/Post/EN/1647462/1/3153784) for JDBC driver for 4Dv11 onward.
 
-
 The approach to this problem, is to have data from the source mirror itself out to a target and accept changes from that mirror system back. All sql based `INSERT` `UPDATE` and `DELETE` operations are to send their changes to the target.
-
 
 Limitations* Requires an exact copy of the database schema and data in the target
 * No concept of primary keys in 4Dv11 so one is sent as a parameter of the function
 * No database event or trigger thrown for `TRUNCATE` or `DROP TABLE`
 * This example was built with Postgresql Plugin by pluggers.nl. While something similar could be built with 4D OCI, or using `SQL LOGIN` via native 4D, the prepared statement functionality would have to be rebuilt.
 
-
 On with the code. There are some bits in here that relate to accepting the changes back. If the intent of the mirror is just to project the changes onto a target then this code needs stripping down to remove references to the boolean flag that prevents infinite loops.
 
-
 I would be more than happy to help, if others find it useful, but not quite there.
-
 
 
 ```
@@ -275,22 +265,15 @@ End if   `kill switch if
 
 ---
 
-## Author's Note
-
-Initial `md` Generated using [https://github.com/jsr6720/wordpress-html-scraper-to-md](https://github.com/jsr6720/wordpress-html-scraper-to-md)
-
-Original Wordpress categories: ['4D']
-
-Original Wordpress tags: "4D", "4D", "mirror", "replicate"
-
-Original Wordpress comments: None
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+### Significant Revisions
 
 - {{ "2024-05-06 22:47:18" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/10/20/mirroring-data-to-another-database/)
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/10/20/mirroring-data-to-another-database/)[^draft]
 
-## EOF/Footnotes
+### Footnotes
 
+[^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
+
+	Original Wordpress categories: ['4D']
+
+	Original Wordpress tags: "4D", "mirror", "replicate"

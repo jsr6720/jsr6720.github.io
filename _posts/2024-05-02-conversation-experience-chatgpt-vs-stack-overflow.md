@@ -1,9 +1,10 @@
 ---
 layout: post
 author: James Rowe
-title:  "Conversation experience ChatGPT vs stack overflow"
-date:   "2024-05-02 21:59:32 -04:00"
-tags: 2024 technology stack-overflow communication
+title: "Conversation experience ChatGPT vs stack overflow"
+date: "2024-05-02 21:59:32 -04:00"
+category: personal
+tags: 2024 stack-overflow communication
 uid: E4927E40-0AF6-42A4-A367-ED9F58A73C79
 excerpt: "A comparison of the conversation experience between stack overflow and ChatGPT. Great outcomes with ChatGPT start with an willingness to offer solutions"
 ---
@@ -14,11 +15,11 @@ One of the things I find most appealing about conversing with ChatGPT is both it
 
 Below I compare my own history posting on stack overflow and the experience in Chat GPT. Ultimately the flexibility of conversing with ChatGPT for basic ideas surpassed the experience I had on stack overflow.
 
-**Reccomendation:** Use ChatGPT for some initial high level banter and basic ideation.
+**Recommendation:** Use ChatGPT for some initial high level banter and basic ideation.
 
 ### ChatGPT conversation style
 
-Why is it that ChatGPT seems so cherful? When I aksed ChatGPT[^1] what its conversation style is set to I got the following response:
+Why is it that ChatGPT seems so cheerful? When I asked ChatGPT[^1] what its conversation style is set to I got the following response:
 
 > **User**
 > What is your conversation style set to?
@@ -45,7 +46,7 @@ At the time I had done some work with `C#` and jumped in with an [answer](https:
 
 ![accepted solution](/assets/posts-images/so-response-data-table.png)
 
-Almost immediately the comments critiqued the poster and my solution saying there isn't enough context or information to proivde an informed answer. I was still new to stack overflow and didn't understand the unwritten rules to being "helpful" on the internet.[^2] 
+Almost immediately the comments critiqued the poster and my solution saying there isn't enough context or information to provide an informed answer. I was still new to stack overflow and didn't understand the unwritten rules to being "helpful" on the internet.[^2] 
 
 But I've been there. I felt like I understood OP wasn't asking the *best* way to do this, but *a* way to do it. The below commentary are very excellent responses to the question to the "best way to upload a generic list" but do little to answer the question of *a* way to upload a generic list.
 
@@ -56,7 +57,7 @@ But I've been there. I felt like I understood OP wasn't asking the *best* way to
 
 ### ChatGPT (3.5) initial conversation
 
-I decided to compare the above experience to ChatGPT. One huge advantage, all of these respones can be inspected and built on. For example you could stop and ask "What are seralizable objects?" or "How do you connect to a SQL Database?" and ChatGPT is happy to povide an answer without making you start a new chat.
+I decided to compare the above experience to ChatGPT. One huge advantage, all of these responses can be inspected and built on. For example you could stop and ask "What are serializable objects?" or "How do you connect to a SQL Database?" and ChatGPT is happy to provide an answer without making you start a new chat.
 
 > **User**
 > How to upload genetic List<T> to SQL database
@@ -90,14 +91,7 @@ I decided to compare the above experience to ChatGPT. One huge advantage, all of
 
 <script src="https://gist.github.com/jsr6720/23739f7541934194e306e15f8cace01b.js"></script>
 
-
----
-
-## Author's Note
-
-I didn't think the raw code was relevant to this post so I copied it to `gist`
-
-![remember no stupid ideas](/assets/posts-images/sharknado.jpg)
+## Postscript
 
 I had to ask
 
@@ -107,14 +101,15 @@ I had to ask
 > **ChatGPT**
 > Nope, I didn't copy that example from Stack Overflow or any other specific source. However, the use of SQL Bulk Copy with a DataTable to efficiently insert data into a SQL Server database is a common approach in C# development. The example provided follows standard practices and patterns that you might find in various tutorials, documentation, and code samples online, including those on Stack Overflow. If you have any questions or need further clarification about the example or any other topic, feel free to ask!
 
-## Significant Revisions
 
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+---
+
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-## EOF/Footnotes
+### Footnotes
 
 [^1]: ChatGPT 3.5 May 2nd, 2024
 
-[^2]: This response also was my last answer on Stack Overflow. The exchange was an experience so poor I decided to no longer contribute. Now I just post here with comments off...
+[^2]: This response also was my last answer on Stack Overflow. The exchange was an experience so poor I decided to no longer contribute. Now I just post here with comments off... Remember there are no [stupid ideas](/assets/posts-images/sharknado.jpg)
