@@ -1,28 +1,22 @@
 ---
 layout: post
 author: James Rowe
-title:  "Generic 4D error catcher"
-date:   "2011-06-01 00:00:00 -0400"
-tags: 2011 wordpress txcowboycoder 4D clean-code error-handling event-handling
+title: "Generic 4D error catcher"
+date: "2011-06-01 00:00:00 -0400"
+category: software
+tags: 2011 txcowboycoder 4D
 uid: 50bc216f-26a9-49ae-b239-11760d972acd
 ---
 
-
 ## Generic 4D error catcher
-
 
 In 4D v11/12 there is not a strict concept of `try/catch` blocks. Instead there is [`ON ERR CALL`](http://doc.4d.com/4Dv12.2/help/command/en/page155.html "ON ERR CALL") that can be used to trap errors.
 
-
 A common challenge in production environments is identifying errors and reporting them without user initiative. The following code when included with the `ON ERR CALL` procedure is valuable in tracking down these problems.
-
 
 The sample code builds a string with all the relevant error information. Additional information is added for each type of error. Here it displays an alert box, but this starting point could easily be written to database, or passed into an e-mail.
 
-
 Feedback welcome, sound off in the comments, what do you do for error handling?
-
-
 
 ```
   ` ----------------------------------------------------
@@ -131,26 +125,19 @@ ALERT($Message)
 
 ```
 
-
-
 ---
 
-## Author's Note
-
-Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
-
-Original Wordpress categories: ['4D']
-
-Original Wordpress tags: "4D", "4D", "clean code", "dry", "error", "ON ERR CALL"
-
-Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/06/01/generic-4d-error-catcher/#comments">2 Comments</a>
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+### Significant Revisions
 
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/06/01/generic-4d-error-catcher/)
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/06/01/generic-4d-error-catcher/)[^draft]
 
-## EOF/Footnotes
+### Footnotes
 
+[^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
+
+	Original Wordpress categories: ['4D']
+
+	Original Wordpress tags: "4D", "4D", "clean code", "dry", "error", "ON ERR CALL"
+
+	Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/06/01/generic-4d-error-catcher/#comments">2 Comments</a>
