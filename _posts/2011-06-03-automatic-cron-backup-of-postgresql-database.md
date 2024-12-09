@@ -4,7 +4,7 @@ author: James Rowe
 title: "Automatic cron backup of PostgreSQL database"
 date: "2011-06-03 00:00:00 -0400"
 category: software
-tags: 2011 txcowboycoder postgreSQL
+tags: 2011 txcowboycoder PostgreSQL
 uid: d528e4b5-e1a1-4d55-9224-c8740f244076
 ---
 
