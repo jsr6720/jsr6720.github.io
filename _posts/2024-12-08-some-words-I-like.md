@@ -4,7 +4,7 @@ author: James Rowe
 title: Other Words That I Enjoy
 date: 2024-12-08 23:30:19 -0500
 category: personal
-tags: 2024 writing
+tags: 2024 writing memories
 uid: 937E118A-95F1-4388-BDE5-1098335E51FD
 ---
 
