@@ -3,7 +3,8 @@ layout: post
 author: James Rowe
 title: "ChatGPT-4o Initial impressions on latest model (with citations)"
 date: "2024-05-15 00:48:56 -0400"
-tags: 2024 technology llm chatgpt
+category: software
+tags: 2024 ai llm chatgpt
 uid: F3A05744-A899-4349-AB7F-121CE6A970BE
 ---
 
@@ -43,16 +44,13 @@ In reviewing these two examples I think ChatGPT-4o has the better UI experience 
 
 ---
 
-## Author's Note
+### Significant Revisions
 
-[^subscription]: I subscribe to `ChatGPT Pro` but I do not subscribe to `Gemini Advance`
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-## EOF/Footnotes
+### Footnotes
 
 [^1]: [Finding llm training data limits]({% post_url 2024-05-12-finding-llm-training-data-limits %})
+
+[^subscription]: I subscribe to `ChatGPT Pro` but I do not subscribe to `Gemini Advance`

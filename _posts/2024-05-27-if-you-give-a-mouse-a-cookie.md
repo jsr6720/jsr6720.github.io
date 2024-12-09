@@ -3,11 +3,12 @@ layout: post
 author: James Rowe
 title:  "Detect Thoughts on \"If you give a mouse a cookie\""
 date: "2024-05-27 00:21:19 -0400"
-tags: book review Numeroff childhood-classics
+category: review
+tags: book Numeroff childhood-classics
 uid: 6DEDF293-4120-4BD2-A7A4-6546297A422A
 ---
 
-![https://en.wikipedia.org/wiki/If_You_Give_a_Mouse_a_Cookie](https://upload.wikimedia.org/wikipedia/en/3/3c/If_you_Give_a_Mouse_a_Cookie.jpg)
+![https://en.wikipedia.org/wiki/If_You_Give_a_Mouse_a_Cookie](https://upload.wikimedia.org/wikipedia/en/3/3c/If_you_Give_a_Mouse_a_Cookie.jpg)[^credit]
 
 ## My Review 5/5
 
@@ -34,16 +35,12 @@ Accept quests. Especially with the vigor of Quest Sprout.
 
 ---
 
-## Author's Note
-
-Book cover image hotlink credit https://en.wikipedia.org/wiki/If_You_Give_a_Mouse_a_Cookie until I can find my copy to take a picture. I guess I have my own side quest now.
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-## EOF/Footnotes
+## Footnotes
+
+[^credit]: Book cover image hotlink credit <https://en.wikipedia.org/wiki/If_You_Give_a_Mouse_a_Cookie> until I can find my copy to take a picture. I guess I have my own side quest now.
 
 [^sidequest]: If you know what I'm talking about submit a PR! Drop me a line! It used primarily Diablo 2 as an example, but Baulders Gate also comes to mind.

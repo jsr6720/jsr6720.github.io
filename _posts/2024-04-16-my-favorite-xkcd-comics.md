@@ -1,9 +1,10 @@
 ---
 layout: post
 author: James Rowe
-title:  "My favorite xkcd comics"
-date:  2024-04-16 00:58:06 -0400
-tags: 2024 personal
+title: "My favorite xkcd comics"
+date: 2024-04-16 00:58:06 -0400
+category: personal
+tags: 2024 humor
 uid: E0211686-944D-4F71-85FA-72E436805577
 ---
 
@@ -85,18 +86,12 @@ Sometimes I wonder about my old code. My professional career all my code changes
 
 ---
 
-## Author's Note
-
-Not my most original contribution. But it brought me joy to revisit and reminisce.
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-## EOF/Footnotes
+### Footnotes
 
-[^1]: [xkcd wikipedia](https://en.wikipedia.org/wiki/Xkcd)
+[^1]: [xkcd wikipedia](https://en.wikipedia.org/wiki/Xkcd). Not my most original post. But it brought me joy to revisit and reminisce.
 
 [^2]: [Elon Musk 5 engineering philosophy](https://web.archive.org/web/20240416045402/https://mondaynote.com/what-makes-elon-musk-move-so-fast-8e7c91820923?gi=a7102ded87ed)

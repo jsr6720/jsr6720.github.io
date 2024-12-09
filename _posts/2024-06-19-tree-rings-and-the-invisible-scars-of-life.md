@@ -40,9 +40,9 @@ If you can move forward, so can I[^5].
 
 ### Footnotes
 
-[^1]: [https://web.archive.org/web/20200303190726/https://westsidenewsny.com/features/2020-03-02/tree-slab-display-provides-a-slice-of-our-history/](https://web.archive.org/web/20200303190726/https://westsidenewsny.com/features/2020-03-02/tree-slab-display-provides-a-slice-of-our-history/) 
+[^1]: [West Side News - Tree Slab](https://web.archive.org/web/20200303190726/https://westsidenewsny.com/features/2020-03-02/tree-slab-display-provides-a-slice-of-our-history/) 
 
-[^2]: [https://www.nps.gov/articles/000/tree-rings.htm](https://www.nps.gov/articles/000/tree-rings.htm)
+[^2]: [NPS Tree Rings](https://www.nps.gov/articles/000/tree-rings.htm)
 
 [^3]: I had originally written “my final discharge from the hospital.” I hope that it is.
 

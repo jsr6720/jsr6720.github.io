@@ -3,7 +3,8 @@ layout: post
 author: James Rowe
 title:  "Goodreads reviews imported to posts"
 date:   "2024-04-22 19:31:11"
-tags: 2024 technology books review
+category: personal
+tags: 2024 books python goodreads
 uid: EF99CF29-D745-4AA4-BA64-DB12E7F7F361
 ---
 
@@ -48,14 +49,6 @@ Would I do it again? Absolutely. Now "my content" is in flatfile format the way 
 
 ---
 
-## Author's Note
-
-
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
-
-## EOF/Footnotes
