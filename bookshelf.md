@@ -63,14 +63,11 @@ Some books leave me with a heavy heart at the closeâ€”a book so good that I canâ
 
 ---
 
-## Author's Note
-
-
-## Significant Revisions
+### Significant Revisions
 
 - {{ "2024-07-19 21:22:50 -0400" | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "2024-07-13 01:36:53 -0400" | date_to_string: "ordinal", "US" }} First draft
 
-## EOF/Footnotes
+### Footnotes
 
 [^ceramics]: [https://blog.codinghorror.com/quantity-always-trumps-quality/](https://blog.codinghorror.com/quantity-always-trumps-quality/) A review of this citation from the perspective of a fellow engineering writer.
