@@ -6,12 +6,13 @@ Off white background colors I've tried
 #f5f5dc - chatGPT-3.5 told me this was the kindle color, but it looked too pale green
 #FFF8DC - chatGPT-4o told me it had that "Cornsilk color for a yellowed paper look" lies
 #faebd0 - stolen from project gutenberg. Too yellow
+#faf0e6 - too yellow.. was supposed to be a linen color
 */
 
 :root {
   color-scheme: light dark;
-  --bg-color-light: #faf0e6; /* Linen color for a softer vintage paper look */
-  --text-color-light: #333333;
+  --bg-color-light: #F8F8F8; /* maybe i'm overthinking it. here's a simple gray */
+  --text-color-light: #121212; /* stolen from NYT site*/
   --bg-color-dark: #333333;
   --text-color-dark: #ffffff;
 }
@@ -22,13 +23,16 @@ body {
   transition: background-color 0.3s, color 0.3s;
 }
 
-/** 
-tbd
-  font-family: "Georgia", "Courier New", serif;
-some other fonts I've played with
-font-family: "Consolas", "Courier New", monospace; // I used to program exclusively in this.. 
-font-family: "Comic Sans MS", "Comic Sans", cursive; // I mean just because
-*/
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', serif;
+  font-weight: 600;
+  color: #2F2F2F;
+}
+
+body {
+  font-family: 'Georgia', serif;
+  line-height: 1.8;
+}
 
 .dark-mode {
   background-color: var(--bg-color-dark);
