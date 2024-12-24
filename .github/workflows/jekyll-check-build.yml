@@ -1,0 +1,37 @@
+name: Jekyll Check Build
+
+on:
+  # Run on pull requests
+  pull_request:
+    branches: ["main"]
+  # Run on pushes to any branch
+  push:
+  # Allow manual triggers
+  workflow_dispatch:
+
+jobs:
+  test-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true # caches installed gems automatically
+      
+      - name: Check Ruby version
+        run: ruby --version
+      
+      - name: Install Dependencies
+        run: bundle install
+      
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --trace # added --trace for verbose output if build fails
+        env:
+          JEKYLL_ENV: production
+
+      - name: List generated files
+        if: success()
+        run: ls -la _site/
