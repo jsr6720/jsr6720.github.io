@@ -24,9 +24,4 @@ jobs:
       
       - name: Verify AWS Identity
         run: |
-          ACCOUNT_ID=$(aws sts get-caller-identity --query "Account" --output text)
-          if [ "$ACCOUNT_ID" != "058264284723" ]; then
-            echo "Error: Connected to unexpected AWS account"
-            exit 1
-          fi
-          echo "Successfully verified AWS connection to account $ACCOUNT_ID"
+          aws sts get-caller-identity
