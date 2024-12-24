@@ -51,7 +51,7 @@ It's through the above that life has meaning. For Frankl his life had meaning. H
 
 ### Significant Revisions
 
-- {{ "2024-12-23 20:46:25 -0500" | date_to_string: "ordinal", "US" }} Updated page due to inbound link from [2024 In Reflection]({% post_url 2024-12-21-2024-in-reflection %})
+- {{ "2024-12-23 20:46:25 -0500" | date_to_string: "ordinal", "US" }} Updated page due to inbound link from [2024 In Reflection]({% post_url 2024-12-23-2024-in-reflection %})
 - {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} [Converted to jekyll markdown](https://github.com/jsr6720/goodreads-csv-to-md) format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [Goodreads](https://www.goodreads.com)
 
