@@ -66,7 +66,7 @@ Roosevelt has been attributed amazing quotes and was a prolific writer[^book] of
 ### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
-- {{ “2024-11-24 18:41:23 -0500” | date_to_string: "ordinal", "US" }} Draft created
+- {{ "2024-11-24 18:41:23 -0500" | date_to_string: "ordinal", "US" }} Draft created
 
 ### Footnotes
 
