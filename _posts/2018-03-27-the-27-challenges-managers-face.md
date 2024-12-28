@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The 27 Challenges Managers Face\""
-date:   2018-03-27 00:00:00 -0400
-tags: 2018 book review Tulgan business management
-uid: 145e536a-4fb4-4679-83c4-1d126972fc37
+title: "Quick Thoughts on The 27 Challenges Managers Face: Step-by-Step Solutions to (Nearly) All of Your Management Problems"
+date: 2018-03-27 00:00:00 -0400
+category: review
+tags: book business management
+uid: 2607e86f-81f5-40ef-a3ef-980b8620fd92
 ---
 
-
+Bruce Tulgan, *[The 27 Challenges Managers Face: Step-by-Step Solutions to (Nearly) All of Your Management Problems](https://www.goodreads.com/book/show/20914584)*,  Jossey-Bass 2014 (Hardcover) ISBN: ="111872559X"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ I loved this book. Matches my leadership style. Constant 1-1 face-face communica
 ### Date Added
 2018/03/28
 
-## Goodreads book information
-
-*The 27 Challenges Managers Face: Step-by-Step Solutions to (Nearly) All of Your Management Problems* by Bruce Tulgan
-
-https://www.goodreads.com/book/show/20914584
-
-Bookshelves: business, management
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Bruce Tulgan, *The 27 Challenges Managers Face: Step-by-Step Solutions to (Nearly) All of Your Management Problems*,  Jossey-Bass 2014 (Hardcover)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="111872559X"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business, management

@@ -6,13 +6,11 @@ permalink: /about/index.html
 
 ## About James Rowe
 
-Hi! I'm James, and I've been a student of delivering solutions via software for over 20 years in a variety of industries. I have experience as a software engineer, software architect, and people leader with a wide range of technologies. Right now I’m transforming insurance [@Clearcover]( https://www.linkedin.com/company/clearcover-inc/).
+Hi! I'm James, and I've been a student of delivering solutions via software for over 20 years in a variety of industries. I have experience as a software engineer, software architect, and people leader with a wide range of technologies. Right now I’m transforming insurance [@Clearcover](https://www.linkedin.com/company/clearcover-inc/).
 
 Previously I’ve worked in manufacturing, finance, and healthcare. I wanted a place to publish and share what I've learned along my journey; this is that place.
 
-Find me on [LinkedIn](https://linkedin.com/in/jsr6720){:target="_blank"} or check [my latest status](https://status.jsrowe.com).
-
-[Send me an email](mailto:jrowe6720@gmail.com) 
+Find me on [LinkedIn](https://linkedin.com/in/jsr6720){:target="_blank"} or check [my status page](https://status.jsrowe.com). [Send me an email](mailto:jrowe6720@gmail.com) 
 
 ## A mind at work
 

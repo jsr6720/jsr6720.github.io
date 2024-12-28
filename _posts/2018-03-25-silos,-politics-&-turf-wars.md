@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Silos, Politics & Turf Wars\""
-date:   2018-03-25 00:00:00 -0400
-tags: 2018 book review Lencioni management
-uid: 92701a98-24da-4c32-939e-da619fffb14a
+title: "Quick Thoughts on Silos, Politics & Turf Wars: A Leadership Fable About Destroying the Barriers that Turn Colleagues into Competitors"
+date: 2018-03-25 00:00:00 -0400
+category: review
+tags: book management
+uid: e78ba66e-fc88-4753-aa82-df2ea5709444
 ---
 
-
+Patrick Lencioni, *[Silos, Politics & Turf Wars: A Leadership Fable About Destroying the Barriers that Turn Colleagues into Competitors](https://www.goodreads.com/book/show/3420855)*,  Macmillan Audio 2006 (Audio CD) ISBN: ="159397860X"
 
 ## My Review 3/5
 
@@ -19,29 +20,9 @@ I don't like fables that are longer than Aesop. But I make an exception for Lenc
 ### Date Added
 2018/03/28
 
-## Goodreads book information
-
-*Silos, Politics & Turf Wars: A Leadership Fable About Destroying the Barriers that Turn Colleagues into Competitors* by Patrick Lencioni
-
-https://www.goodreads.com/book/show/3420855
-
-Bookshelves: management
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Patrick Lencioni, *Silos, Politics & Turf Wars: A Leadership Fable About Destroying the Barriers that Turn Colleagues into Competitors*,  Macmillan Audio 2006 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="159397860X"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: management

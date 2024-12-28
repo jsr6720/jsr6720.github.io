@@ -1,17 +1,20 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Five Most Important Questions You Will Ever Ask About Your Organization\""
-date:   2020-12-25 00:00:00 -0400
-tags: 2020 book review Drucker 
-uid: 804e1381-627b-4162-b082-2ce66335fa6c
+title: "Quick Thoughts on The Five Most Important Questions You Will Ever Ask About Your Organization"
+date: 2020-12-25 00:00:00 -0400
+category: review
+tags: book 
+uid: 61b700ca-c42a-4aab-83a1-f93732b357e6
 ---
 
-
+Peter F. Drucker, *[The Five Most Important Questions You Will Ever Ask About Your Organization](https://www.goodreads.com/book/show/2988554)*, Frances Hesselbein Leadership Institute Jossey-Bass 2008 (Paperback) ISBN: ="0470227567"
 
 ## My Review 4/5
 
-Quick read and lots of examples from the social sector. <br/><br/>Bring your pen and paper. This is a workbook which requires brainstorming and exercise to get the best value from. 
+Quick read and lots of examples from the social sector. 
+
+Bring your pen and paper. This is a workbook which requires brainstorming and exercise to get the best value from. 
 
 ### Date Read
 2020/12/25
@@ -19,29 +22,9 @@ Quick read and lots of examples from the social sector. <br/><br/>Bring your pen
 ### Date Added
 2020/12/25
 
-## Goodreads book information
-
-*The Five Most Important Questions You Will Ever Ask About Your Organization* by Peter F. Drucker
-
-https://www.goodreads.com/book/show/2988554
-
-Bookshelves: 
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Peter F. Drucker, *The Five Most Important Questions You Will Ever Ask About Your Organization*, Frances Hesselbein Leadership Institute Jossey-Bass 2008 (Paperback)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0470227567"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: 

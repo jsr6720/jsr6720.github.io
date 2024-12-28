@@ -1,17 +1,20 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Danish Way of Parenting\""
-date:   2018-12-14 00:00:00 -0400
-tags: 2018 book review Alexander parenting
-uid: 1b45c423-95b4-42d3-932e-2fe439c1f789
+title: "Quick Thoughts on The Danish Way of Parenting: What the Happiest People in the World Know About Raising Confident, Capable Kids"
+date: 2018-12-14 00:00:00 -0400
+category: review
+tags: book parenting
+uid: 6ed7b9de-713e-4bda-9a2f-f0fa65542cf5
 ---
 
-
+Jessica Joelle Alexander, *[The Danish Way of Parenting: What the Happiest People in the World Know About Raising Confident, Capable Kids](https://www.goodreads.com/book/show/28815322)*, Iben Sandahl TarcherPerigee 2016 (Paperback) ISBN: ="014311171X"
 
 ## My Review 4/5
 
-There are better parenting guides. There are better child development books. But you'd be hard pressed to find a more concise collection of parenting ideas for happiness. <br/><br/>Of course happy families are all alike. And unhappy ones each in their own way. 
+There are better parenting guides. There are better child development books. But you'd be hard pressed to find a more concise collection of parenting ideas for happiness. 
+
+Of course happy families are all alike. And unhappy ones each in their own way. 
 
 ### Date Read
 2018/12/14
@@ -19,29 +22,9 @@ There are better parenting guides. There are better child development books. But
 ### Date Added
 2018/12/23
 
-## Goodreads book information
-
-*The Danish Way of Parenting: What the Happiest People in the World Know About Raising Confident, Capable Kids* by Jessica Joelle Alexander
-
-https://www.goodreads.com/book/show/28815322
-
-Bookshelves: parenting
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Jessica Joelle Alexander, *The Danish Way of Parenting: What the Happiest People in the World Know About Raising Confident, Capable Kids*, Iben Sandahl TarcherPerigee 2016 (Paperback)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="014311171X"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: parenting

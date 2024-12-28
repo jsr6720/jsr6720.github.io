@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Flash Boys\""
-date:   2020-01-21 00:00:00 -0400
-tags: 2020 book review Lewis did-not-finish
-uid: d5b784c9-37ed-4fac-86cd-b052ce28a4fb
+title: "Quick Thoughts on Flash Boys"
+date: 2020-01-21 00:00:00 -0400
+category: review
+tags: book did-not-finish
+uid: 91fc0c69-64ec-459a-91cc-bfe0be0c1b78
 ---
 
-
+Michael   Lewis, *[Flash Boys](https://www.goodreads.com/book/show/20523765)*, Dylan Baker Simon  Schuster Audio 2014 (Audio CD) ISBN: ="1442370270"
 
 ## My Review 0/5
 
@@ -19,29 +20,9 @@ Empty
 ### Date Added
 2020/01/21
 
-## Goodreads book information
-
-*Flash Boys* by Michael   Lewis
-
-https://www.goodreads.com/book/show/20523765
-
-Bookshelves: did-not-finish
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Michael   Lewis, *Flash Boys*, Dylan Baker Simon  Schuster Audio 2014 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1442370270"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: did-not-finish

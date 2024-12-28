@@ -1,21 +1,26 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Business @ the Speed Thought\""
-date:   2017-07-31 00:00:00 -0400
-tags: 2017 book review Gates 
-uid: 044a791c-b274-418b-ae9c-e03bafc309dc
+title: "Quick Thoughts on Business @ the Speed (Lib)(CD)"
+date: 2017-07-31 00:00:00 -0400
+category: review
+tags: book 
+uid: dd13bce4-dee4-4701-b120-04dfb5cd3d69
 ---
+
+Bill  Gates, *[Business @ the Speed (Lib)(CD)](https://www.goodreads.com/book/show/16681335)*,  Books on Tape 2000 (Audio CD) ISBN: ="0736651616"
 
 ## My Review 3/5
 
-Book hasn't aged well in regards to technology, but then again it was published in 2000.
+Book hasn't aged well in regards to technology, but then again it's 20 years old.
 
-### Key take aways
+Key take away
 
 * technology should be streamlining process
+
 * new technology should coincide re-evaluating existing processes
-* CEO is ultimately responsible for (fragmented thoughts?)
+
+* CEO is ultimately responsible for 
 
 ### Date Read
 2017/07/31
@@ -23,30 +28,9 @@ Book hasn't aged well in regards to technology, but then again it was published 
 ### Date Added
 2017/07/17
 
-## Goodreads book information
-
-*Business @ the Speed Thought* by Bill Gates
-
-https://www.goodreads.com/book/show/16681335
-
-Bookshelves: 
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Bill  Gates, *Business @ the Speed Thought*,  Books on Tape 2000 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-05-06 23:10:54" | date_to_string: "ordinal", "US" }} I thought maybe I had a bad import parse, but this was what was in the goodreads export. cleaned up the review and text a bit.
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0736651616"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: 

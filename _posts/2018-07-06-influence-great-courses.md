@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Influence\" by Great Courses"
-date:   2018-07-06 00:00:00 -0400
-tags: 2018 book review Brown business psychology great-courses
-uid: 0bb5ddaf-1120-4cdc-9d55-da66631072ea
+title: "Quick Thoughts on Influence: Mastering Life's Most Powerful Skill"
+date: 2018-07-06 00:00:00 -0400
+category: review
+tags: book business psychology
+uid: f6375680-d2ff-484c-865b-38295ac0f28e
 ---
 
-
+Kenneth G. Brown, *[Influence: Mastering Life's Most Powerful Skill](https://www.goodreads.com/book/show/40648831)*,  Recorded Books 2013 (Audio CD) ISBN: ="1490659412"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ Great overview of lots of influence classics. This is a great course that covers
 ### Date Added
 2018/06/26
 
-## Goodreads book information
-
-*Influence: Mastering Life's Most Powerful Skill* by Kenneth G. Brown
-
-https://www.goodreads.com/book/show/40648831
-
-Bookshelves: business, psychology
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Kenneth G. Brown, *Influence: Mastering Life's Most Powerful Skill*,  Recorded Books 2013 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1490659412"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business, psychology

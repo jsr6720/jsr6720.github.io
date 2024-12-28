@@ -1,17 +1,22 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Emotional Intelligence\""
-date:   2015-09-02 00:00:00 -0400
-tags: 2015 book review Goleman read-again psychology
-uid: cda34865-ce22-4799-aac4-9090f1f3d8fd
+title: "Quick Thoughts on Emotional Intelligence: Why It Can Matter More Than IQ (Leading with Emotional Intelligence)"
+date: 2015-09-02 00:00:00 -0400
+category: review
+tags: book read-again psychology
+uid: 62c26f8f-322c-4b2f-8f93-f6313a4a516c
 ---
 
-
+Daniel Goleman, *[Emotional Intelligence: Why It Can Matter More Than IQ (Leading with Emotional Intelligence)](https://www.goodreads.com/book/show/163105)*, Barrett Whitener Macmillan Audio 2005 (Audio CD) ISBN: ="1593977808"
 
 ## My Review 5/5
 
-Great book. Picked up on this via corporate training. highly recommend.<br/>Goes into great depth of child development, brain growth, marriage problems, work problems<br/>Could not put this down.
+Great book. Picked up on this via corporate training. highly recommend.
+
+Goes into great depth of child development, brain growth, marriage problems, work problems
+
+Could not put this down.
 
 ### Date Read
 2015/09/02
@@ -19,29 +24,9 @@ Great book. Picked up on this via corporate training. highly recommend.<br/>Goes
 ### Date Added
 2016/09/30
 
-## Goodreads book information
-
-*Emotional Intelligence: Why It Can Matter More Than IQ (Leading with Emotional Intelligence)* by Daniel Goleman
-
-https://www.goodreads.com/book/show/163105
-
-Bookshelves: read-again, psychology
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Daniel Goleman, *Emotional Intelligence: Why It Can Matter More Than IQ (Leading with Emotional Intelligence)*, Barrett Whitener Macmillan Audio 2005 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1593977808"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: read-again, psychology

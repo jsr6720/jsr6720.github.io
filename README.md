@@ -4,9 +4,9 @@ Using GitHub Pages/Jekyll to share observations and opinions. Also known as thou
 
 ## Hosting
 
-GitHub Pages [https://jsr6720.github.io](https://jsr6720.github.io)
+GitHub Pages <https://jsr6720.github.io>
 
-If I'm still paying for hosting [https://www.jsrowe.com](https://www.jsrowe.com)
+If I'm still paying for hosting <https://www.jsrowe.com>
 
 ## Where did all the stuff come from pre-init date
 
@@ -18,16 +18,16 @@ All code samples unless otherwise noted [CODE LICENSE](/CODE-LICENSE)
 
 Anything not-code unless otherwise noted [LICENSE](/LICENSE)
 
-## Tags
+## Category && Tags
 
-Decided not to use jekyll `category|categories` as its treated the same as `tags` but jekyll uses category in its url which I overrode anyways. And I think `collections` fits the bill.
+Category. I did end up deciding to use categories even though behind the scenes it maps to a tag.
 
 Primarily tagging by language and whatever I might need to find things again
 
 - coding lanaguge, i.e. javascript, shell, python etcetera
 - coding framework i.e. React, Spring Boot, Xcode
 
-Some other tags I've used before
+Some tags I've copied from above pre-init sites:
 
 - technology
 - architecture
@@ -43,7 +43,7 @@ Some other tags I've used before
 
 ### Book Review tags
 
-A bit more comprehensive and aligned with the 'shelves' in goodreads
+A bit more comprehensive and aligned with the 'shelves' in Goodreads
 
 Primary shelf IN (read, reading, want to read, did not finish)
 
@@ -64,11 +64,11 @@ Book tags (might be some overlap from above)
 
 Sites that inspire me for both their content and design. It's not that these sites are better than the rest, but that when I first started on restarting my writing these were the ones I thought of first.
 
-https://martinfowler.com
+<https://martinfowler.com>
 
-https://lethain.com
+<https://lethain.com>
 
-https://seths.blog
+<https://seths.blog>
 
 
 # Asset Attribution
