@@ -12,7 +12,9 @@ Richard P. Rumelt, *[Good Strategy/Bad Strategy: The Difference and Why It Matte
 
 ## My Review 1/5
 
-Did not finish. Narration was just too dry. <br/><br/>Good strategy contains a kernel of 'obvious' truth.
+Did not finish. Narration was just too dry. 
+
+Good strategy contains a kernel of 'obvious' truth.
 
 ### Date Read
 2019/12/23

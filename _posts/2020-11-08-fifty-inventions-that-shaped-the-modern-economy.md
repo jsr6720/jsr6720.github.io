@@ -12,7 +12,9 @@ Tim Harford, *[Fifty Inventions That Shaped the Modern Economy](https://www.good
 
 ## My Review 4/5
 
-Quick light read overview of the threads of humanity through the lens of specific inventions. More specifically constellations of inventions. Ie paper plus printing press equals fiat money. <br/><br/>Fun and interesting. Would recommend. 
+Quick light read overview of the threads of humanity through the lens of specific inventions. More specifically constellations of inventions. Ie paper plus printing press equals fiat money. 
+
+Fun and interesting. Would recommend. 
 
 ### Date Read
 2020/11/08

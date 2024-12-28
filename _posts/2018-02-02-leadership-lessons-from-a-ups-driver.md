@@ -12,7 +12,9 @@ Ron Wallace, *[Leadership Lessons from a UPS Driver: Delivering a Culture of We,
 
 ## My Review 5/5
 
-Great collection of business stories that help drive the culture of UPS.<br/><br/>This is definitely a "Management by walking around" approach and reflects the disperse nature of the organization. Short and to the point there are many great pieces of advice here.
+Great collection of business stories that help drive the culture of UPS.
+
+This is definitely a "Management by walking around" approach and reflects the disperse nature of the organization. Short and to the point there are many great pieces of advice here.
 
 ### Date Read
 2018/02/02

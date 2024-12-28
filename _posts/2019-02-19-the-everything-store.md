@@ -12,7 +12,9 @@ Brad Stone, *[The Everything Store: Jeff Bezos and the Age of Amazon](https://ww
 
 ## My Review 5/5
 
-A great look at the growth of Amazon over 20 years and very relevant as Amazon deals with it's public relations crises today. This book covers all the technical challenges and it's original 'underdog' status in the fight against physical retailers.<br/><br/>Brad Stone has dug deep with many anecdotes, stories and resources that bring a narrative to the story of Amazon.com
+A great look at the growth of Amazon over 20 years and very relevant as Amazon deals with it's public relations crises today. This book covers all the technical challenges and it's original 'underdog' status in the fight against physical retailers.
+
+Brad Stone has dug deep with many anecdotes, stories and resources that bring a narrative to the story of Amazon.com
 
 ### Date Read
 2019/02/19

@@ -12,7 +12,9 @@ Ron Chernow, *[Alexander Hamilton](https://www.goodreads.com/book/show/944986)*,
 
 ## My Review 4/5
 
-Abridged. Biggest let down was Hamilton's short life. Very good.<br/>Hamilton's role in a central bank and unifying the states into a strong nation was enlightening.
+Abridged. Biggest let down was Hamilton's short life. Very good.
+
+Hamilton's role in a central bank and unifying the states into a strong nation was enlightening.
 
 ### Date Read
 2015/07/08

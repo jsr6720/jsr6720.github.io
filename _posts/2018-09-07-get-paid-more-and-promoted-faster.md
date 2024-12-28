@@ -12,7 +12,9 @@ Brian Tracy, *[Get Paid More and Promoted Faster: 21 Great Ways to Get Ahead in 
 
 ## My Review 3/5
 
-Quick read which is a collection of business truisms.<br/><br/>Come in early, stay late, choose your life. Succeed. I suppose the best two ways are choosing industry and company and projects above all else. 
+Quick read which is a collection of business truisms.
+
+Come in early, stay late, choose your life. Succeed. I suppose the best two ways are choosing industry and company and projects above all else. 
 
 ### Date Read
 2018/09/07

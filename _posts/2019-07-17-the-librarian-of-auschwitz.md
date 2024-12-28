@@ -12,7 +12,9 @@ Antonio Iturbe, *[The Librarian of Auschwitz](https://www.goodreads.com/book/sho
 
 ## My Review 5/5
 
-Lightly fictionalized account of real events of the Holocaust. <br/><br/>Fantastic read and very heavy at times, unflinching in its accounts of the actual events in the camp.
+Lightly fictionalized account of real events of the Holocaust. 
+
+Fantastic read and very heavy at times, unflinching in its accounts of the actual events in the camp.
 
 ### Date Read
 2019/07/17

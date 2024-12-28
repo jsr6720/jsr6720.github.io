@@ -12,7 +12,9 @@ Michael   Lewis, *[The Undoing Project: A Friendship That Changed Our Minds](htt
 
 ## My Review 5/5
 
-Great history on Kahneman and Tversky and their twin roles in identifying the non-rational aspects of our natures. Excellent story telling by Lewis.<br/><br/>Book covers the personal lives and interactions of each Kahneman and Tversky.
+Great history on Kahneman and Tversky and their twin roles in identifying the non-rational aspects of our natures. Excellent story telling by Lewis.
+
+Book covers the personal lives and interactions of each Kahneman and Tversky.
 
 ### Date Read
 2020/08/09

@@ -12,7 +12,21 @@ Pamela Druckerman, *[Bringing Up Bébé: One American Mother Discovers the Wisdo
 
 ## My Review 4/5
 
-I thought this book was a lot of fun, but there were moments of intense description that have nothing to do with being a parent, but more to do with becoming a mother.<br/><br/>If I had to summarize the book into a few succient points it would be:<br/>* Don't let you child dictate your life<br/>* Let your child wait from an early age<br/>* Your child is capable of reasoning and morality at a very early age<br/>* Be consistent and authoritative not dictatorship<br/><br/>Reminds me a lot of [Active Parenting Now](https://www.goodreads.com/book/show/1343214) but told in a conversational way.<br/><br/>Also by the end of the book I bought a baguette and was disappointed to find out it's just bread.
+I thought this book was a lot of fun, but there were moments of intense description that have nothing to do with being a parent, but more to do with becoming a mother.
+
+If I had to summarize the book into a few succient points it would be:
+
+* Don't let you child dictate your life
+
+* Let your child wait from an early age
+
+* Your child is capable of reasoning and morality at a very early age
+
+* Be consistent and authoritative not dictatorship
+
+Reminds me a lot of [Active Parenting Now](https://www.goodreads.com/book/show/1343214) but told in a conversational way.
+
+Also by the end of the book I bought a baguette and was disappointed to find out it's just bread.
 
 ### Date Read
 2017/05/24

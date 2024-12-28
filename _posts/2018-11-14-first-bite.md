@@ -12,7 +12,15 @@ Bee Wilson, *[First Bite: How We Learn to Eat](https://www.goodreads.com/book/sh
 
 ## My Review 4/5
 
-Great book that tracks eating habits from birth to adulthood.<br/><br/>Bottom line. Eating habits are learned and cultural. Some key takeaways<br/><br/>1. Kids have a 'flavor' palate window 4months to 7months so early food tastes are critical<br/>2. It's never too late to change eating habits and behaviors<br/>3. Family dinner time is still an incredibly important aspect of healthy eating habits
+Great book that tracks eating habits from birth to adulthood.
+
+Bottom line. Eating habits are learned and cultural. Some key takeaways
+
+1. Kids have a 'flavor' palate window 4months to 7months so early food tastes are critical
+
+2. It's never too late to change eating habits and behaviors
+
+3. Family dinner time is still an incredibly important aspect of healthy eating habits
 
 ### Date Read
 2018/11/14

@@ -12,7 +12,13 @@ Yanis Varoufakis, *[Talking to my Daughter about the Economy: or, How Capitalism
 
 ## My Review 3/5
 
-In a word. Economist are closer to astrologist than astronomers.<br/>There exist no way to test in isolation specific economic policies so it's important to be a part of the conversation.<br/><br/>Covers the most high level of concepts and uses pop-culture and of course Greek mythology to tell his daughter about how the world works to concentrate wealth while leaving abject poverty in its wake.<br/><br/>Silly side note. The author epitomizes the dad from "My Big Fat Greek Wedding". 'Give me any word and I will tell you the greek root word'. Not a distraction just funny.
+In a word. Economist are closer to astrologist than astronomers.
+
+There exist no way to test in isolation specific economic policies so it's important to be a part of the conversation.
+
+Covers the most high level of concepts and uses pop-culture and of course Greek mythology to tell his daughter about how the world works to concentrate wealth while leaving abject poverty in its wake.
+
+Silly side note. The author epitomizes the dad from "My Big Fat Greek Wedding". 'Give me any word and I will tell you the greek root word'. Not a distraction just funny.
 
 ### Date Read
 2019/03/14

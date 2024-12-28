@@ -12,7 +12,9 @@ Bill  George, *[Seven Lessons for Leading in Crisis](https://www.goodreads.com/b
 
 ## My Review 3/5
 
-The only lesson worth mentioning is: never let a good crisis go to waste.<br/><br/>Those inflection points melt away resistance and allow a person or organization reform itself.
+The only lesson worth mentioning is: never let a good crisis go to waste.
+
+Those inflection points melt away resistance and allow a person or organization reform itself.
 
 ### Date Read
 2018/09/06

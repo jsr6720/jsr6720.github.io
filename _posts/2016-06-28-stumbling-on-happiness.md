@@ -12,7 +12,19 @@ Daniel Todd Gilbert, *[Stumbling on Happiness](https://www.goodreads.com/book/sh
 
 ## My Review 4/5
 
-Fun book. Most chapters start with a quote from Shakespeare. Focuses on blending the lessons of [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377) with [Mistakes Were Made (But Not by Me)](https://www.goodreads.com/book/show/522525).<br/><br/>Definitely skips over many of the finer points of the published literature. Through personal perception and cognitive biases, people imagine the future poorly, in particular what will make them happy.<br/><br/>Key point, the body has a psychological immune system that helps the person feel better once it's tripped. It's why you suffer in a bad job, but feel great when you're laid off.<br/><br/>[wiki citation]<br/>Imagination tends to add and remove details, but people do not realize that key details may be fabricated or missing from the imagined scenario.<br/>Imagined futures (and pasts) are more like the present than they actually will be (or were).<br/>Imagination fails to realize that things will feel different once they actually happen—most notably, the psychological immune system will make bad things feel not so bad as they are imagined to feel.
+Fun book. Most chapters start with a quote from Shakespeare. Focuses on blending the lessons of [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377) with [Mistakes Were Made (But Not by Me)](https://www.goodreads.com/book/show/522525).
+
+Definitely skips over many of the finer points of the published literature. Through personal perception and cognitive biases, people imagine the future poorly, in particular what will make them happy.
+
+Key point, the body has a psychological immune system that helps the person feel better once it's tripped. It's why you suffer in a bad job, but feel great when you're laid off.
+
+[wiki citation]
+
+Imagination tends to add and remove details, but people do not realize that key details may be fabricated or missing from the imagined scenario.
+
+Imagined futures (and pasts) are more like the present than they actually will be (or were).
+
+Imagination fails to realize that things will feel different once they actually happen—most notably, the psychological immune system will make bad things feel not so bad as they are imagined to feel.
 
 ### Date Read
 2016/06/28

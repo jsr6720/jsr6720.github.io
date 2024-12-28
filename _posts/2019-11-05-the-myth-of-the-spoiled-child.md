@@ -12,7 +12,11 @@ Alfie Kohn, *[The Myth of the Spoiled Child: Challenging the Conventional Wisdom
 
 ## My Review 4/5
 
-This book refrain is 'be skeptical'. How to raise children in a world that is always telling them to conform. Kohn also tackles the inherent danger in straying from the 'strict' parenting model in raising kids.<br/><br/>Kohn also investigate how so many studies lead with anecdotal evidence and lack the rigorous data backed studies. Of particular note is how he takes on "Grit" and 10,000 hour rule. Our goal as parents should be "doing-with" not "doing-to".<br/><br/>very good book overall. Some level of repetition. Definitely worth the second half.
+This book refrain is 'be skeptical'. How to raise children in a world that is always telling them to conform. Kohn also tackles the inherent danger in straying from the 'strict' parenting model in raising kids.
+
+Kohn also investigate how so many studies lead with anecdotal evidence and lack the rigorous data backed studies. Of particular note is how he takes on "Grit" and 10,000 hour rule. Our goal as parents should be "doing-with" not "doing-to".
+
+very good book overall. Some level of repetition. Definitely worth the second half.
 
 ### Date Read
 2019/11/05

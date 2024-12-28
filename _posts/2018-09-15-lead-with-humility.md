@@ -12,7 +12,13 @@ Jeffrey A. Krames, *[Lead with Humility: 12 Leadership Lessons from Pope Francis
 
 ## My Review 3/5
 
-I'm not sure I got all 12 lessons, but the key ones I read in this book:<br/>* Management by walking around/"Smell like your Flock". If you're not out in the world observing those you serve you will isolate yourself as a leader<br/>* Humility/Servant leadership. Leaders exist to serve not to be served. Examples abound of how Pope Francis has punished those who treat the church as  a way to elevate themselves above others<br/>* Politics are to be known, not avoid. Just because you serve in Gods path doesn't mean you can leave everything to chance. Be prepared such that when your time comes you are ready.
+I'm not sure I got all 12 lessons, but the key ones I read in this book:
+
+* Management by walking around/"Smell like your Flock". If you're not out in the world observing those you serve you will isolate yourself as a leader
+
+* Humility/Servant leadership. Leaders exist to serve not to be served. Examples abound of how Pope Francis has punished those who treat the church as  a way to elevate themselves above others
+
+* Politics are to be known, not avoid. Just because you serve in Gods path doesn't mean you can leave everything to chance. Be prepared such that when your time comes you are ready.
 
 ### Date Read
 2018/09/15

@@ -12,7 +12,11 @@ John C. Maxwell, *[Developing the Leader Within You 2.0](https://www.goodreads.c
 
 ## My Review 4/5
 
-An update to the original. I found that maxwell still has a great message. But I liked the first edition better. <br/><br/>In a nutshell. Always be growing. Always be learning. <br/><br/>Nothing meaningful or worthwhile happens by accident. Those journeys are always uphill. 
+An update to the original. I found that maxwell still has a great message. But I liked the first edition better. 
+
+In a nutshell. Always be growing. Always be learning. 
+
+Nothing meaningful or worthwhile happens by accident. Those journeys are always uphill. 
 
 ### Date Read
 2019/06/07

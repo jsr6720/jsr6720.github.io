@@ -12,7 +12,11 @@ Masha Gessen, *[The Man Without a Face: The Unlikely Rise of Vladimir Putin](htt
 
 ## My Review 2/5
 
-So first. Aside from brief biographical information about Putin in his early years growing up in Leningrad there is very little information about him in this book. Further I felt this book was more a historical narrative about the birth and perceived death of Democracy in Russia.<br/><br/>The book was heavy with so many examples of business men being jailed and investigative journalist being killed, but every time Gessen could only speculate that the 'orders came from the top'. I was disappointed that so much of the book focused on people around Putin and not himself.<br/><br/>What worked better as a series of investigative pieces felt like a book bounded from periodicals. I came away feeling more confused who Putin was as a man. Much of the biographical information provided by Gessen was considered suspect and likely false.
+So first. Aside from brief biographical information about Putin in his early years growing up in Leningrad there is very little information about him in this book. Further I felt this book was more a historical narrative about the birth and perceived death of Democracy in Russia.
+
+The book was heavy with so many examples of business men being jailed and investigative journalist being killed, but every time Gessen could only speculate that the 'orders came from the top'. I was disappointed that so much of the book focused on people around Putin and not himself.
+
+What worked better as a series of investigative pieces felt like a book bounded from periodicals. I came away feeling more confused who Putin was as a man. Much of the biographical information provided by Gessen was considered suspect and likely false.
 
 ### Date Read
 2016/11/04

@@ -12,7 +12,9 @@ Terry Brighton, *[Patton, Montgomery, Rommel: Masters of War](https://www.goodre
 
 ## My Review 4/5
 
-Hard to summarize three great generals into one book. This one seems to do everyone justice. Coming away with a better appreciation for the commanders to fought the wars.<br/><br/>Check out the epilogue for summarized leadership lessons. Specifically in the will to fight and the means to fight.
+Hard to summarize three great generals into one book. This one seems to do everyone justice. Coming away with a better appreciation for the commanders to fought the wars.
+
+Check out the epilogue for summarized leadership lessons. Specifically in the will to fight and the means to fight.
 
 ### Date Read
 2019/12/18

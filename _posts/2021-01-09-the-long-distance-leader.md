@@ -12,7 +12,9 @@ Kevin Eikenberry, *[The Long-Distance Leader: Rules for Remarkable Remote Leader
 
 ## My Review 4/5
 
-Quick read with lots of actions to take at the end of each chapter. Nice collection of key manager concepts and their online implications. <br/><br/>If you read nothing else. Buy a high quality web cam. 
+Quick read with lots of actions to take at the end of each chapter. Nice collection of key manager concepts and their online implications. 
+
+If you read nothing else. Buy a high quality web cam. 
 
 ### Date Read
 2021/01/09

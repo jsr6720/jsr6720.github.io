@@ -12,7 +12,9 @@ Robert Fulghum, *[All I Really Need to Know I Learned in Kindergarten: Uncommon 
 
 ## My Review 3/5
 
-Fun read with nuggets of wisdeom contained in chapters.<br/><br/>One or two will jump out and grab you. Watch out.
+Fun read with nuggets of wisdeom contained in chapters.
+
+One or two will jump out and grab you. Watch out.
 
 ### Date Read
 

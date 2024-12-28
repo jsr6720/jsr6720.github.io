@@ -12,7 +12,9 @@ Louis V. Gerstner Jr., *[Who Says Elephants Can't Dance?:  Inside IBM's Historic
 
 ## My Review 5/5
 
-Tale of how IBM escaped the mainframe business to become a systems integrator and cloud pioneer. What I loved about this book, aside from it's technical nature, is Gerstner's insistence that technical people with strong communications skills be promoted.<br/><br/>The book ends in the early 2000s and many of his predictions have come to pass. Billions of small devices and smart watches the world over pumping data into the 'cloud'.
+Tale of how IBM escaped the mainframe business to become a systems integrator and cloud pioneer. What I loved about this book, aside from it's technical nature, is Gerstner's insistence that technical people with strong communications skills be promoted.
+
+The book ends in the early 2000s and many of his predictions have come to pass. Billions of small devices and smart watches the world over pumping data into the 'cloud'.
 
 ### Date Read
 2018/04/02

@@ -12,7 +12,21 @@ Glenn Beck, *[Glenn Beck's Common Sense: The Case Against an Out-of-Control Gove
 
 ## My Review 3/5
 
-Picked this book up because I read an article about Beck's remorse over Trump's victory.<br/>Bonus: This book includes the original text of Thomas Pains Common Sense.<br/><br/>Here are my key takeaways:<br/><br/>* Back a politician not a party.<br/>* Use the tools of democracy to change the system. Violence is not needed<br/>* Redistricting as a political tool is killing democracy<br/>* Active informed citizens are required for a representative republic<br/><br/>
+Picked this book up because I read an article about Beck's remorse over Trump's victory.
+
+Bonus: This book includes the original text of Thomas Pains Common Sense.
+
+Here are my key takeaways:
+
+* Back a politician not a party.
+
+* Use the tools of democracy to change the system. Violence is not needed
+
+* Redistricting as a political tool is killing democracy
+
+* Active informed citizens are required for a representative republic
+
+
 
 ### Date Read
 2017/01/24

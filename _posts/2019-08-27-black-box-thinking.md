@@ -12,7 +12,19 @@ Matthew Syed, *[Black Box Thinking: Why Some People Never Learn from Their Mista
 
 ## My Review 4/5
 
-This is an incredibly long book that can be summarized in a few points:<br/>* Collect data to make data-based decisions<br/>* Watch out for the narrative fallacy<br/>* Build a culture of learning from mistakes<br/><br/>If you've read [Good to Great](https://www.goodreads.com/book/show/76865) or [Mistakes Were Made (But Not by Me)](https://www.goodreads.com/book/show/522525) or [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377) you've been exposed to a lot of the stories and anecdotes of this book.<br/><br/>Other key concepts include cognitive dissonance, fundamental attribution error and breaking ambitions goals into discrete measurable chunks.<br/><br/>All in all, a good book.
+This is an incredibly long book that can be summarized in a few points:
+
+* Collect data to make data-based decisions
+
+* Watch out for the narrative fallacy
+
+* Build a culture of learning from mistakes
+
+If you've read [Good to Great](https://www.goodreads.com/book/show/76865) or [Mistakes Were Made (But Not by Me)](https://www.goodreads.com/book/show/522525) or [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377) you've been exposed to a lot of the stories and anecdotes of this book.
+
+Other key concepts include cognitive dissonance, fundamental attribution error and breaking ambitions goals into discrete measurable chunks.
+
+All in all, a good book.
 
 ### Date Read
 

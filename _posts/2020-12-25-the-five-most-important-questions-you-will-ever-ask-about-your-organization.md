@@ -12,7 +12,9 @@ Peter F. Drucker, *[The Five Most Important Questions You Will Ever Ask About Yo
 
 ## My Review 4/5
 
-Quick read and lots of examples from the social sector. <br/><br/>Bring your pen and paper. This is a workbook which requires brainstorming and exercise to get the best value from. 
+Quick read and lots of examples from the social sector. 
+
+Bring your pen and paper. This is a workbook which requires brainstorming and exercise to get the best value from. 
 
 ### Date Read
 2020/12/25

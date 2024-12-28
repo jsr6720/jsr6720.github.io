@@ -12,7 +12,9 @@ Andrew R. Wilson, *[The Art of War](https://www.goodreads.com/book/show/17203820
 
 ## My Review 2/5
 
-This professor is so full of himself he barely covered the material of the text.<br/><br/>If I hadn't read the book prior to the lecture series I wouldn't have had the slightest clue what he was referring to.
+This professor is so full of himself he barely covered the material of the text.
+
+If I hadn't read the book prior to the lecture series I wouldn't have had the slightest clue what he was referring to.
 
 ### Date Read
 2018/02/08

@@ -12,7 +12,9 @@ James C. Collins, *[Beyond Entrepreneurship: Turning Your Business into an Endur
 
 ## My Review 5/5
 
-Amazing book and really shows the foundational thinking of Collins future work. I liked this right up there with Andy Groves book [High Output Management](https://www.goodreads.com/book/show/324750) and [First, Break All the Rules: What the World's Greatest Managers Do Differently](https://www.goodreads.com/book/show/50937).<br/><br/>This books focuses on companies that are past seed stage, but not quite past 5 years. It is also a fantastic blueprint for brining innovation sectors back into established companies.
+Amazing book and really shows the foundational thinking of Collins future work. I liked this right up there with Andy Groves book [High Output Management](https://www.goodreads.com/book/show/324750) and [First, Break All the Rules: What the World's Greatest Managers Do Differently](https://www.goodreads.com/book/show/50937).
+
+This books focuses on companies that are past seed stage, but not quite past 5 years. It is also a fantastic blueprint for brining innovation sectors back into established companies.
 
 ### Date Read
 2021/02/06

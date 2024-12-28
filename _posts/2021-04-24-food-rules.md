@@ -12,7 +12,11 @@ Michael Pollan, *[Food Rules: An Eater's Manual](https://www.goodreads.com/book/
 
 ## My Review 5/5
 
-A quick afternoon read. This is a whimsical and fun look at the mindset shifts we can have to eat better. <br/><br/>Eat food. Not too much. Mostly plants. <br/><br/>The illustrations add a nice perspective. 
+A quick afternoon read. This is a whimsical and fun look at the mindset shifts we can have to eat better. 
+
+Eat food. Not too much. Mostly plants. 
+
+The illustrations add a nice perspective. 
 
 ### Date Read
 2021/04/24

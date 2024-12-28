@@ -12,7 +12,13 @@ John M. Gottman, *[The Seven Principles for Making Marriage Work: A Practical Gu
 
 ## My Review 5/5
 
-Great book with lots of functional examples and test for 'scoring' a marriage.<br/>Key is a solid friendship that can weather the storm of life.<br/><br/>Learn to respect each other's differences and move past gridlock issues. Will definitely pick up again,<br/>need physical book to copy some of the exercises.
+Great book with lots of functional examples and test for 'scoring' a marriage.
+
+Key is a solid friendship that can weather the storm of life.
+
+Learn to respect each other's differences and move past gridlock issues. Will definitely pick up again,
+
+need physical book to copy some of the exercises.
 
 ### Date Read
 2015/11/18

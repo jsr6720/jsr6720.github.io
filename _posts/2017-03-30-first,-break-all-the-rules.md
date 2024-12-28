@@ -12,7 +12,19 @@ Marcus Buckingham, *[First, Break All the Rules: What the World's Greatest Manag
 
 ## My Review 5/5
 
-Great book that challenges many of the assumptions about managing people.<br/><br/>Greatest contribution is the list of questions that guide great performers.<br/>Do I know what is expected of me at work?<br/>Do I have the materials and equipment I need to do my work right? <br/>Do I have the opportunity to do what I do best everyday? <br/>... Many more<br/><br/>Remember that "average" is a long way off from a cluster of high-performers. Focusing on innate talent and train skills is the best way to accomplish great staff.
+Great book that challenges many of the assumptions about managing people.
+
+Greatest contribution is the list of questions that guide great performers.
+
+Do I know what is expected of me at work?
+
+Do I have the materials and equipment I need to do my work right? 
+
+Do I have the opportunity to do what I do best everyday? 
+
+... Many more
+
+Remember that "average" is a long way off from a cluster of high-performers. Focusing on innate talent and train skills is the best way to accomplish great staff.
 
 ### Date Read
 2017/03/30

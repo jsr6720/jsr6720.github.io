@@ -12,7 +12,9 @@ Patrick Lencioni, *[The Ideal Team Player: How to Recognize and Cultivate The Th
 
 ## My Review 3/5
 
-Evaluate team members on their core qualities: Hungry, Humble and People-Smarts.<br/>Like most of Lencioni's book stick to the model not the fabel. THe meat is in the summary
+Evaluate team members on their core qualities: Hungry, Humble and People-Smarts.
+
+Like most of Lencioni's book stick to the model not the fabel. THe meat is in the summary
 
 ### Date Read
 2018/04/30

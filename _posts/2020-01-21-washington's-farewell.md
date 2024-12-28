@@ -12,7 +12,13 @@ John P. Avlon, *[Washington's Farewell: The Founding Father's Warning to Future 
 
 ## My Review 4/5
 
-This book traces one printed 'speech' and its impact over the decades/centuries.<br/>For one man to attain the height of power and willingly part with it was unprecedented.<br/><br/>Warning, there is Lots of repetition of history as it traces the document and impact through founding and modern times.<br/><br/>My only caveat is the full text of the farewell is read as an appendix. Wish it was first.
+This book traces one printed 'speech' and its impact over the decades/centuries.
+
+For one man to attain the height of power and willingly part with it was unprecedented.
+
+Warning, there is Lots of repetition of history as it traces the document and impact through founding and modern times.
+
+My only caveat is the full text of the farewell is read as an appendix. Wish it was first.
 
 ### Date Read
 2020/01/21

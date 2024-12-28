@@ -12,7 +12,15 @@ Travis Bradberry, *[Leadership 2.0](https://www.goodreads.com/book/show/15950119
 
 ## My Review 3/5
 
-https://www.forbes.com/sites/travisbradberry/2012/11/09/leadership-2-0-are-you-an-adaptive-leader<br/><br/>Core Leadership is...<br/><br/>Strategy - Talent hits a target that no one else can hit, but genius hits a target no one else can see. Strategy is knowing how to look ahead, spot the trends, and anticipate the course of action you will follow to maximize your success.<br/><br/>Action - An idea is a curious thing; it will not work unless you do. For most leaders, desire is not the factor that holds them back; it’s knowing how to execute.<br/><br/>Results - It’s a myth that hard work is enough to achieve results. Far too often obstacles are thrown in a leader’s path that require a special set of skills to reach the finish line.
+https://www.forbes.com/sites/travisbradberry/2012/11/09/leadership-2-0-are-you-an-adaptive-leader
+
+Core Leadership is...
+
+Strategy - Talent hits a target that no one else can hit, but genius hits a target no one else can see. Strategy is knowing how to look ahead, spot the trends, and anticipate the course of action you will follow to maximize your success.
+
+Action - An idea is a curious thing; it will not work unless you do. For most leaders, desire is not the factor that holds them back; it’s knowing how to execute.
+
+Results - It’s a myth that hard work is enough to achieve results. Far too often obstacles are thrown in a leader’s path that require a special set of skills to reach the finish line.
 
 ### Date Read
 2018/05/07

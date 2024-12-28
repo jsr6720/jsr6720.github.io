@@ -12,7 +12,9 @@ Allen C. Guelzo, *[The American Revolution](https://www.goodreads.com/book/show/
 
 ## My Review 4/5
 
-Good history of the revolutionary war with emphasis on the Britain side of things. How after the French and Indian War Britain was wary of taming Americans who now had battle experience.<br/><br/>Good history of the revolutionary war with emphasis on the Britain side of things. Final summary of how the war ended. Good lecture series.
+Good history of the revolutionary war with emphasis on the Britain side of things. How after the French and Indian War Britain was wary of taming Americans who now had battle experience.
+
+Good history of the revolutionary war with emphasis on the Britain side of things. Final summary of how the war ended. Good lecture series.
 
 ### Date Read
 2015/08/28

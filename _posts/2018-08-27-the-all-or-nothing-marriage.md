@@ -12,7 +12,13 @@ Eli J. Finkel, *[The All-or-Nothing Marriage: How the Best Marriages Work](https
 
 ## My Review 4/5
 
-Finkel matches maslow's hierarchy of needs to the marriage.<br/><br/>The higher elevations are hard to attain with one partner, but knowing that you can come off the peak to summit another day helps all interactions.<br/><br/>Also forming a partnership dynamic that does what's right for the couple and not what society deems appropriate helps tremendously.<br/><br/>There is a tremendous amount of data in this book as well that covers every happiness scenario within hetero-sexual couples. Great expansion on the topics covered in [Ten Lessons to Transform Your Marriage](https://www.goodreads.com/book/show/634227)
+Finkel matches maslow's hierarchy of needs to the marriage.
+
+The higher elevations are hard to attain with one partner, but knowing that you can come off the peak to summit another day helps all interactions.
+
+Also forming a partnership dynamic that does what's right for the couple and not what society deems appropriate helps tremendously.
+
+There is a tremendous amount of data in this book as well that covers every happiness scenario within hetero-sexual couples. Great expansion on the topics covered in [Ten Lessons to Transform Your Marriage](https://www.goodreads.com/book/show/634227)
 
 ### Date Read
 2018/08/27

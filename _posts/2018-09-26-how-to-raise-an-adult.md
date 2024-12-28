@@ -12,7 +12,9 @@ Julie Lythcott-Haims, *[How to Raise an Adult: Break Free of the Overparenting T
 
 ## My Review 1/5
 
-Did not like nor did I finish. Judging from the other reviews, the bulk of the book is anecdotal and preaching from the elite upper-middle class problems. To be the freshman dean of Stanford and say colleges don't matter is a tough sell. To live in the safe confines of Palo Alto and say 'let your children roam' is a tough sell.<br/><br/>This book is beyond long that is accomplished by [How Much Is Enough?](https://www.goodreads.com/book/show/157936) or [Boundaries with Kids](https://www.goodreads.com/book/show/40930550). For sure skip the LONG introduction and focus on the second half of the book if you're looking for practical tips to implement.
+Did not like nor did I finish. Judging from the other reviews, the bulk of the book is anecdotal and preaching from the elite upper-middle class problems. To be the freshman dean of Stanford and say colleges don't matter is a tough sell. To live in the safe confines of Palo Alto and say 'let your children roam' is a tough sell.
+
+This book is beyond long that is accomplished by [How Much Is Enough?](https://www.goodreads.com/book/show/157936) or [Boundaries with Kids](https://www.goodreads.com/book/show/40930550). For sure skip the LONG introduction and focus on the second half of the book if you're looking for practical tips to implement.
 
 ### Date Read
 

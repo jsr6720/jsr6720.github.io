@@ -12,7 +12,17 @@ Malcolm Gladwell, *[The Tipping Point: How Little Things Can Make a Big Differen
 
 ## My Review 3/5
 
-A better book than the similar [Freakonomics](https://www.goodreads.com/book/show/1202) or how do great changes in society follow a viral model of spreading and disbursement.<br/><br/>Social epidemics spread by connectors, mavens, and salespersons. This web of people is how information goes from niche to mainstream. Solid book. Good examples.<br/><br/>Super connectors - many connections to a world over. Think barber, or postman<br/>Mavens - collect specific information. Think the guy who always seems to know the latest restaurant opening<br/>Salesperson - sell new ideas to people<br/><br/>The law of the few (80/20 rule). Stickiness factor, something has to 'stick' for it to cause change. Power of context shows that humans are much more influenced by contex than by self autonomy
+A better book than the similar [Freakonomics](https://www.goodreads.com/book/show/1202) or how do great changes in society follow a viral model of spreading and disbursement.
+
+Social epidemics spread by connectors, mavens, and salespersons. This web of people is how information goes from niche to mainstream. Solid book. Good examples.
+
+Super connectors - many connections to a world over. Think barber, or postman
+
+Mavens - collect specific information. Think the guy who always seems to know the latest restaurant opening
+
+Salesperson - sell new ideas to people
+
+The law of the few (80/20 rule). Stickiness factor, something has to 'stick' for it to cause change. Power of context shows that humans are much more influenced by contex than by self autonomy
 
 ### Date Read
 2016/06/14

@@ -12,7 +12,13 @@ Thomas L. Friedman, *[Hot, Flat, and Crowded: Why We Need a Green Revolution and
 
 ## My Review 2/5
 
-This book takes WAY too long to say a few points. Could not finish, it felt like I was listening to the same chapters over and over again.<br/><br/>* Population growth is exponential (Crowded)<br/>* Science has determined that consuming fuels from hell is bad (Hot)<br/>* Globalization means there are fewer and fewer virgin resources to exploit for growth (Flat)
+This book takes WAY too long to say a few points. Could not finish, it felt like I was listening to the same chapters over and over again.
+
+* Population growth is exponential (Crowded)
+
+* Science has determined that consuming fuels from hell is bad (Hot)
+
+* Globalization means there are fewer and fewer virgin resources to exploit for growth (Flat)
 
 ### Date Read
 

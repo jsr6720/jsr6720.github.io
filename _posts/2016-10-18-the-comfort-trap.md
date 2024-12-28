@@ -12,7 +12,9 @@ Judith Sills, *[The Comfort Trap: or, What If You're Riding a Dead Horse?](https
 
 ## My Review 5/5
 
-Great book, but I feel that ratings skew to how much you can personally identify yourself in the patterns.<br/><br/>The best lesson learned is that the fear of change can keep us shackled in an unhappy situation long past it's prime. Be proactive on these situations and live life.
+Great book, but I feel that ratings skew to how much you can personally identify yourself in the patterns.
+
+The best lesson learned is that the fear of change can keep us shackled in an unhappy situation long past it's prime. Be proactive on these situations and live life.
 
 ### Date Read
 2016/10/18

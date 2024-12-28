@@ -12,7 +12,9 @@ Larry Bossidy, *[Confronting Reality Doing What Matters to Get Things Right](htt
 
 ## My Review 3/5
 
-A collection of stories that emphasize corporations that got it right vs those that missed the boat. There were lots of references to "The Business Model" that never seemed to get fully articulated throughout the book.<br/><br/>A good series of business stories, but nothing actionable. Would focus on [Execution: The Discipline of Getting Things Done](https://www.goodreads.com/book/show/1635) instead.
+A collection of stories that emphasize corporations that got it right vs those that missed the boat. There were lots of references to "The Business Model" that never seemed to get fully articulated throughout the book.
+
+A good series of business stories, but nothing actionable. Would focus on [Execution: The Discipline of Getting Things Done](https://www.goodreads.com/book/show/1635) instead.
 
 ### Date Read
 2017/12/17

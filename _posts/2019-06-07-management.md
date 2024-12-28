@@ -12,7 +12,9 @@ Brian Tracy, *[Management: The Brian Tracy Success Library](https://www.goodread
 
 ## My Review 4/5
 
-Great quick advice about the habits of successful management. <br/><br/>Worth a pickup over year to check up on your goals setting. Time resourcefulness and effectiveness. 
+Great quick advice about the habits of successful management. 
+
+Worth a pickup over year to check up on your goals setting. Time resourcefulness and effectiveness. 
 
 ### Date Read
 2019/06/07

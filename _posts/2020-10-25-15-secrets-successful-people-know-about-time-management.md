@@ -12,7 +12,9 @@ Kevin E. Kruse, *[15 Secrets Successful People Know About Time Management: The P
 
 ## My Review 4/5
 
-Quick read that nicely summarizes some of the best stress management techniques and task maximization strategies. <br/><br/>I do get that kruse is also selling consulting. Some of the material just refers out to his website. 
+Quick read that nicely summarizes some of the best stress management techniques and task maximization strategies. 
+
+I do get that kruse is also selling consulting. Some of the material just refers out to his website. 
 
 ### Date Read
 2020/10/25

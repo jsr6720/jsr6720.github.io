@@ -12,7 +12,9 @@ Jared Diamond, *[Guns, Germs and Steel: The Fates of Human Societies](https://ww
 
 ## My Review 4/5
 
-Glad this was abridged. Great walk through history.<br/><br/>Moral of the story: euro-asia was blessed by first starter and long east-west axis.
+Glad this was abridged. Great walk through history.
+
+Moral of the story: euro-asia was blessed by first starter and long east-west axis.
 
 ### Date Read
 2018/05/01

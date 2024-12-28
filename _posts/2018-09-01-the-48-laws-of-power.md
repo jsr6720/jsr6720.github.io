@@ -12,7 +12,9 @@ Robert Greene, *[The 48 Laws of Power](https://www.goodreads.com/book/show/11701
 
 ## My Review 5/5
 
-This book contains the hard truths of the habits and mannerism of people who don't play nice. Full of excerpts from history, antiqued and modern, you'd be a fool to not know these tricks.<br/><br/>Great read.
+This book contains the hard truths of the habits and mannerism of people who don't play nice. Full of excerpts from history, antiqued and modern, you'd be a fool to not know these tricks.
+
+Great read.
 
 ### Date Read
 2018/09/01

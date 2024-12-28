@@ -12,7 +12,9 @@ Rick Hanson, *[Just One Thing: Developing a Buddha Brain One Simple Practice at 
 
 ## My Review 5/5
 
-Great volume that's worth a read and re-read. Focus in on the things to approach happiness by Letting Go and appreciating all the wonderful things in life.<br/><br/>While our neurons and evolution have wired us to see the negative in life. This makes for poor mental health. Focus on the positives and reduce stress.
+Great volume that's worth a read and re-read. Focus in on the things to approach happiness by Letting Go and appreciating all the wonderful things in life.
+
+While our neurons and evolution have wired us to see the negative in life. This makes for poor mental health. Focus on the positives and reduce stress.
 
 ### Date Read
 2021/02/19

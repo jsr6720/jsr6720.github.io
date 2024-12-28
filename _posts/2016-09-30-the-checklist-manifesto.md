@@ -12,7 +12,21 @@ Atul Gawande, *[The Checklist Manifesto: How to Get Things Right](https://www.go
 
 ## My Review 4/5
 
-It's the study of identifying crucial processes and force fixing them. I liked the breakdown of simple, complex and complicated problems. I also liked all the anecdotal stories, there is a heavy emphasis on surgery stories that may upset the more squeamish.<br/><br/>Simple - repeatable by recipe and steps, low skill involved<br/>Complicated - Many sub-systems joined together with many experts, still repeatable (think moon launch)<br/>Complex - Raising kids. Enough said<br/><br/>A checklist is not always a box, it is identifying the 10% that effects the most change. See the [The 80/20 Principle: The Secret to Achieving More with Less](https://www.goodreads.com/book/show/181206) for more on this.<br/><br/>Also there are 'do-confirm' check list and 'read-do' checklist. The former to catch missed steps the latter to step-through processes. Each checklist should be 5-9 items in length, no longer than 90 seconds to execute, should fit on one page.<br/><br/>Key takeaway: whole processes should not require a checklist, we want to have a mechanism to confirm no 'stupid' mistakes were made.<br/><br/>
+It's the study of identifying crucial processes and force fixing them. I liked the breakdown of simple, complex and complicated problems. I also liked all the anecdotal stories, there is a heavy emphasis on surgery stories that may upset the more squeamish.
+
+Simple - repeatable by recipe and steps, low skill involved
+
+Complicated - Many sub-systems joined together with many experts, still repeatable (think moon launch)
+
+Complex - Raising kids. Enough said
+
+A checklist is not always a box, it is identifying the 10% that effects the most change. See the [The 80/20 Principle: The Secret to Achieving More with Less](https://www.goodreads.com/book/show/181206) for more on this.
+
+Also there are 'do-confirm' check list and 'read-do' checklist. The former to catch missed steps the latter to step-through processes. Each checklist should be 5-9 items in length, no longer than 90 seconds to execute, should fit on one page.
+
+Key takeaway: whole processes should not require a checklist, we want to have a mechanism to confirm no 'stupid' mistakes were made.
+
+
 
 ### Date Read
 2016/09/30

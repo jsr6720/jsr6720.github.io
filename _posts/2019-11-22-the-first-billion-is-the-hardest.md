@@ -12,7 +12,9 @@ T. Boone Pickens, *[The First Billion Is the Hardest: Reflections on a Life of C
 
 ## My Review 4/5
 
-Gather round for a story of riches lost and won. Not sure why the average is ~3 this is a great narrative that tackles history and future. Granted, I'm from Texas, Read [Private Empire: ExxonMobil and American Power](https://www.goodreads.com/book/show/13372977), and Pickens reminds me of my own Grandfather.<br/><br/>Your mileage may vary, just make sure it's a clean burning natural gas transportation vehicle.
+Gather round for a story of riches lost and won. Not sure why the average is ~3 this is a great narrative that tackles history and future. Granted, I'm from Texas, Read [Private Empire: ExxonMobil and American Power](https://www.goodreads.com/book/show/13372977), and Pickens reminds me of my own Grandfather.
+
+Your mileage may vary, just make sure it's a clean burning natural gas transportation vehicle.
 
 ### Date Read
 2019/11/22

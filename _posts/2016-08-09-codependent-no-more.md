@@ -12,7 +12,9 @@ Melody Beattie, *[Codependent No More: How to Stop Controlling Others and Start 
 
 ## My Review 3/5
 
-Suppose someone told you that you are codependent. How would you respond? What does that even mean?<br/><br/>This book gives a good anecdotal history of the phrase and it's use.
+Suppose someone told you that you are codependent. How would you respond? What does that even mean?
+
+This book gives a good anecdotal history of the phrase and it's use.
 
 ### Date Read
 2016/08/09

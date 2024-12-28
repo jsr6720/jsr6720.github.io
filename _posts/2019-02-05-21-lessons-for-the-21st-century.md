@@ -12,7 +12,9 @@ Yuval Noah Harari, *[21 Lessons for the 21st Century](https://www.goodreads.com/
 
 ## My Review 4/5
 
-Depressing book. Life is just a swirl of Neurons firing and everything is a story refuted by science. <br/><br/>Not a list of skills but a collection of  thoughts of the future and how knowing thyself is the best protection against the algorithms. 
+Depressing book. Life is just a swirl of Neurons firing and everything is a story refuted by science. 
+
+Not a list of skills but a collection of  thoughts of the future and how knowing thyself is the best protection against the algorithms. 
 
 ### Date Read
 2019/02/05

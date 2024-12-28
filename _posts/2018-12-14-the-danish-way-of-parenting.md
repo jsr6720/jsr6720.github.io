@@ -12,7 +12,9 @@ Jessica Joelle Alexander, *[The Danish Way of Parenting: What the Happiest Peopl
 
 ## My Review 4/5
 
-There are better parenting guides. There are better child development books. But you'd be hard pressed to find a more concise collection of parenting ideas for happiness. <br/><br/>Of course happy families are all alike. And unhappy ones each in their own way. 
+There are better parenting guides. There are better child development books. But you'd be hard pressed to find a more concise collection of parenting ideas for happiness. 
+
+Of course happy families are all alike. And unhappy ones each in their own way. 
 
 ### Date Read
 2018/12/14

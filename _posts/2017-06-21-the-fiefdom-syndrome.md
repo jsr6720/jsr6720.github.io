@@ -12,7 +12,11 @@ Robert J. Herbold, *[The Fiefdom Syndrome](https://www.goodreads.com/book/show/7
 
 ## My Review 4/5
 
-This book is better as a series of stories told from the perspective of Herbold who was at Proctor and Gamble and later Microsoft during key growth years.<br/><br/>Bottom line. Humans are ego driven and left to their own devices they will build moats around their territories. It's up to strong leadership to ensure the right balance of discipline and creativity move the company forward.<br/><br/>As for actual strategies Herbold touted 'simplifying IT systems' as a constant refrain, and standardization of 'web menu driven templates'. The book is showing it's technical age while still being an entertaining read.
+This book is better as a series of stories told from the perspective of Herbold who was at Proctor and Gamble and later Microsoft during key growth years.
+
+Bottom line. Humans are ego driven and left to their own devices they will build moats around their territories. It's up to strong leadership to ensure the right balance of discipline and creativity move the company forward.
+
+As for actual strategies Herbold touted 'simplifying IT systems' as a constant refrain, and standardization of 'web menu driven templates'. The book is showing it's technical age while still being an entertaining read.
 
 ### Date Read
 2017/06/21

@@ -12,7 +12,11 @@ Charles R. Morris, *[The Tycoons: How Andrew Carnegie, John D. Rockefeller, Jay 
 
 ## My Review 4/5
 
-First. This is not not a biography of the four tycoons as much as it is a trawling history from the end of the Civil War through the early 1900s.<br/><br/>However there are many lessons in the boom/bust cycle of frothy investing that are playing out again today with technology firms.<br/><br/>A great read that goes several manager structures deeper than just the figureheads and how that impacted the everyday man. Just be prepared for chapters of context that are skim-able.
+First. This is not not a biography of the four tycoons as much as it is a trawling history from the end of the Civil War through the early 1900s.
+
+However there are many lessons in the boom/bust cycle of frothy investing that are playing out again today with technology firms.
+
+A great read that goes several manager structures deeper than just the figureheads and how that impacted the everyday man. Just be prepared for chapters of context that are skim-able.
 
 ### Date Read
 2018/10/12

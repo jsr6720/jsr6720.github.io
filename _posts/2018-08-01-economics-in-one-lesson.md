@@ -12,7 +12,13 @@ Henry Hazlitt, *[Economics in One Lesson: The Shortest and Surest Way to Underst
 
 ## My Review 4/5
 
-An examination of the fallacies of economics. The one lesson is quite simply: economics is a zero-sum game. You cannot give away to a special party without taking away from someone else. This forgotten man will bear the burden of another's gain.<br/><br/>Either that is spread over a tax base, or some other 'less loud' group. My favorite line in the book has to be calling out politicians for having learned nothing in the 30 years this book has been in circulation.<br/><br/>This book is filled with great examples. Covering everything from Unions, to tariffs, to government make-work programs and especially calls out Congress for failing to fund Social Security responsibly.<br/><br/>There is definitely, however, advances in behavioral economics that address the irrationality that humans have when making decisions. see [Predictably Irrational](https://www.goodreads.com/book/show/1713426), or [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377).
+An examination of the fallacies of economics. The one lesson is quite simply: economics is a zero-sum game. You cannot give away to a special party without taking away from someone else. This forgotten man will bear the burden of another's gain.
+
+Either that is spread over a tax base, or some other 'less loud' group. My favorite line in the book has to be calling out politicians for having learned nothing in the 30 years this book has been in circulation.
+
+This book is filled with great examples. Covering everything from Unions, to tariffs, to government make-work programs and especially calls out Congress for failing to fund Social Security responsibly.
+
+There is definitely, however, advances in behavioral economics that address the irrationality that humans have when making decisions. see [Predictably Irrational](https://www.goodreads.com/book/show/1713426), or [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377).
 
 ### Date Read
 2018/08/01

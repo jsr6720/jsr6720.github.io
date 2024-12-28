@@ -12,7 +12,13 @@ Reid Hoffman, *[The Startup of You: Adapt to the Future, Invest in Yourself, and
 
 ## My Review 2/5
 
-Skip to the action steps to focus on what concrete steps you can take. However be warned the authors put forward lots of “actions” that preclude research on your behalf. <br/><br/>“Learn a skill” doesn’t just make you marketable. <br/>“Network” won’t drop opportunities in your path.<br/><br/>Short version: always be studying and learning. It's hard to take the advice of 'the winner' who's outcome worked. IE. A lottery winner could hold a seminar saying "buy lottery tickets it works for me". [Reid Hoffman](https://www.goodreads.com/author/show/5039437) "The Alliance" is a much better book encompassing the lessons in this book.
+Skip to the action steps to focus on what concrete steps you can take. However be warned the authors put forward lots of “actions” that preclude research on your behalf. 
+
+“Learn a skill” doesn’t just make you marketable. 
+
+“Network” won’t drop opportunities in your path.
+
+Short version: always be studying and learning. It's hard to take the advice of 'the winner' who's outcome worked. IE. A lottery winner could hold a seminar saying "buy lottery tickets it works for me". [Reid Hoffman](https://www.goodreads.com/author/show/5039437) "The Alliance" is a much better book encompassing the lessons in this book.
 
 ### Date Read
 2018/02/22

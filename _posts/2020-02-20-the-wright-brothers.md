@@ -14,7 +14,11 @@ David McCullough, *[The Wright Brothers](https://www.goodreads.com/book/show/226
 
 Well written account of the turn of the century optimism the Wright brothers found themselves in. Also a great look at the 3rd hero Charlie Taylor. Fantastic story telling by McCullogh
 
-Another fantastic portrait of American success story the Wright Brothers by McCullough.<br/><br/>Much like Michael Collins who orbited the moon, the unsung hero of this book is Charlie Taylor, the mechanic who ran the bike shop and provided the mechanical engine to power the first planes.<br/><br/>A classic "overnight success" traced through the 10 years leading up to it.
+Another fantastic portrait of American success story the Wright Brothers by McCullough.
+
+Much like Michael Collins who orbited the moon, the unsung hero of this book is Charlie Taylor, the mechanic who ran the bike shop and provided the mechanical engine to power the first planes.
+
+A classic "overnight success" traced through the 10 years leading up to it.
 
 ### Date Read
 2020/02/20

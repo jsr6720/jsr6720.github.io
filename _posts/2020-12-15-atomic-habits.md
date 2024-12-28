@@ -12,7 +12,9 @@ James Clear, *[Atomic Habits: An Easy & Proven Way to Build Good Habits & Break 
 
 ## My Review 5/5
 
-One of the best books on personal habit making I've ever read.<br/><br/>Start small, chain habits and always have a plan. Great read.
+One of the best books on personal habit making I've ever read.
+
+Start small, chain habits and always have a plan. Great read.
 
 ### Date Read
 2020/12/15

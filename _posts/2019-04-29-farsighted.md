@@ -12,7 +12,21 @@ Steven Johnson, *[Farsighted: How We Make the Decisions That Matter the Most](ht
 
 ## My Review 1/5
 
-https://en.wikipedia.org/wiki/Farsighted_(book)<br/><br/>Summary: <br/>Don't fall for the paradox of presented options<br/>mind map all available options<br/>Attach outcomes to the mind map<br/>Work through and eliminate the cruft<br/>Make the right decision<br/><br/>*Caveat* did not finish this book. couldn't get past his narrative style.
+https://en.wikipedia.org/wiki/Farsighted_(book)
+
+Summary: 
+
+Don't fall for the paradox of presented options
+
+mind map all available options
+
+Attach outcomes to the mind map
+
+Work through and eliminate the cruft
+
+Make the right decision
+
+*Caveat* did not finish this book. couldn't get past his narrative style.
 
 ### Date Read
 

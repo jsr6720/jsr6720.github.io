@@ -12,7 +12,17 @@ Granville Toogood, *[The New Articulate Executive: Look, Act and Sound Like a Le
 
 ## My Review 4/5
 
-A quick read and chapters are separated by section. IE 'presenting on TV' or 'Use of teleprompters'.<br/><br/>Key takeaways for me:<br/>* No lecture/presentation can go past 18 minutes without re-engaging the audience<br/>* Start with the summary and projections forward, work down to the details<br/>* Present a thin, streamlined power point (wafer) and provide documentation after (whopper)<br/><br/>Only 3 bullet points because apparently humans like odd numbers.
+A quick read and chapters are separated by section. IE 'presenting on TV' or 'Use of teleprompters'.
+
+Key takeaways for me:
+
+* No lecture/presentation can go past 18 minutes without re-engaging the audience
+
+* Start with the summary and projections forward, work down to the details
+
+* Present a thin, streamlined power point (wafer) and provide documentation after (whopper)
+
+Only 3 bullet points because apparently humans like odd numbers.
 
 ### Date Read
 2018/10/12

@@ -12,7 +12,17 @@ Adele Faber, *[How to Talk so Kids Will Listen...And Listen So Kids Will Talk](h
 
 ## My Review 2/5
 
-I want to give the beneifit of the doubt since this is an abridged recording, however I felt that [Boundaries with Kids](https://www.goodreads.com/book/show/104887) and [Active Parenting Now](https://www.goodreads.com/book/show/1343214) are far superior choices to this book.<br/><br/>In short here are three lessons when dealing with primarily toddler and early elementary school aged children:<br/><br/>* Don't dismiss feelings<br/>* Have the kid be an active participant in their world<br/>* As better described in the boundaries book above. Allow kids to experience natural consequences over punishment.<br/>
+I want to give the beneifit of the doubt since this is an abridged recording, however I felt that [Boundaries with Kids](https://www.goodreads.com/book/show/104887) and [Active Parenting Now](https://www.goodreads.com/book/show/1343214) are far superior choices to this book.
+
+In short here are three lessons when dealing with primarily toddler and early elementary school aged children:
+
+* Don't dismiss feelings
+
+* Have the kid be an active participant in their world
+
+* As better described in the boundaries book above. Allow kids to experience natural consequences over punishment.
+
+
 
 ### Date Read
 2017/01/23

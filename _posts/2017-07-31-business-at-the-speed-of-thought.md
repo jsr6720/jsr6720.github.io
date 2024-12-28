@@ -12,7 +12,15 @@ Bill  Gates, *[Business @ the Speed (Lib)(CD)](https://www.goodreads.com/book/sh
 
 ## My Review 3/5
 
-Book hasn't aged well in regards to technology, but then again it's 20 years old.<br/><br/>Key take away<br/>* technology should be streamlining process<br/>* new technology should coincide re-evaluating existing processes<br/>* CEO is ultimately responsible for 
+Book hasn't aged well in regards to technology, but then again it's 20 years old.
+
+Key take away
+
+* technology should be streamlining process
+
+* new technology should coincide re-evaluating existing processes
+
+* CEO is ultimately responsible for 
 
 ### Date Read
 2017/07/31

@@ -12,7 +12,11 @@ Shawn Achor, *[The Happiness Advantage: The Seven Principles of Positive Psychol
 
 ## My Review 3/5
 
-Great summary here<br/>https://www.samuelthomasdavies.com/book-summaries/psychology/the-happiness-advantage/<br/><br/>Basically be positive, don't let life get you down and be happy.
+Great summary here
+
+https://www.samuelthomasdavies.com/book-summaries/psychology/the-happiness-advantage/
+
+Basically be positive, don't let life get you down and be happy.
 
 ### Date Read
 2018/10/25

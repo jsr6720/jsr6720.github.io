@@ -12,7 +12,9 @@ Lao Tzu, *[Dao De Jing: The United Version](https://www.goodreads.com/book/show/
 
 ## My Review 4/5
 
-While you could read this in one sitting. Certainly thousand year old text deserves at least a second read through. <br/><br/>Theme of non interference and humble through the captures. Compelling enough for a revisit. 
+While you could read this in one sitting. Certainly thousand year old text deserves at least a second read through. 
+
+Theme of non interference and humble through the captures. Compelling enough for a revisit. 
 
 ### Date Read
 2020/11/18

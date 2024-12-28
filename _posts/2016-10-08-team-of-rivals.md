@@ -12,7 +12,9 @@ Doris Kearns Goodwin, *[Team of Rivals: The Political Genius of Abraham Lincoln]
 
 ## My Review 4/5
 
-Good book that covers the years leading up to President Lincolns assassination. Though the title led me to believe this book would be more about cabinet decisions it was ultimately a discussion of how Lincoln balanced the various egos and political ambitions of those in his cabinet.<br/><br/>I wish it had spent a little more time on how the cabinet fared after the death of Lincoln. Still a good book.
+Good book that covers the years leading up to President Lincolns assassination. Though the title led me to believe this book would be more about cabinet decisions it was ultimately a discussion of how Lincoln balanced the various egos and political ambitions of those in his cabinet.
+
+I wish it had spent a little more time on how the cabinet fared after the death of Lincoln. Still a good book.
 
 ### Date Read
 2016/10/08

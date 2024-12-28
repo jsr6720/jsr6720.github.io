@@ -12,7 +12,9 @@ Willie Robertson, *[American Hunter](https://www.goodreads.com/book/show/2511084
 
 ## My Review 1/5
 
-Didn't finish. Book was a collection of anecdotes about his personal life, uninteresting, and previous hunter's lives which barely scratched the surface of their rich history.<br/><br/>Moral: people who spend time outdoors are more 'rugged' than those who spend time indoors.
+Didn't finish. Book was a collection of anecdotes about his personal life, uninteresting, and previous hunter's lives which barely scratched the surface of their rich history.
+
+Moral: people who spend time outdoors are more 'rugged' than those who spend time indoors.
 
 ### Date Read
 

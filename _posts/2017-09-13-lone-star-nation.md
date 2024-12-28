@@ -12,7 +12,11 @@ H.W. Brands, *[Lone Star Nation](https://www.goodreads.com/book/show/6890)*,  Bo
 
 ## My Review 5/5
 
-Great book that reminds me a lot of [David McCullough](https://www.goodreads.com/author/show/6281688) writing style. Especially [John Adams](https://www.goodreads.com/book/show/2203).<br/><br/>This book delves just deep enough into the anthropology/geologic/political history of spain/mexico/france to give a solid background of Texas without being overbearing.<br/><br/>All the heros are present and accounted for. Great book.
+Great book that reminds me a lot of [David McCullough](https://www.goodreads.com/author/show/6281688) writing style. Especially [John Adams](https://www.goodreads.com/book/show/2203).
+
+This book delves just deep enough into the anthropology/geologic/political history of spain/mexico/france to give a solid background of Texas without being overbearing.
+
+All the heros are present and accounted for. Great book.
 
 ### Date Read
 2017/09/13

@@ -12,7 +12,11 @@ Olivia  Fox Cabane, *[The Charisma Myth: How Anyone Can Master the Art and Scien
 
 ## My Review 2/5
 
-Book in one sentence: Confidence, attention and warmth will help your interactions.<br/><br/>Be ready to hear 'my client' over and over again as [Olivia Fox Cabane](https://www.goodreads.com/author/show/1124434) re-hashes her main point from different leadership books.<br/><br/>If this is your first foray into charisma see [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865) or [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815)
+Book in one sentence: Confidence, attention and warmth will help your interactions.
+
+Be ready to hear 'my client' over and over again as [Olivia Fox Cabane](https://www.goodreads.com/author/show/1124434) re-hashes her main point from different leadership books.
+
+If this is your first foray into charisma see [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865) or [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815)
 
 ### Date Read
 2018/09/06

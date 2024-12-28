@@ -12,7 +12,9 @@ Thomas Paine, *[Common Sense, The Rights of Man and Other Essential Writings](ht
 
 ## My Review 4/5
 
-Great read to fill in some of the thoughts prior to the revolution. Funny how in 250 years politics still hasn't changed. Those who disagree with Paine are fools. <br/><br/>Personally read as part of becks book. 
+Great read to fill in some of the thoughts prior to the revolution. Funny how in 250 years politics still hasn't changed. Those who disagree with Paine are fools. 
+
+Personally read as part of becks book. 
 
 ### Date Read
 2017/01/29

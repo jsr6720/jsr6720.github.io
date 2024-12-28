@@ -12,7 +12,11 @@ Jon Gordon, *[The Energy Bus: 10 Rules to Fuel Your Life, Work, and Team with Po
 
 ## My Review 2/5
 
-Meh. A little too strong on the manifesting and lacks grit.<br/><br/>While its true that a positive attitude can improve things this book's fable lacks the punch of Patrick Lencioni and the tenacity of actual changes.<br/><br/>If you skip this book, the one good advice it has is identify your vision statement and focus on making it reality.
+Meh. A little too strong on the manifesting and lacks grit.
+
+While its true that a positive attitude can improve things this book's fable lacks the punch of Patrick Lencioni and the tenacity of actual changes.
+
+If you skip this book, the one good advice it has is identify your vision statement and focus on making it reality.
 
 ### Date Read
 2021/04/07

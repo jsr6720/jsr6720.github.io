@@ -12,7 +12,15 @@ Greg McKeown, *[Essentialism: The Disciplined Pursuit of Less](https://www.goodr
 
 ## My Review 2/5
 
-Full disclosure I couldn't bring myself to finish this book beyond the introduction. McKeown does the reader a great service and summarizes his main points in the introduction. I found the [The 80/20 Principle: The Secret to Achieving More with Less](https://www.goodreads.com/book/show/181206) a far superior book in both backing information (Pareto principle) and writing style.<br/><br/>Having said that, if you haven't read "The 80/20 Principle" this book is as follows:<br/>* Find the vital few things that you are passionate about and can do the most to further<br/>* Say no to everything else<br/><br/>There are many approaches to deciding on this. Some other books that touch on this include [Eat That Frog!](https://www.goodreads.com/book/show/95887) and [Who Moved My Cheese?](https://www.goodreads.com/book/show/4894). I'm not saying this book is poor, just that with the above reading it's repetitive.
+Full disclosure I couldn't bring myself to finish this book beyond the introduction. McKeown does the reader a great service and summarizes his main points in the introduction. I found the [The 80/20 Principle: The Secret to Achieving More with Less](https://www.goodreads.com/book/show/181206) a far superior book in both backing information (Pareto principle) and writing style.
+
+Having said that, if you haven't read "The 80/20 Principle" this book is as follows:
+
+* Find the vital few things that you are passionate about and can do the most to further
+
+* Say no to everything else
+
+There are many approaches to deciding on this. Some other books that touch on this include [Eat That Frog!](https://www.goodreads.com/book/show/95887) and [Who Moved My Cheese?](https://www.goodreads.com/book/show/4894). I'm not saying this book is poor, just that with the above reading it's repetitive.
 
 ### Date Read
 2017/02/01

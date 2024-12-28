@@ -12,7 +12,11 @@ Eric Schmidt, *[How Google Works](https://www.goodreads.com/book/show/20549465)*
 
 ## My Review 4/5
 
-A collection of short anecdotes about Google and its management practices.<br/><br/>Coined the phrase "smart-creative" which is the evolution of Drucker's "knowledge worker". These smart creatives drive company growth by turning technical insights into marketable products.<br/>
+A collection of short anecdotes about Google and its management practices.
+
+Coined the phrase "smart-creative" which is the evolution of Drucker's "knowledge worker". These smart creatives drive company growth by turning technical insights into marketable products.
+
+
 
 ### Date Read
 2017/11/07

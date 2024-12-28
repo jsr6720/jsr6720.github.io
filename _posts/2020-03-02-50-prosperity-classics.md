@@ -12,7 +12,9 @@ Tom Butler-Bowdon, *[50 Prosperity Classics: Attract It, Create It, Manage It, S
 
 ## My Review 5/5
 
-Great summary of 50 books.<br/><br/>Honestly this is an easy way to knock off titles you want a summary of but not actually read.
+Great summary of 50 books.
+
+Honestly this is an easy way to knock off titles you want a summary of but not actually read.
 
 ### Date Read
 2020/03/02

@@ -12,7 +12,9 @@ John P. Kotter, *[Leading Change](https://www.goodreads.com/book/show/51370)*,  
 
 ## My Review 5/5
 
-This is a comprehensive blueprint for leading change in an organization. It details the difference between being a manager and being a leader. One is title based, anyone can be a leader. Communication underpins all of the phases to changes, and it can take years to establish a measurable culture shift.<br/><br/>Great book for anyone who is responsible for leading change at any level of the organization.
+This is a comprehensive blueprint for leading change in an organization. It details the difference between being a manager and being a leader. One is title based, anyone can be a leader. Communication underpins all of the phases to changes, and it can take years to establish a measurable culture shift.
+
+Great book for anyone who is responsible for leading change at any level of the organization.
 
 ### Date Read
 2020/10/12

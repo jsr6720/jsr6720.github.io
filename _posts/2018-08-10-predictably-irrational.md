@@ -12,7 +12,9 @@ Dan Ariely, *[Predictably Irrational: The Hidden Forces That Shape Our Decisions
 
 ## My Review 4/5
 
-study of behavioral psychology and why we aren't rational agents as assumed by economic forces.<br/><br/>Great collection of studies and personal insights into how we keep making the same 'mistakes'.
+study of behavioral psychology and why we aren't rational agents as assumed by economic forces.
+
+Great collection of studies and personal insights into how we keep making the same 'mistakes'.
 
 ### Date Read
 2018/08/10

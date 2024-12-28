@@ -12,7 +12,9 @@ Ed Catmull, *[Creativity, Inc.: Overcoming the Unseen Forces That Stand in the W
 
 ## My Review 1/5
 
-Couldn't finish. History of Pixar was interesting, but failed to deliver an engaging experience.<br/>To clarify, it's not bad, its just not for me.
+Couldn't finish. History of Pixar was interesting, but failed to deliver an engaging experience.
+
+To clarify, it's not bad, its just not for me.
 
 ### Date Read
 2015/06/09

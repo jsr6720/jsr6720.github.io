@@ -12,7 +12,11 @@ Daniel Goleman, *[Emotional Intelligence: Why It Can Matter More Than IQ (Leadin
 
 ## My Review 5/5
 
-Great book. Picked up on this via corporate training. highly recommend.<br/>Goes into great depth of child development, brain growth, marriage problems, work problems<br/>Could not put this down.
+Great book. Picked up on this via corporate training. highly recommend.
+
+Goes into great depth of child development, brain growth, marriage problems, work problems
+
+Could not put this down.
 
 ### Date Read
 2015/09/02

@@ -12,7 +12,9 @@ S.C. Gwynne, *[Empire of the Summer Moon](https://www.goodreads.com/book/show/76
 
 ## My Review 4/5
 
-Definitely worth the read of "things they don't teach in high school". An amazing look at the high plains tribes of Texas/Mexico/Oklahoma and all the challenges there within.<br/><br/>Amazing to think that the Comanche bands had stopped and pushed back westward anglo settlers for decades before the advent of modern day repeating rifles and disease. Great segue for [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/book/show/1842)
+Definitely worth the read of "things they don't teach in high school". An amazing look at the high plains tribes of Texas/Mexico/Oklahoma and all the challenges there within.
+
+Amazing to think that the Comanche bands had stopped and pushed back westward anglo settlers for decades before the advent of modern day repeating rifles and disease. Great segue for [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/book/show/1842)
 
 ### Date Read
 2021/08/25

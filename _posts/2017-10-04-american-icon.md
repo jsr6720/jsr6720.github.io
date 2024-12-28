@@ -12,7 +12,9 @@ Bryce G. Hoffman, *[American Icon: Alan Mulally and the Fight to Save Ford Motor
 
 ## My Review 5/5
 
-Great book that pairs well with your choice of book about the great financial crisis of 2008 (Big Short).<br/><br/>Author wastes no time digging deep into the story of Ford and it's turnaround.
+Great book that pairs well with your choice of book about the great financial crisis of 2008 (Big Short).
+
+Author wastes no time digging deep into the story of Ford and it's turnaround.
 
 ### Date Read
 2017/10/04

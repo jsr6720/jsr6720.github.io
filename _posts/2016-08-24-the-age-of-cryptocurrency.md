@@ -12,7 +12,9 @@ Paul Vigna, *[The Age of Cryptocurrency: How Bitcoin and Digital Money Are Chall
 
 ## My Review 3/5
 
-I picked this book because I felt out of touch with all the block chain technologies out there. This book did a good job covering the foundation of fiat currencies and the future of digital ones.<br/><br/>However, be aware that this book covers much more ground that Bitcoin itself. It will be interesting to see how digital currencies play out. Reminded me of the stories in [Business Adventures: Twelve Classic Tales from the World of Wall Street](https://www.goodreads.com/book/show/22710212)
+I picked this book because I felt out of touch with all the block chain technologies out there. This book did a good job covering the foundation of fiat currencies and the future of digital ones.
+
+However, be aware that this book covers much more ground that Bitcoin itself. It will be interesting to see how digital currencies play out. Reminded me of the stories in [Business Adventures: Twelve Classic Tales from the World of Wall Street](https://www.goodreads.com/book/show/22710212)
 
 ### Date Read
 2016/08/24

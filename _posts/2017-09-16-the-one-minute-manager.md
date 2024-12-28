@@ -12,7 +12,19 @@ Kenneth H. Blanchard, *[The One Minute Manager](https://www.goodreads.com/book/s
 
 ## My Review 3/5
 
-Take aways:<br/><br/>Trust your people<br/>Weekly status meetings to ensure progress<br/><br/>* One minute goal settings<br/>* One minute praising<br/>* One minute reprimands<br/><br/>Bottom line, Clear expectations drive clear results.
+Take aways:
+
+Trust your people
+
+Weekly status meetings to ensure progress
+
+* One minute goal settings
+
+* One minute praising
+
+* One minute reprimands
+
+Bottom line, Clear expectations drive clear results.
 
 ### Date Read
 2017/09/16

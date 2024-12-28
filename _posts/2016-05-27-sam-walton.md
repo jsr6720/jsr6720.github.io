@@ -12,7 +12,11 @@ Sam Walton, *[Sam Walton: Made in America](https://www.goodreads.com/book/show/1
 
 ## My Review 3/5
 
-Good listen about the history of Walmart and Sam Walton's drive for excellence. Walmart was also covered by [Jim Collins](https://www.goodreads.com/author/show/2826) in his studies of the company. <br/><br/>Most notabe is that Sam's WalMart concept is the evolution of his desire to continuously tinker with the system. He was a self-described merchant at heart and heeded the calling of several important decisions. Self service stores, discounting and selling on volume, computers computes computers to track inventory and all manner of store data, and warehousing.<br/><br/>Sam took accountability for the things that didn't go well and looked to praise others for keeping things on the right track.
+Good listen about the history of Walmart and Sam Walton's drive for excellence. Walmart was also covered by [Jim Collins](https://www.goodreads.com/author/show/2826) in his studies of the company. 
+
+Most notabe is that Sam's WalMart concept is the evolution of his desire to continuously tinker with the system. He was a self-described merchant at heart and heeded the calling of several important decisions. Self service stores, discounting and selling on volume, computers computes computers to track inventory and all manner of store data, and warehousing.
+
+Sam took accountability for the things that didn't go well and looked to praise others for keeping things on the right track.
 
 ### Date Read
 2016/05/27

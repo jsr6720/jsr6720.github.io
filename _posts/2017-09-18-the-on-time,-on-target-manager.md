@@ -12,7 +12,9 @@ Kenneth H. Blanchard, *[The On-Time, On-Target Manager](https://www.goodreads.co
 
 ## My Review 2/5
 
-Honestly, the book [Eat That Frog|95887] is a far superior book to this one.<br/><br/>I really didn't gain anything from this book other than a healthy dose of skepticism of the CEO (Chief Effectiveness Officer).
+Honestly, the book [Eat That Frog|95887] is a far superior book to this one.
+
+I really didn't gain anything from this book other than a healthy dose of skepticism of the CEO (Chief Effectiveness Officer).
 
 ### Date Read
 2017/09/18

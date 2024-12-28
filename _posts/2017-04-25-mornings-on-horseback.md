@@ -12,7 +12,9 @@ David McCullough, *[Mornings on Horseback](https://www.goodreads.com/book/show/5
 
 ## My Review 4/5
 
-One thing I love about [David McCullough](https://www.goodreads.com/author/show/6281688) is his novels ability to weave a full picture of 3 generations around the principle figure. The only negative thing I can bring to say about this book is even abridged it's a snap shot of Theodore's life.<br/><br/>Coming off [The River of Doubt: Theodore Roosevelt's Darkest Journey](https://www.goodreads.com/book/show/78508) and [The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism](https://www.goodreads.com/book/show/17334495) this book provided a lot of background of the Roosevelt family.
+One thing I love about [David McCullough](https://www.goodreads.com/author/show/6281688) is his novels ability to weave a full picture of 3 generations around the principle figure. The only negative thing I can bring to say about this book is even abridged it's a snap shot of Theodore's life.
+
+Coming off [The River of Doubt: Theodore Roosevelt's Darkest Journey](https://www.goodreads.com/book/show/78508) and [The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism](https://www.goodreads.com/book/show/17334495) this book provided a lot of background of the Roosevelt family.
 
 ### Date Read
 2017/04/25

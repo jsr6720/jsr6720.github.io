@@ -12,7 +12,11 @@ Daniel Goleman, *[Primal Leadership: Realizing the Power of Emotional Intelligen
 
 ## My Review 4/5
 
-First half of this book is a great application of [Daniel Goleman Emotional Intelligence](https://www.goodreads.com/book/show/26820420) in the workplace.<br/><br/>Second half of the book goes broader picture and a repeat of other books by Goelman.<br/><br/>Key takeaways
+First half of this book is a great application of [Daniel Goleman Emotional Intelligence](https://www.goodreads.com/book/show/26820420) in the workplace.
+
+Second half of the book goes broader picture and a repeat of other books by Goelman.
+
+Key takeaways
 
 ### Date Read
 2019/06/11

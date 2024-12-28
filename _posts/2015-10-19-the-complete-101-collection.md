@@ -12,7 +12,23 @@ John C. Maxwell, *[The Complete 101 Collection](https://www.goodreads.com/book/s
 
 ## My Review 4/5
 
-Leadership 101 - repeat of prev. listed. Still a great listen.<br/>Relationships 101 - People don't care how much you know until they know how much you care<br/>Attitude 101 - Being positive is infectious. Need the most positive attitude to succeed<br/>Mentoring 101 - Bring with you the right people to succeed. Don't leave roadblocks in the path of others<br/>Equipping 101 - give your followers/leaders the right mindset, not just the right tools<br/>Success 101 - repeat of the various other chapters<br/>Self-Improvement 101 - always sharpen the saw<br/>Teamwork 101 - repeat of the above but in a team setting<br/><br/>While I wouldn't recommend going through all of these in one sitting, they are great one-off reads.
+Leadership 101 - repeat of prev. listed. Still a great listen.
+
+Relationships 101 - People don't care how much you know until they know how much you care
+
+Attitude 101 - Being positive is infectious. Need the most positive attitude to succeed
+
+Mentoring 101 - Bring with you the right people to succeed. Don't leave roadblocks in the path of others
+
+Equipping 101 - give your followers/leaders the right mindset, not just the right tools
+
+Success 101 - repeat of the various other chapters
+
+Self-Improvement 101 - always sharpen the saw
+
+Teamwork 101 - repeat of the above but in a team setting
+
+While I wouldn't recommend going through all of these in one sitting, they are great one-off reads.
 
 ### Date Read
 2015/10/19
