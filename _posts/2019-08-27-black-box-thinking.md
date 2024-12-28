@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Black Box Thinking\""
-date:   2019-08-27 00:00:00 -0400
-tags: 2019 book review Syed business
-uid: b9e78c53-22b9-4d55-92ca-4dd171f33f69
+title: "Quick Thoughts on Black Box Thinking: Why Some People Never Learn from Their Mistakes - But Some Do"
+date: 2019-08-27 00:00:00 -0400
+category: review
+tags: book business
+uid: 00afdd2c-eb65-4f7f-845f-fe1e993a7ce5
 ---
 
-
+Matthew Syed, *[Black Box Thinking: Why Some People Never Learn from Their Mistakes - But Some Do](https://www.goodreads.com/book/show/24611735)*,  Portfolio 2015 (Hardcover) ISBN: ="1591848229"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ This is an incredibly long book that can be summarized in a few points:<br/>* Co
 ### Date Added
 2019/08/27
 
-## Goodreads book information
-
-*Black Box Thinking: Why Some People Never Learn from Their Mistakes - But Some Do* by Matthew Syed
-
-https://www.goodreads.com/book/show/24611735
-
-Bookshelves: business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Matthew Syed, *Black Box Thinking: Why Some People Never Learn from Their Mistakes - But Some Do*,  Portfolio 2015 (Hardcover)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1591848229"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business

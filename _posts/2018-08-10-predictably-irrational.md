@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Predictably Irrational\""
-date:   2018-08-10 00:00:00 -0400
-tags: 2018 book review Ariely economics psychology
-uid: aa58abd0-b4ee-4dc8-a127-72a6a89ec648
+title: "Quick Thoughts on Predictably Irrational: The Hidden Forces That Shape Our Decisions"
+date: 2018-08-10 00:00:00 -0400
+category: review
+tags: book economics psychology
+uid: bc428031-9ccd-4390-8c6c-5058f49a7715
 ---
 
-
+Dan Ariely, *[Predictably Irrational: The Hidden Forces That Shape Our Decisions](https://www.goodreads.com/book/show/1713424)*, Simon  Jones HarperAudio 2008 (Audio CD) ISBN: ="006145785X"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ study of behavioral psychology and why we aren't rational agents as assumed by e
 ### Date Added
 2018/08/01
 
-## Goodreads book information
-
-*Predictably Irrational: The Hidden Forces That Shape Our Decisions* by Dan Ariely
-
-https://www.goodreads.com/book/show/1713424
-
-Bookshelves: economics, psychology
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Dan Ariely, *Predictably Irrational: The Hidden Forces That Shape Our Decisions*, Simon  Jones HarperAudio 2008 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="006145785X"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: economics, psychology

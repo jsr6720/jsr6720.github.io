@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Freakonomics\""
-date:   2016-01-13 00:00:00 -0400
-tags: 2016 book review Levitt economics
-uid: 98db3b45-f966-4b64-b3f4-ff52de4db503
+title: "Quick Thoughts on Freakonomics: A Rogue Economist Explores the Hidden Side of Everything"
+date: 2016-01-13 00:00:00 -0400
+category: review
+tags: book economics
+uid: 7385eee5-7d8f-40b6-b7c8-da9858af80aa
 ---
 
-
+Steven D. Levitt, *[Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](https://www.goodreads.com/book/show/1205)*, Stephen J. Dubner HarperAu 2006 (Audio CD) ISBN: ="0061238538"
 
 ## My Review 2/5
 
@@ -19,29 +20,9 @@ Narrative style rambles on at times. Some interesting historical anecdotes. Orig
 ### Date Added
 2016/05/31
 
-## Goodreads book information
-
-*Freakonomics: A Rogue Economist Explores the Hidden Side of Everything* by Steven D. Levitt
-
-https://www.goodreads.com/book/show/1205
-
-Bookshelves: economics
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Steven D. Levitt, *Freakonomics: A Rogue Economist Explores the Hidden Side of Everything*, Stephen J. Dubner HarperAu 2006 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0061238538"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: economics

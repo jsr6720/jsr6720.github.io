@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Dont Sweat the Small Stuff and Its All Small Stuff\""
-date:   2016-06-05 00:00:00 -0400
-tags: 2016 book review Carlson personal-development
-uid: 04da6228-a29e-40f4-b61f-bb91d0daedba
+title: "Quick Thoughts on Dont Sweat the Small Stuff and Its All Small Stuff"
+date: 2016-06-05 00:00:00 -0400
+category: review
+tags: book personal-development
+uid: 60603593-5022-4873-a478-8cf50426a2ce
 ---
 
-
+Richard Carlson, *[Dont Sweat the Small Stuff and Its All Small Stuff](https://www.goodreads.com/book/show/508637)*,  Simon & Schuster Audio 1999 (Audio Cassette) ISBN: ="0671046217"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ An alternative title could be "strategies for living a peaceful life" and while 
 ### Date Added
 2016/09/29
 
-## Goodreads book information
-
-*Dont Sweat the Small Stuff and Its All Small Stuff* by Richard Carlson
-
-https://www.goodreads.com/book/show/508637
-
-Bookshelves: personal-development
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Richard Carlson, *Dont Sweat the Small Stuff and Its All Small Stuff*,  Simon & Schuster Audio 1999 (Audio Cassette)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0671046217"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: personal-development

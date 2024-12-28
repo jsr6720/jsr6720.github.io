@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Lead with Humility\""
-date:   2018-09-15 00:00:00 -0400
-tags: 2018 book review Krames leadership
-uid: 7d2b0c56-1002-4b96-ba55-636df2c2b661
+title: "Quick Thoughts on Lead with Humility: 12 Leadership Lessons from Pope Francis"
+date: 2018-09-15 00:00:00 -0400
+category: review
+tags: book leadership
+uid: 6a7e08a1-6e36-4f11-9504-e983d9058f96
 ---
 
-
+Jeffrey A. Krames, *[Lead with Humility: 12 Leadership Lessons from Pope Francis](https://www.goodreads.com/book/show/28158863)*, Walter Dixon Gildan Media on Dreamscape Audio 2015 (Audio CD) ISBN: ="1520003366"
 
 ## My Review 3/5
 
@@ -19,29 +20,9 @@ I'm not sure I got all 12 lessons, but the key ones I read in this book:<br/>* M
 ### Date Added
 2018/09/18
 
-## Goodreads book information
-
-*Lead with Humility: 12 Leadership Lessons from Pope Francis* by Jeffrey A. Krames
-
-https://www.goodreads.com/book/show/28158863
-
-Bookshelves: leadership
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Jeffrey A. Krames, *Lead with Humility: 12 Leadership Lessons from Pope Francis*, Walter Dixon Gildan Media on Dreamscape Audio 2015 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1520003366"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: leadership

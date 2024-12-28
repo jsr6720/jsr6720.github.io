@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Leadership 2.0\""
-date:   2018-05-07 00:00:00 -0400
-tags: 2018 book review Bradberry management
-uid: 9c4df9ae-42ad-455f-94b5-7612a28012f2
+title: "Quick Thoughts on Leadership 2.0"
+date: 2018-05-07 00:00:00 -0400
+category: review
+tags: book management
+uid: f98e3dbf-f2a4-4f69-ac88-a674105a1d23
 ---
 
-
+Travis Bradberry, *[Leadership 2.0](https://www.goodreads.com/book/show/15950119)*, Jean Greaves, Tom Parks Brilliance Audio 2012 (Audio CD) ISBN: ="1469270161"
 
 ## My Review 3/5
 
@@ -19,29 +20,9 @@ https://www.forbes.com/sites/travisbradberry/2012/11/09/leadership-2-0-are-you-a
 ### Date Added
 2018/05/06
 
-## Goodreads book information
-
-*Leadership 2.0* by Travis Bradberry
-
-https://www.goodreads.com/book/show/15950119
-
-Bookshelves: management
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Travis Bradberry, *Leadership 2.0*, Jean Greaves, Tom Parks Brilliance Audio 2012 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1469270161"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: management

@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Stumbling on Happiness\""
-date:   2016-06-28 00:00:00 -0400
-tags: 2016 book review Gilbert psychology
-uid: 6d8dea43-d13f-4fd1-aa9f-56542994d162
+title: "Quick Thoughts on Stumbling on Happiness"
+date: 2016-06-28 00:00:00 -0400
+category: review
+tags: book psychology
+uid: 40822065-7ae9-41f5-8e39-f3f757bcbff1
 ---
 
-
+Daniel Todd Gilbert, *[Stumbling on Happiness](https://www.goodreads.com/book/show/1535322)*,  Random House Audio 2006 (Audio CD) ISBN: ="0739332228"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ Fun book. Most chapters start with a quote from Shakespeare. Focuses on blending
 ### Date Added
 2016/10/11
 
-## Goodreads book information
-
-*Stumbling on Happiness* by Daniel Todd Gilbert
-
-https://www.goodreads.com/book/show/1535322
-
-Bookshelves: psychology
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Daniel Todd Gilbert, *Stumbling on Happiness*,  Random House Audio 2006 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0739332228"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: psychology

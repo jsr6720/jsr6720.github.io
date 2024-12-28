@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Audacity of Hope\""
-date:   2018-07-23 00:00:00 -0400
-tags: 2018 book review Obama biography
-uid: 025292a1-aadd-481a-92f3-1369d875099e
+title: "Quick Thoughts on The Audacity of Hope: Thoughts on Reclaiming the American Dream"
+date: 2018-07-23 00:00:00 -0400
+category: review
+tags: book biography
+uid: 9af6d90e-d92c-41d6-8c61-dc9fb330feb9
 ---
 
-
+Barack Obama, *[The Audacity of Hope: Thoughts on Reclaiming the American Dream](https://www.goodreads.com/book/show/1120650)*,  RH Audio 2006 (Audio CD) ISBN: ="0739334085"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ I wish I had read this book before voting in the 2008 and 2012 elections. All of
 ### Date Added
 2018/07/17
 
-## Goodreads book information
-
-*The Audacity of Hope: Thoughts on Reclaiming the American Dream* by Barack Obama
-
-https://www.goodreads.com/book/show/1120650
-
-Bookshelves: biography
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Barack Obama, *The Audacity of Hope: Thoughts on Reclaiming the American Dream*,  RH Audio 2006 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0739334085"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: biography

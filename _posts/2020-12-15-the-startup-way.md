@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Startup Way\""
-date:   2020-12-15 00:00:00 -0400
-tags: 2020 book review Ries business management
-uid: fbeb6b11-2fef-4927-88b0-bf8f024082a0
+title: "Quick Thoughts on The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth"
+date: 2020-12-15 00:00:00 -0400
+category: review
+tags: book business management
+uid: 116d7e63-84a0-444a-93f0-78a4e774fdf5
 ---
 
-
+Eric Ries, *[The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth](https://www.goodreads.com/book/show/34267304)*,  Random House Audio 2017 (Audio CD) ISBN: ="0147523303"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ Focuses also on the "Lean Startup". How to harness the power of the entrepreneur
 ### Date Added
 2020/12/15
 
-## Goodreads book information
-
-*The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth* by Eric Ries
-
-https://www.goodreads.com/book/show/34267304
-
-Bookshelves: business, management
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Eric Ries, *The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth*,  Random House Audio 2017 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0147523303"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business, management

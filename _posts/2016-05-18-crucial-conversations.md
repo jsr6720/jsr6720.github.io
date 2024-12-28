@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Crucial Conversations\""
-date:   2016-05-18 00:00:00 -0400
-tags: 2016 book review Patterson personal-development business
-uid: fe05a450-5fee-4906-9217-6e103291e745
+title: "Quick Thoughts on Crucial Conversations: Tools for Talking When Stakes Are High"
+date: 2016-05-18 00:00:00 -0400
+category: review
+tags: book personal-development business
+uid: d7d2f44a-7ff8-46ab-bd79-981d85aec1de
 ---
 
-
+Kerry Patterson, *[Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/883911)*,  American Media International 2003 (Audio CD) ISBN: ="0972488901"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ Crucial conversations are hard to have. Our biology fights it. Often casual conv
 ### Date Added
 2016/09/29
 
-## Goodreads book information
-
-*Crucial Conversations: Tools for Talking When Stakes Are High* by Kerry Patterson
-
-https://www.goodreads.com/book/show/883911
-
-Bookshelves: personal-development, business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Kerry Patterson, *Crucial Conversations: Tools for Talking When Stakes Are High*,  American Media International 2003 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0972488901"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: personal-development, business

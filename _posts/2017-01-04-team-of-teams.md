@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Team of Teams\""
-date:   2017-01-04 00:00:00 -0400
-tags: 2017 book review McChrystal business
-uid: eb4e8cc4-678a-4a44-80db-fe2f0fed80a6
+title: "Quick Thoughts on Team of Teams: The Power of Small Groups in a Fragmented World"
+date: 2017-01-04 00:00:00 -0400
+category: review
+tags: book business
+uid: 38b789b6-1168-425c-8698-68ab349b3454
 ---
 
-
+Stanley McChrystal, *[Team of Teams: The Power of Small Groups in a Fragmented World](https://www.goodreads.com/book/show/23016447)*, Chris Fussell Books on Tape 2015 (Audio CD) ISBN: ="1101887958"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ Great narrative that looks how a complicated world became a complex one and how 
 ### Date Added
 2016/12/13
 
-## Goodreads book information
-
-*Team of Teams: The Power of Small Groups in a Fragmented World* by Stanley McChrystal
-
-https://www.goodreads.com/book/show/23016447
-
-Bookshelves: business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Stanley McChrystal, *Team of Teams: The Power of Small Groups in a Fragmented World*, Chris Fussell Books on Tape 2015 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1101887958"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business

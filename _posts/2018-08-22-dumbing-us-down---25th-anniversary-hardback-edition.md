@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Dumbing Us Down - 25th Anniversary Hardback Edition\""
-date:   2018-08-22 00:00:00 -0400
-tags: 2018 book review Gatto parenting
-uid: 14b9892b-bc11-42ae-936c-b3840aec15a3
+title: "Quick Thoughts on Dumbing Us Down - 25th Anniversary Hardback Edition: The Hidden Curriculum of Compulsory Schooling - 25th Anniversary Edition"
+date: 2018-08-22 00:00:00 -0400
+category: review
+tags: book parenting
+uid: be3cb177-4612-48e9-b918-9c19b31f1524
 ---
 
-
+John Taylor Gatto, *[Dumbing Us Down - 25th Anniversary Hardback Edition: The Hidden Curriculum of Compulsory Schooling - 25th Anniversary Edition](https://www.goodreads.com/book/show/31945094)*,  New Society Publishers 2017 (Hardcover) ISBN: ="0865718563"
 
 ## My Review 2/5
 
@@ -19,29 +20,9 @@ I agree that the systematic application of universal standards regresses everyon
 ### Date Added
 2018/08/22
 
-## Goodreads book information
-
-*Dumbing Us Down - 25th Anniversary Hardback Edition: The Hidden Curriculum of Compulsory Schooling - 25th Anniversary Edition* by John Taylor Gatto
-
-https://www.goodreads.com/book/show/31945094
-
-Bookshelves: parenting
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-John Taylor Gatto, *Dumbing Us Down - 25th Anniversary Hardback Edition: The Hidden Curriculum of Compulsory Schooling - 25th Anniversary Edition*,  New Society Publishers 2017 (Hardcover)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0865718563"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: parenting

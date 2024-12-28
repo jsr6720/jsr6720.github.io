@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"How Google Works\""
-date:   2017-11-07 00:00:00 -0400
-tags: 2017 book review Schmidt business
-uid: e6cb3253-3288-4a27-9e7d-d6bd2be1f7e1
+title: "Quick Thoughts on How Google Works"
+date: 2017-11-07 00:00:00 -0400
+category: review
+tags: book business
+uid: f0108b73-5c65-4e0b-9597-4ca03952fa22
 ---
 
-
+Eric Schmidt, *[How Google Works](https://www.goodreads.com/book/show/20549465)*, Jonathan Rosenberg, Alan Eagle, Holter Graham Grand Central Publishing 2014 (Audio CD) ISBN: ="1478983523"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ A collection of short anecdotes about Google and its management practices.<br/><
 ### Date Added
 2017/11/08
 
-## Goodreads book information
-
-*How Google Works* by Eric Schmidt
-
-https://www.goodreads.com/book/show/20549465
-
-Bookshelves: business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Eric Schmidt, *How Google Works*, Jonathan Rosenberg, Alan Eagle, Holter Graham Grand Central Publishing 2014 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1478983523"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business

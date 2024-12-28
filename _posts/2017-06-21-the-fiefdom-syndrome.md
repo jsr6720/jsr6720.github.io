@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Fiefdom Syndrome\""
-date:   2017-06-21 00:00:00 -0400
-tags: 2017 book review Herbold business
-uid: 700aabc0-a174-4652-b66f-73f9d63bfb29
+title: "Quick Thoughts on The Fiefdom Syndrome"
+date: 2017-06-21 00:00:00 -0400
+category: review
+tags: book business
+uid: c085c8e9-c72f-4dae-adac-dfea8a9d9783
 ---
 
-
+Robert J. Herbold, *[The Fiefdom Syndrome](https://www.goodreads.com/book/show/7976981)*,  Broadway Business 2004 (Kindle Edition) ISBN: ="0385514190"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ This book is better as a series of stories told from the perspective of Herbold 
 ### Date Added
 2017/06/21
 
-## Goodreads book information
-
-*The Fiefdom Syndrome* by Robert J. Herbold
-
-https://www.goodreads.com/book/show/7976981
-
-Bookshelves: business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Robert J. Herbold, *The Fiefdom Syndrome*,  Broadway Business 2004 (Kindle Edition)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0385514190"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business

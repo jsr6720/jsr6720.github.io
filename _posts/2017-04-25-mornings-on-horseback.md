@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Mornings on Horseback\""
-date:   2017-04-25 00:00:00 -0400
-tags: 2017 book review McCullough biography history
-uid: 91ee8bd6-473d-4268-8e30-405dcba58c27
+title: "Quick Thoughts on Mornings on Horseback"
+date: 2017-04-25 00:00:00 -0400
+category: review
+tags: book biography history
+uid: d23d8c5f-44e7-4b24-b96a-2becc3d13d93
 ---
 
-
+David McCullough, *[Mornings on Horseback](https://www.goodreads.com/book/show/55767)*, Edward Herrmann Simon  Schuster Audio 2004 (Audio CD) ISBN: ="0743533461"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ One thing I love about [David McCullough](https://www.goodreads.com/author/show/
 ### Date Added
 2017/04/25
 
-## Goodreads book information
-
-*Mornings on Horseback* by David McCullough
-
-https://www.goodreads.com/book/show/55767
-
-Bookshelves: biography, history
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-David McCullough, *Mornings on Horseback*, Edward Herrmann Simon  Schuster Audio 2004 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0743533461"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: biography, history

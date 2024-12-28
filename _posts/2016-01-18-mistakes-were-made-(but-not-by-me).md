@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Mistakes Were Made (But Not by Me)\""
-date:   2016-01-18 00:00:00 -0400
-tags: 2016 book review Tavris personal-development psychology
-uid: 5a838f6f-84dc-4f29-bf36-30c5037bd6ca
+title: "Quick Thoughts on Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts"
+date: 2016-01-18 00:00:00 -0400
+category: review
+tags: book personal-development psychology
+uid: b88508e1-4f66-4ab2-b45c-3037f0573af5
 ---
 
-
+Carol Tavris, *[Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts](https://www.goodreads.com/book/show/13421358)*, Elliot Aronson, Marsha Mercant, Joe Barrett Audible 2010 (Audiobook) ISBN: =""
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ Not available at library. So glad I picked this up on Amazon.<br/>This book focu
 ### Date Added
 2016/05/31
 
-## Goodreads book information
-
-*Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts* by Carol Tavris
-
-https://www.goodreads.com/book/show/13421358
-
-Bookshelves: personal-development, psychology
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Carol Tavris, *Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts*, Elliot Aronson, Marsha Mercant, Joe Barrett Audible 2010 (Audiobook)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: =""
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: personal-development, psychology

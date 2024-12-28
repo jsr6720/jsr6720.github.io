@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Crucial Confrontations\""
-date:   2016-10-25 00:00:00 -0400
-tags: 2016 book review Patterson business personal-development
-uid: 5c3df7dd-aa3b-41b3-9a7c-cd21ec368b29
+title: "Quick Thoughts on Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior"
+date: 2016-10-25 00:00:00 -0400
+category: review
+tags: book business personal-development
+uid: 62f54d65-18c6-4914-bf59-b4b7ac6cedd2
 ---
 
-
+Kerry Patterson, *[Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior](https://www.goodreads.com/book/show/822267)*,  Amer Media Intl - McGraw Hill audio 2005 (Audio CD) ISBN: ="1932378820"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ Picks up on the concepts of [Crucial Conversations](https://www.goodreads.com/bo
 ### Date Added
 2016/10/18
 
-## Goodreads book information
-
-*Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior* by Kerry Patterson
-
-https://www.goodreads.com/book/show/822267
-
-Bookshelves: business, personal-development
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Kerry Patterson, *Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior*,  Amer Media Intl - McGraw Hill audio 2005 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1932378820"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business, personal-development

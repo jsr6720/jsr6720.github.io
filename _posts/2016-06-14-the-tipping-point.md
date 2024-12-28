@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Tipping Point\""
-date:   2016-06-14 00:00:00 -0400
-tags: 2016 book review Gladwell economics
-uid: 91d2c578-afda-4850-9cf6-a7d34ab251c5
+title: "Quick Thoughts on The Tipping Point: How Little Things Can Make a Big Difference"
+date: 2016-06-14 00:00:00 -0400
+category: review
+tags: book economics
+uid: c96cd281-23b5-4eee-8a69-99a98405b9ed
 ---
 
-
+Malcolm Gladwell, *[The Tipping Point: How Little Things Can Make a Big Difference](https://www.goodreads.com/book/show/477780)*,  Little, Brown  Company 2007 (Audio CD) ISBN: ="1600240054"
 
 ## My Review 3/5
 
@@ -19,29 +20,9 @@ A better book than the similar [Freakonomics](https://www.goodreads.com/book/sho
 ### Date Added
 2016/05/31
 
-## Goodreads book information
-
-*The Tipping Point: How Little Things Can Make a Big Difference* by Malcolm Gladwell
-
-https://www.goodreads.com/book/show/477780
-
-Bookshelves: economics
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Malcolm Gladwell, *The Tipping Point: How Little Things Can Make a Big Difference*,  Little, Brown  Company 2007 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1600240054"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: economics

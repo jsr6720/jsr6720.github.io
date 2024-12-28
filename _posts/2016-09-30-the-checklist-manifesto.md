@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Checklist Manifesto\""
-date:   2016-09-30 00:00:00 -0400
-tags: 2016 book review Gawande personal-development
-uid: 3ed6220b-7d3b-44ee-8ff3-b53dbe04a0df
+title: "Quick Thoughts on The Checklist Manifesto: How to Get Things Right"
+date: 2016-09-30 00:00:00 -0400
+category: review
+tags: book personal-development
+uid: cd5f2e7e-1667-40f2-8eda-ab03e3850faf
 ---
 
-
+Atul Gawande, *[The Checklist Manifesto: How to Get Things Right](https://www.goodreads.com/book/show/7313207)*, John Bedford Lloyd Macmillan Audio 2010 (Audio CD) ISBN: ="1427208980"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ It's the study of identifying crucial processes and force fixing them. I liked t
 ### Date Added
 2016/09/12
 
-## Goodreads book information
-
-*The Checklist Manifesto: How to Get Things Right* by Atul Gawande
-
-https://www.goodreads.com/book/show/7313207
-
-Bookshelves: personal-development
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Atul Gawande, *The Checklist Manifesto: How to Get Things Right*, John Bedford Lloyd Macmillan Audio 2010 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1427208980"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: personal-development

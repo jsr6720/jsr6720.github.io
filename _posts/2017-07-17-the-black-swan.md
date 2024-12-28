@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Black Swan\""
-date:   2017-07-17 00:00:00 -0400
-tags: 2017 book review Taleb did-not-finish
-uid: 1d3917d2-798e-46ae-98b2-5cdf060c4d73
+title: "Quick Thoughts on The Black Swan: The Impact of the Highly Improbable"
+date: 2017-07-17 00:00:00 -0400
+category: review
+tags: book did-not-finish
+uid: 401060ba-e8fe-4d1b-bd29-84aea4485254
 ---
 
-
+Nassim Nicholas Taleb, *[The Black Swan: The Impact of the Highly Improbable](https://www.goodreads.com/book/show/242472)*, David Chandler, Микола Климчук Random House  2007 (Hardcover) ISBN: =""
 
 ## My Review 1/5
 
@@ -19,29 +20,9 @@ Go for the summary.
 ### Date Added
 2017/07/17
 
-## Goodreads book information
-
-*The Black Swan: The Impact of the Highly Improbable* by Nassim Nicholas Taleb
-
-https://www.goodreads.com/book/show/242472
-
-Bookshelves: did-not-finish
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Nassim Nicholas Taleb, *The Black Swan: The Impact of the Highly Improbable*, David Chandler, Микола Климчук Random House  2007 (Hardcover)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: =""
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: did-not-finish

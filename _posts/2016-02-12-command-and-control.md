@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Command and Control\""
-date:   2016-02-12 00:00:00 -0400
-tags: 2016 book review Polelle history
-uid: 5f810778-6fb4-4096-b378-2ebb4814c7f1
+title: "Quick Thoughts on Command and Control: Great Military Leaders from Washington to the Twenty-First Century"
+date: 2016-02-12 00:00:00 -0400
+category: review
+tags: book history
+uid: 3687ac96-ea04-4944-bfd2-111d388ffa42
 ---
 
-
+Mark R. Polelle, *[Command and Control: Great Military Leaders from Washington to the Twenty-First Century](https://www.goodreads.com/book/show/12948235)*,  Recorded Books  (Audiobook) ISBN: =""
 
 ## My Review 3/5
 
@@ -19,29 +20,9 @@ This is a recorded lecture by "Modern Scholar" and is based on Polell's book Lea
 ### Date Added
 2016/09/29
 
-## Goodreads book information
-
-*Command and Control: Great Military Leaders from Washington to the Twenty-First Century* by Mark R. Polelle
-
-https://www.goodreads.com/book/show/12948235
-
-Bookshelves: history
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Mark R. Polelle, *Command and Control: Great Military Leaders from Washington to the Twenty-First Century*,  Recorded Books  (Audiobook)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: =""
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: history

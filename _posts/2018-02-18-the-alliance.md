@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Alliance\""
-date:   2018-02-18 00:00:00 -0400
-tags: 2018 book review Hoffman 
-uid: eaf36b50-143b-4c0e-ae89-b0a667ec5b39
+title: "Quick Thoughts on The Alliance: Managing Talent in the Networked Age"
+date: 2018-02-18 00:00:00 -0400
+category: review
+tags: book 
+uid: 6eb1d48c-9df8-440d-8f79-28feec46e28a
 ---
 
-
+Reid Hoffman, *[The Alliance: Managing Talent in the Networked Age](https://www.goodreads.com/book/show/20763746)*, Ben Casnocha, Chris Yeh Harvard Business Review Press 2014 (Hardcover) ISBN: ="1625275773"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ Three aspects of building ling term relationships:<br/>1. Define the terms of em
 ### Date Added
 2018/02/18
 
-## Goodreads book information
-
-*The Alliance: Managing Talent in the Networked Age* by Reid Hoffman
-
-https://www.goodreads.com/book/show/20763746
-
-Bookshelves: 
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Reid Hoffman, *The Alliance: Managing Talent in the Networked Age*, Ben Casnocha, Chris Yeh Harvard Business Review Press 2014 (Hardcover)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1625275773"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: 

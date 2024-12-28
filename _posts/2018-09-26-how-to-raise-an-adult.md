@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"How to Raise an Adult\""
-date:   2018-09-26 00:00:00 -0400
-tags: 2018 book review Lythcott-Haims did-not-finish
-uid: fc9cab92-50ce-4db7-8959-9cb888a7effc
+title: "Quick Thoughts on How to Raise an Adult: Break Free of the Overparenting Trap and Prepare Your Kid for Success"
+date: 2018-09-26 00:00:00 -0400
+category: review
+tags: book did-not-finish
+uid: b2909b99-9da9-431f-89cf-54629f19e661
 ---
 
-
+Julie Lythcott-Haims, *[How to Raise an Adult: Break Free of the Overparenting Trap and Prepare Your Kid for Success](https://www.goodreads.com/book/show/23168823)*,  Henry Holt and Co. 2015 (Hardcover) ISBN: ="1627791779"
 
 ## My Review 1/5
 
@@ -19,29 +20,9 @@ Did not like nor did I finish. Judging from the other reviews, the bulk of the b
 ### Date Added
 2018/09/26
 
-## Goodreads book information
-
-*How to Raise an Adult: Break Free of the Overparenting Trap and Prepare Your Kid for Success* by Julie Lythcott-Haims
-
-https://www.goodreads.com/book/show/23168823
-
-Bookshelves: did-not-finish
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Julie Lythcott-Haims, *How to Raise an Adult: Break Free of the Overparenting Trap and Prepare Your Kid for Success*,  Henry Holt and Co. 2015 (Hardcover)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1627791779"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: did-not-finish

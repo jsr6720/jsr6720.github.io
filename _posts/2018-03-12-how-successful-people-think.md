@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"How Successful People Think\""
-date:   2018-03-12 00:00:00 -0400
-tags: 2018 book review Maxwell business
-uid: d52c8c3f-63d4-43fb-84f5-3edd933854bf
+title: "Quick Thoughts on How Successful People Think: Change Your Thinking, Change Your Life"
+date: 2018-03-12 00:00:00 -0400
+category: review
+tags: book business
+uid: b0eb192c-1f94-48bc-b1cd-6f11c7555c44
 ---
 
-
+John C. Maxwell, *[How Successful People Think: Change Your Thinking, Change Your Life](https://www.goodreads.com/book/show/6012533)*,  Center Street 2009 (Hardcover) ISBN: ="1599951681"
 
 ## My Review 3/5
 
@@ -19,29 +20,9 @@ Solid book on the practices of thinking by successful people. Number one lesson 
 ### Date Added
 2018/03/10
 
-## Goodreads book information
-
-*How Successful People Think: Change Your Thinking, Change Your Life* by John C. Maxwell
-
-https://www.goodreads.com/book/show/6012533
-
-Bookshelves: business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-John C. Maxwell, *How Successful People Think: Change Your Thinking, Change Your Life*,  Center Street 2009 (Hardcover)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1599951681"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business

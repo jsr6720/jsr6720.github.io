@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"A Random Walk Down Wall Street\""
-date:   2016-12-13 00:00:00 -0400
-tags: 2016 book review Malkiel business read-again
-uid: 584028ea-ec64-4a7b-8961-f202436e35ea
+title: "Quick Thoughts on A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing"
+date: 2016-12-13 00:00:00 -0400
+category: review
+tags: book business read-again
+uid: cb7787ad-0377-4c5d-9333-84d4a8af0415
 ---
 
-
+Burton G. Malkiel, *[A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing](https://www.goodreads.com/book/show/10539360)*, Kerin McCue Recorded Books 2008 (Audio CD) ISBN: ="1436105277"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ Great book that details the various methods of investing and how they fail to li
 ### Date Added
 2016/11/22
 
-## Goodreads book information
-
-*A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing* by Burton G. Malkiel
-
-https://www.goodreads.com/book/show/10539360
-
-Bookshelves: business, read-again
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Burton G. Malkiel, *A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing*, Kerin McCue Recorded Books 2008 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1436105277"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business, read-again

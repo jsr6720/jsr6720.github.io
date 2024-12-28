@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Toxic Parents\""
-date:   2016-07-01 00:00:00 -0400
-tags: 2016 book review Forward 
-uid: 52d58715-3df3-467a-bd01-0408a82cba08
+title: "Quick Thoughts on Toxic Parents: Overcoming Their Hurtful Legacy and Reclaiming Your Life"
+date: 2016-07-01 00:00:00 -0400
+category: review
+tags: book 
+uid: e16541a0-f85e-4a16-9630-f74fbcc8c8b5
 ---
 
-
+Susan Forward, *[Toxic Parents: Overcoming Their Hurtful Legacy and Reclaiming Your Life](https://www.goodreads.com/book/show/103999)*, Craig Buck Bantam 2002 (Paperback) ISBN: ="0553381407"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ Empty
 ### Date Added
 2016/10/11
 
-## Goodreads book information
-
-*Toxic Parents: Overcoming Their Hurtful Legacy and Reclaiming Your Life* by Susan Forward
-
-https://www.goodreads.com/book/show/103999
-
-Bookshelves: 
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Susan Forward, *Toxic Parents: Overcoming Their Hurtful Legacy and Reclaiming Your Life*, Craig Buck Bantam 2002 (Paperback)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0553381407"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: 

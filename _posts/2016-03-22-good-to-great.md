@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Good to Great\""
-date:   2016-03-22 00:00:00 -0400
-tags: 2016 book review Collins business
-uid: 21ce9677-9862-48c6-94b0-88b9bbe0ac55
+title: "Quick Thoughts on Good to Great: Why Some Companies Make the Leap...And Others Don't"
+date: 2016-03-22 00:00:00 -0400
+category: review
+tags: book business
+uid: ccbbae32-57da-4072-a73b-847999a2b23b
 ---
 
-
+Jim Collins, *[Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.goodreads.com/book/show/1016081)*,  HarperAudio 2005 (Audio CD) ISBN: ="0060794410"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ This isn't a reading of the book, actually more of a light lecture style. Closel
 ### Date Added
 2016/05/31
 
-## Goodreads book information
-
-*Good to Great: Why Some Companies Make the Leap...And Others Don't* by Jim Collins
-
-https://www.goodreads.com/book/show/1016081
-
-Bookshelves: business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Jim Collins, *Good to Great: Why Some Companies Make the Leap...And Others Don't*,  HarperAudio 2005 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0060794410"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business

@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Eat That Frog!\""
-date:   2016-03-03 00:00:00 -0400
-tags: 2016 book review Tracy personal-development read-again
-uid: 13204fe4-4194-4158-ad53-8a4ae784e2ca
+title: "Quick Thoughts on Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time"
+date: 2016-03-03 00:00:00 -0400
+category: review
+tags: book personal-development read-again
+uid: ea871ee1-79f6-4570-a862-5f37d9bbac05
 ---
 
-
+Brian Tracy, *[Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time](https://www.goodreads.com/book/show/1399615)*,  BBC Audiobooks America 2007 (Audiobook) ISBN: ="1572707208"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ A short book that summarizes 21 effective habits against procrastination. It als
 ### Date Added
 2016/05/31
 
-## Goodreads book information
-
-*Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time* by Brian Tracy
-
-https://www.goodreads.com/book/show/1399615
-
-Bookshelves: personal-development, read-again
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Brian Tracy, *Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time*,  BBC Audiobooks America 2007 (Audiobook)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1572707208"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: personal-development, read-again

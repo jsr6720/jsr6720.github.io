@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Lone Star Nation\""
-date:   2017-09-13 00:00:00 -0400
-tags: 2017 book review Brands history
-uid: f48cca60-a3d9-4a66-a4a0-68f926605b39
+title: "Quick Thoughts on Lone Star Nation"
+date: 2017-09-13 00:00:00 -0400
+category: review
+tags: book history
+uid: 971764d6-0750-4db9-b340-c89dc02f13b3
 ---
 
-
+H.W. Brands, *[Lone Star Nation](https://www.goodreads.com/book/show/6890)*,  Books on tape 2004 (Audio CD) ISBN: ="0736699317"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ Great book that reminds me a lot of [David McCullough](https://www.goodreads.com
 ### Date Added
 2017/08/25
 
-## Goodreads book information
-
-*Lone Star Nation* by H.W. Brands
-
-https://www.goodreads.com/book/show/6890
-
-Bookshelves: history
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-H.W. Brands, *Lone Star Nation*,  Books on tape 2004 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0736699317"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: history

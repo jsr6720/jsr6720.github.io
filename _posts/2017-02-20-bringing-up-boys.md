@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Bringing Up Boys\""
-date:   2017-02-20 00:00:00 -0400
-tags: 2017 book review Dobson did-not-finish
-uid: 727c7a22-9bc6-4f18-b649-063b19465fee
+title: "Quick Thoughts on Bringing Up Boys"
+date: 2017-02-20 00:00:00 -0400
+category: review
+tags: book did-not-finish
+uid: 671613b1-3129-4608-91e2-bdc9e342297a
 ---
 
-
+James C. Dobson, *[Bringing Up Boys](https://www.goodreads.com/book/show/955733)*,  Tyndale Momentum 2001 (Audiobook) ISBN: ="0842322973"
 
 ## My Review 1/5
 
@@ -19,29 +20,9 @@ Disclaimer. I abandoned book after 5 chapters.<br/><br/>What in principle looks 
 ### Date Added
 2017/02/16
 
-## Goodreads book information
-
-*Bringing Up Boys* by James C. Dobson
-
-https://www.goodreads.com/book/show/955733
-
-Bookshelves: did-not-finish
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-James C. Dobson, *Bringing Up Boys*,  Tyndale Momentum 2001 (Audiobook)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0842322973"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: did-not-finish

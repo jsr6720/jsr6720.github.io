@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Opposite of Spoiled\""
-date:   2017-03-10 00:00:00 -0400
-tags: 2017 book review Lieber parenting
-uid: 0f5a5717-cdd1-40d6-9472-77ca7b5d4f03
+title: "Quick Thoughts on The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money"
+date: 2017-03-10 00:00:00 -0400
+category: review
+tags: book parenting
+uid: 32762a15-3d61-4641-8af2-45bb10530bd8
 ---
 
-
+Ron Lieber, *[The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money](https://www.goodreads.com/book/show/26154885)*,  HarperCollins Publishers and Blackstone Audio 2015 (Audio CD) ISBN: ="1481532952"
 
 ## My Review 3/5
 
@@ -19,29 +20,9 @@ Spoiling children is only 1/4 material possessions. He started with a list by Ja
 ### Date Added
 2017/03/06
 
-## Goodreads book information
-
-*The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money* by Ron Lieber
-
-https://www.goodreads.com/book/show/26154885
-
-Bookshelves: parenting
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Ron Lieber, *The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money*,  HarperCollins Publishers and Blackstone Audio 2015 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1481532952"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: parenting

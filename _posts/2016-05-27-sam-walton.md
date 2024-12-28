@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Sam Walton\""
-date:   2016-05-27 00:00:00 -0400
-tags: 2016 book review Walton biography
-uid: cec5f821-ddb7-462f-860f-83891b6f5824
+title: "Quick Thoughts on Sam Walton: Made in America"
+date: 2016-05-27 00:00:00 -0400
+category: review
+tags: book biography
+uid: 953fa79a-85d8-4113-be52-b994b1ccdb4c
 ---
 
-
+Sam Walton, *[Sam Walton: Made in America](https://www.goodreads.com/book/show/16309973)*, Philip Franklin Books on Tape 2002 (Audio CD) ISBN: ="0736682937"
 
 ## My Review 3/5
 
@@ -19,29 +20,9 @@ Good listen about the history of Walmart and Sam Walton's drive for excellence. 
 ### Date Added
 2016/09/29
 
-## Goodreads book information
-
-*Sam Walton: Made in America* by Sam Walton
-
-https://www.goodreads.com/book/show/16309973
-
-Bookshelves: biography
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Sam Walton, *Sam Walton: Made in America*, Philip Franklin Books on Tape 2002 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0736682937"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: biography

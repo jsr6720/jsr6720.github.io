@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Startup of You\""
-date:   2018-02-22 00:00:00 -0400
-tags: 2018 book review Hoffman 
-uid: 38913bda-fa1b-46c8-bc99-673a54bacb04
+title: "Quick Thoughts on The Startup of You: Adapt to the Future, Invest in Yourself, and Transform Your Career"
+date: 2018-02-22 00:00:00 -0400
+category: review
+tags: book 
+uid: 416b3752-d51a-45ed-8fd9-0229cb37df32
 ---
 
-
+Reid Hoffman, *[The Startup of You: Adapt to the Future, Invest in Yourself, and Transform Your Career](https://www.goodreads.com/book/show/12030438)*, Ben Casnocha Crown Business 2012 (Kindle Edition) ISBN: =""
 
 ## My Review 2/5
 
@@ -19,29 +20,9 @@ Skip to the action steps to focus on what concrete steps you can take. However b
 ### Date Added
 2018/02/22
 
-## Goodreads book information
-
-*The Startup of You: Adapt to the Future, Invest in Yourself, and Transform Your Career* by Reid Hoffman
-
-https://www.goodreads.com/book/show/12030438
-
-Bookshelves: 
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Reid Hoffman, *The Startup of You: Adapt to the Future, Invest in Yourself, and Transform Your Career*, Ben Casnocha Crown Business 2012 (Kindle Edition)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: =""
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: 

@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Marriage Rules\""
-date:   2016-11-09 00:00:00 -0400
-tags: 2016 book review Lerner personal-development read-again
-uid: 4a3c2b1d-89fd-4767-be86-9e35101eb32d
+title: "Quick Thoughts on Marriage Rules: A Manual for the Married and the Coupled Up"
+date: 2016-11-09 00:00:00 -0400
+category: review
+tags: book personal-development read-again
+uid: 4516b860-525e-4cb9-8178-1242cf4ad691
 ---
 
-
+Harriet Lerner, *[Marriage Rules: A Manual for the Married and the Coupled Up](https://www.goodreads.com/book/show/12144326)*,  Gotham 2012 (Hardcover) ISBN: ="1592406912"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ I really enjoyed this books content and format. More so than any other book you 
 ### Date Added
 2016/10/11
 
-## Goodreads book information
-
-*Marriage Rules: A Manual for the Married and the Coupled Up* by Harriet Lerner
-
-https://www.goodreads.com/book/show/12144326
-
-Bookshelves: personal-development, read-again
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Harriet Lerner, *Marriage Rules: A Manual for the Married and the Coupled Up*,  Gotham 2012 (Hardcover)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1592406912"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: personal-development, read-again

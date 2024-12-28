@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Easy Company Soldier\""
-date:   2019-09-30 00:00:00 -0400
-tags: 2019 book review Malarkey 
-uid: b2864c1b-be66-4484-a987-81ae41bdb3d3
+title: "Quick Thoughts on Easy Company Soldier: The Legendary Battles of a Sergeant from World War II's \"Band of Brothers\""
+date: 2019-09-30 00:00:00 -0400
+category: review
+tags: book 
+uid: 532f5f1a-47fd-48e6-a8c2-b66b808e87d0
 ---
 
-
+Don Malarkey, *[Easy Company Soldier: The Legendary Battles of a Sergeant from World War II's "Band of Brothers"](https://www.goodreads.com/book/show/3835022)*, Bob Welch Macmillan Audio 2008 (Audio CD) ISBN: ="1427204500"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ Great companion to Conversations with Major Dick Winters. Covers some of the sam
 ### Date Added
 2019/10/06
 
-## Goodreads book information
-
-*Easy Company Soldier: The Legendary Battles of a Sergeant from World War II's "Band of Brothers"* by Don Malarkey
-
-https://www.goodreads.com/book/show/3835022
-
-Bookshelves: 
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Don Malarkey, *Easy Company Soldier: The Legendary Battles of a Sergeant from World War II's "Band of Brothers"*, Bob Welch Macmillan Audio 2008 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1427204500"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: 

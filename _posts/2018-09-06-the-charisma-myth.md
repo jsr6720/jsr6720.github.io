@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Charisma Myth\""
-date:   2018-09-06 00:00:00 -0400
-tags: 2018 book review Cabane did-not-finish
-uid: a8c32843-0d1e-4f9e-a461-fabe2fadc7b8
+title: "Quick Thoughts on The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism"
+date: 2018-09-06 00:00:00 -0400
+category: review
+tags: book did-not-finish
+uid: 0f21a04a-d826-4c19-a1a6-6900d72624df
 ---
 
-
+Olivia  Fox Cabane, *[The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism](https://www.goodreads.com/book/show/16160821)*, Lisa Cordileone Your Coach In A Box 2013 (Audio CD) ISBN: ="1469085828"
 
 ## My Review 2/5
 
@@ -19,29 +20,9 @@ Book in one sentence: Confidence, attention and warmth will help your interactio
 ### Date Added
 2018/09/06
 
-## Goodreads book information
-
-*The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism* by Olivia  Fox Cabane
-
-https://www.goodreads.com/book/show/16160821
-
-Bookshelves: did-not-finish
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Olivia  Fox Cabane, *The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism*, Lisa Cordileone Your Coach In A Box 2013 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1469085828"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: did-not-finish

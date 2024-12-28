@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Five Love Languages\""
-date:   2015-11-30 00:00:00 -0400
-tags: 2015 book review Chapman 
-uid: 97136969-bd5a-432a-b489-1da377d9356c
+title: "Quick Thoughts on The Five Love Languages: The Secret to Love that Lasts"
+date: 2015-11-30 00:00:00 -0400
+category: review
+tags: book 
+uid: 433ce5b0-1351-4db1-aeb0-2b36032d08bc
 ---
 
-
+Gary Chapman, *[The Five Love Languages: The Secret to Love that Lasts](https://www.goodreads.com/book/show/12962711)*,  Oasis Audio 2010 (Audio CD) ISBN: ="1609810430"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ Good book. Not mind blowing awesome like [The Seven Principles for Making Marria
 ### Date Added
 2016/09/30
 
-## Goodreads book information
-
-*The Five Love Languages: The Secret to Love that Lasts* by Gary Chapman
-
-https://www.goodreads.com/book/show/12962711
-
-Bookshelves: 
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Gary Chapman, *The Five Love Languages: The Secret to Love that Lasts*,  Oasis Audio 2010 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1609810430"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: 

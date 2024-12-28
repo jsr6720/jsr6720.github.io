@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The All-or-Nothing Marriage\""
-date:   2018-08-27 00:00:00 -0400
-tags: 2018 book review Finkel psychology
-uid: 89d5851c-3e86-4a04-8433-846d17ad1d0b
+title: "Quick Thoughts on The All-or-Nothing Marriage: How the Best Marriages Work"
+date: 2018-08-27 00:00:00 -0400
+category: review
+tags: book psychology
+uid: 73815c1f-6c6d-4a2d-a874-8c54d57c1f15
 ---
 
-
+Eli J. Finkel, *[The All-or-Nothing Marriage: How the Best Marriages Work](https://www.goodreads.com/book/show/34001660)*,  Dutton 2017 (Hardcover) ISBN: ="052595516X"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ Finkel matches maslow's hierarchy of needs to the marriage.<br/><br/>The higher 
 ### Date Added
 2018/06/26
 
-## Goodreads book information
-
-*The All-or-Nothing Marriage: How the Best Marriages Work* by Eli J. Finkel
-
-https://www.goodreads.com/book/show/34001660
-
-Bookshelves: psychology
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Eli J. Finkel, *The All-or-Nothing Marriage: How the Best Marriages Work*,  Dutton 2017 (Hardcover)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="052595516X"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: psychology

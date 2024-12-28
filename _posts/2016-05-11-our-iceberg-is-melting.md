@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Our Iceberg Is Melting\""
-date:   2016-05-11 00:00:00 -0400
-tags: 2016 book review Kotter business
-uid: 34ed6516-8106-4c6f-9d1c-54de213804f7
+title: "Quick Thoughts on Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions"
+date: 2016-05-11 00:00:00 -0400
+category: review
+tags: book business
+uid: 9d6fa9f5-b373-4942-8739-d2660e5a4cd2
 ---
 
-
+John P. Kotter, *[Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions](https://www.goodreads.com/book/show/1234204)*, Holger Rathgeber, Oliver Wyman Macmillan Audio 2006 (Audio CD) ISBN: ="1427200246"
 
 ## My Review 2/5
 
@@ -19,29 +20,9 @@ An 'ok' written fable about the perils of not changing. It expands on the format
 ### Date Added
 2016/05/31
 
-## Goodreads book information
-
-*Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions* by John P. Kotter
-
-https://www.goodreads.com/book/show/1234204
-
-Bookshelves: business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-John P. Kotter, *Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions*, Holger Rathgeber, Oliver Wyman Macmillan Audio 2006 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1427200246"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business

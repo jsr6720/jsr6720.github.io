@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"A Higher Loyalty\""
-date:   2018-06-16 00:00:00 -0400
-tags: 2018 book review Comey 
-uid: 4f2d06f1-0e94-40f2-b9fb-1629025c93ab
+title: "Quick Thoughts on A Higher Loyalty: Truth, Lies, and Leadership"
+date: 2018-06-16 00:00:00 -0400
+category: review
+tags: book 
+uid: 60476539-fd31-404e-ad27-7b5b4b8d2648
 ---
 
-
+James Comey, *[A Higher Loyalty: Truth, Lies, and Leadership](https://www.goodreads.com/book/show/39924874)*,  Macmillan Audio 2018 (Audiobook) ISBN: ="1427298289"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ Empty
 ### Date Added
 2018/06/04
 
-## Goodreads book information
-
-*A Higher Loyalty: Truth, Lies, and Leadership* by James Comey
-
-https://www.goodreads.com/book/show/39924874
-
-Bookshelves: 
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-James Comey, *A Higher Loyalty: Truth, Lies, and Leadership*,  Macmillan Audio 2018 (Audiobook)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1427298289"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: 

@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Doing the Right Things Right\""
-date:   2019-08-27 00:00:00 -0400
-tags: 2019 book review Stack did-not-finish
-uid: afb2e417-da95-4d06-8c92-119f232cce63
+title: "Quick Thoughts on Doing the Right Things Right: How the Effective Executive Spends Time"
+date: 2019-08-27 00:00:00 -0400
+category: review
+tags: book did-not-finish
+uid: aff036d5-e18d-480e-8f77-5fa060e5b811
 ---
 
-
+Laura Stack, *[Doing the Right Things Right: How the Effective Executive Spends Time](https://www.goodreads.com/book/show/27037552)*, William A. Cohen Berrett-Koehler Publishers 2016 (Paperback) ISBN: ="162656566X"
 
 ## My Review 0/5
 
@@ -19,29 +20,9 @@ Empty
 ### Date Added
 2019/08/27
 
-## Goodreads book information
-
-*Doing the Right Things Right: How the Effective Executive Spends Time* by Laura Stack
-
-https://www.goodreads.com/book/show/27037552
-
-Bookshelves: did-not-finish
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Laura Stack, *Doing the Right Things Right: How the Effective Executive Spends Time*, William A. Cohen Berrett-Koehler Publishers 2016 (Paperback)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="162656566X"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: did-not-finish

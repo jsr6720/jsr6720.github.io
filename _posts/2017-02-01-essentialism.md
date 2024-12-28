@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Essentialism\""
-date:   2017-02-01 00:00:00 -0400
-tags: 2017 book review McKeown personal-development did-not-finish
-uid: b7e95b35-c427-4719-8b7e-301fa745f172
+title: "Quick Thoughts on Essentialism: The Disciplined Pursuit of Less"
+date: 2017-02-01 00:00:00 -0400
+category: review
+tags: book personal-development did-not-finish
+uid: d99a5904-2730-4b68-bdf5-5d724c09cb49
 ---
 
-
+Greg McKeown, *[Essentialism: The Disciplined Pursuit of Less](https://www.goodreads.com/book/show/18119443)*,  Books on Tape 2014 (Audio CD) ISBN: ="0804165319"
 
 ## My Review 2/5
 
@@ -19,29 +20,9 @@ Full disclosure I couldn't bring myself to finish this book beyond the introduct
 ### Date Added
 2017/02/01
 
-## Goodreads book information
-
-*Essentialism: The Disciplined Pursuit of Less* by Greg McKeown
-
-https://www.goodreads.com/book/show/18119443
-
-Bookshelves: personal-development, did-not-finish
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Greg McKeown, *Essentialism: The Disciplined Pursuit of Less*,  Books on Tape 2014 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0804165319"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: personal-development, did-not-finish

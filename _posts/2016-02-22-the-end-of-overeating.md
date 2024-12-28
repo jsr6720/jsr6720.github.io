@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The End of Overeating\""
-date:   2016-02-22 00:00:00 -0400
-tags: 2016 book review Kessler psychology food
-uid: fdb0bb51-237f-4d22-9957-f7d3f159fd78
+title: "Quick Thoughts on The End of Overeating: Taking Control of the Insatiable American Appetite"
+date: 2016-02-22 00:00:00 -0400
+category: review
+tags: book psychology food
+uid: 0988a862-206c-4212-b511-d26a6844da45
 ---
 
-
+David A. Kessler, *[The End of Overeating: Taking Control of the Insatiable American Appetite](https://www.goodreads.com/book/show/6127630)*, Blair Hardman Simon  Schuster Audio 2009 (Audio CD) ISBN: ="074359679X"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ For some of the population food is a means to an end. For others that don't have
 ### Date Added
 2016/10/11
 
-## Goodreads book information
-
-*The End of Overeating: Taking Control of the Insatiable American Appetite* by David A. Kessler
-
-https://www.goodreads.com/book/show/6127630
-
-Bookshelves: psychology, food
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-David A. Kessler, *The End of Overeating: Taking Control of the Insatiable American Appetite*, Blair Hardman Simon  Schuster Audio 2009 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="074359679X"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: psychology, food

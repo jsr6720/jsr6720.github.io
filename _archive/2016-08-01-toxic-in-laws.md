@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Toxic In-Laws\""
-date:   2016-08-01 00:00:00 -0400
-tags: book review Forward 
-uid: 0077be48-3d5e-42f3-87a8-d360ca703be0
+title: "Quick Thoughts on Toxic In-Laws: Loving Strategies for Protecting Your Marriage"
+date: 2016-08-01 00:00:00 -0400
+category: review
+tags: book 
+uid: f5e05147-1922-4d94-8afe-9fff304e4d84
 ---
 
-
+Susan Forward, *[Toxic In-Laws: Loving Strategies for Protecting Your Marriage](https://www.goodreads.com/book/show/534108)*, Donna Frazier HarperCollins Publishers Inc. 2002 (Paperback) ISBN: =""
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ Empty
 ### Date Added
 2016/10/11
 
-## Goodreads book information
-
-*Toxic In-Laws: Loving Strategies for Protecting Your Marriage* by Susan Forward
-
-https://www.goodreads.com/book/show/534108
-
-Bookshelves: 
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Susan Forward, *Toxic In-Laws: Loving Strategies for Protecting Your Marriage*, Donna Frazier HarperCollins Publishers Inc. 2002 (Paperback)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: =""
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: 

@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Who Moved My Cheese\""
-date:   2016-03-10 00:00:00 -0400
-tags: 2016 book review Johnson business read-again
-uid: 5144ff1d-50f6-4f6b-a62b-1510c0edb749
+title: "Quick Thoughts on Who Moved My Cheese"
+date: 2016-03-10 00:00:00 -0400
+category: review
+tags: book business read-again
+uid: 7377e817-3ea0-4ce4-a6c7-d18d87c2b5bf
 ---
 
-
+Spencer Johnson, *[Who Moved My Cheese](https://www.goodreads.com/book/show/5975997)*, Kenneth Blanchard, Tony Roberts, Karen Ziémba Simon & Schuster Audio 2009 (Audio CD) ISBN: ="0743582853"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ A story of change. Best quote "If you weren't afraid, what would you do". The fo
 ### Date Added
 2016/05/31
 
-## Goodreads book information
-
-*Who Moved My Cheese* by Spencer Johnson
-
-https://www.goodreads.com/book/show/5975997
-
-Bookshelves: business, read-again
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Spencer Johnson, *Who Moved My Cheese*, Kenneth Blanchard, Tony Roberts, Karen Ziémba Simon & Schuster Audio 2009 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0743582853"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business, read-again

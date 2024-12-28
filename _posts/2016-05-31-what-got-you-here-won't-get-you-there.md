@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"What Got You Here Won't Get You There\""
-date:   2016-05-31 00:00:00 -0400
-tags: 2016 book review Goldsmith read-again business personal-development
-uid: dbe981e3-e288-497b-a264-d48401d90c3f
+title: "Quick Thoughts on What Got You Here Won't Get You There"
+date: 2016-05-31 00:00:00 -0400
+category: review
+tags: book read-again business personal-development
+uid: 39a6582f-91aa-4137-a1cb-7d45365d4f2e
 ---
 
-
+Marshall Goldsmith, *[What Got You Here Won't Get You There](https://www.goodreads.com/book/show/84525)*,  PROFILE BOOKS 2013 (Paperback) ISBN: =""
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ Empty
 ### Date Added
 2016/05/31
 
-## Goodreads book information
-
-*What Got You Here Won't Get You There* by Marshall Goldsmith
-
-https://www.goodreads.com/book/show/84525
-
-Bookshelves: read-again, business, personal-development
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Marshall Goldsmith, *What Got You Here Won't Get You There*,  PROFILE BOOKS 2013 (Paperback)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: =""
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: read-again, business, personal-development

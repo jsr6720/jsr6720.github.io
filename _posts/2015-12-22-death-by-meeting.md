@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Death by Meeting\""
-date:   2015-12-22 00:00:00 -0400
-tags: 2015 book review Lencioni business
-uid: 5b0148ed-c40b-4af9-b3b6-5ca07e05a65a
+title: "Quick Thoughts on Death by Meeting: A Leadership Fable"
+date: 2015-12-22 00:00:00 -0400
+category: review
+tags: book business
+uid: 83c7845b-5874-42a5-9858-3aeb7bbbbe96
 ---
 
-
+Patrick Lencioni, *[Death by Meeting: A Leadership Fable](https://www.goodreads.com/book/show/1009270)*, Jack Arthur Macmillan Audio 2004 (Audio CD) ISBN: ="1593974418"
 
 ## My Review 2/5
 
@@ -19,29 +20,9 @@ Ugh. this book spends the first half setting up the most unrealistic scenario fo
 ### Date Added
 2016/10/11
 
-## Goodreads book information
-
-*Death by Meeting: A Leadership Fable* by Patrick Lencioni
-
-https://www.goodreads.com/book/show/1009270
-
-Bookshelves: business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Patrick Lencioni, *Death by Meeting: A Leadership Fable*, Jack Arthur Macmillan Audio 2004 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1593974418"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business

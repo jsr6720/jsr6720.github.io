@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Essential Drucker, The\""
-date:   2015-12-17 00:00:00 -0400
-tags: 2015 book review Drucker business read-again
-uid: 81a71e78-b804-405d-bbd9-4b1a814fb6c9
+title: "Quick Thoughts on Essential Drucker, The"
+date: 2015-12-17 00:00:00 -0400
+category: review
+tags: book business read-again
+uid: a97c3f48-3b47-48b7-a341-1a9038faf0cc
 ---
 
-
+Peter F. Drucker, *[Essential Drucker, The](https://www.goodreads.com/book/show/48016)*,  HarperPB 2003 (Paperback) ISBN: ="006093574X"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ Decent book, middle 3rd is the best third. I now know why he is called the fathe
 ### Date Added
 2016/10/11
 
-## Goodreads book information
-
-*Essential Drucker, The* by Peter F. Drucker
-
-https://www.goodreads.com/book/show/48016
-
-Bookshelves: business, read-again
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Peter F. Drucker, *Essential Drucker, The*,  HarperPB 2003 (Paperback)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="006093574X"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business, read-again

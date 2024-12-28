@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Atomic Habits\""
-date:   2020-12-15 00:00:00 -0400
-tags: 2020 book review Clear business leadership personal-development
-uid: d8caf4a2-fb01-4fad-b5d0-2c8adb3d80b0
+title: "Quick Thoughts on Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
+date: 2020-12-15 00:00:00 -0400
+category: review
+tags: book business leadership personal-development
+uid: 4917ffb9-cd0b-45cb-a335-fe0705bce47f
 ---
 
-
+James Clear, *[Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/book/show/40121378)*,  Avery 2018 (Kindle Edition) ISBN: =""
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ One of the best books on personal habit making I've ever read.<br/><br/>Start sm
 ### Date Added
 2020/12/15
 
-## Goodreads book information
-
-*Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones* by James Clear
-
-https://www.goodreads.com/book/show/40121378
-
-Bookshelves: business, leadership, personal-development
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-James Clear, *Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones*,  Avery 2018 (Kindle Edition)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: =""
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business, leadership, personal-development

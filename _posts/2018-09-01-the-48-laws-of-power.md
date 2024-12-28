@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The 48 Laws of Power\""
-date:   2018-09-01 00:00:00 -0400
-tags: 2018 book review Greene business psychology
-uid: d33aaafc-54e5-4f25-ab48-d7a40cf116b1
+title: "Quick Thoughts on The 48 Laws of Power"
+date: 2018-09-01 00:00:00 -0400
+category: review
+tags: book business psychology
+uid: 8e9e0519-fd06-4f76-8dfa-43698b978a25
 ---
 
-
+Robert Greene, *[The 48 Laws of Power](https://www.goodreads.com/book/show/1170150)*, Don Leslie HighBridge Audio 2007 (Audio CD) ISBN: ="1598870920"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ This book contains the hard truths of the habits and mannerism of people who don
 ### Date Added
 2018/08/22
 
-## Goodreads book information
-
-*The 48 Laws of Power* by Robert Greene
-
-https://www.goodreads.com/book/show/1170150
-
-Bookshelves: business, psychology
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Robert Greene, *The 48 Laws of Power*, Don Leslie HighBridge Audio 2007 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1598870920"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business, psychology

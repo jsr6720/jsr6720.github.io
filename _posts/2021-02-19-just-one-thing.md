@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Just One Thing\""
-date:   2021-02-19 00:00:00 -0400
-tags: 2021 book review Hanson personal-development philosophy
-uid: 4fa8fd18-11e2-491f-902c-0e5e48c55c64
+title: "Quick Thoughts on Just One Thing: Developing a Buddha Brain One Simple Practice at a Time"
+date: 2021-02-19 00:00:00 -0400
+category: review
+tags: book personal-development philosophy
+uid: 924a2b7c-9768-4971-859e-c388d754b164
 ---
 
-
+Rick Hanson, *[Just One Thing: Developing a Buddha Brain One Simple Practice at a Time](https://www.goodreads.com/book/show/11276139)*,  New Harbinger Publications 2011 (Paperback) ISBN: ="1608820319"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ Great volume that's worth a read and re-read. Focus in on the things to approach
 ### Date Added
 2021/02/15
 
-## Goodreads book information
-
-*Just One Thing: Developing a Buddha Brain One Simple Practice at a Time* by Rick Hanson
-
-https://www.goodreads.com/book/show/11276139
-
-Bookshelves: personal-development, philosophy
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Rick Hanson, *Just One Thing: Developing a Buddha Brain One Simple Practice at a Time*,  New Harbinger Publications 2011 (Paperback)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1608820319"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: personal-development, philosophy

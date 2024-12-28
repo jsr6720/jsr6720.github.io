@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Built to Last CD\""
-date:   2016-03-25 00:00:00 -0400
-tags: 2016 book review Collins business
-uid: 8f25d71e-5f61-45cb-abc9-aa0264ca82ce
+title: "Quick Thoughts on Built to Last CD: Successful Habits of Visionary Companies"
+date: 2016-03-25 00:00:00 -0400
+category: review
+tags: book business
+uid: ebed8e11-12ad-4c64-b4dd-36f0a1efaf3c
 ---
 
-
+James C. Collins, *[Built to Last CD: Successful Habits of Visionary Companies](https://www.goodreads.com/book/show/1217643)*, Jerry I. Porras HarperAudio 2004 (Audio CD) ISBN: ="0060589051"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ Also recorded in 2004, years after the initial book came out, written first it i
 ### Date Added
 2016/05/31
 
-## Goodreads book information
-
-*Built to Last CD: Successful Habits of Visionary Companies* by James C. Collins
-
-https://www.goodreads.com/book/show/1217643
-
-Bookshelves: business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-James C. Collins, *Built to Last CD: Successful Habits of Visionary Companies*, Jerry I. Porras HarperAudio 2004 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0060589051"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business

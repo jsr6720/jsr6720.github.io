@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Breakthrough Company\""
-date:   2017-02-27 00:00:00 -0400
-tags: 2017 book review Mcfarland business
-uid: 968b3eb9-a6b5-44de-9e86-7fc910dff46b
+title: "Quick Thoughts on The Breakthrough Company: How Everyday Companies Become Extraordinary Performers"
+date: 2017-02-27 00:00:00 -0400
+category: review
+tags: book business
+uid: 79556ec2-d249-47f1-a7da-54f5aa2215ed
 ---
 
-
+Keith R. Mcfarland, *[The Breakthrough Company: How Everyday Companies Become Extraordinary Performers](https://www.goodreads.com/book/show/7975395)*,  Random House Audio 2008 (Audio CD) ISBN: ="0739358537"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ This book is a look at the ways emerging companies can expand their reach to 'br
 ### Date Added
 2017/02/21
 
-## Goodreads book information
-
-*The Breakthrough Company: How Everyday Companies Become Extraordinary Performers* by Keith R. Mcfarland
-
-https://www.goodreads.com/book/show/7975395
-
-Bookshelves: business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Keith R. Mcfarland, *The Breakthrough Company: How Everyday Companies Become Extraordinary Performers*,  Random House Audio 2008 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0739358537"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business

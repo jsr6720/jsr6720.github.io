@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Five Dysfunctions of a Team\""
-date:   2016-06-20 00:00:00 -0400
-tags: 2016 book review Lencioni business
-uid: 7fcb88cc-f0ee-4423-a705-4be5f38d992a
+title: "Quick Thoughts on The Five Dysfunctions of a Team"
+date: 2016-06-20 00:00:00 -0400
+category: review
+tags: book business
+uid: 974ba151-35ca-45bb-aa6a-dcee14abc64b
 ---
 
-
+Patrick Lencioni, *[The Five Dysfunctions of a Team](https://www.goodreads.com/book/show/22021396)*,  Random House  (Audio CD) ISBN: =""
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ Actually the "mother" from [Death by Meeting](https://www.goodreads.com/book/sho
 ### Date Added
 2016/10/11
 
-## Goodreads book information
-
-*The Five Dysfunctions of a Team* by Patrick Lencioni
-
-https://www.goodreads.com/book/show/22021396
-
-Bookshelves: business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Patrick Lencioni, *The Five Dysfunctions of a Team*,  Random House  (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: =""
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business

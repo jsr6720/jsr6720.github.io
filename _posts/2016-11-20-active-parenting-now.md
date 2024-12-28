@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Active Parenting Now\""
-date:   2016-11-20 00:00:00 -0400
-tags: 2016 book review Popkin read-again parenting
-uid: 2cd4aa10-549c-45cd-a792-d408b8bb4439
+title: "Quick Thoughts on Active Parenting Now"
+date: 2016-11-20 00:00:00 -0400
+category: review
+tags: book read-again parenting
+uid: 795eb7cd-b8bb-47a8-bc3f-0db74582ca3c
 ---
 
-
+Michael H. Popkin, *[Active Parenting Now](https://www.goodreads.com/book/show/10271427)*,  Active Parenting Publishers 2003 (Audio CD) ISBN: ="1880283891"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ Great review of active parenting. This is the apex of the two lesser forms of pa
 ### Date Added
 2016/11/04
 
-## Goodreads book information
-
-*Active Parenting Now* by Michael H. Popkin
-
-https://www.goodreads.com/book/show/10271427
-
-Bookshelves: read-again, parenting
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Michael H. Popkin, *Active Parenting Now*,  Active Parenting Publishers 2003 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1880283891"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: read-again, parenting

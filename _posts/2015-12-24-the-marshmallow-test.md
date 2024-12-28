@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Marshmallow Test\""
-date:   2015-12-24 00:00:00 -0400
-tags: 2015 book review Mischel psychology
-uid: 4dc4abfb-2b2d-47b1-8743-4c3468fa29ab
+title: "Quick Thoughts on The Marshmallow Test: Mastering Self-Control"
+date: 2015-12-24 00:00:00 -0400
+category: review
+tags: book psychology
+uid: 183c85d1-3b88-474c-9ecf-e0c097be4d31
 ---
 
-
+Walter Mischel, *[The Marshmallow Test: Mastering Self-Control](https://www.goodreads.com/book/show/20791679)*,  Brilliance Audio 2014 (Audio CD) ISBN: ="1469249065"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ Great book, same two system concept as previously read in [Emotional Intelligenc
 ### Date Added
 2016/10/11
 
-## Goodreads book information
-
-*The Marshmallow Test: Mastering Self-Control* by Walter Mischel
-
-https://www.goodreads.com/book/show/20791679
-
-Bookshelves: psychology
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Walter Mischel, *The Marshmallow Test: Mastering Self-Control*,  Brilliance Audio 2014 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1469249065"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: psychology

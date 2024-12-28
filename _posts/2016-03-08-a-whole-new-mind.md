@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"A Whole New Mind\""
-date:   2016-03-08 00:00:00 -0400
-tags: 2016 book review Pink business
-uid: f12d58c6-1d1e-4b53-bebb-84eed9f4b9a6
+title: "Quick Thoughts on A Whole New Mind: Why Right-Brainers Will Rule the Future"
+date: 2016-03-08 00:00:00 -0400
+category: review
+tags: book business
+uid: a2166ca1-36dd-49d2-848e-a67222e5e5f3
 ---
 
-
+Daniel H. Pink, *[A Whole New Mind: Why Right-Brainers Will Rule the Future](https://www.goodreads.com/book/show/6286510)*,  Brilliance Audio 2009 (Audio CD) ISBN: ="1423377001"
 
 ## My Review 2/5
 
@@ -19,29 +20,9 @@ Would not recommend this book. The author seems to almost have a condescending t
 ### Date Added
 2016/05/31
 
-## Goodreads book information
-
-*A Whole New Mind: Why Right-Brainers Will Rule the Future* by Daniel H. Pink
-
-https://www.goodreads.com/book/show/6286510
-
-Bookshelves: business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Daniel H. Pink, *A Whole New Mind: Why Right-Brainers Will Rule the Future*,  Brilliance Audio 2009 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1423377001"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business

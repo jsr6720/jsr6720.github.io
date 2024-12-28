@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Bully Pulpit\""
-date:   2017-03-30 00:00:00 -0400
-tags: 2017 book review Goodwin history biography
-uid: 9d30694e-c79b-4b68-b61d-2fa236e6838a
+title: "Quick Thoughts on The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism"
+date: 2017-03-30 00:00:00 -0400
+category: review
+tags: book history biography
+uid: 5e1bd61a-1ead-4b70-afe2-7e1ef4e194ac
 ---
 
-
+Doris Kearns Goodwin, *[The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism](https://www.goodreads.com/book/show/17571486)*, Edward Herrmann Simon  Schuster Audio 2013 (Audio CD) ISBN: ="1442362626"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ uid: 9d30694e-c79b-4b68-b61d-2fa236e6838a
 ### Date Added
 2017/03/13
 
-## Goodreads book information
-
-*The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism* by Doris Kearns Goodwin
-
-https://www.goodreads.com/book/show/17571486
-
-Bookshelves: history, biography
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Doris Kearns Goodwin, *The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism*, Edward Herrmann Simon  Schuster Audio 2013 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1442362626"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: history, biography

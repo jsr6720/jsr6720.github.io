@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Autobiography of Andrew Carnegie\""
-date:   2016-09-25 00:00:00 -0400
-tags: 2016 book review Carnegie biography
-uid: 2e39512f-f528-4e43-b869-af2d8b925682
+title: "Quick Thoughts on The Autobiography of Andrew Carnegie"
+date: 2016-09-25 00:00:00 -0400
+category: review
+tags: book biography
+uid: bd0b5b90-7ce1-478e-9ef7-62907cf840ff
 ---
 
-
+Andrew Carnegie, *[The Autobiography of Andrew Carnegie](https://www.goodreads.com/book/show/13591052)*, Antony Ferguson Tantor Media 2012 (Audio CD) ISBN: ="1452607451"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ Fantastic book that covers the life of Carnegie and that of growing up in the tu
 ### Date Added
 2016/09/12
 
-## Goodreads book information
-
-*The Autobiography of Andrew Carnegie* by Andrew Carnegie
-
-https://www.goodreads.com/book/show/13591052
-
-Bookshelves: biography
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Andrew Carnegie, *The Autobiography of Andrew Carnegie*, Antony Ferguson Tantor Media 2012 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1452607451"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: biography

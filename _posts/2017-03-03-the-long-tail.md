@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Long Tail\""
-date:   2017-03-03 00:00:00 -0400
-tags: 2017 book review Anderson did-not-finish
-uid: ae3f34da-5192-4fec-8730-3111cb33e304
+title: "Quick Thoughts on The Long Tail: Why the Future Is Selling Less of More"
+date: 2017-03-03 00:00:00 -0400
+category: review
+tags: book did-not-finish
+uid: e43717a5-f356-4ba4-acf5-5a3d61b9a1ec
 ---
 
-
+Chris Anderson, *[The Long Tail: Why the Future Is Selling Less of More](https://www.goodreads.com/book/show/2237370)*,  Hyperion 2006 (Audio CD) ISBN: ="1401384145"
 
 ## My Review 3/5
 
@@ -19,29 +20,9 @@ In a world of scarcity finding hits was prudent. But in the digital age anything
 ### Date Added
 2017/02/27
 
-## Goodreads book information
-
-*The Long Tail: Why the Future Is Selling Less of More* by Chris Anderson
-
-https://www.goodreads.com/book/show/2237370
-
-Bookshelves: did-not-finish
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Chris Anderson, *The Long Tail: Why the Future Is Selling Less of More*,  Hyperion 2006 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1401384145"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: did-not-finish

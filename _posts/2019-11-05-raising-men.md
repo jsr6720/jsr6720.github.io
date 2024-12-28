@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Raising Men\""
-date:   2019-11-05 00:00:00 -0400
-tags: 2019 book review Davis did-not-finish
-uid: f7ec4de0-7ed8-4716-a1e9-747613ae03f1
+title: "Quick Thoughts on Raising Men: Lessons Navy SEALs Learned from Their Training and Taught to Their Sons"
+date: 2019-11-05 00:00:00 -0400
+category: review
+tags: book did-not-finish
+uid: 32a91311-40ef-4644-9dcc-a1ee3b99e06f
 ---
 
-
+Eric  Davis, *[Raising Men: Lessons Navy SEALs Learned from Their Training and Taught to Their Sons](https://www.goodreads.com/book/show/26114625)*, Chris  Martin St. Martin's Press 2016 (Hardcover) ISBN: ="125009173X"
 
 ## My Review 0/5
 
@@ -19,29 +20,9 @@ Empty
 ### Date Added
 2019/11/05
 
-## Goodreads book information
-
-*Raising Men: Lessons Navy SEALs Learned from Their Training and Taught to Their Sons* by Eric  Davis
-
-https://www.goodreads.com/book/show/26114625
-
-Bookshelves: did-not-finish
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Eric  Davis, *Raising Men: Lessons Navy SEALs Learned from Their Training and Taught to Their Sons*, Chris  Martin St. Martin's Press 2016 (Hardcover)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="125009173X"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: did-not-finish

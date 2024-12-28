@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Think and Grow Rich\""
-date:   2016-02-05 00:00:00 -0400
-tags: 2016 book review Hill read-again personal-development
-uid: 5b90dd93-7068-4a2b-8da4-a83e9f54c999
+title: "Quick Thoughts on Think and Grow Rich"
+date: 2016-02-05 00:00:00 -0400
+category: review
+tags: book read-again personal-development
+uid: 067a617f-ba04-4765-b5df-50429af52df2
 ---
 
-
+Napoleon Hill, *[Think and Grow Rich](https://www.goodreads.com/book/show/3006986)*, Erik Synnestvedt Your Coach In A Box 2008 (Audio CD) ISBN: ="1596591587"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ This is an older novel, published in the late 1930's. Allegedly based on 25 year
 ### Date Added
 2016/05/31
 
-## Goodreads book information
-
-*Think and Grow Rich* by Napoleon Hill
-
-https://www.goodreads.com/book/show/3006986
-
-Bookshelves: read-again, personal-development
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Napoleon Hill, *Think and Grow Rich*, Erik Synnestvedt Your Coach In A Box 2008 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1596591587"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: read-again, personal-development

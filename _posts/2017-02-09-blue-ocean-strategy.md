@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Blue Ocean Strategy\""
-date:   2017-02-09 00:00:00 -0400
-tags: 2017 book review Kim business
-uid: 93ec89c4-b918-47b2-af67-6055d3e754d1
+title: "Quick Thoughts on Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant"
+date: 2017-02-09 00:00:00 -0400
+category: review
+tags: book business
+uid: 44b33cc8-a209-4a03-b4c1-1ca12d95e067
 ---
 
-
+W. Chan Kim, *[Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant](https://www.goodreads.com/book/show/4899)*, Renée Mauborgne Your Coach Digital 2006 (Audio CD) ISBN: ="1596590688"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ Warning: The reader of this audio recording is flat..<br/><br/>Blue Oceans = Fer
 ### Date Added
 2017/02/09
 
-## Goodreads book information
-
-*Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant* by W. Chan Kim
-
-https://www.goodreads.com/book/show/4899
-
-Bookshelves: business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-W. Chan Kim, *Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant*, Renée Mauborgne Your Coach Digital 2006 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1596590688"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business

@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"How the Mighty Fall CD\""
-date:   2017-10-30 00:00:00 -0400
-tags: 2017 book review Collins business
-uid: d3a6d72d-6076-4fd3-813f-e143d2ad5447
+title: "Quick Thoughts on How the Mighty Fall CD: And Why Some Companies Never Give In"
+date: 2017-10-30 00:00:00 -0400
+category: review
+tags: book business
+uid: 7f29af9e-ac37-4461-8178-009a3d8c2a64
 ---
 
-
+James C. Collins, *[How the Mighty Fall CD: And Why Some Companies Never Give In](https://www.goodreads.com/book/show/6942991)*,  HarperAudio 2009 (Audio CD) ISBN: ="0061939234"
 
 ## My Review 3/5
 
@@ -19,29 +20,9 @@ Not as good as Collin's other work. This focuses on how companies fail<br/><br/>
 ### Date Added
 2017/10/25
 
-## Goodreads book information
-
-*How the Mighty Fall CD: And Why Some Companies Never Give In* by James C. Collins
-
-https://www.goodreads.com/book/show/6942991
-
-Bookshelves: business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-James C. Collins, *How the Mighty Fall CD: And Why Some Companies Never Give In*,  HarperAudio 2009 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0061939234"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business

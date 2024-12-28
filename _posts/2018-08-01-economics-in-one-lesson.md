@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Economics in One Lesson\""
-date:   2018-08-01 00:00:00 -0400
-tags: 2018 book review Hazlitt economics classics business
-uid: 758c3dd7-e8d7-4ca6-88e2-02cd6c408895
+title: "Quick Thoughts on Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics"
+date: 2018-08-01 00:00:00 -0400
+category: review
+tags: book economics classics business
+uid: c37bb1af-a2cb-4aad-9b61-caa6f8664257
 ---
 
-
+Henry Hazlitt, *[Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics](https://www.goodreads.com/book/show/2376355)*,  Blackstone Publishing 2000 (Audio CD) ISBN: ="0786199172"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ An examination of the fallacies of economics. The one lesson is quite simply: ec
 ### Date Added
 2018/08/01
 
-## Goodreads book information
-
-*Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics* by Henry Hazlitt
-
-https://www.goodreads.com/book/show/2376355
-
-Bookshelves: economics, classics, business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Henry Hazlitt, *Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics*,  Blackstone Publishing 2000 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0786199172"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: economics, classics, business

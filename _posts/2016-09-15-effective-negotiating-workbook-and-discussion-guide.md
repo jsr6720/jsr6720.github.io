@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Effective Negotiating Workbook and Discussion Guide\""
-date:   2016-09-15 00:00:00 -0400
-tags: 2016 book review Karrass business
-uid: 9152b74f-01cd-42aa-a489-ff17b8bcf2c0
+title: "Quick Thoughts on Effective Negotiating Workbook and Discussion Guide"
+date: 2016-09-15 00:00:00 -0400
+category: review
+tags: book business
+uid: 565d00da-0645-4595-9596-9d522b9e9f62
 ---
 
-
+Chester L. Karrass, *[Effective Negotiating Workbook and Discussion Guide](https://www.goodreads.com/book/show/16004038)*,    () ISBN: =""
 
 ## My Review 2/5
 
@@ -19,29 +20,9 @@ Picked this up at a library sale. It's ok.. The participants are not on micropho
 ### Date Added
 2016/09/16
 
-## Goodreads book information
-
-*Effective Negotiating Workbook and Discussion Guide* by Chester L. Karrass
-
-https://www.goodreads.com/book/show/16004038
-
-Bookshelves: business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Chester L. Karrass, *Effective Negotiating Workbook and Discussion Guide*,    ()[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: =""
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business

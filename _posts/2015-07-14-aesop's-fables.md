@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Aesop's Fables\""
-date:   2015-07-14 00:00:00 -0400
-tags: 2015 book review Aesop classics read-again
-uid: 79aa6892-e8c2-4735-b9b0-cd18520a1269
+title: "Quick Thoughts on Aesop's Fables"
+date: 2015-07-14 00:00:00 -0400
+category: review
+tags: book classics read-again
+uid: 604522f9-edc9-45e8-8193-8ea13b39791c
 ---
 
-
+Aesop, *[Aesop's Fables](https://www.goodreads.com/book/show/8873903)*, Jonathan Kent Tantor Media 2008 (Audio CD + ebook) ISBN: ="1400138914"
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ Very fun listen. Didn't realize so many stories with morals were from so ancient
 ### Date Added
 2016/05/31
 
-## Goodreads book information
-
-*Aesop's Fables* by Aesop
-
-https://www.goodreads.com/book/show/8873903
-
-Bookshelves: classics, read-again
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Aesop, *Aesop's Fables*, Jonathan Kent Tantor Media 2008 (Audio CD + ebook)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1400138914"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: classics, read-again

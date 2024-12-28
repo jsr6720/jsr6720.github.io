@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Power of Habit\""
-date:   2017-05-05 00:00:00 -0400
-tags: 2017 book review Duhigg psychology
-uid: e3bd3c2c-1970-4d28-9696-147681a29569
+title: "Quick Thoughts on The Power of Habit: Why We Do What We Do in Life and Business"
+date: 2017-05-05 00:00:00 -0400
+category: review
+tags: book psychology
+uid: 3a15b5b0-4df9-422c-b513-4eb3423510cf
 ---
 
-
+Charles Duhigg, *[The Power of Habit: Why We Do What We Do in Life and Business](https://www.goodreads.com/book/show/12609431)*, Mike Chamberlain Random House Audio 2012 (Audio CD) ISBN: ="030796664X"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ The only thing that barred this from a 5/5 for me was the authors approach to sc
 ### Date Added
 2017/04/25
 
-## Goodreads book information
-
-*The Power of Habit: Why We Do What We Do in Life and Business* by Charles Duhigg
-
-https://www.goodreads.com/book/show/12609431
-
-Bookshelves: psychology
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Charles Duhigg, *The Power of Habit: Why We Do What We Do in Life and Business*, Mike Chamberlain Random House Audio 2012 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="030796664X"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: psychology

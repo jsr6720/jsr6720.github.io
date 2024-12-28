@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Myth of the Spoiled Child\""
-date:   2019-11-05 00:00:00 -0400
-tags: 2019 book review Kohn parenting
-uid: 32b098b5-ddcd-40d2-937c-c1f1f93af24b
+title: "Quick Thoughts on The Myth of the Spoiled Child: Challenging the Conventional Wisdom About Children and Parenting"
+date: 2019-11-05 00:00:00 -0400
+category: review
+tags: book parenting
+uid: 3a56e041-507b-4797-b106-0a7160a2dae6
 ---
 
-
+Alfie Kohn, *[The Myth of the Spoiled Child: Challenging the Conventional Wisdom About Children and Parenting](https://www.goodreads.com/book/show/21483496)*,  Tantor Audio 2014 (MP3 CD) ISBN: ="1452669759"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ This book refrain is 'be skeptical'. How to raise children in a world that is al
 ### Date Added
 2019/10/28
 
-## Goodreads book information
-
-*The Myth of the Spoiled Child: Challenging the Conventional Wisdom About Children and Parenting* by Alfie Kohn
-
-https://www.goodreads.com/book/show/21483496
-
-Bookshelves: parenting
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Alfie Kohn, *The Myth of the Spoiled Child: Challenging the Conventional Wisdom About Children and Parenting*,  Tantor Audio 2014 (MP3 CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1452669759"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: parenting

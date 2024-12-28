@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"21 Lessons for the 21st Century\""
-date:   2019-02-05 00:00:00 -0400
-tags: 2019 book review Harari 
-uid: d7e86f10-4036-4404-9d4e-5ea48152e072
+title: "Quick Thoughts on 21 Lessons for the 21st Century"
+date: 2019-02-05 00:00:00 -0400
+category: review
+tags: book 
+uid: bf27d096-7b88-43cb-a365-92c06652f6bf
 ---
 
-
+Yuval Noah Harari, *[21 Lessons for the 21st Century](https://www.goodreads.com/book/show/39025805)*,  Random House Audio 2018 (Audio CD) ISBN: ="0525639853"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ Depressing book. Life is just a swirl of Neurons firing and everything is a stor
 ### Date Added
 2019/01/25
 
-## Goodreads book information
-
-*21 Lessons for the 21st Century* by Yuval Noah Harari
-
-https://www.goodreads.com/book/show/39025805
-
-Bookshelves: 
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Yuval Noah Harari, *21 Lessons for the 21st Century*,  Random House Audio 2018 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0525639853"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: 

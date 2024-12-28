@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Brand real how smart companies live their brand promise and inspire fierce customer loyalty\""
-date:   2019-03-05 00:00:00 -0400
-tags: 2019 book review Vincent 
-uid: e6ec7d13-46ec-4f4d-8165-fd74eaf376c3
+title: "Quick Thoughts on Brand real how smart companies live their brand promise and inspire fierce customer loyalty"
+date: 2019-03-05 00:00:00 -0400
+category: review
+tags: book 
+uid: f5562f25-8e13-4db7-be16-16f8ae50bff7
 ---
 
-
+Laurence Vincent, *[Brand real how smart companies live their brand promise and inspire fierce customer loyalty](https://www.goodreads.com/book/show/44066463)*,  Recorded Books 2012 (Audio CD) ISBN: ="1470333899"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ Great overview of what it means to have a "brand" and how consumers interact wit
 ### Date Added
 2019/02/19
 
-## Goodreads book information
-
-*Brand real how smart companies live their brand promise and inspire fierce customer loyalty* by Laurence Vincent
-
-https://www.goodreads.com/book/show/44066463
-
-Bookshelves: 
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Laurence Vincent, *Brand real how smart companies live their brand promise and inspire fierce customer loyalty*,  Recorded Books 2012 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="1470333899"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: 

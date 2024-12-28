@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"The Millionaire Next Door\""
-date:   2016-01-27 00:00:00 -0400
-tags: 2016 book review Stanley business
-uid: e01259b3-3baf-45a0-b3c2-8eae5024cbcb
+title: "Quick Thoughts on The Millionaire Next Door: The Surprising Secrets of Americas Wealthy"
+date: 2016-01-27 00:00:00 -0400
+category: review
+tags: book business
+uid: 18ed361a-3973-4f2c-abdc-acb7b3b850d8
 ---
 
-
+Thomas J. Stanley, *[The Millionaire Next Door: The Surprising Secrets of Americas Wealthy](https://www.goodreads.com/book/show/1735043)*, William D. Danko Simon  Schuster Audio 2000 (Audio CD) ISBN: ="0743517822"
 
 ## My Review 4/5
 
@@ -19,29 +20,9 @@ Book focuses on how PAWs (prodigious accumulators of wealth) build their fortune
 ### Date Added
 2016/09/27
 
-## Goodreads book information
-
-*The Millionaire Next Door: The Surprising Secrets of Americas Wealthy* by Thomas J. Stanley
-
-https://www.goodreads.com/book/show/1735043
-
-Bookshelves: business
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Thomas J. Stanley, *The Millionaire Next Door: The Surprising Secrets of Americas Wealthy*, William D. Danko Simon  Schuster Audio 2000 (Audio CD)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:44" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: ="0743517822"
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business

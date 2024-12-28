@@ -1,13 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"Leadership\""
-date:   2020-10-12 00:00:00 -0400
-tags: 2020 book review Goodwin biography leadership history
-uid: 1c653ce2-9aee-4eeb-b3e6-eada89a59878
+title: "Quick Thoughts on Leadership: In Turbulent Times"
+date: 2020-10-12 00:00:00 -0400
+category: review
+tags: book biography leadership history
+uid: 31ff8bb9-e60d-4a99-bf7f-e081fa6bdf4b
 ---
 
-
+Doris Kearns Goodwin, *[Leadership: In Turbulent Times](https://www.goodreads.com/book/show/38657386)*,  Simon & Schuster 2018 (Hardcover) ISBN: =""
 
 ## My Review 5/5
 
@@ -19,29 +20,9 @@ Great book that is more a collection of essays looking into the leadership style
 ### Date Added
 2020/09/14
 
-## Goodreads book information
-
-*Leadership: In Turbulent Times* by Doris Kearns Goodwin
-
-https://www.goodreads.com/book/show/38657386
-
-Bookshelves: biography, leadership, history
-
 ---
 
-## Author's Note
+### Significant Revisions
 
-Initial `md` Generated using https://github.com/jsr6720/goodreads-csv-to-md
-
-Doris Kearns Goodwin, *Leadership: In Turbulent Times*,  Simon & Schuster 2018 (Hardcover)[^1]
-
-## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
-
-- {{ "2024-04-22 19:08:43" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
-- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com)
-
-## EOF/Footnotes
-
-[^1]: ISBN: =""
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: biography, leadership, history
