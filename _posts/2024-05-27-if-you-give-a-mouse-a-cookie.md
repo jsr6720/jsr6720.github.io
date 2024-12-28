@@ -1,7 +1,7 @@
 ---
 layout: post
 author: James Rowe
-title:  "Detect Thoughts on \"If you give a mouse a cookie\""
+title: "Quick Thoughts on If You Give a Mouse a Cookie"
 date: "2024-05-27 00:21:19 -0400"
 category: review
 tags: book Numeroff childhood-classics
@@ -22,7 +22,7 @@ There are merits and efficiencies gained by getting a variety of things done in 
 
 Part of my new objective with this github repository is to archive some of the things I see online that I enjoy. Years ago I read a post on the organizational side-quests[^sidequest] and how contributing to things along the way make for a better outcome.
 
-I remember spending what felt like forever in Chapter 2 of Baulders Gate 2. Side quest after side quest. Not realizing that the groundwork of the rest of the game and my character's strength going into the end game was based on.
+I remember spending what felt like forever in Chapter 2 of Baldur's Gate II: Shadows of Amn. Side quest after side quest. Not realizing that the groundwork of the rest of the game and my character's strength going into the end game was based on.
 
 ## Embrace Opportunities
 
@@ -39,8 +39,8 @@ Accept quests. Especially with the vigor of Quest Sprout.
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-## Footnotes
+### Footnotes
 
 [^credit]: Book cover image hotlink credit <https://en.wikipedia.org/wiki/If_You_Give_a_Mouse_a_Cookie> until I can find my copy to take a picture. I guess I have my own side quest now.
 
-[^sidequest]: If you know what I'm talking about submit a PR! Drop me a line! It used primarily Diablo 2 as an example, but Baulders Gate also comes to mind.
+[^sidequest]: If you know what I'm talking about drop me a line! It used primarily Diablo 2 as an example, but Baulders Gate also comes to mind.
