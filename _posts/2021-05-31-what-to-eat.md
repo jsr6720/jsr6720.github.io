@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on What to Eat"
 date: 2021-05-31 00:00:00 -0400
 category: review
-tags: book food personal-development
+tags: book health personal-development
 uid: 786a10d6-0b03-45ed-8a56-4022af74648a
 ---
 

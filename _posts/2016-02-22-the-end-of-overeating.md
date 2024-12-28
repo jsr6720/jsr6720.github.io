@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The End of Overeating: Taking Control of the Insatiable American Appetite"
 date: 2016-02-22 00:00:00 -0400
 category: review
-tags: book psychology food
+tags: book psychology health
 uid: 0988a862-206c-4212-b511-d26a6844da45
 ---
 

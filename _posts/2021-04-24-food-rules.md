@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on Food Rules: An Eater's Manual"
 date: 2021-04-24 00:00:00 -0400
 category: review
-tags: book food
+tags: book health
 uid: db943bba-4fb2-49f0-9c93-ddf6ed600da9
 ---
 
