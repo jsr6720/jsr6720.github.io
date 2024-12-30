@@ -3,6 +3,7 @@ layout: post
 author: James Rowe
 title: "<<title-similar-to-filename>>"
 date: date "+%Y-%m-%d %H:%M:%S %z"
+category: template
 tags: YYYY whitespace delimitated tags
 uid: uuidgen
 ---
