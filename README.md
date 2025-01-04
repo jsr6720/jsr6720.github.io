@@ -70,6 +70,8 @@ Sites that inspire me for both their content and design. It's not that these sit
 
 <https://seths.blog>
 
+<https://simonwillison.net> which is also hosted as a `public` GitHub repository here <https://github.com/simonw/simonwillisonblog>
+
 
 # Asset Attribution
 
