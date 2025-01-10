@@ -62,7 +62,7 @@ Book tags (might be some overlap from above)
 
 # Inspiration
 
-Sites that inspire me for both their content and design. It's not that these sites are better than the rest, but that when I first started on restarting my writing these were the ones I thought of first.
+Sites that inspire me for both their content and design. It's not that these sites are better than the rest, but that when I first started on restarting my writing these were the ones I thought of first. 1000% Bonus points for the inclusion of a `feed.xml`.
 
 <https://martinfowler.com>
 
@@ -70,12 +70,14 @@ Sites that inspire me for both their content and design. It's not that these sit
 
 <https://seths.blog>
 
+<https://paulgraham.com/articles.html>
+
 <https://simonwillison.net> which is also hosted as a `public` GitHub repository here <https://github.com/simonw/simonwillisonblog>
+
+<https://posthaven.com> SubStack and Medium have all gone the paywall route. This site hasn't as of yet, and its focus is on longevity.
 
 
 # Asset Attribution
-
-**note:** If you're an artist or creator I'd love to replace my AI good-enough regurgitation with original pieces. [contact me](/about.md).
 
 [rss-feed-icon](/assets/rss-feed-icon.png) -> [wikimedia commons](https://commons.wikimedia.org/wiki/File:Generic_Feed-icon.svg)
 
