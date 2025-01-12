@@ -1,9 +1,10 @@
 ---
 layout: post
 author: James Rowe
-title:  "Rubber duck programming with ChatGPT"
-date:   "2024-05-02 20:49:11 -04:00"
-tags: technology chatgpt pragmatic-programmer
+title: "Rubber duck programming with ChatGPT"
+date: "2024-05-02 20:49:11 -04:00"
+category: technology
+tags: chatgpt programming
 uid: A9C73222-EBBE-448F-BF25-94777638BC58
 ---
 
