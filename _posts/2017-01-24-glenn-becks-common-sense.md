@@ -19,14 +19,9 @@ Bonus: This book includes the original text of Thomas Pains Common Sense.
 Here are my key takeaways:
 
 * Back a politician not a party.
-
 * Use the tools of democracy to change the system. Violence is not needed
-
 * Redistricting as a political tool is killing democracy
-
 * Active informed citizens are required for a representative republic
-
-
 
 ### Date Read
 2017/01/24
@@ -38,5 +33,5 @@ Here are my key takeaways:
 
 ### Significant Revisions
 
-- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md> as `2017-01-24-glenn-beck\'s-common-sense.md`
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: 

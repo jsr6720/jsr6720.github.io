@@ -8,7 +8,7 @@ tags: book leadership history
 uid: 62d2e521-6f08-495f-807b-6da7602ff43e
 ---
 
-John P. Avlon, *[Washington's Farewell: The Founding Father's Warning to Future Generations](https://www.goodreads.com/book/show/32505860)*,  Simon  Schuster Audio 2017 (Audiobook) ISBN: ="1508234442"
+John P. Avlon, *[Washington's Farewell: The Founding Father's Warning to Future Generations](https://www.goodreads.com/book/show/32505860)*,  Simon Schuster Audio 2017 (Audiobook) ISBN: ="1508234442"
 
 ## My Review 4/5
 
@@ -30,5 +30,5 @@ My only caveat is the full text of the farewell is read as an appendix. Wish it 
 
 ### Significant Revisions
 
-- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md> as `2020-01-21-washington\'s-farewell.md`
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: leadership, history

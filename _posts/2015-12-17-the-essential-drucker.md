@@ -1,14 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title: "Quick Thoughts on Essential Drucker, The"
+title: "Quick Thoughts on The Essential Drucker"
 date: 2015-12-17 00:00:00 -0400
 category: review
 tags: book business read-again
 uid: a97c3f48-3b47-48b7-a341-1a9038faf0cc
 ---
 
-Peter F. Drucker, *[Essential Drucker, The](https://www.goodreads.com/book/show/48016)*,  HarperPB 2003 (Paperback) ISBN: ="006093574X"
+Peter F. Drucker, *[The Essential Drucker](https://www.goodreads.com/book/show/48016)*,  HarperPB 2003 (Paperback) ISBN: ="006093574X"
 
 ## My Review 5/5
 
@@ -28,5 +28,5 @@ Another important concept, management by objective. Evaluate the performance of 
 
 ### Significant Revisions
 
-- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- {{ "2024-12-27 21:21:45" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md> as `2015-12-17-essential-drucker,-the.md`
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business, read-again
