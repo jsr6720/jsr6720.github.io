@@ -10,7 +10,7 @@ uid: 6E76FAA2-700B-43FC-8AC0-17024CC96131
 
 <img src="/assets/posts-images/wired-2025-jan-feb-issue-cover.png" alt="cover page of WIRED magazine" class="center-img img-stylish"/>
 
-*WIRED* ["The Big Tech Issue." January/February 2025](https://www.amazon.com/WIRED-Magazine-January-February-Issue/dp/B0DNNRR73X).
+*WIRED*. ["The Big Tech Issue." January/February 2025](https://www.amazon.com/WIRED-Magazine-January-February-Issue/dp/B0DNNRR73X).
 
 ## My Review: 5/5
 
@@ -62,3 +62,4 @@ This was a look at how far the pet-cloning business has come. Honestly, it’s a
 ### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
+- {{ "2025-01-12 23:16:48 -0500" | date_to_string: "ordinal", "US" }} Draft created
