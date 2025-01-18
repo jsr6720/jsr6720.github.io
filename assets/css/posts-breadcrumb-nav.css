@@ -1,0 +1,15 @@
+--
+--
+
+.post-navigation {
+    margin: 2rem 0;
+}
+
+.post-navigation ul {
+    list-style: none;
+    padding: 0;
+}
+
+.post-navigation li {
+    margin: 1rem 0;
+}
