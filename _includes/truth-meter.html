@@ -1,0 +1,53 @@
+{% if include.level != nil and include.level != '' %}
+    {% assign level = include.level %}
+{% else %}
+    {% assign level = 50 %}
+{% endif %}
+
+
+<div class="truth-meter">
+    <div class="gauge" data-level="{{ include.level }}">
+      <div class="needle" style="transform: rotate({{ level | times: 1.8 | minus: 90 }}deg);"></div>
+    </div>
+    <div class="level">{{ include.level }}%</div>
+  </div>
+  
+  <style>
+  .truth-meter {
+    position: relative;
+    width: 200px;
+    height: 100px;
+    margin: 20px auto;
+  }
+  
+  .gauge {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, 
+      #ff4444 0%, 
+      #ffbb33 50%, 
+      #00C851 100%
+    );
+    border-radius: 100px 100px 0 0;
+  }
+  
+  .needle {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 4px;
+    height: 80px;
+    background: #333;
+    transform-origin: bottom center;
+    transition: transform 0.5s ease-out;
+  }
+  
+  .level {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    font-weight: bold;
+  }
+  </style>

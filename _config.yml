@@ -10,6 +10,7 @@ description: >- # mutli line capable
 baseurl: "" # the subpath of your site, e.g. /blog
 # TODO aws redirect https://jsr6720.com -> https://jsr6720.github.io
 url: "https://www.jsrowe.com" # backup --> github pages --> "https://jsr6720.github.io"
+rss: feed.xml
 
 # if you sense a theme.. RIT assigned me a user id of "jsr6720" and it stuck
 # see [who-am-i.md](https://github.com/jsr6720/jsr6720.github.io/blob/main/_archive/2024-05-21-who-am-i.md)
