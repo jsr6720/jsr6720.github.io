@@ -40,7 +40,7 @@ This also dovetailed with the other feature story on getting the CHIPS act passe
 
 If ever the power of one voice and one email could be seen in a local community, the location of a CHIPS plant in Ohio is traced to a Lorain resident. This short feature covers the on-the-ground impact of the CHIPS act in bringing construction and manufacturing to the Midwest. Reading this after the "The New Cold Warrior" really highlights the importance of maintaining our own regional capabilities.
 
-Far from an isolationist argument, the article focuses on the practicality of sourcing things as simple as protective equipment like [masks](https://www.nytimes.com/2022/03/05/business/dealbook/american-mask-makers.html). I think the reality is during times of crisis, any government’s sovereign mandate is to its people, so we shouldn't be surprised by those same governments prioritizing their domestic capabilities at home during global catastrophes. An ounce of prevention—domestic investment—is worth a pound of cure.
+Far from an isolationist argument, the article focuses on the practicality of sourcing things as simple as protective equipment like [masks](https://www.nytimes.com/2022/03/05/business/dealbook/american-mask-makers.html). I think that during times of crisis, any government’s sovereign mandate is to its people, so we shouldn't be surprised by those same governments prioritizing their domestic capabilities at home during global catastrophes. An ounce of prevention—domestic investment—is worth a pound of cure.
 
 ### Follow That Car
 
