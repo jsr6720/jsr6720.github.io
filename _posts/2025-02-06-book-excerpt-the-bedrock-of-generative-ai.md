@@ -6,6 +6,7 @@ date: 2025-02-06 00:31:27 -0500
 category: technology
 tags: 2025
 uid: 6E15C386-F20C-45DF-88A8-F8D5D738292F
+toc: true
 ---
 
 The following is an excerpt from my published book [*AI Primer for Business Leaders*](https://www.amazon.com/Primer-Business-Leaders-Demystifying-Generative-ebook/dp/B0DKQSV5H4) detailing how training data quality is the bedrock of generative AI tools. At the time I wrote this chapter, using synthetic data was not a proven training technique and would lead to model collapse.
