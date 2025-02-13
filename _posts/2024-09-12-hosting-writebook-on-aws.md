@@ -6,6 +6,7 @@ date: 2024-09-12 22:33:15 -0400
 category: software
 tags: 2024 aws writebook
 uid: A177F24A-4C7A-448A-A293-260C7171B369
+toc: true
 ---
 
 ## 37signals Writebook by [once.com](https://once.com)

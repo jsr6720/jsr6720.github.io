@@ -6,9 +6,10 @@ date: 2025-02-06 00:31:27 -0500
 category: technology
 tags: 2025
 uid: 6E15C386-F20C-45DF-88A8-F8D5D738292F
+toc: true
 ---
 
-The following is an excerpt from my published book [*AI Primer for Business Leaders*](https://www.amazon.com/Primer-Business-Leaders-Demystifying-Generative-ebook/dp/B0DKQSV5H4) detailing how training data quality is the bedrock of generative AI tools. At the time I wrote this chapter synthetic data was not a proven training technique and would lead model collapse.
+The following is an excerpt from my published book [*AI Primer for Business Leaders*](https://www.amazon.com/Primer-Business-Leaders-Demystifying-Generative-ebook/dp/B0DKQSV5H4) detailing how training data quality is the bedrock of generative AI tools. At the time I wrote this chapter, using synthetic data was not a proven training technique and would lead to model collapse.
 
 # The Bedrock of Generative AI: High Quality Data
 
@@ -71,9 +72,9 @@ Copyright &copy; 2024 by James Rowe. From the book *AI Primer for Business Leade
 
 ### Footnotes
 
-In the published work these are a combination of end notes and foot notes. I've summarized to just their links below.
+In the published work, these are a combination of endnotes and footnotes. In this post, I've summarized them to just their links below.
 
 * <https://www.nature.com/articles/d41586-024-01087-4>
-* [Will We Run Out of Data? Limits of LLM Scaling Based on Human-Generated Data, Epoch AI, June 6, 2024](https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data/)
+* ["Will We Run Out of Data? Limits of LLM Scaling Based on Human-Generated Data," *Epoch AI*, June 6, 2024](https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data/)
 * <https://texaslawreview.org/fair-learning/>
 * <https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/>

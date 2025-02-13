@@ -31,6 +31,13 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {% if page.toc %}
+    <details>
+      <summary><strong>Table of Contents</strong></summary>
+      {% toc %}
+    </details>
+    {% endif %}
+
     {{ content }}
   </div>
 

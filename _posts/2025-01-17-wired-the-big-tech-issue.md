@@ -6,6 +6,7 @@ date: "2025-01-17 22:27:49 -0500"
 category: review
 tags: 2025 periodical nonfiction leadership
 uid: 6E76FAA2-700B-43FC-8AC0-17024CC96131
+toc: true
 ---
 
 <img src="/assets/posts-images/wired-2025-jan-feb-issue-cover.png" alt="cover page of WIRED magazine" class="center-img img-stylish"/>
