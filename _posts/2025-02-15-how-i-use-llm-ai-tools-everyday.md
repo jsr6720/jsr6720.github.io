@@ -1,7 +1,7 @@
 ---
 layout: post
 author: James Rowe
-title: "How I Use LLM AI Tools Everyday: A Personal Evaluation of Anthropic Claude and OpenAI ChatGPT"
+title: "How I Use AI Tools Everyday: Leveraging Claude and ChatGPT"
 date: 2025-02-12T05:40:35.992Z
 category: technology
 tags: 2025 ai chatgpt claude copilot llm
@@ -32,13 +32,13 @@ Not all use-cases benefit from an LLM, but for those I detail below, I felt I wa
 
 ### Pricing and Comparative Value
 
-This assessment is based on a ~$20/month subscription[^pricing]. I also think there is [diminishing marginal utility](https://arstechnica.com/ai/2024/11/what-if-ai-doesnt-just-keep-getting-better-forever/) being squeezed from each new model release, and, just like the proliferation of content streaming platforms, there are a growing number of options in AI models to subscribe to. 
+This assessment is based on a ~$20/month subscription.[^pricing] I also think there is [diminishing marginal utility](https://arstechnica.com/ai/2024/11/what-if-ai-doesnt-just-keep-getting-better-forever/) being squeezed from each new model release, and, just like the proliferation of content streaming platforms, there are a growing number of options in AI models to subscribe to. 
 
-So what is having a generative AI tool worth to me? [$200/month](https://openai.com/index/introducing-chatgpt-pro/) stretches credulity (spoiler: I decided to try it, but that’ll be a post for the future), but I did find working with LLMs valuable enough that even pricing up to ~$50 a month seems a no-brainer for the enhancements it’s given my basic queries, programming, brainstorming, writing, and avoiding [hostile moderators on StackOverflow](https://www.jsrowe.com/conversation-experience-chatgpt-vs-stack-overflow/index.html) and well as [ad-ridden spam sites in search results](https://www.theregister.com/2024/01/17/google_search_results_spam/)
+So what is having a generative AI tool worth to me? [$200/month](https://openai.com/index/introducing-chatgpt-pro/) stretches credulity (spoiler: I decided to try it, but that’ll be a post for the future), but I did find working with LLMs valuable enough that even pricing up to ~$50 a month seems a no-brainer for the enhancements it’s given my basic queries, programming, brainstorming, writing, and avoiding [hostile moderators on StackOverflow](https://www.jsrowe.com/conversation-experience-chatgpt-vs-stack-overflow/index.html) as well as [ad-ridden spam sites in search results](https://www.theregister.com/2024/01/17/google_search_results_spam/)
 
 ### What’s Next for Me
 
-Well, I decided to splurge on ChatGPT Pro; my [rationalization](https://en.wikipedia.org/wiki/Girl_math) is that if Sam Altman told me, “For $200 I’ll let you spend one month with our latest tech,” I’d ask, “Cash or check?” He also posted on twitter that they [lose money](https://x.com/sama/status/1876104315296968813), so I must be getting a good deal, right?
+Well, I decided to splurge on ChatGPT Pro; my [rationalization](https://en.wikipedia.org/wiki/Girl_math) is that if Sam Altman told me, “For $200 I’ll let you spend one month with our latest tech,” I’d ask, “Cash or check?” He also posted on Twitter that they [lose money](https://x.com/sama/status/1876104315296968813), so I must be getting a good deal, right?
 
 With access to more advanced features, I’m going to focus on evaluating the reasoning model and the new [Operator](https://openai.com/index/introducing-operator/) functionality. For now, I’ll continue to use Anthropic Claude for the occasional programming that I do, but that is not a daily occurrence for me.
 
@@ -56,7 +56,7 @@ I’ll be the first to admit that the majority of what I consider interesting ex
 
 Paying for an ad-free[^disney] search experience is amazing, and getting context-aware and hyper-localized code is great, but the best value I get from LLMs is help in navigating decades worth of information that would be impossible for me to have learned traditionally. I will note that whenever possible, I try to follow its output back to real content on the web—probably another factor contributing to my increasing use of traditional search.
 
-### Integrating LLMs Into My Workflow: Augmentation and Automation
+### Integrating LLMs into My Workflow: Augmentation and Automation
 
 Harvard Business School[^frontier] published a working paper on navigating the future working with AI as either a handoff approach (Centaur) or wholly new integrated (Cyborg) practice. Centaurs, half-horse, half-man, represent a segmented hard switch, toggling between an AI tool and the task at hand, resulting in an almost bidirectional process within a task set. Cyborgs infuse generative AI through the entire workflow, either eliminating the original workflow or inventing a new process altogether. 
 
@@ -70,7 +70,7 @@ The point is that integrating LLMs into your workflow involves a variety of deci
 * Am I *augmenting* or am I *automating* a process, and which is best suited for how [LLMs work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)? Some workflows are better as wholly new AI processes, others when augmented by AI, and still others are best left to a human.
 * How can I take what is presented and incorporate it effectively into my own work? This is to say, in the area in which you are an expert, how can you best leverage this new tooling? This will look different than leveraging this tooling in areas that are domain-adjacent or unknown to you. 
 
-[Anthropic recently published a paper]( https://assets.anthropic.com/m/2e23255f1e84ca97/original/Economic_Tasks_AI_Paper.pdf) looking further at how users interact with their LLM, finding that it is a combination of “Automative Behaviors” and “Augmentative Behaviors”. The key point here is to get the most value from LLM you must decide if the task is automatable or augementation.
+[Anthropic recently published a paper](https://assets.anthropic.com/m/2e23255f1e84ca97/original/Economic_Tasks_AI_Paper.pdf) looking further at how users interact with their LLM, finding a combination of “Automative Behaviors” and “Augmentative Behaviors.” The key point here is that to get the most value from LLMs, you must decide if the task is automatable or an augmentation.
 
  <img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/anthropic-study.png" alt="anthropic automotive vs augmentative behaviors" class="center-img img-stylish"/>
 
@@ -130,7 +130,7 @@ As it pertains to “good enough” solutions, I do think that the code generate
 
 [According to Larry Wall](https://web.archive.org/web/20211014194234/http://threevirtues.com/), engineers are lazy, impatient, and exhibit qualities of hubris. While that hubris may presently slow adoption of LLM-generated code, software engineers already copy code—be it from StackOverflow, `File > New from Template`, or just duplicating a file “close enough” and modifying it. It would be foolish not to look to LLMs to create draft code as a starting point.
 
-LLM can only repeat what they have already seen, and [as I’ve covered elsewhere]( https://www.jsrowe.com/book-excerpt-the-bedrock-of-generative-ai/index.html) there are hard limits to the training data which Anthropic is especially good at highlighting in its responses. Therefore, there will always be a need for software engineers to incorporate the latest changes before a model can every replicate it.
+LLMs can only repeat what exists in their training data, and [as I’ve covered elsewhere](https://www.jsrowe.com/book-excerpt-the-bedrock-of-generative-ai/index.html) there are date cutoffs within models, which Anthropic has recently been more explicit about highlighting in its responses. Therefore, there will always be a need for software engineers to build something new for it to be present in training data, and therefor available to LLMs to replicate.
 
 <img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/claude-kotlin-version.png" alt="claude model cutoff" class="center-img img-stylish"/>
 
@@ -170,9 +170,9 @@ Note: At times, both models “wrote” code that didn’t work when copied to a
 
 Probably the most egregious code smell I experienced while using AI was its propensity to generate all functionality in one file or apply dozens of line changes at once. Never mind importing a common library or knowing what’s available in the project’s utilities folder—AI is very happy to rewrite entire functionalities to ensure the code generated “works.” At this point, you’ve likely reached the 80 percent generation threshold and are better off switching directly to the IDE; apply your expertise to complete the task.
 
-AI is especially susceptible to generic error messages. For example, when prompted to solve a timeout error or file not found, AI is just as happy to extend timeouts to 5 minutes or add the missing file, whereas a human expert would understand that these are often symptoms of an underlying problem. This is remediable by providing more guidance via prompting, but again proving the long term need for experts who understand how software works.
+AI is especially susceptible to generic error messages. For example, when prompted to solve a timeout error or file not found, AI is just as happy to extend timeouts to 5 minutes or add the missing file, whereas a human expert would understand that these are often symptoms of an underlying problem. This is remediable by providing more guidance via prompting, but again demonstrates the long-term need for experts who understand how software works.
 
-One particularly humorous experience is AI suggesting one fix that led to me another error message, then, with that fix, led me back to the original error. I would say this is the closest I’ve come to simulating a recursive “autonomous agent”-like experience[^agent}.
+One particularly humorous experience is AI suggesting one fix that led to me another error message, then, with that fix, led me back to the original error. I would say this is the closest I’ve come to simulating a recursive “autonomous agent”-like experience.[^agent]
 
 Another area that AI struggles with is generating version-specific code with features only present in that version. I experienced this most predominately with Apple native development (Objective C->Swift), Ruby (2->3), AWS functionality, and aforementioned Kotlin major upgrade. These are very real challenges that don’t have a singular right answer from AI tooling but require a software engineer to understand how to resolve.
 
@@ -257,7 +257,7 @@ Update: In the time I was evaluating this, ChatGPT released their own project fo
 
 <img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/chat-gpt-projects-2.png" alt="chat gpt projects" class="center-img img-stylish"/>
  
-### Claude: Artifacts: Side by Side Prompt/Code
+### Claude: Artifacts-Side by Side Prompt/Code
 
 [Claude Artifacts](https://support.anthropic.com/en/articles/9487310-what-are-artifacts-and-how-do-i-use-them) were my deciding factor to continue subscribing to Claude Pro. I greatly preferred the split-pane approach with complex prompts. The prompt response would spool on the left side of the screen, and solutions/output on the right. This made processing the response much more coherent than interspersing explanation with solution, and it tracked generated versions right in the UI.
 
@@ -355,9 +355,9 @@ The Slack/Jira integration has a great feature that will summarize a thread’s 
 
 ## Footnotes
 
-[^genesis]: I can trace my following of the industry to two key moments: March of 2023 when I first read Reid Hoffman’s book *[Impromtu](https://www.impromptubook.com)* and also the general availability of ChatGPT 4, which really crossed the Rubicon to become an effective tool for problem-solving.
+[^genesis]: I can trace my following of the industry to two key moments: when "What is ChatGPT" was posted to [Slashdot December 3rd 2022](https://news.slashdot.org/story/22/12/04/0248249/what-is-chatgpt-the-ai-chatbot-thats-taking-the-internet-by-storm/) and March of 2023 when I first read Reid Hoffman’s book [*Impromtu*](https://www.impromptubook.com).
 
-[^pricing]: I predict that long term LLM pricing will eventually reflect the costs to produce the technology as currently [large cash infusions](https://www.nytimes.com/2024/09/27/technology/openai-chatgpt-investors-funding.html) are needed to keep the company operating.
+[^pricing]: I predict that in the long term LLM pricing will eventually reflect the costs to produce the technology as currently [large cash infusions](https://www.nytimes.com/2024/09/27/technology/openai-chatgpt-investors-funding.html) are needed to keep the company operating.
 
 [^price]: During my evaluation period, both services cost $21.60 per month for the “pro” version. During this time, OpenAI came out with their $200/month pro plan, demoting the $20/month plan to “ChatGPT-Plus.”
 
