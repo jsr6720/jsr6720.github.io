@@ -8,7 +8,7 @@ tags: 2025 writing
 uid: C518ED2F-8F63-4289-9AFD-0D9CD80EC2A1
 ---
 
-> **Note:** Originally a sub section on [Journaling, Why Write?]({% post_url 2024-05-019-journaling-why-write %}) that I’ve moved to its own post.
+> **Note:** Originally a sub section on [Journaling, Why Write?]({% post_url 2024-05-19-journaling-why-write %}) that I’ve moved to its own post.
 
 <figure>
     <img src="/assets/posts-images/james-rowe-journal-kid-adorned-2025.png" alt="spiral binder notebook" class="center-img img-stylish"/>
