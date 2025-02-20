@@ -1,5 +1,7 @@
 # user-added
 .DS_Store
+# Microsoft Office temporary files
+~$*
 
 # jekyll defaults
 _site/
