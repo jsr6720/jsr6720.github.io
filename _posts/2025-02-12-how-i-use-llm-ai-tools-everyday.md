@@ -22,19 +22,15 @@ For the past six months,[^genesis] I’ve intentionally incorporated a variety o
 
  <img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/fry.png" alt="shut up and take my money" class="center-img img-stylish"/>
 
-Yes. Paying[^price] the modest price for a Pro version of either model is worth the expense, primarily to avoid the frustrating “Message Limit” error and to get access to the latest models and additional features offered by both companies. Most every time I leveraged any LLM for assistance, I was able to [run faster and jump higher](https://youtu.be/gAYL5H46QnQ?t=10).[^llm-field-notes]
+**Yes**. Paying[^price] the modest price for a Pro version of either model is worth the expense, primarily to avoid the frustrating “Message Limit” error and to get access to the latest models and additional features offered by both companies. Most every time I leveraged any LLM for assistance, I was able to [run faster and jump higher](https://youtu.be/gAYL5H46QnQ?t=10).
 
-Not all use-cases benefit from an LLM, but for those I detail below, I felt I was more productive, efficient, and able to complete tasks on the edge of my competency zone. After several months simultaneously leveraging both products, I found Claude to be my subconsciously preferred model. ChatGPT tended to be more verbose in response, whereas I felt Claude responded more succinctly. Additionally, when working with code, the side-by-side prompt and editor ([artifacts](https://www.anthropic.com/news/artifacts)) really made it cognitively easier for my brain to process the response and the generated code as two separate entities.
-
-### Apple Intelligence AI Summary
-
-> The author evaluated the effectiveness of Anthropic Claude and OpenAI ChatGPT for personal and professional use cases. While both models offered benefits, the author found Claude to be more concise and preferred its side-by-side prompt and editor for code-related tasks. The author concluded that paying for a Pro version of either model is worth it for the enhanced features and improved productivity.
+Not all use-cases benefit from an LLM[^llm-field-notes], but for those I detail below, I felt I was more productive, efficient, and able to complete tasks on the edge of my competency zone. After several months simultaneously leveraging both products, I found Claude to be my subconsciously preferred model. ChatGPT tended to be more verbose in response, whereas I felt Claude responded more succinctly. Additionally, when working with code, the side-by-side prompt and editor ([artifacts](https://www.anthropic.com/news/artifacts)) really made it cognitively easier for my brain to process the response and the generated code as two separate entities.
 
 ### Pricing and Comparative Value
 
 This assessment is based on a ~$20/month subscription.[^pricing] I also think there is [diminishing marginal utility](https://arstechnica.com/ai/2024/11/what-if-ai-doesnt-just-keep-getting-better-forever/) being squeezed from each new model release, and, just like the proliferation of content streaming platforms, there are a growing number of options in AI models to subscribe to. 
 
-So what is having a generative AI tool worth to me? [$200/month](https://openai.com/index/introducing-chatgpt-pro/) stretches credulity (spoiler: I decided to try it, but that’ll be a post for the future), but I did find working with LLMs valuable enough that even pricing up to ~$50 a month seems a no-brainer for the enhancements it’s given my basic queries, programming, brainstorming, writing, and avoiding [hostile moderators on StackOverflow](https://www.jsrowe.com/conversation-experience-chatgpt-vs-stack-overflow/index.html) as well as [ad-ridden spam sites in search results](https://www.theregister.com/2024/01/17/google_search_results_spam/)
+So what is having a generative AI tool worth to me? [$200/month](https://openai.com/index/introducing-chatgpt-pro/) stretches credulity (spoiler: I decided to try it, but that’ll be a post for the future), but I did find working with LLMs valuable enough that even pricing up to ~$50 a month seems palatable for the improvements to basic searches,[^search] programming help,[^so] brainstorming ideas, and drafting outlines.
 
 ### What’s Next for Me
 
@@ -124,13 +120,13 @@ I started this post with the hypothesis that there will continue to be a demand 
 
 If you’ve ever interviewed for a technical position, you know that technical assessments are often run inside a web-based code editor, and what do we say when we get any error? “Oh, IntelliJ[^emacs] would help me right here with autocomplete …” In the technology industry, we’ve learned to adopt and incorporate better and better tooling to stay focused on writing code that solves business problems. LLM code generation is a progressive step toward generating initial drafts, navigating reams of documentation, and providing context-aware, syntactically correct control statements, but nothing here exceeds the speed at which a domain expert can make changes directly.
 
-As it pertains to “good enough” solutions, I do think that the code generated with LLMs is worth evaluating and pursuing, but the suggestion that [AI will replace engineers](https://www.businessinsider.com/mark-zuckerberg-meta-ai-replace-engineers-coders-joe-rogan-podcast-2025-1) I think needs to be viewed in the broader context of business leaders justifying their AI investments, the massive hiring done during the pandemic, the continued positive projections from the [Department of Labor](https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm#tab-6), the end of the [zero interest rate era](https://newsletter.pragmaticengineer.com/p/zirp) and the [Gartner AI Hype Cycle]( https://www.gartner.com/en/documents/5505695). Which, spoiler, has “AI Engineering” at the peak of inflated expectations.
+As it pertains to “good enough” solutions, I do think that the code generated with LLMs is worth evaluating and pursuing, but the suggestion that [AI will replace engineers](https://www.businessinsider.com/mark-zuckerberg-meta-ai-replace-engineers-coders-joe-rogan-podcast-2025-1) I think needs to be viewed in the broader context of business leaders justifying their AI investments, the massive hiring done during the pandemic, the continued positive projections from the [Department of Labor](https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm#tab-6), the end of the [zero interest rate era](https://newsletter.pragmaticengineer.com/p/zirp) and the [Gartner AI Hype Cycle](https://www.gartner.com/en/documents/5505695). Which, spoiler, has “AI Engineering” at the peak of inflated expectations.
 
- <img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/gartner-hype-cycle.png" alt="gartner AI Engineering Hype Cycle" class="center-img img-stylish"/>
+<img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/gartner-hype-cycle.png" alt="gartner AI Engineering Hype Cycle" class="center-img img-stylish"/>
 
 [According to Larry Wall](https://web.archive.org/web/20211014194234/http://threevirtues.com/), engineers are lazy, impatient, and exhibit qualities of hubris. While that hubris may presently slow adoption of LLM-generated code, software engineers already copy code—be it from StackOverflow, `File > New from Template`, or just duplicating a file “close enough” and modifying it. It would be foolish not to look to LLMs to create draft code as a starting point.
 
-LLMs can only repeat what exists in their training data, and [as I’ve covered elsewhere](https://www.jsrowe.com/book-excerpt-the-bedrock-of-generative-ai/index.html) there are date cutoffs within models, which Anthropic has recently been more explicit about highlighting in its responses. Therefore, there will always be a need for software engineers to build something new for it to be present in training data, and therefor available to LLMs to replicate.
+LLMs can only repeat what exists in their training data, and, [as I’ve covered elsewhere]( {% post_url 2024-05-12-finding-llm-training-data-limits %}), there are date cutoffs within models, which Anthropic has recently been more explicit about highlighting in its responses. Therefore, there will always be a need for software engineers to build something new before it can be present in training data and therefore available to LLMs to replicate.
 
 <img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/claude-kotlin-version.png" alt="claude model cutoff" class="center-img img-stylish"/>
 
@@ -174,13 +170,13 @@ AI is especially susceptible to generic error messages. For example, when prompt
 
 One particularly humorous experience is AI suggesting one fix that led to me another error message, then, with that fix, led me back to the original error. I would say this is the closest I’ve come to simulating a recursive “autonomous agent”-like experience.[^agent]
 
-Another area that AI struggles with is generating version-specific code with features only present in that version. I experienced this most predominately with Apple native development (Objective C->Swift), Ruby (2->3), AWS functionality, and aforementioned Kotlin major upgrade. These are very real challenges that don’t have a singular right answer from AI tooling but require a software engineer to understand how to resolve.
+Another area that AI struggles with is generating version-specific code with features only present in that version. I experienced this most predominately with Apple native development (Objective C->Swift), Ruby (2->3), AWS functionality, and the aforementioned Kotlin major upgrade. These are very real challenges that don’t have a singular right answer from AI tooling but require a software engineer to understand how to resolve.
 
 Security is another glaring example where I can see some unintended side effects. I prompted Claude to troubleshoot a permissions issue with a GitHub action and an s3 bucket. Claude suggested that I modify the s3 bucket permission, but I understood I just needed to grant the assigned role that level of access, not extend permissions in the bucket.[^prompting] 
 
 ## Predictions for the Future
 
-“Most people overestimate what they can do in one year and underestimate what they can do in ten years.” –Bill Gates
+> “Most people overestimate what they can do in one year and underestimate what they can do in ten years.” –Bill Gates
 
 The value generation from software development was never in the written code. It has always been in the translation of business requirements to properly deployed solutions for the customer. For all the focus and hyper-fixation on leveraging AI to complete engineering tasks, I see it at best as a productivity tool that will be competed away as more and more companies adopt established best practices. The allure of perfect requirements, perfect software rests on one faulty presumption: rational humans.
 
@@ -200,26 +196,6 @@ There really isn’t a scenario in my mind in which I would want to lose access 
 On-phone destination routing takes advantage of information we don’t have at available to our senses and is often correct down to the minute about our arrival time. Going back to a world of paper maps seems almost barbaric. “And if you get to the bridge, you drove too far.” 
 
 LLMs bring into context a world of information that we won’t always have available for recollection and can create solutions in areas adjacent to my core knowledge much better than I could. But experts are still needed to comprehend what is generated and how it fits into the context of what is produced. Here’s hoping I remain a viable expert into the future.
-
-### Human Knowledge and the Limits of Training Data
-
-One last note on the future for humanity and why LLMs are constrained to digitized published knowledge. Below is one of my favorite charts visualizing the context of all human knowledge and how the pursuit of any specialization moves you closer and closer to the edge of current knowledge and ideally bumps out our available knowledge just a pixel.
-
-An LLM’s capabilities are grounded in its training data, and that training data [has limits](https://arxiv.org/abs/2211.04325). There is so much we still don’t know, and that’s why I’m optimistic that even with advances in generative AI capabilities, there will always be a home for human exploration.
-
-<img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/the-illustrated-guide-to-a-phd.png" alt="" class="center-img img-stylish"/>
-
-As if to prove my point about the current limitations of complex reasoning by LLMs, when I asked AI to take this same chart and incorporate how it would complement the process … well, I think the results speak for themselves. An output that is just a slurry of the prompt. The lesson is that documentation and publication of ideas is still king, for this is the material on which models base their rudimentary “reasoning” capabilities.
-
-<img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/ai-cannot-expand-knowledge.png" alt="" class="center-img img-stylish"/>
-
-This really highlights that I know nothing about getting a PhD or how AI would assist. But it does highlight that human contributions are still important to expand that outer boundary.
-
-On that note, I’d like to thank others for publishing their thoughts on this topic:
-* <https://crawshaw.io/blog/programming-with-llms>
-* <https://nicholas.carlini.com/writing/2024/how-i-use-ai.html>
-* <https://www.seangoedecke.com/how-i-use-llms/>
-* <https://simonwillison.net/2025/Jan/10/ai-predictions/>
 
 ## Appendix: Distinguishing Features
 
@@ -269,6 +245,8 @@ Even though I don’t program complex multi-repo projects anymore, I’ve been a
 
 ## Appendix: Frustrating Aspects of Working with Generative AI
 
+**Note:** I don’t list [confabulation]( https://www.beren.io/2023-03-19-LLMs-confabulate-not-hallucinate/) i.e. hallucinations, because to work with LLMs is to accept the limitations of a statistics-based, non-deterministic guessing machine. [Stacking LLMs]( https://en.wikipedia.org/wiki/Infinite_monkey_theorem) to achieve “chain of thought” reasoning I think improves prompt interpretation, but not “smarter” responses. 
+
 For all the positive experiences working with generative AI—and it is net positive—I experienced a number of shortfalls.
 
 ### Both: Citations
@@ -291,51 +269,17 @@ Even with the paid plans, I would frequently encounter hard stops with Claude wi
 
 <img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/claude-limit-2.png" alt="" class="center-img img-stylish"/>
 
-### Waiting on Generative AI: Compute Cycle Time
+### All Generative AI: Compute Cycle Time
 
 I lost count of the number of times I grew frustrated waiting for any model to incorporate small revisions into the larger solution. It was so exasperating that I would often use generative AI to achieve about 80 percent completion,[^pareto] then switch to direct editing to complete the task. I don’t foresee any of this tooling replacing experts in their respective fields; however, it definitely allows for exploring knowledge-adjacent areas and rapidly prototyping the zero->one process. 
 
 ## Appendix: Generative AI Product Alternatives
 
-It was enough work copy/pasting prompts between just two chat interfaces that I really didn’t feel the need to add more products to my evaluation. This will be an ongoing process as new products are offered. I now have a rough framework by which to evaluate them. I also shied away from wrapper aggregate products from unknown publishers. I have a hard enough time thinking about what data I’m sharing with Anthropic and OpenAI, let alone some third-party wrapping tool.
+**Note:** I have left this heading here as it was originally published, but moved this section to a standalone post: [A Crowded LLM Field](<<TBD>>). With a new section outlining my criteria for utilizing these tools.
 
-Additionally, my more complex use-cases surrounding software engineering responses (like the below from Gemini) didn’t exactly fill me with confidence. Just my search for other models made me realize how many have proliferated. I honestly don’t see myself going beyond known American companies with at least a semblance of credibility on the line.
+It was enough work copy/pasting prompts between two chat interfaces that I decided to focus on the models I was already paying for. In writing this comparison, I’ve discovered how many LLMs have proliferated.
 
-### Gemini
-
-I know that Google had much of the original insight and probably a good research lead on LLMs, but they didn’t put that into product form until after I’d gotten used to working with ChatGPT and Claude. This is particularly interesting to me because <https://lmarena.ai/?leaderboard>, at time of this writing, had Gemini in the top two positions. Nevertheless, I hadn’t used it at all except for the one time it failed to generate the code I asked for, so I moved on. I think [Gemini](https://support.google.com/docs/answer/14355406?hl=en) is being released to Google Docs/Gmail, but again, I don’t find generative AI useful within the context of my workspace.
-
-<img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/gemini-no-code.png" alt="" class="center-img img-stylish"/>
-
-### GitHub Copilot
-
-I didn’t mind so much the IntelliSense that Copilot offers, but I did *not* like the prompt and response within the text editor. This broke my flow state and concentration, and would often litter my working file with dozens if not a hundred lines of unwanted code.
-
-<img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/github-copilot.png" alt="" class="center-img img-stylish"/>
-
-### Amazon Q
-
-[Amazon Q]( https://aws.amazon.com/q/) recently started getting pushed in my AWS login, I was aware of this product when it was “CodeWhisperer” and had not heard anything positive. But with its new advertised capabilities, it’s worth another look.
-
-### Apple Intelligence
-
-At the time of launch, Apple Intelligence just appeared to me to be a [wrapper to OpenAI’s ChatGPT](https://support.apple.com/guide/mac-help/use-chatgpt-with-apple-intelligence-mchlfc5cf131/mac). Now, when Apple moves to AI processing on-chip, I will definitely take another look.
-
-### Grok
-
-[Points for creative naming](https://en.wikipedia.org/wiki/Grok), but no, I have not used this at all.
-
-### Llama Running Locally
-
-After all the time spent with Claude and ChatGPT, this is next on my list to run an LLM on a local machine, especially for generic brainstorming non-coding tasks. Looks like the most recent version (Llama 3.3) was released December 7, 2024.
-
-### Perplexity.ai
-
-<https://www.perplexity.ai> I mean, you can’t catch them all. I have not used this personally.
-
-### DeepSeek.com
-
-<http://deepseek.com/> As I was wrapping up my notes on this post, [this model dropped](https://arxiv.org/abs/2412.19437) and made a big splash for the drastic decrease in training costs and the fact that it originated in China. I was able to try out its reasoning capabilities, but the slow speed at which it performs this work reminded me of ChatGPT2.5. It’s on my list to spend more time with now that it’s on [Azure Foundry](https://azure.microsoft.com/en-us/blog/deepseek-r1-is-now-available-on-azure-ai-foundry-and-github/).
+I don’t see myself going beyond established companies that offer a paid version of their products, allowing me to opt out of providing training data for other customers. I’ve also shied away from wrapper products from brand-new companies. I have a hard enough time thinking about what data I’m sharing with Anthropic and OpenAI, let alone with some LLM model wrapped product.
 
 ### Zoom/Slack/Atlassian
 
@@ -343,19 +287,32 @@ It’s worth reminding readers about my disclaimer in the footer that all though
 
 Particularly, I want to highlight Zoom AI Assistant, which does a decent job summarizing large group meetings and capturing a plurality of action items. I would not rely on it in lieu of a human summary or attending the meeting, but to recap notes it’s a great help. A variety of other vendors offer similar tooling that I’ve been exposed to on various meetings, and all seem to offer basic transcripts and summaries.
 
-The Slack/Jira integration has a great feature that will summarize a thread’s content and generate a title and description for a ticket. It’s good enough for an initial draft and much better than an empty ticket that says “see thread.”
+The Slack/Jira integration has a great feature that will summarize a thread’s content and generate a title and description for a ticket. It’s good enough for an initial draft and much better than an empty ticket that says “see thread.” Within Jira itself, I find myself using the AI Composer to get a starting draft JQL and then iterate when searching for issues.
+
+## Appendix: Human Knowledge and the Limits of Training Data
+
+**Note:** I have left this heading here as it was originally published, but moved this section to a standalone post: [The Unreasonable Ones: Humanity’s Role in an AI World]({% post_url 2025-02-20-the-unreasonable-ones %}). 
+
+In short, an LLM’s capabilities are grounded in its training data, and that training data [has limits](https://arxiv.org/abs/2211.04325). That’s why I’m optimistic that even with advances in generative AI capabilities, there will always be a home for human exploration.
+
+On that note, I’d like to thank others for publishing their thoughts on this topic:
+* <https://crawshaw.io/blog/programming-with-llms>
+* <https://nicholas.carlini.com/writing/2024/how-i-use-ai.html>
+* <https://www.seangoedecke.com/how-i-use-llms/>
+* <https://simonwillison.net/2025/Jan/10/ai-predictions/>
 
 ---
 
 ## Significant Revisions
 
+- {{ "2025-02-19 23:43:06 -0500" | date_to_string: "ordinal", "US" }} Moved several appendices to their own posts, focusing the thrust of this post to the AI comparison it started out as.
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "2025-01-13 23:46:34 -0500" | date_to_string: "ordinal", "US" }} Draft created
 
 
 ## Footnotes
 
-[^genesis]: I can trace my following of the industry to two key moments: when "What is ChatGPT" was posted to [Slashdot December 3rd 2022](https://news.slashdot.org/story/22/12/04/0248249/what-is-chatgpt-the-ai-chatbot-thats-taking-the-internet-by-storm/) and March of 2023 when I first read Reid Hoffman’s book [*Impromtu*](https://www.impromptubook.com).
+[^genesis]: I can trace my following of the industry to two key moments: when "What is ChatGPT" was posted to [Slashdot on December 3, 2022](https://news.slashdot.org/story/22/12/04/0248249/what-is-chatgpt-the-ai-chatbot-thats-taking-the-internet-by-storm/), and March 2023 when I first read Reid Hoffman’s book [*Impromtu*](https://www.impromptubook.com).
 
 [^pricing]: I predict that in the long term LLM pricing will eventually reflect the costs to produce the technology as currently [large cash infusions](https://www.nytimes.com/2024/09/27/technology/openai-chatgpt-investors-funding.html) are needed to keep the company operating.
 
@@ -379,6 +336,10 @@ The Slack/Jira integration has a great feature that will summarize a thread’s 
 
 [^frontier]: “Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality.”
 
-[^agent]: This post was primarily focused on leveraging AI chat as a brainstorming and drafting tool. In the future I plan to evaluate [“Agents”](https://huyenchip.com/2025/01/07/agents.html)
+[^agent]: This post was primarily focused on leveraging AI chat as a brainstorming and drafting tool. In the future I plan to evaluate [“Agents”](https://huyenchip.com/2025/01/07/agents.html).
 
 [^emacs]: Yes, I know [Real Programmers](https://xkcd.com/378/).
+
+[^search]: How [spam sites in search results](https://www.theregister.com/2024/01/17/google_search_results_spam/) are degrading the traditional search experience has been widely covered.
+
+[^so]: StackOverflow can be an unforgiving place [for the unitiated](https://www.jsrowe.com/conversation-experience-chatgpt-vs-stack-overflow/index.html).
