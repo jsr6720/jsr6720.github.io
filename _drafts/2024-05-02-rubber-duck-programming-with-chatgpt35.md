@@ -10,7 +10,19 @@ uid: A9C73222-EBBE-448F-BF25-94777638BC58
 
 ## Intro Heading
 
-Content
+actually going to steal this draft to focus on critical thinking with ai engineering
+
+1. The Socratic Engineer: How AI Augments the SDLC
+- automation with airlines didn't mean fewer pilots
+- "copying" without comprehension has always existed. Copying the math homework might've bought you time to study for the test, but does nothing for your comprehension of a subject
+- ruby duck troubleshooting with generative ai
+- critical thinking, planning and execution are the domain of humans. making tradeoffs with discrete resources
+
+https://nmn.gl/blog/ai-and-learning
+
+
+
+
 
 ---
 
