@@ -14,6 +14,8 @@ Mostly just a ‘duh’ moment by myself.
 
 I was fetching properties out of a database using hibernate objects. In my test scenario I asked if `"true" == "true"` which does work. However a String object does not always equal a string literal nicely.
 
+[String JavaDocs](https://web.archive.org/web/20110310094819/http://download.oracle.com/javase/1.4.2/docs/api/java/lang/String.html#equalsIgnoreCase(java.lang.String))
+
 ```java
 public class Test {
 
@@ -28,22 +30,17 @@ public class Test {
 		System.out.println(result2);
 	}
 }
-
 ```
 
-[String JavaDocs](http://download.oracle.com/javase/1.4.2/docs/api/java/lang/String.html#equalsIgnoreCase(java.lang.String))
+&nbsp;
 
 ---
 
-### Significant Revisions
+## Significant Revisions
 
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/05/23/java-string-comparison/)[^draft]
 
-### Footnotes
+## Footnotes
 
 [^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
-
-	Original Wordpress categories: ['Java']
-
-	Original Wordpress tags: "Java", "Java", "string comparison"
