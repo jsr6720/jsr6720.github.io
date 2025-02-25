@@ -41,6 +41,6 @@ This really highlights that I know nothing about getting a PhD or how AI would a
 
 ## Footnotes
 
-[^bedrock]: I wrote elsewhere about [dataset limitations]({% post_url 2025-02-26-book-excerpt-the-bedrock-of-generative-ai %}#critical-thought-dataset-limitations).
+[^bedrock]: I wrote elsewhere about [dataset limitations]({% post_url 2025-02-06-book-excerpt-the-bedrock-of-generative-ai %}#critical-thought-dataset-limitations).
 
 [^agi]: I acknowledge that [Sam Altman](https://blog.samaltman.com/three-observations) feels that AGI will be upon us within 10 years and will replace even the need for [humans](https://www.smbc-comics.com/comic/joke-3).

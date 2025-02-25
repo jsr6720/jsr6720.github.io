@@ -21,3 +21,15 @@ right tool for the job metaphor. if all you have is a hammer then everything loo
 - trajectory of trained CS graduates
 - macroeconomic global forces (the world is flat)
 - trends in farmers did not match trends in population growth, there's another factor, technology
+
+10. AI is all about the big T skills model. AI can help broading grasp breadth, but cannot penetrate depth
+
+11. building on the big T. mirroring of skills
+
+(maybe quad matrix) -> or meme about bell curve
+- you know -> helps get things done, but can be in the way
+- you don't know -> frustrating, combined with hallluciations can cause more frustration
+- you kinda know -> sweet spot. gets you going and unstuck, but don't completely solve everything
+
+Use prompting to compare to existing knowledge. like I know how jekyll works. compare hugo. 
+or I know how jenkins works compare github actions
