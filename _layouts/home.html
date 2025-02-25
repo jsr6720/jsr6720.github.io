@@ -6,8 +6,8 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2>Most Recent Posts (limit:5)</h2>
-    {%- for post in site.posts limit:5 -%}
+    <h2>10 Most Recent Posts</h2>
+    {%- for post in site.posts limit:10 -%}
     <div class="post-item">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <div class="post-flex-container">

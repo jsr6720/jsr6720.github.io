@@ -1,22 +1,14 @@
 ---
 layout: post
 author: James Rowe
-title: "BLUF: Whitepaper Title"
+title: "Key Insights: <<whitepaper title>>"
 date: date "+%Y-%m-%d %H:%M:%S %z"
 categories: category1 category2
 tags: tagyear tag1 tag2
 uid: uuidgen
 ---
 
-## Bottom Line Up Front (BLUF)
-
-quick summary
-
-### Big Takeaway
-
-content
-
-### Key Findings
+## Key Findings
 
 1. *Finding 1*
 2. *Finding 2*
@@ -57,15 +49,11 @@ test
 
 ---
 
-## Author's Note
-
 ## Significant Revisions
-
-tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "date "+%Y-%m-%d %H:%M:%S %z"" | date_to_string: "ordinal", "US" }} Draft created
 
-## EOF/Footnotes
+## Footnotes
 
 [^316]: "cuz [Stone Cold](https://en.wikipedia.org/wiki/Stone_Cold_Steve_Austin) said so" is iconic.

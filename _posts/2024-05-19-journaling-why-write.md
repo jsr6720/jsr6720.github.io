@@ -1,105 +1,65 @@
 ---
 layout: post
 author: James Rowe
-title: "Journaling, why write?"
+title: "Journaling, Why Write?"
 date: "2024-05-19 16:00:59 -0400"
 category: personal
 tags: 2024 writing
 uid: 70796E95-880F-464C-8A0B-EB4B4BA04FC1
 ---
 
-## What is it?
+> “Be yourself, everyone else is already taken.” –Oscar Wilde
 
-Call it a memoir, journal, diary or even just the humble shopping list(do commit messages count?)[^commits]. Making a mark is the very essence of an idea wrought to life. The smallest note can persist through antiquity in both humorous and unintended ways.[^assholes] 
+## What Counts as Writing?
 
-What is it about our ancestors that resulted in the first one to raise their [left-hand](https://en.wikipedia.org/wiki/Cave_painting#/media/File:SantaCruz-CuevaManos-P2210651b.jpg) and make an outline of it? Was it their rock? Their home? Were they bored? Consumed in ritual? For the lolz?
+Call it a memoir, journal, diary, or even a memo pad. (Do GitHub [commit messages](https://github.com/jsr6720/jsr6720.github.io/commit/ff563a45470e49ccad10ff3ae85de08c9647cb89) count?) Writing is the very essence of an idea wrought to life. The smallest scribed note can persist through history in both humorous and unintended ways.[^atrocities] 
 
-## Why do I write?
+What is it about humans that resulted in the one of our ancestors to raise a [hand](https://en.wikipedia.org/wiki/Cave_painting#/media/File:SantaCruz-CuevaManos-P2210651b.jpg) and leave their mark? Was it their rock? Their home? Were they bored? Consumed in ritual? For the lulz?
 
-Mostly as means of reflection. Of planning. Being able to move backwards in time and connect with my thoughts is useful. Mostly that in writing I clarify my thoughts[^archive]. For the joy of writing, and re-writing.
+## Why Do I Write?
 
-Not that I've kept all my memos, sometimes it's best to let go and move forward. For every 100 pages I've written I've consulted maybe 1. But if my conscious thoughts are to stop with me, maybe some of this chaff will fall a few steps further.[^philosophy]
+I write as a means of reflection, thinking, relaxation and planning. By writing, I can clarify my thoughts; I write for the joy of writing, and rewriting, and ultimately publishing some small subset of those thoughts for others. 
 
-## So what is this site?
+I recently found this quote I that I think captures my feelings intimately:
 
-I've always thought of it as personal observations and musings of the world around me. Especially as it pertains to the things that I've focused my life on. I started to collect some of my digital litter from across the interwebs and I figured if I can't remember my login to [txcowboycoder.wordpress.com](https://txcowboycoder.wordpress.com) I can at least reassert ownership of it here.
+> Writing a blog on your own site is a way to escape all of that(social platforms). Plus your words build up over time. That’s unique. Nobody else values your words like you do. – [Matt Webb]( https://interconnected.org/home/2025/02/19/reflections)
 
-## llm and creating a persona from discovered work
+## So What Is This Site?
 
-No. Don't. I feel like the series *Black Mirror* has a number of episodes that covers this, *[Be Right Back](https://en.wikipedia.org/wiki/Be_Right_Back)* comes to mind. But as predictable human species may be in aggregate I still hope(?) that individually we are irrational agents[^irrational].
+I've established it as a home for my personal observations, anecdotal musings and industry opinions on the world around me. Before this site, I felt my thoughts were strewn [across](https://github.com/jsr6720/goodreads-csv-to-md) the [interwebs]( https://github.com/jsr6720/wordpress-html-scraper-to-md) on various platforms[^oatmeal].
 
-That even if an ai or llm could predict this next move, could it predict all of them? Is the AI version of myself the idealized outcome of myself? So many questions Tony. Best to just leave me behind and pursue [the woman in red](https://web.archive.org/web/20230210144152/https://matrix.fandom.com/wiki/Woman_in_Red).
+I figured if I can't remember my login to <https://txcowboycoder.wordpress.com> and LinkedIn never resurfaces [my articles](https://www.linkedin.com/in/jsr6720/recent-activity/articles/) , I can assert ownership of writings [here]( https://github.com/jsr6720/jsr6720.github.io). Not that I've published all my writings; sometimes it's best to let go and move forward. I also enjoy being able to pinpoint exact moments in time I [discovered something new](https://www.jsrowe.com/joined-github/index.html).
 
-Besides are billions of tokens not just the hyper realized version of [The Library of Alexandria](https://en.wikipedia.org/wiki/Library_of_Alexandria)? All human knowledge organized, categorized and cross referenced?
+## Denting the Universe
 
-> be yourself everyone else is taken - Oscar Wilde
+If Steve Jobs [dented the universe]( https://web.archive.org/web/20211005125353/https://www.macworld.com/article/214642/steve-jobs-making-a-dent-in-the-universe.html), then why not my observations of his dent? I was here. I saw.
 
-### A sub-note on llms
+To etch a singular micron in the Voyager golden records[^voyager] of humanity, is a fun thought. “But James, digital[^xkcd] will go poof one day.” I know. Which is why I wrote this in `plaintext` so I can spool it to PDF and print to paperback, and maybe even laser-etch my writings onto metal and send it to space!
+
+### This Site as Training Data for LLMs  
+
+Should this site be used as a source for training data? I feel like the series *Black Mirror* has a number of episodes that cover this; [“Be Right Back”](https://en.wikipedia.org/wiki/Be_Right_Back) comes to mind. But as predictable as the human species might be in aggregate, I still think that individually, we are irrational agents[^irrational] and thus unique.
+
+Or at least until LLMs figure out my humor.
 
 <img src="/assets/posts-images/chatgpt-4o-mocking-me-with-response.png" alt="chatgpt-4o mocking me" class="center-img img-stylish"/>
 
-## Famous entries I think of from time to time
-
-### The first computer "bug"
-
-<img src="/assets/posts-images/first-actual-case-of-bug-NMAH-92-13129.jpg" width="50%" alt="first computer bug" class="center-img img-stylish"/>
-
-> Downloaded from https://americanhistory.si.edu/collections/nmah_334663 with companion [meta-data](/assets/posts-images/file_metadata_NMAH-NMAH2000-03035_info.txt) [^guid]
-
-### The light has gone out - Roosevelt
-
-A more somber entry. But I think of what weight two crosses bore that day.
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Light_has_gone_out.jpg" width="50%" alt="light has gone out theodore roosevelt" class="center-img img-stylish"/>
-
-### The birth of an airline
-
-Just a [simple napkin](https://swamedia.com/releases/release-f98b1533f40d99e9c2d9269559049e22-herb-rollin-the-birth-of-southwest-airlines) and an idea.
-
-### Many examples of letters
-
-Of which [John and Abigail Adams](https://www.masshist.org/digitaladams/archive/letter/) come to mind.
-
-### Memoirs and diaries
-
-*Diary of Anne Frank* maybe being the most famous. *[Ernest Shackleton's diary of the Quest Expedition, 1921-22](https://www.spri.cam.ac.uk/archives/shackleton/articles/1537,3,9.html)* another.
-
-### Family roots
-
-So many (all?) of the episodes of [Family Roots](https://www.pbs.org/show/finding-your-roots/) relies on someone writing something down.
-
-### Ending with some humor
-
-Closing with some humor. With my own distortion.
-
-If Steve Jobs gets to put a dent into the universe, then why not my observations of his dent? I was here. I saw.
-
-On the golden records[^voyager] of humanity, having etched perhaps a singular micron is a fun thought. Who knows, maybe I'll be the sole surviving record of copper ingots.[^copper]
-
-But James, digital will go poof one day. I know. Which is why I wrote this in `plaintext` so I can spool it to pdf and print to paperback and maybe even laser etch into scrap metal and send it to space!
-
-<img src="/assets/posts-images/xkcd-digitial-data-jrowe.png" width="50%" alt="xkcd 1683 digital data" class="center-img img-stylish"/>
 
 ---
 
-### Significant Revisions
+## Significant Revisions
 
+- {{ "2025-02-18 01:47:56 -0500" | date_to_string: "ordinal", "US" }} I originally wrote this when I wasn’t sure the purpose of this site. Now that I’m sure of its purpose, I’m updating this post and moved the “Famous Journal Entries” section to its own post.
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-### Footnotes
+## Footnotes
 
-[^assholes]: For this post, please allow me to set aside serious works documenting atrocities. These deserve their own preservation and study far beyond any of my personal ramblings.
+[^atrocities]: For this post, please allow me to set aside serious works documenting atrocities. These deserve their own preservation and study far beyond any of my personal musings.
 
-[^guid]: americanhistory.si.edu gets it. Included in their meta data is a `guid`. I see you Director Howard Hathaway Aiken. I wondered if I was silly to include a guid in my headers. I wonder no more.
+[^irrational]: Most of my understanding of irrational humans comes from [Dan Ariely](https://web.archive.org/web/20240402003230/https://danariely.com/books/), but also [SMBC web comics](https://www.smbc-comics.com/comic/rational-2) by [Zach Weinersmith](https://en.wikipedia.org/wiki/Zach_Weinersmith).
 
-[^archive]: I had a lot of fun writing this, but I think one day destined for the [`_archive`](https://github.com/jsr6720/jsr6720.github.io/blob/main/_archive/README.md) collection.
+[^oatmeal]: Matthew Inman really nails platform fatigue in [cartoon form]( https://theoatmeal.com/comics/reaching_people)
 
-[^commits]: Bummer. [GitHubs Archive Program](https://archiveprogram.github.com/faq/) excludes commit data.
+[^voyager]: I think it’s fascinating that someone had to decide what to add to the [golden record](https://en.wikipedia.org/wiki/Voyager_Golden_Record). If the digital landscape is infinite, will this one day get picked up by a planetary life scan? "No signs of intelligent life, Captain." Ha! I definitely do write some things for the lulz.
 
-[^philosophy]: I took one philosophy class in college. And here we are.
-
-[^irrational]: Lots of what I understand on this comes from [Dan Ariely](https://web.archive.org/web/20240402003230/https://danariely.com/books/). But also [smbc web comics](https://www.smbc-comics.com/comic/rational-2) by someone named [Weinersmith](https://en.wikipedia.org/wiki/Zach_Weinersmith)
-
-[^copper]: I laugh only because I moved my own [Verizon Complaints](/_archive/2011-01-09-verizon-restocking-fee-is-not-a-penalty.md) to an archive myself. See [the oldest known customer complaint](https://web.archive.org/web/20240418012802/https://www.nationalgeographic.com/history/article/ea-nasir-copper-merchant-ur) saved by a merchant.
-
-[^voyager]: I think its fascinating that someone had to decide what to add to the [golden record](https://en.wikipedia.org/wiki/Voyager_Golden_Record). If the digital landscape is infinite will one day this get picked up by a planetary life scan? "No signs of intelligent life captain". Ha! Definitely for the lolz.
+[^xkcd]: For posterity I’ve cropped my own version of [XKCD 1683](/assets/posts-images/xkcd-digitial-data-jrowe.png).

@@ -4,7 +4,7 @@ author: James Rowe
 title: "Book Excerpt: ‘The Bedrock of Generative AI’"
 date: 2025-02-06 00:31:27 -0500
 category: technology
-tags: 2025
+tags: 2025 book
 uid: 6E15C386-F20C-45DF-88A8-F8D5D738292F
 toc: true
 ---
