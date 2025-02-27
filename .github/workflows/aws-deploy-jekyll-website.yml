@@ -55,11 +55,11 @@ jobs:
           JEKYLL_ENV: production
 
       - name: Check for broken links (warnings only)
-        continue-on-error: true  # This prevents build failure
+        continue-on-error: true
         run: |
           gem install html-proofer
           echo "::warning::Running HTML-Proofer checks - errors will be reported but won't fail the build"
-          htmlproofer ./_site --allow-hash-href --check-html --disable-external || echo "::warning::HTML-Proofer found issues, see log above for details"
+          htmlproofer ./_site --allow-hash-href --checks "Links,Images,Scripts" || echo "::warning::HTML-Proofer found issues, see log above for details"
     
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
