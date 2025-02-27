@@ -1,0 +1,46 @@
+name: AWS CloudFront Invalidations
+
+on:
+  workflow_dispatch:
+    inputs:
+      operation:
+        description: 'AWS CloudFront Invalidations'
+        required: true
+        default: 'create-invalidation'
+        type: choice
+        options:
+          - create-invalidation
+          - list-invalidations
+
+jobs:
+  cloudfront-operations:
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
+    
+    steps:
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets.AWS_GHA_ROLE_TO_ASSUME }}
+          aws-region: ${{ vars.AWS_REGION }}
+          
+      - name: Create CloudFront Invalidation
+        if: inputs.operation == 'create-invalidation'
+        run: |
+          echo "Creating invalidation for /* paths..."
+          INVALIDATION_ID=$(aws cloudfront create-invalidation \
+            --distribution-id ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }} \
+            --paths "/*" \
+            --query 'Invalidation.Id' \
+            --output text)
+          echo "Invalidation created with ID: $INVALIDATION_ID"
+      
+      - name: List CloudFront Invalidations
+        if: inputs.operation == 'list-invalidations'
+        run: |
+          echo "Listing recent invalidations..."
+          aws cloudfront list-invalidations \
+            --distribution-id ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }} \
+            --query 'InvalidationList.Items'
