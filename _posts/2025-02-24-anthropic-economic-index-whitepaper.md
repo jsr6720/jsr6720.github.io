@@ -8,7 +8,7 @@ tags: 2025 ai claude anthropic
 uid: 2D86F16C-F228-47C2-8AD2-7D6CA6A1CD94
 ---
 
-Anthropic has released [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index) which provides insights into how users are leveraging its online chat tool.
+Anthropic has released [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index), which provides insights into how users are leveraging its online chat tool.
 
 [The WEF](https://www3.weforum.org/docs/WEF_Jobs_of_Tomorrow_Generative_AI_2023.pdf), [WIRED](https://www.wired.com/story/ai-impact-on-work-mary-daly-interview/), [NYT](https://www.nytimes.com/2023/06/10/business/ai-jobs-work.html), and a host of [AI media coverage](https://www.sciencedirect.com/science/article/abs/pii/S0736585320300927) have published observations and opinions from pundits on the potential economic impact of AI tools.
 
@@ -18,7 +18,7 @@ In short, it seems that [globalization](https://www.jstor.org/stable/2601301) is
 
 ### Knowledge Work Dominates AI Usage
 
-Using Clio, this study classified interactions with Claude into broad categories, with Critical Thinking, Writing,[^writing] Systems Analysis, and Complex Problem-Solving in the top percentage of total interactions. I have personally found [brainstorming (complex problem-solving?)]( https://www.jsrowe.com/how-i-use-llm-ai-tools-everyday/index.html#using-generative-ai-to-brainstorm) to be the most powerful feature of LLMs—it’s not so much that it can DO the task as it can help think through problems and explore topics from various angles.
+Using Clio, this study classified interactions with Claude into broad categories, with Critical Thinking, Writing, Systems Analysis, and Complex Problem-Solving in the top percentage of total interactions. I have personally found [brainstorming (complex problem-solving?)]( https://www.jsrowe.com/how-i-use-llm-ai-tools-everyday/index.html#using-generative-ai-to-brainstorm) to be the most powerful feature of LLMs—it’s not so much that it can DO the task as it can help think through problems and explore topics from various angles.
 
 <img src="/assets/posts-images/anthropic-claude-economic-chart-top-ten.png" alt="anthropic chart" class="center-img img-stylish"/>
 
@@ -47,7 +47,3 @@ Handa, Kumal, Alex Tamkin, Miles McCain, et al. 2025. “Which Economic Tasks Ar
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "2025-02-15 16:46:42 -0500" | date_to_string: "ordinal", "US" }} Draft created
-
-## Footnotes
-
-[^writing]: It seems myopic to be surprised by this, but software development is <4 percent of the labor market. The fact that Programming is number 6 in the list reflects that **every** knowledge worker writes, which might further explain the [widespread adoption](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work) of LLMs among employees. 
