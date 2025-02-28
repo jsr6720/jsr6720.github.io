@@ -11,7 +11,7 @@ toc: true
 
 The following is an excerpt from my published book [*AI Primer for Business Leaders*](https://www.amazon.com/Primer-Business-Leaders-Demystifying-Generative-ebook/dp/B0DKQSV5H4) detailing how training data quality is the bedrock of generative AI tools. At the time I wrote this chapter, using synthetic data was not a proven training technique and would lead to model collapse.
 
-# The Bedrock of Generative AI: High Quality Data
+## The Bedrock of Generative AI: High Quality Data
 
 The importance of high-quality source datasets cannot be understated. The utility of any generative AI solution will be built upon the source data acquired. Currently, datasets are sourced from anywhere and everywhere possible.  As generative AI products are released and benchmarked,  they often indicate a "dataset size"  that can be thought of as the amount of source data used to make all future educated guesses in response to customer queries.
 
@@ -66,11 +66,11 @@ Copyright &copy; 2024 by James Rowe. From the book *AI Primer for Business Leade
 
 ---
 
-### Significant Revisions
+## Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-### Footnotes
+## Footnotes
 
 In the published work, these are a combination of endnotes and footnotes. In this post, I've summarized them to just their links below.
 
