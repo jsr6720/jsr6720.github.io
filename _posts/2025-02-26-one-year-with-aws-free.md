@@ -56,7 +56,7 @@ I’m so excited to see my various domains picking up a little bit of traffic. I
   </figcaption>
 </figure>
 
-### AWS Free Tier offers
+### AWS Free Tier Offers
 
 On [Reddit](https://www.reddit.com/search/?q=aws+free+tier+static+site), there are frequently posts inquiring about AWS Free tier, and users correctly respond that you can use [AWS CloudFront+S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html) to host a static website. This post provides my real data on what resulting traffic might look like when starting a brand-new site.
 
