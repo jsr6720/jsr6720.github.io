@@ -4,7 +4,7 @@ author: James Rowe
 title: "Key Insights: <<whitepaper title>>"
 date: date "+%Y-%m-%d %H:%M:%S %z"
 categories: category1 category2
-tags: tagyear tag1 tag2
+tags: YYYY tag1 tag2
 uid: uuidgen
 ---
 
