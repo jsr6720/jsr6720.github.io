@@ -9,7 +9,7 @@ uid: B3DAE9ED-F4DA-4BBF-BD3A-495B08FC9B67
 ---
 
 <figure>
-  <img src="/assets/posts-images/2025-02-26-one-year-with-aws-free/aws-services-reddit-meme.png" alt="CloudWatch Metrics" class="center-img img-stylish"/>
+  <img src="/assets/posts-images/2025-02-26-one-year-with-aws-free/aws-services-reddit-meme.png" alt="AWS services meme showing a car salesman slapping the roof of a car" class="center-img img-stylish"/>
   <figcaption>
     This bad boy can fit so many services...
     <footer>

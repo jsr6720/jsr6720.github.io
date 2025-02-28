@@ -18,9 +18,9 @@ In short, it seems that [globalization](https://www.jstor.org/stable/2601301) is
 
 ### Knowledge Work Dominates AI Usage
 
-Using Clio, this study classified interactions with Claude into broad categories, with Critical Thinking, Writing, Systems Analysis, and Complex Problem-Solving in the top percentage of total interactions. I have personally found [brainstorming (complex problem-solving?)]( https://www.jsrowe.com/how-i-use-llm-ai-tools-everyday/index.html#using-generative-ai-to-brainstorm) to be the most powerful feature of LLMs—it’s not so much that it can DO the task as it can help think through problems and explore topics from various angles.
+Using Clio, this study classified interactions with Claude into broad categories, with Critical Thinking, Writing, Systems Analysis, and Complex Problem-Solving in the top percentage of total interactions. I have personally found [brainstorming (complex problem-solving?)]({% post_url 2025-02-12-how-i-use-llm-ai-tools-everyday %}#using-generative-ai-to-brainstorm) to be the most powerful feature of LLMs—it’s not so much that it can DO the task as it can help think through problems and explore topics from various angles.
 
-<img src="/assets/posts-images/anthropic-claude-economic-chart-top-ten.png" alt="anthropic chart" class="center-img img-stylish"/>
+<img src="/assets/posts-images/anthropic-claude-economic-chart-top-ten.png" alt="Chart showing top ten economic tasks performed with Claude according to Anthropic Economic Index" class="center-img img-stylish"/>
 
 ### Automation vs. Augmentation Workflows
 

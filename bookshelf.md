@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bookshelf
-permalink: /bookshelf/index.html
+permalink: /bookshelf/
 uid: 56EBCCD0-E5AD-4376-86FB-5EF9A5E96160
 ---
 

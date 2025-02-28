@@ -2,7 +2,7 @@
 layout: page
 title: Books
 tags: book reviews
-permalink: /books/index.html
+permalink: /books/
 ---
 
 ## Book thoughts

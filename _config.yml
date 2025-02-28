@@ -5,6 +5,8 @@
 title: James' Thoughts
 author: James Rowe
 email: jrowe6720@gmail.com
+# add it to header for url sharing
+logo: /jsr6720-github-io-repo-social-preview.png
 description: >- # mutli line capable
   The digital journal of James Rowe. Something between WordPress, LiveJournal and gists.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -22,7 +24,7 @@ bluesky_username: jsr6720
 # Build settings
 
 # todo consider using collections one day
-permalink: /:title/index.html # :output_ext meh(?)
+permalink: /:title/
 
 # using collections to keep content in this repo but away from published site
 # but linkable back via github hosting
