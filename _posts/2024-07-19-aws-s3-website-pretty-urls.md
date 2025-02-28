@@ -52,7 +52,7 @@ I am not an infrastructure expert,[^broken] and navigating the thousands of page
 </details>
 3. Publish function and Associate it with your CloudFront distribution.
  
-<img src="/assets/posts-images/2024-07-19-aws-s3-website-pretty-urls/cloud-front-viewer-request-association.png" alt="AWS CloudFront function association" class="center-img img-stylish"/>
+<img src="/assets/posts-images/2024-07-19-aws-s3-website-pretty-urls/cloud-front-viewer-request-association.png" alt="AWS CloudFront function association showing viewer request trigger" class="center-img img-stylish"/>
 
 ## Original Post—Jekyll Site on AWS CloudFront+S3
 
@@ -64,7 +64,7 @@ Jekyll pretty URLs work “out of the box” when using [GitHub Pages](https://p
 But when I switched to using an [AWS CloudFront distribution to serve a static website](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/getting-started-cloudfront-overview.html), Jekyll pretty URLs no longer worked, and I got an HTTP 403 Access Error[^fowler] when trying to load any URL other than the root domain.
 
  
-<img src="/assets/posts-images/2024-07-19-aws-s3-website-pretty-urls/access-denied-no-slash.png" alt="aws xml AccessDenied" class="center-img"/>
+<img src="/assets/posts-images/2024-07-19-aws-s3-website-pretty-urls/access-denied-no-slash.png" alt="AWS S3 error message showing XML AccessDenied when accessing URL without trailing slash" class="center-img"/>
 
 ### CloudFront Setting Default Root Object 
 
@@ -94,7 +94,7 @@ The moral is: The more I work with generative AI, the more it amazes me how quic
 
 So as I explore and adopt generative AI into my work, as models get more advanced and provide even more confidently wrong answers, I must be sure to apply critical thought to the solutions provided. Or just tell it when it’s wrong.
  
-<img src="/assets/posts-images/chat-gpt-aws-you-are-wrong.png" alt="ChatGPT is a rug" class="center-img img-stylish"/>
+<img src="/assets/posts-images/chat-gpt-aws-you-are-wrong.png" alt="Screenshot showing conversation where ChatGPT provides incorrect AWS information" class="center-img img-stylish"/>
 
 ---
 

@@ -28,7 +28,7 @@ Below is one of my favorite charts visualizing how expanding the entirety of hum
 
 To prove my point that LLMs cannot envision a world beyond the context provided, I prompted AI to take the above chart and add itself to the process—well, I think the results speak for themselves: an output that is a jumbled slurry of the original image. The moral is that publication of new ideas will shape the future, and only then will they be incorporated into LLMs.[^agi]
 
-<img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/ai-cannot-expand-knowledge.png" alt="the illustrated guide to a phd" class="center-img img-stylish"/>
+<img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/ai-cannot-expand-knowledge.png" alt="Distorted version of PhD knowledge diagram showing AI's inability to expand beyond known data" class="center-img img-stylish"/>
 
 This really highlights that I know nothing about getting a PhD or how AI would assist. But it does highlight that human contributions are still important to expand that outer boundary.
 

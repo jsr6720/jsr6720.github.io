@@ -237,11 +237,11 @@ Update: In the time I was evaluating this, ChatGPT released their own project fo
 
 [Claude Artifacts](https://support.anthropic.com/en/articles/9487310-what-are-artifacts-and-how-do-i-use-them) were my deciding factor to continue subscribing to Claude Pro. I greatly preferred the split-pane approach with complex prompts. The prompt response would spool on the left side of the screen, and solutions/output on the right. This made processing the response much more coherent than interspersing explanation with solution, and it tracked generated versions right in the UI.
 
-<img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/claude-versions.png" alt="" class="center-img img-stylish"/>
+<img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/claude-versions.png" alt="Screenshot of Claude's artifact versions feature showing multiple code iterations" class="center-img img-stylish"/>
 
 Even though I don’t program complex multi-repo projects anymore, I’ve been able to leverage Claude/[ChatGPT]( https://github.com/jsr6720/goodreads-csv-to-md/blob/main/ChatGPT35-prompt-log.md) to navigate supplemental tasks such as maintaining this website via AWS/Jekyll, [build scripts to import older content](https://www.jsrowe.com/goodreads-csv-import/index.html), and learn more about new technologies I wasn’t well versed in. As seen below, Claude has the ability to highlight code with a quick “Explain This” feature.
 
-<img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/claude-explain-this.png" alt="" class="center-img img-stylish"/>
+<img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/claude-explain-this.png" alt="Screenshot of Claude's explain this feature for code explanation" class="center-img img-stylish"/>
 
 ## Appendix: Frustrating Aspects of Working with Generative AI
 
@@ -253,7 +253,7 @@ For all the positive experiences working with generative AI—and it is net posi
 
 Both models do a horrendous job at sourcing original content, aka providing citations. It felt like there was a 50/50 chance whether a link supposedly containing source material would lead to a functioning website. I wish all generative AI LLM disclaimers would read “I generate statistically correct responses based on math.” I understand that LLMs are statistical output engines and no tool currently can connect the generated content with an underlying piece of training data. In fact, since October of last year, my use of traditional search (DuckDuckGo) has actually trended *up*. I attribute the increased use to validating generative AI results as I’ve experimented with multiple AI tools.
 
-<img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/duck-duck-go-history.png" alt="" class="center-img img-stylish"/> 
+<img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/duck-duck-go-history.png" alt="Graph showing increased DuckDuckGo search usage over time while using AI tools" class="center-img img-stylish"/> 
 
 Update: In the time that I was working on this review, [Anthropic announced citations for their API](https://www.anthropic.com/news/introducing-citations-api) that apparently chunks together clusters of underlying data into citable units. This looks very promising and validates my desire to move to API integrations for better control over model settings and latest features.
 
@@ -265,9 +265,9 @@ Claude 3.5 Sonnet: “Since my knowledge cutoff is in April 2024, I can't tell y
 
 Even with the paid plans, I would frequently encounter hard stops with Claude within one day of heavy usage and sometimes also with ChatGPT. This is especially disruptive with Claude because once you’ve reached a message limit on Sonnet, you must start a new thread with Haiku devoid of any of the thread’s previous content. With ChatGPT, you can switch models within one chat thread.
 
-<img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/claude-limit.png" alt="" class="center-img img-stylish"/>
+<img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/claude-limit.png" alt="Screenshot of Claude message limit error notification" class="center-img img-stylish"/>
 
-<img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/claude-limit-2.png" alt="" class="center-img img-stylish"/>
+<img src="/assets/posts-images/2025-02-15-how-i-use-llm-ai-tools-everyday/claude-limit-2.png" alt="Second screenshot of Claude message limit error showing fallback to Haiku model" class="center-img img-stylish"/>
 
 ### All Generative AI: Compute Cycle Time
 

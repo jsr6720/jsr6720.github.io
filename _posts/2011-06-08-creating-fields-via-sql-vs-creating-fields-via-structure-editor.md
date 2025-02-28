@@ -32,13 +32,13 @@ Also [displaying](http://kb.4d.com/search/assetid=76069) and saving null values 
 
 By default the “Map NULL values to blank values” field property is enabled.  
 
-<img src="/assets/posts-images/4d-create_field_structure.png" alt="4d object methods" class=""/>
+<img src="/assets/posts-images/4d-create_field_structure.png" alt="4D field creation dialog showing Map NULL values option" class=""/>
 
 ### Create field via SQL
 
 This field was created with `NOT NULL` constraint.  
 
-<img src="/assets/posts-images/4d-create_field_sql.png" alt="4d object methods" class=""/>
+<img src="/assets/posts-images/4d-create_field_sql.png" alt="4D field properties for SQL-created field with NOT NULL constraint" class=""/>
 
 ---
 
