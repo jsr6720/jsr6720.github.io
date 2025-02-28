@@ -275,7 +275,7 @@ I lost count of the number of times I grew frustrated waiting for any model to i
 
 ## Appendix: Generative AI Product Alternatives
 
-**Note:** I have left this heading here as it was originally published, but moved this section to a standalone post: [A Crowded LLM Field](<<TBD>>). With a new section outlining my criteria for utilizing these tools.
+**Note:** I have left this heading here as it was originally published, but moved this section to a standalone post: [A Crowded LLM Field]({% post_url 2025-02-27-a-crowded-llm-field %}). With a new section outlining my criteria for utilizing these tools.
 
 It was enough work copy/pasting prompts between two chat interfaces that I decided to focus on the models I was already paying for. In writing this comparison, I’ve discovered how many LLMs have proliferated.
 
