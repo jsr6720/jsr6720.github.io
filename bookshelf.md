@@ -41,6 +41,7 @@ All of these books can help develop personal habits and knowledge of how for-pro
 * *[The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)* and other works by Patrick Lencioni
 * *[Leading Change](https://www.amazon.com/Leading-Change-New-Preface-Author/dp/1422186431)* and other works by John P. Kotter
 * *[Team of Teams](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/1591847486/)*
+* [*On Writing Well*](https://www.goodreads.com/book/show/53343.On_Writing_Well)
 
 ## Engineers’ Path to Leadership
 
