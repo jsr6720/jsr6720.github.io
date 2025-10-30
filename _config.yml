@@ -14,8 +14,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.jsrowe.com" # backup --> github pages --> "https://jsr6720.github.io"
 rss: feed.xml
 
-google_analytics: G-6JYTKRD2H2
-
 # if you sense a theme.. RIT assigned me a user id of "jsr6720" and it stuck
 # see [who-am-i.md](https://github.com/jsr6720/jsr6720.github.io/blob/main/_archive/2024-05-21-who-am-i.md)
 twitter_username: jrowe6720
@@ -35,7 +33,7 @@ collections:
     output: false
     permalink: /:collection/:name
   whitepapers: # see [/_whitepapers/README.md](https://github.com/jsr6720/jsr6720.github.io/blob/main/_whitepapers/README.md)
-    output: false
+    output: true
     permalink: /:collection/:name
   recipes: # todo something fun
     output: false
@@ -56,22 +54,13 @@ toc:
   list_class: toc__list
   sublist_class: toc__sublist
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle
+  - .github
+  - _whitepapers/**/*.md
+  - _whitepapers/**/*.markdown

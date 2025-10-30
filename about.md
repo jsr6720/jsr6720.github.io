@@ -12,7 +12,7 @@ Previously I’ve worked in manufacturing, finance, and healthcare. I wanted a p
 
 Find me on [LinkedIn](https://linkedin.com/in/jsr6720){:target="_blank"} or check [my status page](https://status.jsrowe.com). [Send me an email](mailto:jrowe6720@gmail.com) 
 
-## A mind at work
+## Working
 
 A candid photo taken by my kids that I feel captures how I frequently find myself "at work" on my personal projects—complete with help from a lemur. Very serious business.
 
@@ -21,6 +21,13 @@ A candid photo taken by my kids that I feel captures how I frequently find mysel
   <figcaption>Photo by Rowe Family taken on May 6, 2024</figcaption>
 </figure>
 
+## Privacy
+
+- No Google Analytics, Microsoft Clarity, or similar JS trackers. (At one point I had setup an account, but never analyzed the data)
+- No cookies, beacons, pixels, heatmaps, or session replay.
+- I don’t sell, share, or monetize visitor data. Period.
+- My hosting provider (AWS) may keep standard server logs (e.g., IP, user-agent, timestamps).
+
 ## Fuel This Content
 
 Did something here save you time? Help you? Entertain you? Consider whether all that is worth a cup of coffee, at least until I can directly plug my AWS invoice here. All funds spent locally at <a href="https://maps.apple.com/place?auid=14788558629908521873&lsp=9902">Coleen's Kitchen</a>.
@@ -28,5 +35,3 @@ Did something here save you time? Help you? Entertain you? Consider whether all 
 <img alt="Venmo payment service logo" src="/assets/venmo-blue.png" />
 
 <a href="https://account.venmo.com/u/jsr6720"><img alt="Send payment to James Rowe via Venmo @jsr6720" src="/assets/venmo-jsr6720.png"/></a>
-
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="jrowe" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
