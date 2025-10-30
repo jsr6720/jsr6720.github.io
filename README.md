@@ -24,7 +24,7 @@ Category. I did end up deciding to use categories even though behind the scenes 
 
 Primarily tagging by language and whatever I might need to find things again
 
-- coding lanaguge, i.e. javascript, shell, python etcetera
+- coding language, i.e. javascript, shell, python etcetera
 - coding framework i.e. React, Spring Boot, Xcode
 
 Some tags I've copied from above pre-init sites:

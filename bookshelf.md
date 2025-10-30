@@ -9,6 +9,8 @@ uid: 56EBCCD0-E5AD-4376-86FB-5EF9A5E96160
 
 I have always been a voracious reader. Growing up, I read *Calvin and Hobbes* and the *Redwall* series and as many short stories in English textbooks as I could in the back of the class. These days, I read primarily nonfiction, which dominates my lists below. But maybe the better way to think of it is as a desire to always be learning, complementing my skills with a habit of research. There a few observations I have made along the way that I wish to highlight before diving into books.
 
+Looking for the source material behind many of these notes? Check the [whitepapers archive](/whitepapers/) for the PDFs I keep handy.
+
 ### The Application of Knowledge Is the Purpose of Accumulating It
 
 The practical application of the knowledge you learn separates you from those who merely memorize it. I have often seen a paraphrase of a passage from *Art & Fear*[^ceramics] about a ceramics teacher who separates his class into two groups: one that will spend the semester theorizing and studying the best way to make a pot, and one that will make as many pots as possible.
