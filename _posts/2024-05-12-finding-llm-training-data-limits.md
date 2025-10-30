@@ -59,8 +59,10 @@ See below a "traditional search" result. Never mind that I had to do a full page
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-### EOF/Footnotes
+### Footnotes
 
 [^1]: The original queries were placed within a few hours of each other on May 2nd 2024.
+
 [^2]: I manually modified the screenshot from [ruby-lang releases](https://www.ruby-lang.org/en/downloads/releases/) page to focus on the named versions in this post.
+
 [^3]: Citations are now available in both ChatGPT-4o and Alphabet Gemini as noted in [ChatGPT-4o Initial impressions on latest model (with citations)]({% post_url 2024-05-15-chatgpt-v4o-initial-impressions %}) Posted with direct answers to the open questions in `Postscript`.

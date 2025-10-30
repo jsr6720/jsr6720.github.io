@@ -98,13 +98,13 @@ So as I explore and adopt generative AI into my work, as models get more advance
 
 ---
 
-## Significant Revisions
+### Significant Revisions
 
 - {{ "2025-02-20 22:38:56 -0500" | date_to_string: "ordinal", "US" }} Added in CloudFront Functions solution. Original `title` “Jekyll Pretty URLs and AWS S3 HTTP 403 Errors”
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "2024-07-12 23:34:46 -0400" | date_to_string: "ordinal", "US" }} Initial draft
 
-## Footnotes
+### Footnotes
 
 [^friends]: Thanks Aaron and Tony. You’re the real MVPs.
 

@@ -31,11 +31,11 @@ The lesson is that management is a skill just like programming&mdash;or design, 
 
 ---
 
-## Significant Revisions
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }} 
 
-## Footnotes
+### Footnotes
 
 [^woman]: Especially refreshing to read insights and tips from a female leader in her field. There are specific sections pertaining to work-life balance, children and other advice that will make you a better manager not found in other leadership books.
 

@@ -33,7 +33,7 @@ Seems as if 4D is not giving developers all the tools to make a hybrid deployabl
 
 4D does annoying things like convert null values to blank values when trying to display them in an object, or puts into [object property definitions](http://kb.4d.com/search/assetid=75825) display attributes to control how null values are rendered.
 
-See my comments on [float data types](http://txcowboycoder.wordpress.com/2010/11/11/new-4d-variable-data-type-float/ "New 4D variable data type – float").
+See my comments on [float data types]({% post_url 2010-11-11-new-4d-variable-data-type-float %} "New 4D variable data type – float")[^original-link].
 
 ---
 
@@ -43,6 +43,8 @@ See my comments on [float data types](http://txcowboycoder.wordpress.com/2010/11
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/06/07/allow-null-values-in-4db-engine/)[^draft]
 
 ### Footnotes
+
+[^original-link]: Originally cross linked in WordPress <http://txcowboycoder.wordpress.com/2010/11/11/new-4d-variable-data-type-float/>
 
 [^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 

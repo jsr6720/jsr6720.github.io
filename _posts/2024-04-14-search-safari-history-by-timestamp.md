@@ -115,7 +115,7 @@ Ironically lost along the way was the post that directed me to the ```history_it
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-### EOF/Footnotes
+### Footnotes
 
 [^xkcd2867]: Obligatory: <https://xkcd.com/2867/>
 

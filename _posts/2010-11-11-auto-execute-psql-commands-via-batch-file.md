@@ -14,7 +14,7 @@ uid: de5b266d-8c38-48dd-a178-62346e13664f
 
 Warning postgres recommends against doing this, and instead use a [password file](http://www.postgresql.org/docs/8.4/interactive/libpq-pgpass.html).
 
-I use this script to kick off the [psql command in python](http://txcowboycoder.wordpress.com/2010/11/11/import-sql-files-via-psql-comma/). But you can execute psql straight from the batch file, just check the `%ERRORLEVEL%` batch variable from the calling method.
+I use this script to kick off the [psql command in python]({% post_url 2010-11-11-import-sql-files-via-psql-command-line-scheduled-task %})[^original-link]. But you can execute psql straight from the batch file, just check the `%ERRORLEVEL%` batch variable from the calling method.
 
 
 ```batch
@@ -42,6 +42,8 @@ psql -X --variable=ON_ERROR_STOP= -1 -w -f filename.sql
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/11/11/auto-execute-psql-commands-via-batch-file/)[^draft]
 
 ### Footnotes
+
+[^original-link]: Originally cross linked in WordPress http://txcowboycoder.wordpress.com/2010/11/11/import-sql-files-via-psql-comma/
 
 [^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 

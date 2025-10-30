@@ -33,11 +33,11 @@ Great read; would recommend especially for leaders who work across departments.
 
 ---
 
-## Significant Revisions
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }} 
 
-## Footnotes
+### Footnotes
 
 [^other]: [*The Five Dysfunctions of a Team*](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) and [*The Five Temptations of a CEO*](https://www.goodreads.com/book/show/49146.The_Five_Temptations_of_a_CEO) jump to mind.
 

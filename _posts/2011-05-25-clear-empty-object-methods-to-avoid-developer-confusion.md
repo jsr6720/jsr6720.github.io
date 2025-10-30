@@ -18,7 +18,7 @@ Two objects on a form, both with an object method shield indicating the presence
 
 <img src="/assets/posts-images/4d-object_methods.png" alt="4D form with objects showing method shields" class=""/>
 
-The last developer removed the object method content from the `variable` input area but did not explicitly clear the object method. This falsely indicates object method content, and worse yet 4D will execute the blank object method for [each event enabled](http://txcowboycoder.wordpress.com/2011/05/02/toggle-off-4d-form-events-for-easier-debugging/ "Toggle off 4D form events for easier debugging") on that object.
+The last developer removed the object method content from the `variable` input area but did not explicitly clear the object method. This falsely indicates object method content, and worse yet 4D will execute the blank object method for [each event enabled]({% post_url 2011-05-02-toggle-off-4d-form-events-for-easier-debugging %} "Toggle off 4D form events for easier debugging")[^original-link] on that object.
 
 The best approach is to [clear the object method](http://kb.4d.com/search/assetid=33479 "4D Tech Tip - Clear Object Method") so that no shield displays, and reduce the number of lines the 4D engine executes.
 
@@ -42,6 +42,8 @@ No misleading shields and no more tracing through empty object method.
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/05/25/clear-empty-object-methods-to-avoid-developer-confusion/)[^draft]
 
 ### Footnotes
+
+[^original-link]: Originally cross linked in WordPress <http://txcowboycoder.wordpress.com/2011/05/02/toggle-off-4d-form-events-for-easier-debugging/>
 
 [^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 

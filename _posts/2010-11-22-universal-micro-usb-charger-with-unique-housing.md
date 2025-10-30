@@ -18,7 +18,7 @@ Argh! the frustration.
 
 ---
 
-## Significant Revisions
+### Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 

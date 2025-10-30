@@ -34,7 +34,7 @@ var_dump($first_of_last_month, $end_of_last_month);
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/02/10/get-last-months-date-range-in-php/)[^draft]
 
-## Footnotes
+### Footnotes
 
 [^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 

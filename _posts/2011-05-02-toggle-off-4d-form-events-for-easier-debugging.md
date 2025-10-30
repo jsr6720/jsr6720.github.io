@@ -16,7 +16,7 @@ When creating a new form in 4D v11 it comes with a range of events ‘enabled’
 
 <img src="/assets/posts-images/4d-default_form_events.png" alt="4d default form events" class=""/>
 
-However, I advocate for turning off all events first and then [enabling specific events](http://txcowboycoder.wordpress.com/2011/04/03/encapsulate-formobject-methods-with-form-event-case-statements/ "Encapsulate form/object methods with form event case statements") on an as needed basis.
+However, I advocate for turning off all events first and then [enabling specific events]({% post_url 2011-05-03-encapsulate-form-object-methods-with-form-event-case-statements %} "Encapsulate form/object methods with form event case statements")[^original-link] on an as needed basis.
 
 4D will go into each form method and object method that has the event enabled and execute the method. When debugging this can be a real hassle because each event will trigger even if there is no ‘real’ code executed. 4D can’t tell what is in your methods and is just throwing events that the developer has specified.
 
@@ -53,6 +53,8 @@ The object method goes first and gets the table name, but then the form method �
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/05/02/toggle-off-4d-form-events-for-easier-debugging/)[^draft]
 
 ### Footnotes
+
+[^original-link]: Originally cross linked in WordPress <http://txcowboycoder.wordpress.com/2011/04/03/encapsulate-formobject-methods-with-form-event-case-statements/>
 
 [^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 

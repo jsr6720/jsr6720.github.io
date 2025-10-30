@@ -63,12 +63,12 @@ AI is changing the way we write code, but great engineering is about problem-sol
 
 ---
 
-## Significant Revisions
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ " 2025-02-25 22:40:06 -0500" | date_to_string: "ordinal", "US" }} Draft created
 
-## Footnotes
+### Footnotes
 
 [^skills]: Often referred to as [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills), this is still an appropriate metaphor to evaluate your capabilities to contribute on an agile software development team.
 

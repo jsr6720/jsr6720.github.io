@@ -13,15 +13,10 @@ Just some personal thoughts on download progress bars, and why you can never tru
 
 ---
 
-## Author's Note
-
-
-
-## Significant Revisions
+### Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "2024-03-30 10:35:41 -0400" | date_to_string: "ordinal", "US" }} Draft created. Ok just the screenshot `long-download-time.png`
 
-## EOF/Footnotes

@@ -78,13 +78,13 @@ After all the time spent with Claude and ChatGPT, this is next on my list to run
 
 ---
 
-## Significant Revisions
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "2025-02-17 21:19:20 -0500" | date_to_string: "ordinal", "US" }} Draft created
 
 
-## Footnotes
+### Footnotes
 
 [^ethics]: Even though Anthropic was founded as a Public Benefit Company, I believe a company’s operations are only as ethical as the humans in charge. We shall see.
 

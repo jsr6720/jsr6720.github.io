@@ -41,7 +41,7 @@ tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 - {{ "2024-05-06 22:47:18" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/04/08/3-5-to-4-0-flex-sdk-upgrade/)[^draft]
 
-### EOF/Footnotes
+### Footnotes
 
 [^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 
