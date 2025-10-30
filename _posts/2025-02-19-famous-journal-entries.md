@@ -64,11 +64,11 @@ So many of the artifacts shown on *[Family Roots](https://www.pbs.org/show/findi
 
 ---
 
-## Significant Revisions
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-## Footnotes
+### Footnotes
 
 [^guid]: <https://americanhistory.si.edu> gets it. I see you, Director Howard Hathaway Aiken. I had wondered if I was silly to include a guid in my files. I wonder no more.
 

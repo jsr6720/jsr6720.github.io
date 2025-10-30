@@ -26,14 +26,9 @@ https://nmn.gl/blog/ai-and-learning
 
 ---
 
-## Author's Note
-
-
-
-## Significant Revisions
+### Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-## EOF/Footnotes

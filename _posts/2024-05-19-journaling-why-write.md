@@ -47,12 +47,12 @@ Or at least until LLMs figure out my humor.
 
 ---
 
-## Significant Revisions
+### Significant Revisions
 
 - {{ "2025-02-18 01:47:56 -0500" | date_to_string: "ordinal", "US" }} I originally wrote this when I wasn’t sure the purpose of this site. Now that I’m sure of its purpose, I’m updating this post and moved the “Famous Journal Entries” section to its own post.
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-## Footnotes
+### Footnotes
 
 [^atrocities]: For this post, please allow me to set aside serious works documenting atrocities. These deserve their own preservation and study far beyond any of my personal musings.
 

@@ -10,7 +10,7 @@ uid: da92199e-dcc3-4fa2-b07a-86315309977f
 
 ## Postgres dynamic trigger — mirroring
 
-This is a companion post to the [4D mirroring](http://txcowboycoder.wordpress.com/2010/10/20/mirroring-data-to-another-database/) The approach to this problem, is to have data from the source mirror itself out to a target and accept changes from that mirror system back. All sql based INSERT UPDATE and DELETE operations are to send their changes to the target.
+This is a companion post to the [4D mirroring]({% post_url 2010-10-20-mirroring-4d-data-to-another-database %})[^original-link] The approach to this problem, is to have data from the source mirror itself out to a target and accept changes from that mirror system back. All sql based INSERT UPDATE and DELETE operations are to send their changes to the target.
 
 It is very important to stress this is only used for Postgres UPDATE statements sending data back to the source. It does however provide an example of iterating over all the fields in a table using the python dict that is populated in `TD["new"]` and `TD["old"]`.
 
@@ -193,6 +193,8 @@ GRANT EXECUTE ON FUNCTION trigger_sync() TO postgres;
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/10/27/postgres-dynamic-trigger/)[^draft]
 
 ### Footnotes
+
+[^original-link]: Originally cross linked in WordPress <http://txcowboycoder.wordpress.com/2010/10/20/mirroring-data-to-another-database/>
 
 [^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 

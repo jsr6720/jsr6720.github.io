@@ -96,12 +96,12 @@ As for what’s next, I’m very happy with the AWS skills I’ve picked up in t
 
 ---
 
-## Significant Revisions
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ " 2025-02-24 19:46:05 -0500" | date_to_string: "ordinal", "US" }} Draft created
 
-## Footnotes
+### Footnotes
 
 [^hosting]: If you are not technologically inclined, AWS CloudFront+S3 is **NOT** a consumer-friendly option.
 

@@ -22,10 +22,10 @@ I think the most important takeaway is that reading your writing aloud is one wa
 
 ---
 
-## Significant Revisions
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }} 
 
-## Footnotes
+### Footnotes
 
 [^zinsser]: <https://www.zinsserprimers.com> Feels like they should have a footnote to their successful son.

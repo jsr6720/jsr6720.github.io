@@ -66,11 +66,11 @@ Copyright &copy; 2024 by James Rowe. From the book *AI Primer for Business Leade
 
 ---
 
-## Significant Revisions
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-## Footnotes
+### Footnotes
 
 In the published work, these are a combination of endnotes and footnotes. In this post, I've summarized them to just their links below.
 

@@ -15,9 +15,9 @@ Content
 ---
 
 
-## Significant Revisions
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "date "+%Y-%m-%d %H:%M:%S %z"" | date_to_string: "ordinal", "US" }} Draft created
 
-## Footnotes
+### Footnotes

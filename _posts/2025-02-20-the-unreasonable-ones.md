@@ -34,12 +34,12 @@ This really highlights that I know nothing about getting a PhD or how AI would a
 
 ---
 
-## Significant Revisions
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "2025-02-17 23:46:17 -0500" | date_to_string: "ordinal", "US" }} Draft created
 
-## Footnotes
+### Footnotes
 
 [^bedrock]: I wrote elsewhere about [dataset limitations]({% post_url 2025-02-06-book-excerpt-the-bedrock-of-generative-ai %}#critical-thought-dataset-limitations).
 

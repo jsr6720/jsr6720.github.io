@@ -303,14 +303,14 @@ On that note, I’d like to thank others for publishing their thoughts on this t
 
 ---
 
-## Significant Revisions
+### Significant Revisions
 
 - {{ "2025-02-19 23:43:06 -0500" | date_to_string: "ordinal", "US" }} Moved several appendices to their own posts, focusing the thrust of this post to the AI comparison it started out as.
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "2025-01-13 23:46:34 -0500" | date_to_string: "ordinal", "US" }} Draft created
 
 
-## Footnotes
+### Footnotes
 
 [^genesis]: I can trace my following of the industry to two key moments: when "What is ChatGPT" was posted to [Slashdot on December 3, 2022](https://news.slashdot.org/story/22/12/04/0248249/what-is-chatgpt-the-ai-chatbot-thats-taking-the-internet-by-storm/), and March 2023 when I first read Reid Hoffman’s book [*Impromtu*](https://www.impromptubook.com).
 

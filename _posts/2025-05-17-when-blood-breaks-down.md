@@ -24,10 +24,10 @@ The book covers other types of leukemia, CML and ALL. But the chapters and descr
 
 ---
 
-## Significant Revisions
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }} 
 
-## Footnotes
+### Footnotes
 
 [^death]: In the book, the AML+FLT-3 patient dies.

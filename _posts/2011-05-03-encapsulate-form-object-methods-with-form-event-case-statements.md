@@ -28,7 +28,7 @@ Case of
 End case
 ```
 
-This provides clarity on what code is to execute for the specified event. It also prevents code from [executing multiple times](http://txcowboycoder.wordpress.com/2011/04/02/toggle-off-4d-form-events-for-easier-debugging/ "Toggle off 4D form events for easier debugging") if new events are selected for a form/object. I.e. enabling `On Load` with implicit `On Click` code already existing in the method.
+This provides clarity on what code is to execute for the specified event. It also prevents code from [executing multiple times]({% post_url 2011-05-02-toggle-off-4d-form-events-for-easier-debugging %} "Toggle off 4D form events for easier debugging")[^original-link] if new events are selected for a form/object. I.e. enabling `On Load` with implicit `On Click` code already existing in the method.
 
 I don’t type this every time I want to trap events. So I put the following in my [macro file](http://doc.4d.com/4Dv12.1/help/Title/en/page1034.html).
 
@@ -57,6 +57,8 @@ I don’t type this every time I want to trap events. So I put the following in 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/05/03/encapsulate-formobject-methods-with-form-event-case-statements/)[^draft]
 
 ### Footnotes
+
+[^original-link]: Originally cross linked in WordPress <http://txcowboycoder.wordpress.com/2011/04/02/toggle-off-4d-form-events-for-easier-debugging/>
 
 [^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 

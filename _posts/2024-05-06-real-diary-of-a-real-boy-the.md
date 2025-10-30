@@ -37,5 +37,3 @@ And as a bonus thought [Who lives, who dies, who tells your story](https://en.wi
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
-
-### EOF/Footnotes

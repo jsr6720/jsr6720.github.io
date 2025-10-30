@@ -64,4 +64,4 @@ I've done setup on [Blogger](https://www.blogger.com/) and [Wordpress](http://wo
 - {{ "2024-04-08 21:18:23 -0400" | date_to_string: "ordinal", "US" }} Came in and added real content and impressions
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 
-## Footnotes
+### Footnotes

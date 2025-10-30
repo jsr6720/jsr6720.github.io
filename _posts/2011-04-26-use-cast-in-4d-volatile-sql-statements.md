@@ -44,7 +44,7 @@ Begin SQL
 End SQL
 ```
 
-Of course it would be nice if [4D compiler could detect these](http://txcowboycoder.wordpress.com/2011/04/25/compiler-warning-on-possible-loss-of-precision/ "Compiler warning on possible loss of precision") types of problems before they occur.
+Of course it would be nice if [4D compiler could detect these]({% post_url 2011-04-25-compiler-warning-on-possible-loss-of-precision %} "Compiler warning on possible loss of precision")[^original-link] types of problems before they occur.
 
 ---
 
@@ -54,6 +54,8 @@ Of course it would be nice if [4D compiler could detect these](http://txcowboyco
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/04/26/use-cast-in-4d-volatile-sql-statements/)[^draft]
 
 ### Footnotes
+
+[^original-link]: Originally cross linked in WordPress http://txcowboycoder.wordpress.com/2011/04/25/compiler-warning-on-possible-loss-of-precision/
 
 [^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
 

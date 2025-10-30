@@ -34,12 +34,9 @@ Original Wordpress tags: "Personal Musings", "bbb"
 
 Original Wordpress comments: None
 
-## Significant Revisions
+### Significant Revisions
 
 tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/01/12/unexpected-categories-in-bbb-complaint-form/)
-
-## EOF/Footnotes
-

@@ -49,11 +49,11 @@ test
 
 ---
 
-## Significant Revisions
+### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "date "+%Y-%m-%d %H:%M:%S %z"" | date_to_string: "ordinal", "US" }} Draft created
 
-## Footnotes
+### Footnotes
 
 [^316]: "cuz [Stone Cold](https://en.wikipedia.org/wiki/Stone_Cold_Steve_Austin) said so" is iconic.
