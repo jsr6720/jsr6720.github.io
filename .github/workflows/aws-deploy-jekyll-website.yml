@@ -60,10 +60,6 @@ jobs:
           gem install html-proofer
           echo "::warning::Running HTML-Proofer checks - errors will be reported but won't fail the build"
           htmlproofer ./_site --allow-hash-href --checks "Links,Images,Scripts" || echo "::warning::HTML-Proofer found issues, see log above for details"
-    
-      - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v3
 
       - name: Deploy to S3
         run: |
