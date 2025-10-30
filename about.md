@@ -12,7 +12,7 @@ Previously I’ve worked in manufacturing, finance, and healthcare. I wanted a p
 
 Find me on [LinkedIn](https://linkedin.com/in/jsr6720){:target="_blank"} or check [my status page](https://status.jsrowe.com). [Send me an email](mailto:jrowe6720@gmail.com) 
 
-## A mind at work
+## Working
 
 A candid photo taken by my kids that I feel captures how I frequently find myself "at work" on my personal projects—complete with help from a lemur. Very serious business.
 
