@@ -64,7 +64,7 @@ Book tags (might be some overlap from above)
 
 Sites that inspire me for both their content and design. It's not that these sites are better than the rest, but that when I first started on restarting my writing these were the ones I thought of first. 1000% Bonus points for the inclusion of a `feed.xml`.
 
-<https://martinfowler.com>
+<https://martinfowler.com> of particular note <https://martinfowler.com/bliki/WhatIsaBliki.html>
 
 <https://lethain.com>
 
