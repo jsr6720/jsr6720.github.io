@@ -6,9 +6,13 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2>10 Most Recent Posts</h2>
-    {%- for post in site.posts limit:10 -%}
-    <div class="post-item">
+    <div class="post-filters" role="group" aria-label="Filter posts">
+      <button class="post-filter is-active" data-filter="all" type="button">All</button>
+      <button class="post-filter" data-filter="engineering" type="button">Engineering</button>
+      <button class="post-filter" data-filter="personal" type="button">Personal</button>
+    </div>
+    {%- for post in site.posts -%}
+    <div class="post-item" data-tags="{{ post.tags | join: ',' | downcase }}">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <div class="post-flex-container">
         <div class="post-left">
@@ -35,3 +39,30 @@ layout: default
   {%- endif -%}
 
 </div>
+
+<script>
+  (function() {
+    const filters = document.querySelectorAll('.post-filter');
+    const items = document.querySelectorAll('.post-item');
+    if (!filters.length || !items.length) return;
+
+    function setFilter(filter) {
+      filters.forEach(button => {
+        button.classList.toggle('is-active', button.dataset.filter === filter);
+      });
+
+      items.forEach(item => {
+        const tags = (item.dataset.tags || '')
+          .split(',')
+          .map(tag => tag.trim())
+          .filter(Boolean);
+        const matches = filter === 'all' || tags.includes(filter);
+        item.style.display = matches ? '' : 'none';
+      });
+    }
+
+    filters.forEach(button => {
+      button.addEventListener('click', () => setFilter(button.dataset.filter));
+    });
+  })();
+</script>
