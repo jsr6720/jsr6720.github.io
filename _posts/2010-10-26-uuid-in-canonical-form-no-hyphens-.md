@@ -35,7 +35,7 @@ Don't worry `4D`, you still hold a special place in my heart.
 - {{ "2024-05-06 22:47:18 -0400" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/10/26/uuid-in-canonical-form/)[^draft]
 
-## Footnotes
+### Footnotes
 
 [^1]: New link [4Dv20R5 Generate UUID](https://doc.4d.com/4Dv20R5/4D/20-R5/Generate-UUID.301-6817829.en.html#186330)
 

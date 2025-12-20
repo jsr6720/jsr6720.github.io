@@ -24,7 +24,7 @@ Maybe I should start a twitter account for these minute frustrations[^update].
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/01/23/full-variable-introspection-in-debugger-window/)[^draft]
 
-## Footnotes
+### Footnotes
 
 [^update]: Note from my future self in Nov 2024, 13 years later. twitter is now `x` and no I never post to twitter/`x`. I seem to prefer the quite introspection of these hand rolled posts.
 

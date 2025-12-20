@@ -1,15 +1,15 @@
-<nav class="post-navigation">
-    <ul>
-      {% if page.previous %}
-      <li>
-        &larr; Previous: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
-      </li>
-      {% endif %}
-      
-      {% if page.next %}
-      <li>
-        Next: <a href="{{ page.next.url }}">{{ page.next.title }}</a> &rarr;
-      </li>
-      {% endif %}
-    </ul>
-  </nav>
+<nav class="post-navigation" aria-label="Post navigation">
+  <ul>
+    {% if page.previous %}
+    <li class="post-nav-prev">
+      &larr; <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+    </li>
+    {% endif %}
+
+    {% if page.next %}
+    <li class="post-nav-next">
+      <a href="{{ page.next.url }}">{{ page.next.title }}</a> &rarr;
+    </li>
+    {% endif %}
+  </ul>
+</nav>

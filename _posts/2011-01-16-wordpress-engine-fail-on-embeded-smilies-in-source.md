@@ -29,7 +29,7 @@ tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/01/16/wordpress-engine-fail-on-embeded-smilies-in-source/)
 
-## Footnotes
+### Footnotes
 
 [^emojii]: Showing my age here a little. `smilies` now redirects to [emoji](https://wordpress.com/support/emoji/). Also in revisiting this post just over 13 years ({{ "2024-05-13 01:32:08" | date_to_string: "ordinal", "US" }}) later I had forgotten emojis were once called "smilies"\[sic\].
 

@@ -5,29 +5,31 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
+    <div class="post-meta">
+      <div class="post-meta-left">
+      {%- assign author_name = page.author | default: site.author -%}
+      {%- if author_name -%}
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span class="p-author h-card" itemprop="name">{{ author_name }}</span>
+        </span>
+        &middot;
+      {%- endif -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
-      &bullet; 
+      &middot;
       <span class="h-card reading-time" title="Estimated read time">
         <!-- thanks https://carlosbecker.com/posts/jekyll-reading-time-without-plugins/ -->
         {% assign words = content | number_of_words %}
-        <span itemprop="timeRequired">{{ words | divided_by:160 | plus:1}} mins</span> &bullet; <span itemprop="wordCount">{{ words }}</span> words
+        <span itemprop="timeRequired">{{ words | divided_by:160 | plus:1}} mins</span>
       </span>
-      {%- if page.author -%}
-        &bullet; 
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-          <span class="p-author h-card" itemprop="name">{{ page.author }}</span>
-        </span>
-      {%- endif -%}
-      &bullet;
-      <span class="post-tags">
-        tags: {{ page.tags | join: ", " }}
-      </span>
-    </p>
-      
+      </div>
+      <div class="post-meta-share">
+        {%- include share-buttons.html -%}
+      </div>
+    </div>
+
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
@@ -47,7 +49,6 @@ layout: default
   {%- endif -%}
 
   <footer>
-    {%- include share-buttons.html -%}
     {%- include posts-breadcrumb-nav.html -%}
   </footer>
 

@@ -11,8 +11,8 @@ Off white background colors I've tried
 
 :root {
   color-scheme: light dark;
-  --bg-color-light: #F8F8F8; /* maybe i'm overthinking it. here's a simple gray */
-  --text-color-light: #121212; /* stolen from NYT site*/
+  --bg-color-light: #F5F5F2; /* newsprint-style off-white */
+  --text-color-light: #1B1B1B; /* deep charcoal for readability */
   --bg-color-dark: #333333;
   --text-color-dark: #ffffff;
 }
@@ -24,13 +24,13 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Merriweather', serif;
+  font-family: 'IBM Plex Sans', sans-serif;
   font-weight: 600;
-  color: #2F2F2F;
+  color: #222222;
 }
 
 body {
-  font-family: 'Georgia', serif;
+  font-family: 'Source Serif 4', serif;
   line-height: 1.8;
 }
 
@@ -133,6 +133,29 @@ body {
 
 .post-content h3 {
   font-size: 1.25em;
+}
+
+.post-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin: 0.5rem 0 0;
+}
+
+.post-meta-left {
+  color: #666;
+}
+
+.post-meta-share {
+  flex: 0 0 auto;
+}
+
+@media (max-width: 600px) {
+  .post-meta {
+    flex-direction: column;
+    align-items: flex-start;
+  }
 }
 
 .tag-pill {
