@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on A Short History of Nearly Everything"
 date: 2025-01-29 23:16:08 -0500
 category: review
-tags: 2025 book non-fiction history
+tags: book non-fiction history
 uid: BC435B9A-1214-4AF3-A9D6-CB2012D829E7
 ---
 

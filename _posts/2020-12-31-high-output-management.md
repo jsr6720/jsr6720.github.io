@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on High Output Management"
 date: 2020-12-31 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: aed5cc43-5045-42b1-b75e-b6df20a24fda
 ---
 

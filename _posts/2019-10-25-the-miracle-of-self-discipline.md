@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The Miracle of Self-Discipline"
 date: 2019-10-25 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 00ef66d7-af4f-42ae-90c7-e86b21564374
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "WordPress engine fail on embeded smilies in source"
 date: "2011-01-16 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2011 txcowboycoder wordpress
 uid: 8fb511d4-1143-434f-86f7-fa9dd761a349
 ---
@@ -29,7 +29,7 @@ tags: {{ page.tags | join: ", " }} <!-- todo move this somewhere -->
 - {{ "2024-05-06 22:47:17" | date_to_string: "ordinal", "US" }} Converted to jekyll markdown format and copied to personal site
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2011/01/16/wordpress-engine-fail-on-embeded-smilies-in-source/)
 
-## Footnotes
+### Footnotes
 
 [^emojii]: Showing my age here a little. `smilies` now redirects to [emoji](https://wordpress.com/support/emoji/). Also in revisiting this post just over 13 years ({{ "2024-05-13 01:32:08" | date_to_string: "ordinal", "US" }}) later I had forgotten emojis were once called "smilies"\[sic\].
 

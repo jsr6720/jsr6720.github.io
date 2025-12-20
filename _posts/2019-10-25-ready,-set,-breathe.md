@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on Ready, Set, Breathe: Practicing Mindfulness with Your Children for Fewer Meltdowns and a More Peaceful Family"
 date: 2019-10-25 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: f4129ed3-498a-44ee-944d-8f67c82cae54
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "Reverse PostgreSQL into model with undefined data types"
 date: "2011-06-30 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2011 txcowboycoder odi PostgreSQL
 uid: 21ed9d3b-72dd-4c5e-8847-d8e3f4da19d0
 ---

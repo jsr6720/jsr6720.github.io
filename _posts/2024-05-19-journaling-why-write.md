@@ -4,7 +4,7 @@ author: James Rowe
 title: "Journaling, Why Write?"
 date: "2024-05-19 16:00:59 -0400"
 category: personal
-tags: 2024 writing
+tags: writing
 uid: 70796E95-880F-464C-8A0B-EB4B4BA04FC1
 ---
 

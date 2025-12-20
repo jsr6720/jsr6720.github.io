@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "MySQL command options"
 date: "2011-03-21 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2011 txcowboycoder mysql
 uid: b0c5f567-42e6-4441-bc5e-6252b3b4497c
 ---

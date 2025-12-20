@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on All I Really Need to Know I Learned in Kindergarten: Uncommon Thoughts on Common Things"
 date: 2018-06-20 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 5f0ead09-2f3d-40ea-97f8-79bc6db0d9a4
 ---
 

@@ -8,8 +8,26 @@
 .post-navigation ul {
     list-style: none;
     padding: 0;
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
 }
 
 .post-navigation li {
-    margin: 1rem 0;
+    margin: 0;
+    flex: 1;
+}
+
+.post-navigation .post-nav-next {
+    text-align: right;
+}
+
+@media (max-width: 600px) {
+    .post-navigation ul {
+        flex-direction: column;
+    }
+
+    .post-navigation .post-nav-next {
+        text-align: left;
+    }
 }

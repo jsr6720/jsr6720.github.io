@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Request Tracker to Redmine Migration"
 date:   "2011-01-07 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2011 txcowboycoder ruby redmine request-tracker
 uid: b14ed348-2d0b-458d-b436-23f0d91f3086
 ---

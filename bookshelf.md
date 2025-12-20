@@ -5,21 +5,7 @@ permalink: /bookshelf/
 uid: 56EBCCD0-E5AD-4376-86FB-5EF9A5E96160
 ---
 
-## My Bookshelf
-
-I have always been a voracious reader. Growing up, I read *Calvin and Hobbes* and the *Redwall* series and as many short stories in English textbooks as I could in the back of the class. These days, I read primarily nonfiction, which dominates my lists below. But maybe the better way to think of it is as a desire to always be learning, complementing my skills with a habit of research. There a few observations I have made along the way that I wish to highlight before diving into books.
-
-Looking for the source material behind many of these notes? Check the [whitepapers archive](/whitepapers/) for the PDFs I keep handy.
-
-### The Application of Knowledge Is the Purpose of Accumulating It
-
-The practical application of the knowledge you learn separates you from those who merely memorize it. I have often seen a paraphrase of a passage from *Art & Fear*[^ceramics] about a ceramics teacher who separates his class into two groups: one that will spend the semester theorizing and studying the best way to make a pot, and one that will make as many pots as possible.
-
-At the end of the semester, each group makes a pot for a final grade. The group that makes as many pots as possible during the semester will inevitably produce a higher-quality product than the group that merely theorizes about it. There are a lot of caveats here pertaining to feedback and growth. But the lesson I take is that the accumulation of knowledge is useless without application. 
-
-### The Great Sources Come Back Again and Again
-
-Primarily I’m speaking of nonfiction books here, where the truly great studies and big insights are rehashed in new books all the time. When reading, look for citations and references that can lead you to related material. It’s not that new books and fresh takes aren’t worth reading; it’s more that reading the source material will save you time in the long run. Reading a tome like Daniel Kahneman’s [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) will inevitably save you time when you see those same concepts presented in a different book later. 
+A collection of books, by category, I've found most memorable.
 
 ## The Psychology of People
 
@@ -34,7 +20,7 @@ These books have helped me understand how people think and have ultimately impro
 
 ## Business and Professional Development
 
-All of these books can help develop personal habits and knowledge of how for-profit businesses run, which can be a valuable asset no matter where you go. This is a very short list of the business and professional development books that I refer to. It would be foolhardy to forgo learning and studying the skills needed to be an effective leader. 
+All of these books can help develop personal habits and knowledge of how for-profit businesses run, which can be a valuable asset no matter where you go. This is a very short list of the business and professional development books that I refer to.
 
 * *[Eat that Frog](https://www.goodreads.com/book/show/95887.Eat_That_Frog_)*
 * *[7 Habits of Highly Effective People](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People)*
@@ -43,7 +29,7 @@ All of these books can help develop personal habits and knowledge of how for-pro
 * *[The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)* and other works by Patrick Lencioni
 * *[Leading Change](https://www.amazon.com/Leading-Change-New-Preface-Author/dp/1422186431)* and other works by John P. Kotter
 * *[Team of Teams](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/1591847486/)*
-* [*On Writing Well*](https://www.goodreads.com/book/show/53343.On_Writing_Well)
+* *[On Writing Well](https://www.goodreads.com/book/show/53343.On_Writing_Well)*
 
 ## Engineers’ Path to Leadership
 
@@ -68,9 +54,6 @@ Some books leave me with a heavy heart at the close—a book so good that I can�
 
 ### Significant Revisions
 
+- {{ "2025-12-19 22:36:22 -0400" | date_to_string: "ordinal", "US" }} Cut, cut, cut. What a blowhard.
 - {{ "2024-07-19 21:22:50 -0400" | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "2024-07-13 01:36:53 -0400" | date_to_string: "ordinal", "US" }} First draft
-
-### Footnotes
-
-[^ceramics]: [https://blog.codinghorror.com/quantity-always-trumps-quality/](https://blog.codinghorror.com/quantity-always-trumps-quality/) A review of this citation from the perspective of a fellow engineering writer.

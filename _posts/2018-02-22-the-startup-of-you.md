@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The Startup of You: Adapt to the Future, Invest in Yourself, and Transform Your Career"
 date: 2018-02-22 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 416b3752-d51a-45ed-8fd9-0229cb37df32
 ---
 

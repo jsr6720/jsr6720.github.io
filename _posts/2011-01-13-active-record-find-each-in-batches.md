@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "Active record find_each in batches"
 date: "2011-01-13 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2011 txcowboycoder ruby ruby-on-rails
 uid: 643e2b2e-4bd5-44d6-ad31-08c62a959777
 ---

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "SVN Windows and ‘._’ Apple double files"
 date: "2010-10-28 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2010 txcowboycoder svn
 uid: 778069d0-95ba-4272-807b-4e58ce3a052c
 ---

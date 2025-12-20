@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The Advantage: Why Organizational Health Trumps Everything Else in Business"
 date: 2025-03-02 21:05:56 -0400
 category: review
-tags: 2025 book nonfiction leadership
+tags: book nonfiction leadership
 uid: 0FDDB77D-0409-49DA-9A4F-8BCB33E31CB7
 ---
 

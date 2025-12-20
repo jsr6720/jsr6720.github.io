@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on 15 Secrets Successful People Know About Time Management: The Productivity Habits of 7 Billionaires, 13 Olympic Athletes, 29 Straight-A Students, and 239 Entrepreneurs"
 date: 2020-10-25 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 18c52ef4-a74b-4b6b-8252-a10846bc75d1
 ---
 

@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on Easy Company Soldier: The Legendary Battles of a Sergeant from World War II's \"Band of Brothers\""
 date: 2019-09-30 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 532f5f1a-47fd-48e6-a8c2-b66b808e87d0
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "Flex 4.0 drag-and-drop with skins"
 date: "2010-04-14 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2010 txcowboycoder apache-flex
 uid: 29f532df-bf3d-42f2-ac22-4bd87314dd9c
 ---

@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on Writing Well: The Classic Guide to Writing Nonfiction"
 date: 2025-05-05 21:20:23 -0400
 category: review
-tags: 2025 book nonfiction writing
+tags: book nonfiction writing
 uid: F982350A-00FC-4F0A-B275-BE067E0E568F
 ---
 

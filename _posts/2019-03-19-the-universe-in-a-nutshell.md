@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The Universe in a Nutshell"
 date: 2019-03-19 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 4343362a-eddd-4771-b4c4-561c7ccc5527
 ---
 

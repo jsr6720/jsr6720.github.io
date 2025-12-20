@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on Half the Sky: Turning Oppression into Opportunity for Women Worldwide"
 date: 2017-12-07 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 75296033-b81d-48aa-8f4e-53483d1f51e7
 ---
 

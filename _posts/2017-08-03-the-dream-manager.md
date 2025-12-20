@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The Dream Manager"
 date: 2017-08-03 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 1a074d5a-1198-45bc-9f8b-842134f5048f
 ---
 

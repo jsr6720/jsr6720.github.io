@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "Method editor search with wrap option"
 date: "2010-11-19 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2010 txcowboycoder 4D
 uid: a1ea8f56-428d-4dff-9936-d0a04b8f5883
 ---

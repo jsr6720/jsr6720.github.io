@@ -3,8 +3,8 @@ layout: post
 author: James Rowe
 title: "How I Use AI Tools Everyday: Leveraging Claude and ChatGPT"
 date: 2025-02-12 20:40:34 -0500
-category: technology
-tags: 2025 ai chatgpt claude copilot llm
+category: engineering
+tags: ai chatgpt claude copilot llm
 uid: 2575976E-E772-40B1-9373-BC918D560C67
 toc: true
 ---

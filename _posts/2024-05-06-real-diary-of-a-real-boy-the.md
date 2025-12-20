@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The Real Diary of a Real Boy"
 date: "2024-05-06 08:37:27"
 category: review
-tags: 2024 book history
+tags: book history
 uid: 59F17282-EAC1-4281-8D9F-C32B3AF15344
 ---
 

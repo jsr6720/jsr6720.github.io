@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "4D Forms to have layers instead of limited number of ‘views’"
 date: "2011-04-29 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2011 txcowboycoder 4D
 uid: 2072e083-d514-4510-bd64-65a237e2f087
 ---

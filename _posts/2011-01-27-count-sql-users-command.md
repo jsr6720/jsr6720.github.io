@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "Count SQL users command"
 date: "2011-01-27 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2011 txcowboycoder 4D
 uid: 7022c227-3160-4a80-96fa-5a753506f2bb
 ---

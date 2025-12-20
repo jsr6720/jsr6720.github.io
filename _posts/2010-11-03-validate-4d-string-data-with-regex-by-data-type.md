@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "Validate 4d string data with regex by data type"
 date: "2010-11-03 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2010 txcowboycoder 4D
 uid: 47ba2acc-c090-465e-83b6-064ee4a55b1c
 ---

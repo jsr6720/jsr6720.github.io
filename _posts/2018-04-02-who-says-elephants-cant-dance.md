@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on Who Says Elephants Can't Dance?:  Inside IBM's Historic Turnaround"
 date: 2018-04-02 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 515d000a-5303-4e66-9461-855fa018894d
 ---
 

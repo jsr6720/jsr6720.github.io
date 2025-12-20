@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title:  "Encapsulate form/object methods with form event case statements"
 date:   "2011-05-03 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2011 txcowboycoder 4D
 uid: 9d410dd2-b509-44f2-a6ae-d3d68a403feb
 ---

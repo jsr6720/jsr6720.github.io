@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on American Icon: Alan Mulally and the Fight to Save Ford Motor Company"
 date: 2017-10-04 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 610eb276-76ee-447a-ab92-2373ce39f088
 ---
 

@@ -3,8 +3,8 @@ layout: post
 author: James Rowe
 title: "Import SQL files via psql command line scheduled task"
 date: "2010-11-11 00:00:00 -0400"
-category: software
-tags: 2010  txcowboycoder python
+category: engineering
+tags: 2010 txcowboycoder python
 uid: c0db148d-196a-4370-83cd-4cf7516b5c7c
 ---
 

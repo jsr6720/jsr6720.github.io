@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The Alliance: Managing Talent in the Networked Age"
 date: 2018-02-18 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 6eb1d48c-9df8-440d-8f79-28feec46e28a
 ---
 

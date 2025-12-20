@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "SQL Based view"
 date: "2010-10-13 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2010 txcowboycoder 4D
 uid: c1ea92ac-84d8-4b96-a3ed-577d01da9b6d
 ---

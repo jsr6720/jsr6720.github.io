@@ -4,7 +4,7 @@ author: James Rowe
 title: "Tree Rings and the Invisible Scars of Life"
 date: "2024-06-19 11:30:21 -0400"
 category: personal
-tags: 2024 cancer reflection
+tags: cancer reflection
 uid: 4F750A7F-4294-4BBE-9C9E-341BB0DEDCAB
 ---
 

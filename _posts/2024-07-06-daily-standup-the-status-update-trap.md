@@ -3,8 +3,8 @@ layout: post
 author: James Rowe
 title: "Daily Standup: The Status Update Trap"
 date: "2024-07-06 23:13:22 -0400"
-category: management
-tags: 2024 agile stand-up
+category: engineering
+tags: agile stand-up
 uid: E3C2DF76-E36B-4BBB-8834-349C4B365D26
 toc: true
 ---

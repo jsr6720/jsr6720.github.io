@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on Conversations With Major Dick Winters: Life Lessons from the Commander of the Band of Brothers"
 date: 2019-09-14 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 38fb428b-a10d-4719-85ab-b3ef064a671b
 ---
 

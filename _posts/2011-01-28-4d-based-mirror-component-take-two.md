@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "4D based mirror component – take two"
 date: "2011-01-28 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2011 txcowboycoder 4D
 uid: 1f50818d-77a7-4a2f-ba57-35b5a1c28f79
 ---

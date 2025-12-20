@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on NPR Driveway Moments Baseball: Radio Stories That Won't Let You Go"
 date: 2017-06-25 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: bfc42fd3-8373-4ff7-b883-93441c58ad0c
 ---
 

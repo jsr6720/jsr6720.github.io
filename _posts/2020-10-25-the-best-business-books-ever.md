@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The Best Business Books Ever: The 100 Most Influential Management Books You'll Never Have Time To Read"
 date: 2020-10-25 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 681683da-0b23-46a7-b394-364d081d96e1
 ---
 

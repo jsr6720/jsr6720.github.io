@@ -3,8 +3,8 @@ layout: post
 author: James Rowe
 title: "Key Insights: “Which Economic Tasks Are Performed with AI?”"
 date: 2025-02-24 19:17:41 -0500
-categories: whitepaper
-tags: 2025 ai claude anthropic
+category: engineering
+tags: ai claude anthropic
 uid: 2D86F16C-F228-47C2-8AD2-7D6CA6A1CD94
 ---
 

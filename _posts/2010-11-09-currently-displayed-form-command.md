@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "Currently displayed form command"
 date: "2010-11-09 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2010 txcowboycoder 4D
 uid: 5fa5be7b-6e29-44a5-93f9-2da3057b1ea9
 ---

@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on Man's Search for Meaning"
 date: 2016-04-01 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: ba63257a-c4bf-464c-84ca-49474eec5fa0
 ---
 

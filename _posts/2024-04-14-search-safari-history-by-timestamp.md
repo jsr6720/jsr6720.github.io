@@ -3,8 +3,8 @@ layout: post
 author: James Rowe
 title: "Search Safari history by timestamp"
 date: 2024-04-14 20:47:18 -0400
-category: software
-tags: 2024 safari sqlite
+category: engineering
+tags: safari sqlite
 uid: 878A409A-C705-49D4-BB71-B379F14D3D68
 ---
 
