@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on Originals: How Non-Conformists Move the World"
 date: "2024-12-09 19:54:01 -0500"
 category: review
-tags: 2024 book
+tags: book
 uid: 320823D3-6F80-4E0E-BA34-CD500B5A9940
 ---
 

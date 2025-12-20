@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on 21 Lessons for the 21st Century"
 date: 2019-02-05 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: bf27d096-7b88-43cb-a365-92c06652f6bf
 ---
 

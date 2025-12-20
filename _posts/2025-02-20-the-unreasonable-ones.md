@@ -3,8 +3,8 @@ layout: post
 author: James Rowe
 title: "The Unreasonable Ones: Humanity’s Role in an AI World"
 date: 2025-02-19 23:19:32 -0500
-category: technology
-tags: 2025 humanity ai
+category: engineering
+tags: humanity ai
 uid: 4D4D7537-841B-49AA-8AD4-17FC73FE923D
 ---
 

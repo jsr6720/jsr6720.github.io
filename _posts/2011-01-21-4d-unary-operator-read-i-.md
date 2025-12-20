@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "4D unary operator (read i++)"
 date: "2011-01-21 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2011 txcowboycoder 4D
 uid: bbb58b89-8e90-4e50-a0d4-d3c62366d012
 ---

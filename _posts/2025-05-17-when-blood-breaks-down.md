@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on When Blood Breaks Down: Life Lessons from Leukemia"
 date: 2025-05-17 21:21:19 -0400
 category: review
-tags: 2025 book nonfiction cancer
+tags: book nonfiction cancer
 uid: 789EE969-29E6-47AF-9478-FB99B5317223
 ---
 

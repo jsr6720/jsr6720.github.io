@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "Allow NULL values in 4DB engine"
 date: "2011-06-07 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2011 txcowboycoder 4D
 uid: 392ef8f3-499a-4b3c-b677-5628997f8e7f
 ---

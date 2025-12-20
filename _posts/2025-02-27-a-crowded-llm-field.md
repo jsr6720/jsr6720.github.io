@@ -3,8 +3,8 @@ layout: post
 author: James Rowe
 title: "A Crowded LLM Field: Making Sense of AI Tooling"
 date: 2025-02-27 22:14:50 -0500
-category: technology
-tags: 2025 ai llm
+category: engineering
+tags: ai llm
 uid: 607E5E21-4FC8-4C8B-82C4-D9665373B6B4
 toc: true
 ---

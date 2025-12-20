@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "Mirroring 4D data to another database"
 date: "2010-10-20 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2010 txcowboycoder 4D
 uid: 9aad86d4-74a4-4fd1-811f-d127303db935
 ---

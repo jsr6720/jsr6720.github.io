@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "Windows get CPU usage command"
 date: "2010-11-16 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2010 txcowboycoder batch
 uid: 1d8dc9fa-bdb2-4de8-ae90-19927a7d8f4b
 ---

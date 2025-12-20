@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The Five Temptations of a CEO"
 date: 2016-11-06 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 09b2ef61-7765-4fb3-b49d-5286708809a8
 ---
 

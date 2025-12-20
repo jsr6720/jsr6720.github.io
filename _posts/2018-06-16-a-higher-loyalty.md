@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on A Higher Loyalty: Truth, Lies, and Leadership"
 date: 2018-06-16 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 60476539-fd31-404e-ad27-7b5b4b8d2648
 ---
 

@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on Letter from Birmingham Jail"
 date: 2018-09-06 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 0a0077d0-11ea-48ac-af20-f6c5023ae533
 ---
 

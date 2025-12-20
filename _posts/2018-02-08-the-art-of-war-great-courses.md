@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The Art of War (Great Courses series)"
 date: 2018-02-08 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 7026869a-a4d9-44b9-98d8-cbad923563c3
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "Postgres dynamic trigger — mirroring"
 date: "2010-10-27 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2010 txcowboycoder PostgreSQL 4D python
 uid: da92199e-dcc3-4fa2-b07a-86315309977f
 ---

@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The Long-Distance Leader: Rules for Remarkable Remote Leadership"
 date: 2021-01-09 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: b42370cc-0c70-4bc9-a0fa-1016ddcf1a6d
 ---
 

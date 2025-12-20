@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on Budoshoshinshu: Essential Teachings on the Way of the Warrior"
 date: 2020-01-01 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: d6626934-4080-4fef-85c5-aeb689fc0868
 ---
 

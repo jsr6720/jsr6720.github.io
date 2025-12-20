@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Book Review of \"Building Your Business\""
 date: 2024-11-01 21:58:20 -0500
 category: review
-tags: 2024 did-not-finish business book
+tags: did-not-finish business book
 uid: FE8FD2C6-DE9F-4CCE-A05A-7FDEDEA7D9BD
 ---
 

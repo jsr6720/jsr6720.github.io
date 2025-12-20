@@ -4,7 +4,7 @@ author: James Rowe
 title: "Hello World, Jekyll"
 date: 2024-03-31 19:46:48 -0400
 category: review
-tags: 2024 technology jekyll
+tags: technology jekyll
 uid: EDD59760-5CD4-428F-A8F4-445D0F27DB1F
 ---
 

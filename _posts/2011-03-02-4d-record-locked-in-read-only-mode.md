@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "4D record locked in read only mode"
 date: "2011-03-02 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2011 txcowboycoder 4D
 uid: 25f83d4a-da72-451f-b868-2a4db0744aea
 ---

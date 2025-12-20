@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "Auto execute psql commands via batch file"
 date: "2010-11-11 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2010 txcowboycoder PostgreSQL
 uid: de5b266d-8c38-48dd-a178-62346e13664f
 ---

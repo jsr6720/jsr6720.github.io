@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on Developing the Leader Within You 2.0"
 date: 2019-06-07 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: ce09025e-0710-44bc-b5c4-22374c4a608e
 ---
 

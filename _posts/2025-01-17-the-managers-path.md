@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The Manager’s Path: A Guide for Tech Leaders Navigating Growth & Change"
 date: 2025-01-17 23:23:33 -0500
 category: review
-tags: 2025 book nonfiction leadership
+tags: book nonfiction leadership
 uid: 3B4019BA-FC41-4645-BD1A-298858300444
 ---
 

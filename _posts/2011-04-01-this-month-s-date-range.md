@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "This month’s date range"
 date: "2011-04-01 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2011 txcowboycoder php
 uid: 1a21734e-7cf3-4385-81f4-1794f26b33d4
 ---

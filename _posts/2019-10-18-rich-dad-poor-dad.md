@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on Rich Dad Poor Dad"
 date: 2019-10-18 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 57c431b0-9686-4c42-a39c-7ce79015ccfc
 ---
 

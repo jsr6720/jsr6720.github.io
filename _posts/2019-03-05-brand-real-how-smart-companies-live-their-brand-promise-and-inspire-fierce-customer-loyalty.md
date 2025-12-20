@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on Brand real how smart companies live their brand promise and inspire fierce customer loyalty"
 date: 2019-03-05 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: f5562f25-8e13-4db7-be16-16f8ae50bff7
 ---
 

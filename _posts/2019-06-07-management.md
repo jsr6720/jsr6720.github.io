@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on Management: The Brian Tracy Success Library"
 date: 2019-06-07 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 2c0daeb5-f260-4e9e-816a-97e2461dd82c
 ---
 

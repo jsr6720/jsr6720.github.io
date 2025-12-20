@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "Error when purging log unable to extend tablespace ‘UNDO’"
 date: "2011-04-11 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2011 txcowboycoder odi oracle
 uid: db005aaf-78c2-4da1-a264-8852428aa434
 ---

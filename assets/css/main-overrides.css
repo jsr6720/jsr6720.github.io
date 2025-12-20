@@ -192,6 +192,18 @@ body {
   color: #fff;
 }
 
+.post-filters-label {
+  align-self: center;
+  color: #666;
+  font-size: 0.95em;
+}
+
+.post-filters-divider {
+  border: 0;
+  border-top: 1px solid #ddd;
+  margin: 0 0 16px;
+}
+
 .post-content h4 {
   font-size: 1.1em;
 }

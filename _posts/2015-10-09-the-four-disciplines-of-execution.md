@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The Four Disciplines of Execution"
 date: 2015-10-09 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 9848e0b1-f7b6-42e0-ac89-931b24222cb2
 ---
 

@@ -4,7 +4,7 @@ author: James Rowe
 title:  "Universal micro usb charger with unique housing"
 date:   "2010-11-22 00:00:00 -0400"
 category: personal
-tags: 2010 txcowboycoder 
+tags: 2010 txcowboycoder
 uid: a4dac276-3ec1-44db-99f6-88b207f0b89f
 ---
 

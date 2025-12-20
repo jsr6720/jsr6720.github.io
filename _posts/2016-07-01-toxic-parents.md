@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on Toxic Parents: Overcoming Their Hurtful Legacy and Reclaiming Your Life"
 date: 2016-07-01 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: e16541a0-f85e-4a16-9630-f74fbcc8c8b5
 ---
 

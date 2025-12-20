@@ -4,7 +4,7 @@ author: James Rowe
 title: "The last time"
 date: "2024-05-26 22:51:59 -0400"
 category: personal
-tags: 2024 life
+tags: life
 uid: 7D3CFD4B-F3ED-473A-9F1C-2A71E16ADD7E
 ---
 

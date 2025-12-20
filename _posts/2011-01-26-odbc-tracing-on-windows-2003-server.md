@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "ODBC Tracing on Windows 2003 server"
 date: "2011-01-26 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2011 txcowboycoder iis odbc
 uid: 98ac9ef5-2024-4586-afe8-2c7bd203015a
 ---

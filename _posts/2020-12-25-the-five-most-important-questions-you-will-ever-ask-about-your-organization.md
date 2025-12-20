@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The Five Most Important Questions You Will Ever Ask About Your Organization"
 date: 2020-12-25 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 61b700ca-c42a-4aab-83a1-f93732b357e6
 ---
 

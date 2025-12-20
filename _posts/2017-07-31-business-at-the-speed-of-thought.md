@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on Business @ the Speed (Lib)(CD)"
 date: 2017-07-31 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: dd13bce4-dee4-4701-b120-04dfb5cd3d69
 ---
 

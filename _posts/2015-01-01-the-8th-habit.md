@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The 8th Habit: From Effectiveness to Greatness"
 date: 2015-01-01 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 3dd5e5ff-e4e0-4dfe-8330-39909375a74d
 ---
 

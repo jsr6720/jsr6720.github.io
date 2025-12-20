@@ -4,7 +4,7 @@ author: James Rowe
 title: "My favorite xkcd comics"
 date: 2024-04-16 00:58:06 -0400
 category: personal
-tags: 2024 humor
+tags: humor
 uid: E0211686-944D-4F71-85FA-72E436805577
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "Toggle off 4D form events for easier debugging"
 date: "2011-05-02 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2011 txcowboycoder 4D
 uid: 0d1f11d1-9d3c-454a-aad4-b404d2b84f1e
 ---

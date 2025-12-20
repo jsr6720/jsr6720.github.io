@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "Is record number valid – command"
 date: "2010-10-31 00:00:00 -0400"
-category: software
+category: engineering
 tags: 2010 txcowboycoder 4D
 uid: eb54d4ce-41a1-47c8-bbb7-e39aba40e240
 ---

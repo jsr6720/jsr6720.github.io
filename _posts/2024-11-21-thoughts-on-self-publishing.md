@@ -4,7 +4,7 @@ author: James Rowe
 title: Self-Publishing "AI Primer for Business Leaders"
 date: 2024-11-21 21:04:56 -0500
 category: personal
-tags: 2024 book self-publishing writing ai
+tags: book self-publishing writing ai
 uid: 44EC4119-0A57-4B89-8B56-A09315A3B0F5
 ---
 

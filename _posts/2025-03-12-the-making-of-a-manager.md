@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The Making of a Manager: What to Do When Everyone Looks to You"
 date: 2025-03-12 21:54:53 -0400
 category: review
-tags: 2025 book nonfiction leadership
+tags: book nonfiction leadership
 uid: FC17D53E-D97D-4D8D-8E5B-B6628DB86C21
 ---
 

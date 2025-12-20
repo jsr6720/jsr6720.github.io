@@ -7,12 +7,19 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <div class="post-filters" role="group" aria-label="Filter posts">
+      <span class="post-filters-label">Filter:</span>
       <button class="post-filter is-active" data-filter="all" type="button">All</button>
       <button class="post-filter" data-filter="engineering" type="button">Engineering</button>
       <button class="post-filter" data-filter="personal" type="button">Personal</button>
+      <button class="post-filter" data-filter="review" type="button">Reviews</button>
     </div>
+    <hr class="post-filters-divider" />
     {%- for post in site.posts -%}
-    <div class="post-item" data-tags="{{ post.tags | join: ',' | downcase }}">
+    {%- assign post_categories = post.categories -%}
+    {%- if post_categories == nil or post_categories == empty -%}
+      {%- assign post_categories = post.category | split: ',' -%}
+    {%- endif -%}
+    <div class="post-item" data-categories="{{ post_categories | join: ',' | downcase }}">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <div class="post-flex-container">
         <div class="post-left">
@@ -52,11 +59,11 @@ layout: default
       });
 
       items.forEach(item => {
-        const tags = (item.dataset.tags || '')
+        const categories = (item.dataset.categories || '')
           .split(',')
-          .map(tag => tag.trim())
+          .map(category => category.trim())
           .filter(Boolean);
-        const matches = filter === 'all' || tags.includes(filter);
+        const matches = filter === 'all' || categories.includes(filter);
         item.style.display = matches ? '' : 'none';
       });
     }

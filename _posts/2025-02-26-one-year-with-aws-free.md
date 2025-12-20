@@ -3,8 +3,8 @@ layout: post
 author: James Rowe
 title: "AWS Free Tier After One Year—Cost Breakdown"
 date: 2025-02-26 21:22:13 -0500
-category: technology
-tags: 2025 aws
+category: engineering
+tags: aws
 uid: B3DAE9ED-F4DA-4BBF-BD3A-495B08FC9B67
 ---
 

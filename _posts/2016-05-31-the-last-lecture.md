@@ -4,7 +4,7 @@ author: James Rowe
 title: "Quick Thoughts on The Last Lecture"
 date: 2016-05-31 00:00:00 -0400
 category: review
-tags: book 
+tags: book
 uid: 93cb63ff-440e-4ba8-92c7-1e6fe2916a58
 ---
 
