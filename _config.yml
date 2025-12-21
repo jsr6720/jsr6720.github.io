@@ -62,5 +62,6 @@ exclude:
   - node_modules
   - vendor/bundle
   - .github
-  - _whitepapers/**/*.md
-  - _whitepapers/**/*.markdown
+  - _whitepapers/**
+  - _archive/**
+  - _recipes/**

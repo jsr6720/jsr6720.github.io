@@ -6,6 +6,10 @@
 User-agent: *
 Allow: /
 Disallow: /whitepapers/
+Disallow: /_whitepapers/
+Disallow: /_archive/
+Disallow: /_recipes/
+Disallow: /*.md$
 
 # I publish this via GitHub actions both to AWS S3 and GitHub Pages
 Sitemap: https://www.jsrowe.com/sitemap.xml
