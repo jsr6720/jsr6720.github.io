@@ -1,0 +1,25 @@
+{%- assign active_filter = include.active_filter | default: "all" -%}
+<div class="post-filters" role="navigation" aria-label="Filter posts">
+  <span class="post-filters-label">Filter:</span>
+  <span class="post-filter-group">
+    <a class="post-filter{% if active_filter == 'all' %} is-active{% endif %}" href="{{ '/' | relative_url }}">All</a>
+  </span>
+  <span class="post-filter-group">
+    <a class="post-filter{% if active_filter == 'engineering' %} is-active{% endif %}" href="{{ '/category/engineering/' | relative_url }}">Engineering</a>
+    <a class="post-filter-feed" href="{{ '/feed/engineering.xml' | relative_url }}" target="_blank" rel="noopener" aria-label="Engineering RSS feed">
+      <img class="post-filter-feed-icon" alt="" src="/assets/rss-feed-icon.png">
+    </a>
+  </span>
+  <span class="post-filter-group">
+    <a class="post-filter{% if active_filter == 'personal' %} is-active{% endif %}" href="{{ '/category/personal/' | relative_url }}">Personal</a>
+    <a class="post-filter-feed" href="{{ '/feed/personal.xml' | relative_url }}" target="_blank" rel="noopener" aria-label="Personal RSS feed">
+      <img class="post-filter-feed-icon" alt="" src="/assets/rss-feed-icon.png">
+    </a>
+  </span>
+  <span class="post-filter-group">
+    <a class="post-filter{% if active_filter == 'review' %} is-active{% endif %}" href="{{ '/category/review/' | relative_url }}">Reviews</a>
+    <a class="post-filter-feed" href="{{ '/feed/review.xml' | relative_url }}" target="_blank" rel="noopener" aria-label="Reviews RSS feed">
+      <img class="post-filter-feed-icon" alt="" src="/assets/rss-feed-icon.png">
+    </a>
+  </span>
+</div>

@@ -123,6 +123,10 @@ body {
   font-size: 2em;
 }
 
+.category-page .post-header .post-title {
+  font-size: 1.5em;
+}
+
 .post-content h1 {
   font-size: 1.75em;
 }
@@ -200,19 +204,35 @@ body {
   flex-wrap: wrap;
 }
 
-.post-filter {
-  background-color: #f0f0f0;
+.post-filter-group {
+  display: inline-flex;
+  align-items: center;
   border: 1px solid #ddd;
   border-radius: 999px;
+  background-color: #f0f0f0;
+  overflow: hidden;
+}
+
+.post-filter {
+  background-color: transparent;
+  border: 0;
+  border-radius: 0;
   padding: 4px 12px;
   font-size: 0.95em;
   cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  display: inline-flex;
+  align-items: center;
 }
 
 .post-filter.is-active {
   background-color: #222;
-  border-color: #222;
   color: #fff;
+}
+
+.post-filter.is-active + .post-filter-feed .post-filter-feed-icon {
+  filter: none;
 }
 
 .post-filters-label {
@@ -221,10 +241,39 @@ body {
   font-size: 0.95em;
 }
 
+.post-filter-feed {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border-left: 1px solid #ddd;
+  background-color: transparent;
+  padding: 4px 8px;
+}
+
+.post-filter-feed:hover {
+  background-color: #e8e8e8;
+}
+
+.post-filter-feed-icon {
+  width: 14px;
+  height: 14px;
+  filter: grayscale(35%) brightness(0.9) contrast(1.05);
+}
+
 .post-filters-divider {
   border: 0;
   border-top: 1px solid #ddd;
   margin: 0 0 16px;
+}
+
+.social-media-list .external-icon {
+  width: 12px;
+  height: 12px;
+  padding-left: 6px;
+  padding-right: 0;
+  vertical-align: text-top;
 }
 
 .post-content h4 {

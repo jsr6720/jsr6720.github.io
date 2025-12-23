@@ -9,6 +9,12 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Source+Serif+4:wght@400;500;600;700&display=swap">
   {%- feed_meta -%}
 
+  {%- if page.url == "/" -%}
+  <link rel="prefetch" href="{{ '/category/engineering/' | relative_url }}">
+  <link rel="prefetch" href="{{ '/category/personal/' | relative_url }}">
+  <link rel="prefetch" href="{{ '/category/review/' | relative_url }}">
+  {%- endif -%}
+
   <!-- jrowe added -->
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/assets/css/main-overrides.css">

@@ -47,6 +47,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-toc
 
+feed:
+  categories:
+    - engineering
+    - personal
+    - review
+
 # toc settings
 toc:
   min_level: 1
