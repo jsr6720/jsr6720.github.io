@@ -3,7 +3,7 @@ layout: post
 author: James Rowe
 title: "Conversation experience ChatGPT vs stack overflow"
 date: "2024-05-02 21:59:32 -04:00"
-category: personal
+category: engineering
 tags: stack-overflow communication
 uid: E4927E40-0AF6-42A4-A367-ED9F58A73C79
 excerpt: "A comparison of the conversation experience between stack overflow and ChatGPT. Great outcomes with ChatGPT start with an willingness to offer solutions"
