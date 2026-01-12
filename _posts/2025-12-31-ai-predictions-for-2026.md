@@ -30,17 +30,17 @@ While writing my 2025 [AI Wrapped series](<link>) and reading [others’](https:
 * Frontier models (Claude Sonnet 4.5/Open AI GPT 5.1) are good enough for production use. Getting investment dollars to train a new models will become more difficult.[^investments]
 * The rush to ink deals and outlay billions to build-out datacenters will fail to materialize in 2026. Not only does physical constructions and permitting take years, tech companies’ hubris has blinded them to the mounting resistance to data center expansion that has been [steamrolling local communities](https://www.economist.com/united-states/2025/10/30/the-data-centre-backlash-is-brewing-in-america).
 
-## Footnotes
-
-[^lawsuits]: I do think lawsuits will continue to be brought against AI companies for their scraping of data and fair use claims. But I don’t know enough about this topic to stake a claim on it.
-
-[^privacy]: And probably another reason to delete your account from time to time.
-
-[^investments]: The billions spent so far to build existing models will not be recovered.
-
 ---
 
 ### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
 - {{ "2025-12-30 19:54:00 -0500" | date_to_string: "ordinal", "US" }} Draft Created. A little late on starting predictions.
+
+### Footnotes
+
+[^lawsuits]: I do think lawsuits will continue to be brought against AI companies for their scraping of data and fair use claims. But I don’t know enough about this topic to stake a claim on it.
+
+[^privacy]: And probably another reason to delete your account from time to time.
+
+[^investments]: The billions spent so far to build existing models will not be recovered.
