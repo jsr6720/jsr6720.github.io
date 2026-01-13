@@ -28,7 +28,7 @@ While writing my 2025 [AI Wrapped series](<link>) and reading [others’](https:
 * AI agents’ “memories” and personal contexts will become the moat. Just as it is the apps, not the hardware specs, that keep you from switching from iOS to Android, it is the historical context that companies have about you that will keep you from switching AI providers.[^privacy]
 * VC subsidies will collapse and product enshittification will ensue. Companies have been focused on how to get LLMs working, not how to make them profitable. Ads are coming.
 * Frontier models (Claude Sonnet 4.5/Open AI GPT 5.1) are good enough for production use. Getting investment dollars to train a new models will become more difficult.[^investments]
-* The rush to ink deals and outlay billions to build-out datacenters will fail to materialize in 2026. Not only does physical constructions and permitting take years, tech companies’ hubris has blinded them to the mounting resistance to data center expansion that has been [steamrolling local communities](https://www.economist.com/united-states/2025/10/30/the-data-centre-backlash-is-brewing-in-america).
+* The rush to ink deals and outlay billions to build out datacenters will fail to materialize in 2026. Not only does physical construction and permitting take years, tech companies’ hubris has blinded them to the mounting resistance to data center expansion that has been [steamrolling local communities](https://www.economist.com/united-states/2025/10/30/the-data-centre-backlash-is-brewing-in-america).
 
 ---
 
