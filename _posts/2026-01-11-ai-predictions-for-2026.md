@@ -8,7 +8,7 @@ tags: ai, predictions
 uid: 1E3F5F54-892B-448F-B80C-00043F851288
 ---
 
-While writing my 2025 [AI Wrapped series](<link>) and reading [others’](https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/), [AI](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/) [predictions](https://garymarcus.substack.com/p/six-or-seven-predictions-for-ai-2026), I’m publishing some of my own.
+While writing my [2025 AI Wrapped]({% post_url 2026-01-19-ai-wrapped-series %}) series and reading [others’](https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/), [AI](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/) [predictions](https://garymarcus.substack.com/p/six-or-seven-predictions-for-ai-2026), I’m publishing some of my own.
 
 ### The Human Element
 
@@ -26,7 +26,7 @@ While writing my 2025 [AI Wrapped series](<link>) and reading [others’](https:
 ### Market Forces
 
 * AI agents’ “memories” and personal contexts will become the moat. Just as it is the apps, not the hardware specs, that keep you from switching from iOS to Android, it is the historical context that companies have about you that will keep you from switching AI providers.[^privacy]
-* VC subsidies will collapse and product enshittification will ensue. Companies have been focused on how to get LLMs working, not how to make them profitable. Ads are coming.
+* VC subsidies will collapse and product enshittification will ensue. Companies have been focused on how to get LLMs working, not how to make them profitable. Ads are coming.[^ads]
 * Frontier models (Claude Sonnet 4.5/Open AI GPT 5.1) are good enough for production use. Getting investment dollars to train a new models will become more difficult.[^investments]
 * The rush to ink deals and outlay billions to build out datacenters will fail to materialize in 2026. Not only does physical construction and permitting take years, tech companies’ hubris has blinded them to the mounting resistance to data center expansion that has been [steamrolling local communities](https://www.economist.com/united-states/2025/10/30/the-data-centre-backlash-is-brewing-in-america).
 
@@ -44,3 +44,5 @@ While writing my 2025 [AI Wrapped series](<link>) and reading [others’](https:
 [^privacy]: And probably another reason to delete your account from time to time.
 
 [^investments]: The billions spent so far to build existing models will not be recovered.
+
+[^ads]: That didn't take long. [OpenAI testing ads](https://x.com/OpenAI/status/2012223373489614951)
