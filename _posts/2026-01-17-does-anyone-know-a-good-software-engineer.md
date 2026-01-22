@@ -31,7 +31,7 @@ Every project reaches a point where specialized[^labor] experts are needed, and 
 ### Significant Revisions
 
 - {{ page.date | date_to_string: "ordinal", "US" }} Originally published on [{{ site.url }}]({{ site.url }}) with uid {{ page.uid }}
-- {{ "2025-12-26 21:00:00 -0500" | date_to_string: "ordinal", "US" }} Draft Created - extracted from my work on [2025 AI Wrapped series]({% post_url 2026-01-19-ai-wrapped-series %})
+- {{ "2025-12-26 21:00:00 -0500" | date_to_string: "ordinal", "US" }} Draft Created - extracted from my work on [2025 AI Wrapped series]({% post_url 2026-01-21-ai-wrapped-series %})
 
 ### Footnotes
 

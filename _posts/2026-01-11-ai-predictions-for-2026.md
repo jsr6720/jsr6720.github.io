@@ -8,7 +8,7 @@ tags: ai, predictions
 uid: 1E3F5F54-892B-448F-B80C-00043F851288
 ---
 
-While writing my [2025 AI Wrapped]({% post_url 2026-01-19-ai-wrapped-series %}) series and reading [others’](https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/), [AI](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/) [predictions](https://garymarcus.substack.com/p/six-or-seven-predictions-for-ai-2026), I’m publishing some of my own.
+While writing my [2025 AI Wrapped]({% post_url 2026-01-21-ai-wrapped-series %}) series and reading [others’](https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/), [AI](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/) [predictions](https://garymarcus.substack.com/p/six-or-seven-predictions-for-ai-2026), I’m publishing some of my own.
 
 ### The Human Element
 
