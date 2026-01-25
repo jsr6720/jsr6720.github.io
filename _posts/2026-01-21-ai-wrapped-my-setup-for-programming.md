@@ -10,15 +10,15 @@ image: /assets/posts-images/2025-ai-wrapped-series/multiple-terminal-windows-mul
 toc: true
 ---
 
-*This is Part 2 of 5 of my [2025 AI Wrapped]({% post_url 2026-01-21-ai-wrapped-series %}) series. This post covers my actual development environment setup—the specific tools and workflows I use daily to ship production software with nearly 100% AI generated code.*
+*This is Part 2 of 5 of my [2025 AI Wrapped]({% post_url 2026-01-21-ai-wrapped-series %}) series. This post covers my actual development environment setup—the specific tools and workflows I use daily to ship production software with nearly 100% AI-generated code.*
 
 When I “sit down to get work done,” I open Cursor[^cursor] and two or three CLI sessions (Claude Code and Codex) for concurrent prompting, and the app locally. The rule of 7±2 applies here. Any more than this melts my brain; there’s a cognitive limit to how many threads I can keep straight in my mind. 
 
 Claude Code Sonnet 4.5 and OpenAI Codex 5.1 are the first AI programming tools that have made me think, **“Even if this is as good as it gets, it’s good enough.”**[^models]
 
-After 3-4 hours of intense [vibe-engineering]( https://simonwillison.net/2025/Oct/7/vibe-engineering/), I’ll trigger the dreaded warnings: `Heads up, you’ve used over 90% of your 5hr limit` followed almost immediately with `Credit Balance too low—Add Funds.`[^plans]
+After 3-4 hours of intense [vibe-engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/), I’ll trigger the dreaded warnings: `Heads up, you’ve used over 90% of your 5hr limit` followed almost immediately with `Credit Balance too low—Add Funds`.[^plans]
 
-With this multiple-agent setup, I can have one agent focused on adding an endpoint while another builds the corresponding front end change, and a third updates documentation—all while I chat with Claude/GPT about next steps in another tab. Multitasking multiple facets of the same work with AI does not seem to trigger the same “cognitive reset” as context-switching to another body of work.
+With this multiple-agent setup, I can have one agent focused on adding an endpoint while another builds the corresponding front end change and a third updates documentation—all while I chat with Claude/GPT about next steps in another tab. Multitasking multiple facets of the same work with AI does not seem to trigger the same “cognitive reset” as context-switching to another body of work.
 
 When I was a frontline software engineer, I never wanted to leave my IntelliJ IDE. In my mind, code was the law; leaving the IDE broke my flow state. Now, I only review files in the IDE when I need to look at a specific file or configure something for the project. 
 
@@ -71,7 +71,7 @@ Before AI, the idea of having 2-3 engineers working at one keyboard sounds ridic
 
 [^plans]: All personal examples using Anthropic Claude and OpenAI GPT with $20/month plans.
 
-[^models]: In the time it has taken me to write this, Opus 4.5 has come out, and Codex 5.2
+[^models]: In the time it has taken me to write this, Opus 4.5 and Codex 5.2 have come out.
 
 [^cursor]: Cursor’s ability to work with screenshots is a KILLER feature.
 

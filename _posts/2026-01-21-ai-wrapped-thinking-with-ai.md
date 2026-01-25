@@ -8,7 +8,7 @@ tags: ai, programming
 uid: 61BBBCC3-9C95-4378-A540-86C18FE9BC78
 ---
 
-*This is Part 5 of 5 of my [2025 AI Wrapped]( {% post_url 2026-01-21-ai-wrapped-series %}) series. This post covers key lessons for myself and how I think with AI.*
+*This is Part 5 of 5 of my [2025 AI Wrapped]({% post_url 2026-01-21-ai-wrapped-series %}) series. This post covers key lessons for myself and how I think with AI.*
 
 AI isn’t just a code-writer. It’s an intern analyst—one efficient at finding connections across massive datasets, surfacing relevant research, and compiling baseline information. But just like any intern, it requires verification. When AI suggests something, that’s the start of an investigation, not the conclusion.
 

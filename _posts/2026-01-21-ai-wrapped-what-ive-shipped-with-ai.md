@@ -19,18 +19,18 @@ A pattern emerged with each example: AI feels lightning-fast for the first day o
 
 ## Agent Slash Commands and Reusable Prompts
 
-I was first exposed to this idea by the agents themselves. On startup Codex/Claude Code suggests common slash commands available within the current working directory. 
+I was first exposed to this idea by the agents themselves. On startup Codex/Claude Code will suggest common slash commands available within the current working directory. 
 
 ![Claude Code slash commands in terminal](/assets/posts-images/2025-ai-wrapped-series/claude-code-slash-commands.png){: style="border-radius: 4px;" }
 
-I’ve found it most effective to use a centralized “prompt-library” to share common prompts across all AI tools. This collection of markdown files is in my path at `~/code/prompt-library/<command>.md` and is available to any project I work with.
+I’ve found it most effective to use a centralized “prompt library” to share common prompts across all AI tools. This collection of markdown files is in my path at `~/code/prompt-library/<command>.md` and is available to any project I work with.
 
  
 ### Command: `/refactor` Refactoring AI Bloat and Making Human-Readable Files
 
 I use this reusable prompt the most because AI frequently creates thousand-line files that are completely indecipherable to the human eye. Or it will duplicate entire functions across files and violate many software best practices like DRY. 
 
-`/refactor` fixes these anti-patterns. I have been impressed that AI can refactor large blocks of code without breaking anything, but I wish it didn’t write crap in the first place. Since the cost of refactoring approaches zero (just the tokens/time), I don’t worry so much about AI-generated code until either it’s time to submit it for review or the effectiveness of working with the files goes down.
+Slash command `/refactor` fixes these anti-patterns. I have been impressed that AI can refactor large blocks of code without breaking anything, but I wish it didn’t write crap in the first place. Since the cost of refactoring approaches zero (just the tokens/time), I don’t worry so much about AI-generated code until either it’s time to submit it for review or the effectiveness of working with the files goes down.
 
 Here’s some examples:
 
@@ -88,7 +88,7 @@ Rather than try and track all of this through Jira and GitHub, I spun up a dispo
 
 ### Feature Flag Override Detection
 
-I built a simple scheduled GitHub action that scans specific configurations and looks for ones that are past-dated, indicating they can be removed. Before AI, this type of work would never take priority over feature development. I knocked this script out between meetings during a regular work-week.
+I built a simple scheduled GitHub action that scans specific configurations and looks for ones that are past-dated, indicating they can be removed. Before AI, this type of work would never take priority over feature development. I knocked this script out between meetings during a regular workweek.
 
 ### Inspecting Systems and Debugging Stack Traces
 
@@ -116,7 +116,7 @@ My kids know I build software, so they always ask, “Why can’t you build us a
 
 Another area where AI helps an engineer like me is in basic design principles. Most of my history with personal websites has been downloading a theme and making some light CSS tweaks to it. With AI, I’m able to theme a simple [business-card site](https://roweinnovations.com) with Tailwind.[^tailwind]
 
-I'm not replacing agency work, solicited quotes came in at $3-5k. I'd never pay that for a static site; I would’ve used a free/paid template. AI is letting me reach further as a solo builder, just as WordPress and Bootstrap made building sites about the content not the setup.
+I'm not replacing agency work; quotes I've solicited for this work came in at $3-5k. I'd never pay that for a static site; I would’ve used a free/paid template. AI is letting me reach further as a solo builder, just as WordPress and Bootstrap made building sites about the content, not the setup.
  
 ## Faster Iterations, Same Total Effort
 

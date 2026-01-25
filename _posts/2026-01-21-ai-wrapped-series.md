@@ -26,7 +26,7 @@ This series is a field report from the front lines: what it looks like to go all
 4.	[What Hasn’t Worked]({% post_url 2026-01-21-ai-wrapped-what-hasnt-worked %})
 5.	[Thinking with AI]({% post_url 2026-01-21-ai-wrapped-thinking-with-ai %})
 
-Bonus Content: [AI Predictions for 2026]({% post_url 2026-01-11-ai-predictions-for-2026 %}) and [Does Anyone Know A Good Software Engineer]({% post_url 2026-01-17-does-anyone-know-a-good-software-engineer %})
+Bonus Content: [AI Predictions for 2026]({% post_url 2026-01-11-ai-predictions-for-2026 %}) and [Does Anyone Know a Good Software Engineer?]({% post_url 2026-01-17-does-anyone-know-a-good-software-engineer %})
 
 ---
 
