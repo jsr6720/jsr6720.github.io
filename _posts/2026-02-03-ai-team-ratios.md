@@ -14,7 +14,7 @@ The two-pizza team isn’t dead—it just needs different toppings. AI breaks pr
 
 In chemistry, when you increase one reagent without rebalancing others, you don’t get more product: You get waste. 
 
-Without new team ratios to capture the efficiencies in writing code with AI, teams waste capacity on low-complexity work—solutions that AI is quite efficient with—when the real opportunity is in rebalancing towards high-impact projects instead of chasing the long tail of backlog items.
+Without new team ratios to capture the efficiencies in writing code with AI, teams waste capacity on low-complexity work—solutions that AI is quite efficient with—when the real opportunity is in rebalancing toward high-impact projects instead of chasing the long tail of backlog items.
 
 ## The Discipline Problem: Parkinson's Law Meets the 80/20 Rule
 
