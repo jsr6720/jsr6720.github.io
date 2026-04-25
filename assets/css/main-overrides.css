@@ -11,7 +11,7 @@ Off white background colors I've tried
 
 :root {
   color-scheme: light dark;
-  --bg-color-light: #F5F5F2; /* newsprint-style off-white */
+  --bg-color-light: #FAFAF8; /* near-white, barely warm */
   --text-color-light: #1B1B1B; /* deep charcoal for readability */
   --bg-color-dark: #333333;
   --text-color-dark: #ffffff;
@@ -291,4 +291,168 @@ body {
 .post-content hr {
   margin: 10px 0;
   border: 1px solid lightgray;
+}
+
+/* =============================================
+   DESIGN REFRESH — less 90s, more editorial
+   ============================================= */
+
+/* Kill the thick Minima header accent bar */
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid #e8e8e4;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  min-height: unset;
+}
+
+/* Site title: clean sans, all-caps, ink color */
+.site-title,
+.site-title:visited {
+  color: #1B1B1B;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+/* Nav links: smaller, muted until hovered */
+.site-nav .page-link,
+.site-nav .page-link:visited {
+  color: #888;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 0.8125rem;
+  letter-spacing: 0.02em;
+}
+
+.site-nav .page-link:hover {
+  color: #1B1B1B;
+  text-decoration: none;
+}
+
+/* Narrower reading column — newsletter width */
+.wrapper {
+  max-width: 700px;
+}
+
+/* Kill Minima blue links, use ink */
+a {
+  color: #1B1B1B;
+}
+
+a:visited {
+  color: #333;
+}
+
+a:hover {
+  color: #1B1B1B;
+  text-decoration: underline;
+}
+
+/* Post list link specifically */
+.post-link,
+.post-link:visited {
+  color: #1B1B1B;
+}
+
+/* Post list: more breathing room, lighter dividers */
+.post-list .post-flex-container {
+  border-bottom: 1px solid #eeeee9;
+  padding-bottom: 22px;
+  margin-bottom: 0;
+}
+
+.post-list .post-item {
+  margin-bottom: 22px;
+}
+
+.post-list .post-item:last-child .post-flex-container {
+  border-bottom: none;
+}
+
+/* Code blocks: warm neutral, not the default bluish #eef */
+pre,
+code {
+  background-color: #f0efeb;
+  border-color: #ddd;
+}
+
+/* Blockquote: refined — thin bar, not the chunky default */
+blockquote {
+  border-left: 2px solid #1B1B1B;
+  color: #555;
+  letter-spacing: normal;
+}
+
+/* Post meta: consistent muted color */
+.post-meta-left {
+  color: #888;
+}
+
+/* Footer: single clean row, no three-column mess */
+.site-footer {
+  border-top: 1px solid #e8e8e4;
+  padding: 28px 0 40px;
+  margin-top: 56px;
+}
+
+.footer-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.footer-name {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 600;
+  font-size: 0.875rem;
+  color: #1B1B1B;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.footer-name:visited,
+.footer-name:hover {
+  color: #1B1B1B;
+  text-decoration: none;
+}
+
+.footer-links {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.footer-links a,
+.footer-links a:visited {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 0.8125rem;
+  color: #888;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: #1B1B1B;
+}
+
+.footer-legal {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 0.75rem;
+  color: #aaa;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+.footer-legal a,
+.footer-legal a:visited {
+  color: #999;
+}
+
+.footer-legal a:hover {
+  color: #555;
 }

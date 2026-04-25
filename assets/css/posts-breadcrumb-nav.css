@@ -1,8 +1,10 @@
---
---
+---
+---
 
 .post-navigation {
     margin: 2rem 0;
+    padding-top: 1.5rem;
+    border-top: 1px solid #e8e8e4;
 }
 
 .post-navigation ul {
@@ -16,10 +18,24 @@
 .post-navigation li {
     margin: 0;
     flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.post-nav-label {
+    font-size: 0.75rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #aaa;
 }
 
 .post-navigation .post-nav-next {
     text-align: right;
+}
+
+.post-navigation a {
+    font-size: 0.9375rem;
 }
 
 @media (max-width: 600px) {

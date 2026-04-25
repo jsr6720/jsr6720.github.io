@@ -2,40 +2,22 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <a class="page-link" title="read bio" href="/about/">
-          <img src="/assets/site-photos/james-bio-picture.jpg" alt="james bio picture" class="footer img james-bio-picture img-stylish"/>
-        </a>
-        <p>
-          {%- if site.email -%}
-            <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
-          {%- endif -%}
-        </p>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-
-        <p>
-          <a href="https://github.com/jsr6720/jsr6720.github.io">{{ site.time | date_to_xmlschema }} Last build</a>
-        </p>
-
-        <p class="footer-heading">
-          <!-- <button onclick="switchTheme()">Switch Theme</button> -->
-        </p>
+    <div class="footer-inner">
+      <p class="footer-legal">&copy; 2010&ndash;{{ site.time | date: "%Y" }} James Rowe &middot; <a href="https://github.com/jsr6720/jsr6720.github.io/blob/main/LICENSE">CC BY 4.0</a></p>
+      <div class="footer-links">
+        <a href="/about/">About</a>
+        {%- if site.linkedin_username -%}
+        <a href="https://www.linkedin.com/in/{{ site.linkedin_username | cgi_escape | escape }}" target="_blank" rel="noopener">LinkedIn</a>
+        {%- endif -%}
+        {%- if site.github_username -%}
+        <a href="https://github.com/{{ site.github_username | cgi_escape | escape }}" target="_blank" rel="noopener">GitHub</a>
+        {%- endif -%}
+        {%- if site.bluesky_username -%}
+        <a href="https://bsky.app/profile/{{ site.bluesky_username | cgi_escape | escape }}" target="_blank" rel="noopener">Bluesky</a>
+        {%- endif -%}
+        <a href="{{ "/feed.xml" | relative_url }}">RSS</a>
       </div>
     </div>
-    <div class="footer-col-wrapper">
-      <p>Copyright &copy; 2010-2025 James Rowe. All thoughts and opinions expressed here are solely my own and do not express the views or opinions of my employer(s) past or present. Built by Wiglaf Software&trade;</p>
-      <p>
-        Unless otherwise noted, all code posted on this site is licensed under the <a href="https://github.com/jsr6720/jsr6720.github.io/blob/main/CODE-LICENSE">MIT License</a> and all other content including but not limited to blog posts, articles, and photos is licensed under the <a href="https://github.com/jsr6720/jsr6720.github.io/blob/main/LICENSE">Creative Commons Attribution 4.0 International License</a>.
-      </p>
-    </div>
+    <p class="footer-legal">Views expressed are my own and do not represent those of my employer(s), past or present.</p>
   </div>
 </footer>
