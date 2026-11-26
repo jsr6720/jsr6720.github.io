@@ -32,6 +32,27 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: List generated files
-        if: success()
-        run: ls -la _site/
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: tests/package-lock.json
+
+      - name: Install Playwright
+        working-directory: tests
+        run: npm ci && npx playwright install --with-deps chromium
+
+      - name: Playwright smoke tests
+        working-directory: tests
+        run: npx playwright test
+        env:
+          SITE_DIR: ../_site
+
+      - name: SEO tests on the GitHub Pages backup build
+        run: |
+          bundle exec jekyll build --config _config.yml,_config.gh-pages.yml -d _site-gh
+          cd tests && npx playwright test -g "assembled"
+        env:
+          JEKYLL_ENV: production
+          SITE_DIR: ../_site-gh
