@@ -8,6 +8,10 @@ James Rowe's personal blog. Jekyll + minima, ~380 posts. Sister site: noted.jsro
 - No bloviation: in posts, comments, commit messages or code.
 - Alt text on every image is fine to write or improve.
 
+## No tracking
+
+The old web: a personal collection of links and writing. No analytics, pixels, tag managers, comment widgets, newsletter popups or third-party scripts. Share buttons stay plain links. Don't add a third-party request to every page without asking.
+
 ## Deploy
 
 Push to `main` deploys production. Open a PR; never push to `main`.
