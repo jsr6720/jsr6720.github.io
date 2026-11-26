@@ -1,4 +1,5 @@
 import { test, expect, type Page } from '@playwright/test';
+import redirects from './redirects.json';
 
 // One sample of each kind of post. Swap these if a post moves or gets renamed.
 const POSTS = {
@@ -150,4 +151,29 @@ test.describe('assembled pages: head, header, footer', () => {
     await expect(license).toHaveText('CC BY-NC-ND 4.0');
     await expect(license).toHaveAttribute('href', 'https://creativecommons.org/licenses/by-nc-nd/4.0/');
   });
+});
+
+test.describe('error page', () => {
+  test('missing pages return 404', async ({ request }) => {
+    expect((await request.get('/this-page-does-not-exist/')).status()).toBe(404);
+  });
+
+  test('/404.html renders with a way back home', async ({ page, request }) => {
+    const res = await page.goto('/404.html');
+    expect(res?.status()).toBe(200);
+    await expect(page.locator('h1')).toContainText('404');
+    await expect(page.locator('a[href="/"]').first()).toBeVisible(); // header site title
+    expect((await request.get('/')).status()).toBe(200);
+  });
+});
+
+// Old URL -> new URL, one entry per moved page: [{ "from": "/old/", "to": "/new/" }]
+test.describe('redirects', () => {
+  for (const { from, to } of redirects as { from: string; to: string }[]) {
+    test(`${from} redirects to ${to}`, async ({ page }) => {
+      await page.goto(from);
+      await page.waitForURL((url) => url.pathname === to); // HTTP 301 or Hugo alias meta refresh
+      await expect(page.locator('main')).not.toBeEmpty();
+    });
+  }
 });
