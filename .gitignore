@@ -5,6 +5,7 @@
 
 # jekyll defaults
 _site/
+_site-gh/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata

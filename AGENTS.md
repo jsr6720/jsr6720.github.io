@@ -32,11 +32,11 @@ JEKYLL_ENV=production bundle exec jekyll build                                  
 JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config.gh-pages.yml  # GH Pages
 ```
 
-Builds take a few minutes. Check the built HTML in `_site/`, not just the Liquid. Check CLI flags against the installed version before using them (html-proofer v5 uses `--checks`).
+Builds take a few minutes. Check the built HTML in `_site/`, not just the Liquid. Check CLI flags against the installed version before using them.
 
 ## Tests
 
-Playwright smoke tests in `tests/` run against the built site in CI. They check top-level pages, every RSS feed, previous/next links, table of contents, code blocks, images, and that nothing loads from third-party hosts. Sample posts are listed at the top of `tests/site.spec.ts`.
+Playwright smoke tests in `tests/` run against the built site in CI. They check top-level pages, every RSS feed, previous/next links, table of contents, code blocks, images, header/footer links, SEO tags (canonical always www.jsrowe.com, on both builds), and that nothing loads from third-party hosts. Sample posts are listed at the top of `tests/site.spec.ts`.
 
 ```sh
 cd tests && npm ci && npx playwright install chromium

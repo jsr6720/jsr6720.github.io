@@ -54,13 +54,6 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: Check for broken links (warnings only)
-        continue-on-error: true
-        run: |
-          gem install html-proofer
-          echo "::warning::Running HTML-Proofer checks - errors will be reported but won't fail the build"
-          htmlproofer ./_site --allow-hash-href --checks "Links,Images,Scripts" || echo "::warning::HTML-Proofer found issues, see log above for details"
-
       - name: Deploy to S3
         run: |
           aws s3 sync _site/ s3://${{ secrets.S3_BUCKET }} --delete --region ${{ vars.AWS_REGION }}

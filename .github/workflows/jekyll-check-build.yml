@@ -48,3 +48,11 @@ jobs:
         run: npx playwright test
         env:
           SITE_DIR: ../_site
+
+      - name: SEO tests on the GitHub Pages backup build
+        run: |
+          bundle exec jekyll build --config _config.yml,_config.gh-pages.yml -d _site-gh
+          cd tests && npx playwright test -g "assembled"
+        env:
+          JEKYLL_ENV: production
+          SITE_DIR: ../_site-gh

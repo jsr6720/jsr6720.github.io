@@ -23,6 +23,9 @@ const FEEDS = ['/feed.xml', '/feed/engineering.xml', '/feed/review.xml', '/feed/
 // The only hosts a page may load from besides this site (see AGENTS.md "No tracking").
 const ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'fonts.googleapis.com', 'fonts.gstatic.com'];
 
+// Search engines should only ever see this host, even on the GitHub Pages backup.
+const CANONICAL_HOST = 'https://www.jsrowe.com';
+
 const toPath = (url: string) => new URL(url, 'http://localhost').pathname;
 
 async function expectImagesLoaded(page: Page) {
@@ -106,4 +109,45 @@ test.describe('posts', () => {
       await expect(code.first()).not.toBeEmpty();
     });
   }
+});
+
+test.describe('assembled pages: head, header, footer', () => {
+  const pages = ['/', '/category/review/', ...Object.values(POSTS)];
+
+  for (const url of pages) {
+    test(`${url} has SEO tags pointing at ${CANONICAL_HOST}`, async ({ page }) => {
+      await page.goto(url);
+      const head = page.locator('head');
+      await expect(head.locator('link[rel="canonical"]')).toHaveAttribute('href', CANONICAL_HOST + url);
+      await expect(head.locator('meta[property="og:url"]')).toHaveAttribute('content', CANONICAL_HOST + url);
+      await expect(head.locator('meta[property="og:title"]')).toHaveAttribute('content', /\S/);
+      await expect(head.locator('meta[name="description"]')).toHaveAttribute('content', /\S/);
+      // Feed readers find the RSS feed through this tag.
+      await expect(head.locator('link[rel="alternate"][type="application/atom+xml"]').first())
+        .toHaveAttribute('href', /\/feed\.xml$/);
+    });
+  }
+
+  test('post titles are used in the page title', async ({ page }) => {
+    await page.goto(POSTS.personal);
+    await expect(page).toHaveTitle(/Articles of Incorporation/);
+  });
+
+  test('header and footer links work', async ({ page, request }) => {
+    await page.goto(POSTS.review);
+    const internal = await page
+      .locator('header a[href^="/"], footer.site-footer a[href^="/"]')
+      .evaluateAll((as) => [...new Set(as.map((a) => a.getAttribute('href')!))]);
+    expect(internal, 'header/footer links').toEqual(expect.arrayContaining(['/', '/about/', '/feed.xml']));
+    for (const href of internal) {
+      expect((await request.get(href)).status(), href).toBe(200);
+    }
+  });
+
+  test('footer shows the current license', async ({ page }) => {
+    await page.goto('/');
+    const license = page.locator('footer a[rel="license"]');
+    await expect(license).toHaveText('CC BY-NC-ND 4.0');
+    await expect(license).toHaveAttribute('href', 'https://creativecommons.org/licenses/by-nc-nd/4.0/');
+  });
 });
