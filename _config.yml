@@ -10,8 +10,9 @@ logo: /jsr6720-github-io-repo-social-preview.png
 description: >- # mutli line capable
   The digital journal of James Rowe. Something between WordPress, LiveJournal and gists.
 baseurl: "" # the subpath of your site, e.g. /blog
-# TODO aws redirect https://jsr6720.com -> https://jsr6720.github.io
+# TODO 301 jsr6720.com -> https://www.jsrowe.com (registered at AWS, no DNS records yet)
 url: "https://www.jsrowe.com" # backup --> github pages --> "https://jsr6720.github.io"
+canonical_host: "https://www.jsrowe.com" # canonical URL in <head>, even on the github pages backup
 rss: feed.xml
 
 # if you sense a theme.. RIT assigned me a user id of "jsr6720" and it stuck
@@ -30,12 +31,6 @@ permalink: /:title/
 # but linkable back via github hosting
 collections:
   archive: # not everything written should stay published eh?
-    output: false
-    permalink: /:collection/:name
-  whitepapers: # see [/_whitepapers/README.md](https://github.com/jsr6720/jsr6720.github.io/blob/main/_whitepapers/README.md)
-    output: true
-    permalink: /:collection/:name
-  recipes: # todo something fun
     output: false
     permalink: /:collection/:name
 
@@ -68,6 +63,4 @@ exclude:
   - node_modules
   - vendor/bundle
   - .github
-  - _whitepapers/**
   - _archive/**
-  - _recipes/**
