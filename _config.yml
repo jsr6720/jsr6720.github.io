@@ -10,11 +10,9 @@ logo: /jsr6720-github-io-repo-social-preview.png
 description: >- # mutli line capable
   The digital journal of James Rowe. Something between WordPress, LiveJournal and gists.
 baseurl: "" # the subpath of your site, e.g. /blog
-# TODO aws redirect https://jsr6720.com -> https://jsr6720.github.io
+# TODO 301 jsr6720.com -> https://www.jsrowe.com (registered at AWS, no DNS records yet)
 url: "https://www.jsrowe.com" # backup --> github pages --> "https://jsr6720.github.io"
-# Canonical home for search engines. The GitHub Pages backup overrides `url`,
-# but canonical/og:url/JSON-LD still point here so Google sees one site, not two.
-canonical_host: "https://www.jsrowe.com"
+canonical_host: "https://www.jsrowe.com" # canonical URL in <head>, even on the github pages backup
 rss: feed.xml
 
 # if you sense a theme.. RIT assigned me a user id of "jsr6720" and it stuck
