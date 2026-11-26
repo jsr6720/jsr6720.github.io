@@ -12,6 +12,9 @@ description: >- # mutli line capable
 baseurl: "" # the subpath of your site, e.g. /blog
 # TODO aws redirect https://jsr6720.com -> https://jsr6720.github.io
 url: "https://www.jsrowe.com" # backup --> github pages --> "https://jsr6720.github.io"
+# Canonical home for search engines. The GitHub Pages backup overrides `url`,
+# but canonical/og:url/JSON-LD still point here so Google sees one site, not two.
+canonical_host: "https://www.jsrowe.com"
 rss: feed.xml
 
 # if you sense a theme.. RIT assigned me a user id of "jsr6720" and it stuck

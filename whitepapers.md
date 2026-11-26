@@ -3,6 +3,7 @@ layout: page
 title: Whitepapers Archive
 permalink: /whitepapers/
 exclude: true
+sitemap: false # robots.txt disallows /whitepapers/; keep it out of the sitemap too
 ---
 
 ## Whitepapers
