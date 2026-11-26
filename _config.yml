@@ -57,6 +57,8 @@ toc:
 
 exclude:
   - README.md
+  - AGENTS.md
+  - CLAUDE.md
   - LICENSE
   - Gemfile
   - Gemfile.lock
