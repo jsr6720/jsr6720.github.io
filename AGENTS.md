@@ -12,6 +12,10 @@ James Rowe's personal blog. Jekyll + minima, ~380 posts. Sister site: noted.jsro
 
 The old web: a personal collection of links and writing. No analytics, pixels, tag managers, comment widgets, newsletter popups or third-party scripts. Share buttons stay plain links. Don't add a third-party request to every page without asking.
 
+## License
+
+Writing is CC BY-NC-ND 4.0 (`LICENSE`); code samples are MIT (`CODE-LICENSE`). Don't change either.
+
 ## Deploy
 
 Push to `main` deploys production. Open a PR; never push to `main`.

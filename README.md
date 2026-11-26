@@ -14,9 +14,9 @@ Mostly [goodreads.com reviews](https://github.com/jsr6720/goodreads-csv-to-md) a
 
 ## License
 
-All code samples unless otherwise noted [CODE LICENSE](/CODE-LICENSE)
+All code samples unless otherwise noted [CODE LICENSE](/CODE-LICENSE) (MIT)
 
-Anything not-code unless otherwise noted [LICENSE](/LICENSE)
+Anything not-code unless otherwise noted [LICENSE](/LICENSE) (CC BY-NC-ND 4.0): share it with attribution, but don't sell it or change it. Was CC BY 4.0 before 2026-11-26.
 
 ### Book Review tags
 
