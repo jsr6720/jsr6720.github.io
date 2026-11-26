@@ -45,6 +45,8 @@ SITE_DIR=../_site npx playwright test
 
 Run them before opening a PR. If a test fails, fix the site, not the test.
 
+When a page's URL changes, add a redirect and list it in `tests/redirects.json` (`{ "from": "/old/", "to": "/new/" }`).
+
 ## Posts
 
 - `_posts/YYYY-MM-DD-slug.md`, served at `/:title/`. Start from `_drafts/YYYY-MM-DD-title.md`.
