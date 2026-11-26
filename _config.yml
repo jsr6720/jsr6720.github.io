@@ -33,12 +33,6 @@ collections:
   archive: # not everything written should stay published eh?
     output: false
     permalink: /:collection/:name
-  whitepapers: # see [/_whitepapers/README.md](https://github.com/jsr6720/jsr6720.github.io/blob/main/_whitepapers/README.md)
-    output: true
-    permalink: /:collection/:name
-  recipes: # todo something fun
-    output: false
-    permalink: /:collection/:name
 
 theme: minima # base install
 plugins:
@@ -69,6 +63,4 @@ exclude:
   - node_modules
   - vendor/bundle
   - .github
-  - _whitepapers/**
   - _archive/**
-  - _recipes/**

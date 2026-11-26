@@ -73,7 +73,7 @@ I think my biggest regret in this project is not writing more. I got so focused 
 
 [^posts]: Some of my initial posts to this site strictly explored the novel UI interaction of ChatGPT and other models and how one could interact with them while understanding the [limits of their training data](https://jsrowe.com/finding-llm-training-data-limits/index.html).
 
-[^papers]: Many of which I started collecting in my [github account](https://github.com/jsr6720/jsr6720.github.io/tree/main/_whitepapers/ai).
+[^papers]: Many of which I started collecting in my github account.
 
 [^publishers]: I did reach out to a couple of publishing houses, but their first question was, “How many followers do you have on social media?” This took me aback; it felt clear that the publisher route favored established brands/authors. And why wouldn’t it? Less risk to take on a known commodity. I did take the time to submit a book proposal to Kogan Page and didn’t hear back at all. I can’t say I’m surprised—[who am I](https://github.com/jsr6720/jsr6720.github.io/blob/main/_archive/2024-05-21-who-am-i.md), after all? And my meager sales weren’t their target audience.
 
