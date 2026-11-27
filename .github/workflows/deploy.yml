@@ -1,0 +1,118 @@
+# One build, tested, deployed to S3 + CloudFront (www.jsrowe.com) and GitHub Pages (backup),
+# then tagged and released. Versioning: scripts/next-version.py.
+name: Deploy
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false # let production deploys finish
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Read Hugo version
+        run: echo "HUGO_VERSION=$(cat .hugo-version)" >> "$GITHUB_ENV"
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: ${{ env.HUGO_VERSION }}
+          extended: true
+
+      - name: Build
+        run: hugo --gc --cleanDestinationDir
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: tests/package-lock.json
+
+      - name: Playwright tests
+        working-directory: tests
+        run: npm ci && npx playwright install --with-deps chromium && npx playwright test
+        env:
+          SITE_DIR: ../public
+
+      - name: Upload site
+        uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: public/
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public/
+
+  deploy-aws:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write # AWS OIDC
+    steps:
+      - name: Download site
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: public/
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v5
+        with:
+          role-to-assume: ${{ secrets.AWS_GHA_ROLE_TO_ASSUME }}
+          role-session-name: GitHub_to_AWS_via_FederatedOIDC
+          aws-region: ${{ vars.AWS_REGION }}
+
+      - name: Sync to S3 and invalidate CloudFront
+        run: |
+          aws s3 sync public/ s3://${{ secrets.S3_BUCKET }} --delete --region ${{ vars.AWS_REGION }}
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
+
+  deploy-pages:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  release:
+    needs: [deploy-aws, deploy-pages]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # tag + release
+      pull-requests: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Tag and release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          labels=$(gh api "repos/${{ github.repository }}/commits/${{ github.sha }}/pulls" --jq '.[0].labels[].name' 2>/dev/null || true)
+          major=$(echo "$labels" | grep -qx major && echo --major || true)
+          version=$(python3 scripts/next-version.py $major 2> reason.txt)
+          cat reason.txt
+          gh release create "$version" --target "${{ github.sha }}" --title "$version" --generate-notes --notes "$(cat reason.txt)"

@@ -26,7 +26,13 @@ Writing is CC BY-NC-ND 4.0 (`LICENSE`); code samples are MIT (`CODE-LICENSE`). D
 
 Push to `main` deploys production. Open a PR; never push to `main`.
 
-One build (`baseURL` https://www.jsrowe.com/) is deployed twice: S3 + CloudFront → https://www.jsrowe.com (canonical), and GitHub Pages → https://jsr6720.github.io (backup). Canonical, og:url, feeds and sitemap always point at www.jsrowe.com, on both. Hugo version is pinned in `.hugo-version`; CI reads it.
+- `hugo-check.yml` (PRs): build, Playwright tests, and a PR comment with the version merging will release.
+- `deploy.yml` (push to `main`): one build (`baseURL` https://www.jsrowe.com/), tested, then deployed to S3 + CloudFront → https://www.jsrowe.com (canonical) and GitHub Pages → https://jsr6720.github.io (backup), then tagged and released.
+- `aws-cloudfront-invalidations.yml`: manual cache invalidation.
+
+Canonical, og:url, feeds and sitemap always point at www.jsrowe.com, on both. Hugo version is pinned in `.hugo-version`; CI reads it.
+
+Versions (`scripts/next-version.py`, run on every merge): a post published since the last tag (new file or `draft` removed) = minor; anything else = patch; `major` label on the PR = major (my call: license change, rewrite).
 
 ## Build and check
 
