@@ -5,7 +5,6 @@ languageCode: en-us
 title: "James' Thoughts"
 capitalizeListTitles: false # tag pages show tags as written: "book", not "Book"
 theme: jsrowe
-enableRobotsTXT: false # static/robots.txt
 
 permalinks:
   page:
@@ -39,9 +38,19 @@ outputFormats:
     mediaType: application/atom+xml
     baseName: feed
     rel: alternate
+  llms: # /llms.txt, https://llmstxt.org
+    mediaType: text/plain
+    baseName: llms
+    isPlainText: true
+    notAlternative: true
+  llmsfull: # /llms-full.txt, every post's markdown in one file
+    mediaType: text/plain
+    baseName: llms-full
+    isPlainText: true
+    notAlternative: true
 
 outputs:
-  home: [html, atom] # /feed.xml
+  home: [html, atom, llms, llmsfull] # /feed.xml, /llms.txt, /llms-full.txt
   section: [html]
   taxonomy: [html]
   term: [html]
@@ -63,3 +72,12 @@ markup:
 sitemap:
   changeFreq: ""
   priority: -1
+
+# No tracking (AGENTS.md): turn off Hugo's built-in third-party embeds
+privacy:
+  disqus: { disable: true }
+  googleAnalytics: { disable: true }
+  instagram: { disable: true }
+  vimeo: { disable: true }
+  x: { disable: true }
+  youtube: { disable: true }

@@ -1,0 +1,24 @@
+{{- $posts := where site.RegularPages "Section" "posts" -}}
+# {{ site.Title }}
+
+> {{ site.Params.description }}
+
+Personal blog of {{ site.Params.author }}: software engineering and leadership, book reviews, and personal essays, 2010 to today. Writing is licensed CC BY-NC-ND 4.0; code samples MIT. Each post's full text is in {{ "llms-full.txt" | absURL }}.
+
+{{- range site.Params.categories }}
+{{- $c := . }}
+{{- with site.GetPage (printf "/category/%s" $c) }}
+
+## {{ .Title }}
+{{ end }}
+{{- range where $posts "Params.category" $c }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Date.Format "2006-01-02" }}. {{ .Summary | plainify | htmlUnescape | strings.TrimSpace | replaceRE `\s+` " " | truncate 160 | htmlUnescape }}
+{{- end }}
+{{- end }}
+
+## Optional
+
+- [Full text of every post]({{ "llms-full.txt" | absURL }})
+- [About]({{ "about/" | absURL }})
+- [Bookshelf]({{ "bookshelf/" | absURL }})
+- [Atom feed]({{ "feed.xml" | absURL }})

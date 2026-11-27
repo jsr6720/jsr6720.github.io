@@ -36,7 +36,7 @@ Push to `main` deploys production. Open a PR; never push to `main`.
 - `deploy.yml` (push to `main`): one build (`baseURL` https://www.jsrowe.com/), tested, then deployed to S3 + CloudFront → https://www.jsrowe.com (canonical) and GitHub Pages → https://jsr6720.github.io (backup), then tagged and released.
 - `aws-cloudfront-invalidations.yml`: manual cache invalidation.
 
-Canonical, og:url, feeds and sitemap always point at www.jsrowe.com, on both. Hugo version is pinned in `.hugo-version`; CI reads it.
+Canonical, og:url, feeds and sitemap always point at www.jsrowe.com, on both. `/llms.txt` (index of posts) and `/llms-full.txt` (every post's markdown) follow https://llmstxt.org; they're built from `themes/jsrowe/layouts/home.llms*.txt`. Hugo version is pinned in `.hugo-version`; CI reads it.
 
 Versions (`scripts/next-version.py`, run on every merge): a post published since the last tag (new file or `draft` removed) = minor; anything else = patch; `major` label on the PR = major (my call: license change, rewrite).
 

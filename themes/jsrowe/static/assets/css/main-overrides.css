@@ -427,6 +427,7 @@ blockquote {
 }
 
 /* heading anchor links (layouts/_markup/render-heading.html) */
+.heading-anchor::before { content: "#"; } /* drawn by CSS so "#" stays out of summaries and descriptions */
 .heading-anchor { margin-left: 0.35em; color: #b5b5b5; text-decoration: none; opacity: 0; transition: opacity 0.15s; }
 h2:hover .heading-anchor, h3:hover .heading-anchor, h4:hover .heading-anchor,
 h5:hover .heading-anchor, h6:hover .heading-anchor, .heading-anchor:focus { opacity: 1; }

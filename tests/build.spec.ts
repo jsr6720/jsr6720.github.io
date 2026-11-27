@@ -63,3 +63,15 @@ test('every sitemap URL exists in the build', () => {
     .filter((url) => !fs.existsSync(path.join(siteDir, url, url.endsWith('/') ? 'index.html' : '')));
   expect(missing).toEqual([]);
 });
+
+test('llms.txt lists every post and llms-full.txt has every post (https://llmstxt.org)', () => {
+  const index = fs.readFileSync(path.join(siteDir, 'llms.txt'), 'utf8');
+  const full = fs.readFileSync(path.join(siteDir, 'llms-full.txt'), 'utf8');
+  const sitemapPosts = (fs.readFileSync(path.join(siteDir, 'sitemap.xml'), 'utf8').match(/<loc>[^<]*<\/loc>/g) ?? [])
+    .map((l) => l.slice(5, -6).replace(/&apos;/g, "'"))
+    .filter((u) => !/\/(tags|category|about|bookshelf)\/|\.com\/$/.test(u));
+  const missing = sitemapPosts.filter((u) => !index.includes(`](${u})`) || !full.includes(`URL: ${u}\n`));
+  expect(missing, 'posts missing from llms.txt / llms-full.txt').toEqual([]);
+  expect(index.match(/&[#a-z0-9]+;/g) ?? [], 'HTML entities in llms.txt').toEqual([]);
+  expect(index.match(/\w# /g) ?? [], 'heading "#" leaked into summaries').toEqual([]);
+});
