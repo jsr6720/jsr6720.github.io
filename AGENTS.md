@@ -20,7 +20,7 @@ Prefer what Hugo ships over custom code: embedded templates (`opengraph.html`, `
 
 ## Design
 
-- Links in the writing (posts, pages, home intro) are obvious: blue and always underlined. Site chrome (header, nav, post lists, footer) stays ink.
+- Links in the writing (posts, pages, home intro, prev/next) are obvious: blue and always underlined. Site chrome (header, nav, post lists, footer) stays ink.
 - Images: see "Images" below.
 
 ## License

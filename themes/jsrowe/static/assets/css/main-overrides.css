@@ -344,8 +344,9 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Links in the writing look like links: color + underline, always. Chrome (nav, lists, footer) stays ink. */
+/* Links in the writing and prev/next look like links: color + underline, always. Chrome (nav, lists, footer) stays ink. */
 .post-content a:not(.heading-anchor),
+.post-navigation a,
 .home > p a {
   color: #1a5fb4;
   text-decoration: underline;
@@ -353,10 +354,12 @@ a:hover {
   text-underline-offset: 2px;
 }
 .post-content a:not(.heading-anchor):visited,
+.post-navigation a:visited,
 .home > p a:visited {
   color: #5e3c99;
 }
 .post-content a:not(.heading-anchor):hover,
+.post-navigation a:hover,
 .home > p a:hover {
   color: #0d3d7a;
   text-decoration-thickness: 2px;

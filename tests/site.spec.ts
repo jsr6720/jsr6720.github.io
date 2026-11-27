@@ -240,10 +240,12 @@ test.describe('Hugo templates', () => {
     expect(await page.locator('main .post-item').count()).toBeGreaterThan(0);
   });
 
-  test('links in the writing are underlined', async ({ page }) => {
-    await page.goto('/bookshelf/');
-    const style = await page.locator('main .post-content li a').first().evaluate((a) => getComputedStyle(a).textDecorationLine);
-    expect(style).toContain('underline');
+  test('links in the writing and prev/next are underlined', async ({ page }) => {
+    for (const [url, sel] of [['/bookshelf/', 'main .post-content li a'], [POSTS.review, 'nav.post-navigation a']]) {
+      await page.goto(url);
+      const style = await page.locator(sel).first().evaluate((a) => getComputedStyle(a).textDecorationLine);
+      expect(style, `${sel} on ${url}`).toContain('underline');
+    }
   });
 
   test('category pages keep their titles', async ({ page }) => {
