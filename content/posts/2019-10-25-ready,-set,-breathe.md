@@ -6,7 +6,6 @@ category: review
 tags: [book]
 uid: f4129ed3-498a-44ee-944d-8f67c82cae54
 slug: ready-set-breathe
-aliases: ["/ready,-set,-breathe/"]
 ---
 
 Carla Naumburg, *[Ready, Set, Breathe: Practicing Mindfulness with Your Children for Fewer Meltdowns and a More Peaceful Family](https://www.goodreads.com/book/show/23845909)*,  New Harbinger Publications 2015 (Paperback) ISBN: ="1626252904"

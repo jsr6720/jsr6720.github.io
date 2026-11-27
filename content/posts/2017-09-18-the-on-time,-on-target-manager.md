@@ -6,7 +6,6 @@ category: review
 tags: [book, business]
 uid: c8a2c6d1-9184-45b0-9b86-2cc3108d61d3
 slug: the-on-time-on-target-manager
-aliases: ["/the-on-time,-on-target-manager/"]
 ---
 
 Kenneth H. Blanchard, *[The On-Time, On-Target Manager](https://www.goodreads.com/book/show/2722323)*, Steve Gottry, Brian Corrigan HarperAudio 2004 (Audio CD) ISBN: ="0060584823"

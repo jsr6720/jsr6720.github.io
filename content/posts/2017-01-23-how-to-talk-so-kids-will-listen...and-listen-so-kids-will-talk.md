@@ -6,7 +6,6 @@ category: review
 tags: [book]
 uid: 63e477a5-fe3c-4270-98a6-2a10e8fa6ac0
 slug: how-to-talk-so-kids-will-listen-and-listen-so-kids-will-talk
-aliases: ["/how-to-talk-so-kids-will-listen/.and-listen-so-kids-will-talk/"]
 ---
 
 Adele Faber, *[How to Talk so Kids Will Listen...And Listen So Kids Will Talk](https://www.goodreads.com/book/show/998398)*, Elaine Mazlish Simon  Schuster Audio/Nightingale-Conant 2002 (Audio CD) ISBN: ="0743525086"

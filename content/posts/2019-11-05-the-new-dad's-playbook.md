@@ -6,7 +6,6 @@ category: review
 tags: [book, did-not-finish]
 uid: 02c2add6-5fc1-4fcb-8d41-56efbcf31782
 slug: the-new-dads-playbook
-aliases: ["/the-new-dad's-playbook/"]
 ---
 
 Benjamin Watson, *[The New Dad's Playbook: Gearing Up for the Biggest Game of Your Life](https://www.goodreads.com/book/show/32510934)*, Meg Meeker Baker Books 2017 (Paperback) ISBN: ="0801018978"
