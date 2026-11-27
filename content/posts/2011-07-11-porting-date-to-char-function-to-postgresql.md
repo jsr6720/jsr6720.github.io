@@ -8,7 +8,7 @@ uid: 1e08d968-2bf0-4447-b115-825c7231f14e
 slug: porting-date-to-char-function-to-postgresql
 ---
 
-## Porting DATE_TO_CHAR function to PostgreSQL
+## Porting DATE_TO_CHAR function to PostgreSQL
 
 This allows multiple data stores but without rewriting all sql queries. Note you have to create two functions, one to accept dates, the other to accept times.
 

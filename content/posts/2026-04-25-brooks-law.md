@@ -51,7 +51,7 @@ Servers in minutes, not months! But this did not meaningfully shrink time to mar
 
 Are you able to experiment more when the cost of provisioning new hardware is pennies instead of a capital investment? Of course. Deploying code to a “server” can now happen instantly, but you’re still doing operational reviews and scaling studies to make sure you’ve correctly provisioned the hardware. Infrastructure provisioning went from months to days. Time-to-market stayed measured in quarters.
 
-## We’ll Rebuild It Faster in the <Latest> Framework!
+## We’ll Rebuild It Faster in the \<Latest\> Framework!
 
 I’ve watched this play out repeatedly, and it’s proof that faster tooling does not equal better execution. The most seductive technical argument that is [entirely false](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) is that a new tech stack will not only solve all the previous system’s woes but also be faster to build with. There will be reasons to move to a new tech stack, but finishing projects faster is rarely one of them.
 

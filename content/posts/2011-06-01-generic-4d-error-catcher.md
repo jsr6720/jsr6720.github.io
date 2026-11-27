@@ -8,7 +8,7 @@ uid: 50bc216f-26a9-49ae-b239-11760d972acd
 slug: generic-4d-error-catcher
 ---
 
-## Generic 4D error catcher
+## Generic 4D error catcher
 
 In 4D v11/12 there is not a strict concept of `try/catch` blocks. Instead there is [`ON ERR CALL`](http://doc.4d.com/4Dv12.2/help/command/en/page155.html "ON ERR CALL") that can be used to trap errors.
 
@@ -140,4 +140,4 @@ ALERT($Message)
 
 	Original Wordpress tags: "4D", "4D", "clean code", "dry", "error", "ON ERR CALL"
 
-	Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/06/01/generic-4d-error-catcher/#comments">2 Comments</a>
+	Original Wordpress comments: [2 Comments](https://txcowboycoder.wordpress.com/2011/06/01/generic-4d-error-catcher/#comments)

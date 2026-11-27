@@ -8,7 +8,7 @@ uid: 9bc29745-f1dd-445f-b137-9d1f7ef5132f
 slug: 4d-blank-user-locked-record
 ---
 
-## 4D ‘blank’ user locked record
+## 4D ‘blank’ user locked record
 
 This example was reproduced with 4Dv11.8 HF3. This requires 4D Server and 4D Client setup. I was unable to reproduce in a stand alone environment.
 

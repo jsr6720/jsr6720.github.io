@@ -8,11 +8,11 @@ uid: ad4eb2d7-2abc-4ec5-a8ea-2f7722054fb4
 slug: creating-fields-via-sql-vs-creating-fields-via-structure-editor
 ---
 
-## Creating fields via SQL vs creating fields via structure editor
+## Creating fields via SQL vs creating fields via structure editor
 
 Beware when creating fields via SQL engine with 4Dv12/v11. [Creating fields via SQL does not allow setting field property “Map NULL values to blank values”](http://kb.4d.com/search/assetid=76119). The suggested work around is to define the field with `NOT NULL` constraint.
 
-The different outcomes of the two ways to create fields is terrible behavior because of [lack of support for null values in the 4DDB engine](/allow-null-values-in-4db-engine/ "Allow NULL values in 4DB engine")[^original-link]. 4D seems to assume developers are either using 4D with all native code, or all SQL code, not hybrid solutions.
+The different outcomes of the two ways to create fields is terrible behavior because of [lack of support for null values in the 4DDB engine](/allow-null-values-in-4db-engine/ "Allow NULL values in 4DB engine")[^original-link]. 4D seems to assume developers are either using 4D with all native code, or all SQL code, not hybrid solutions.
 
 Ultimately the concern to the developer is having assumptions regarding the data respected. Coming from previous version of 4D all fields have the property checked for mapping null values to blank values. Legacy applications can have code reliant on the assumption of no null values.
 

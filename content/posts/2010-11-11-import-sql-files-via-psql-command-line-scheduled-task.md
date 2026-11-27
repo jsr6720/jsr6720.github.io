@@ -8,7 +8,7 @@ uid: c0db148d-196a-4370-83cd-4cf7516b5c7c
 slug: import-sql-files-via-psql-command-line-scheduled-task
 ---
 
-## Import SQL files via psql command line scheduled task
+## Import SQL files via psql command line scheduled task
 
 This script will monitor a hot folder, take it’s contents and execute the files against a postgres server.
 

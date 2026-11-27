@@ -8,7 +8,7 @@ uid: bbb58b89-8e90-4e50-a0d4-d3c62366d012
 slug: 4d-unary-operator-read-i
 ---
 
-## 4D unary operator (read i++)
+## 4D unary operator (read i++)
 
 Can’t tell you how many times I wish I had the capability to ‘++’ something.
 
@@ -33,4 +33,4 @@ $i:=$i+1 ` why not $i+:=1 or $i++
 
     Original Wordpress tags: "Wish List", "4D", "increment"
 
-    Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/01/21/4d-unary-operator-read-i/#comments">3 Comments</a>
+    Original Wordpress comments: [3 Comments](https://txcowboycoder.wordpress.com/2011/01/21/4d-unary-operator-read-i/#comments)

@@ -8,7 +8,7 @@ uid: c1ea92ac-84d8-4b96-a3ed-577d01da9b6d
 slug: sql-based-view
 ---
 
-## SQL Based view
+## SQL Based view
 
 Now that 4D has released v12 I still have lots of features I’m hoping for:
 

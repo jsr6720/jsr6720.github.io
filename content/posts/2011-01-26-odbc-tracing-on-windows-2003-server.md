@@ -8,7 +8,7 @@ uid: 98ac9ef5-2024-4586-afe8-2c7bd203015a
 slug: odbc-tracing-on-windows-2003-server
 ---
 
-## ODBC Tracing on Windows 2003 server
+## ODBC Tracing on Windows 2003 server
 
 Trying to diagnose a connection rejection problem by using the [trace odbc](http://support.microsoft.com/kb/274551) call functionality in windows.
 

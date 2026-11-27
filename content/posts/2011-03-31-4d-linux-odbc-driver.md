@@ -8,7 +8,7 @@ uid: c54f90be-d857-4c66-bd13-7f52dd2ba918
 slug: 4d-linux-odbc-driver
 ---
 
-## 4D Linux ODBC Driver
+## 4D Linux ODBC Driver
 
 Yea, there are OTHER operating systems out there other than Windows Server and Mac OS Server.
 

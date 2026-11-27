@@ -8,7 +8,7 @@ uid: 1f4524d9-1cf9-4d04-bf77-221e790256fb
 slug: full-variable-introspection-in-debugger-window
 ---
 
-## Full variable introspection in debugger window
+## Full variable introspection in debugger window
 
 Another pet peeve. When developing in 4D I can’t see past 254 characters in the debugger window.
 

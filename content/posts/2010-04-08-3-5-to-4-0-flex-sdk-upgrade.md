@@ -8,7 +8,7 @@ uid: e69f1f7d-6950-412c-8cd2-ecd5dc90894a
 slug: 3-5-to-4-0-flex-sdk-upgrade
 ---
 
-## 3.5 to 4.0 Flex SDK upgrade
+## 3.5 to 4.0 Flex SDK upgrade
 
 We have an application that requires upgrading from 3.5 to flex 4.0 SDK.
 

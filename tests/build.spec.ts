@@ -75,3 +75,20 @@ test('llms.txt lists every post and llms-full.txt has every post (https://llmstx
   expect(index.match(/&[#a-z0-9]+;/g) ?? [], 'HTML entities in llms.txt').toEqual([]);
   expect(index.match(/\w# /g) ?? [], 'heading "#" leaked into summaries').toEqual([]);
 });
+
+test('no third-party scripts (gist embeds etc.: paste the code into a fenced block instead)', () => {
+  expect(offenders((h) => h.match(/<script[^>]+src="(https?:)?\/\/[^"]+"/g) ?? [])).toEqual([]);
+});
+
+// Text like <Latest> or List<T> outside backticks is read as an HTML tag and disappears.
+const HTML_ELEMENTS = new Set(`a abbr article aside audio b blockquote body br button caption cite code col colgroup data dd del
+  details dfn div dl dt em figcaption figure footer form h1 h2 h3 h4 h5 h6 head header hr html i iframe img input ins kbd
+  label li link main mark meta nav noscript ol option p path picture pre q s samp script section select small source span
+  strong style sub summary sup svg table tbody td template textarea tfoot th thead time title tr u ul var video wbr
+  g circle rect line polyline polygon use defs symbol`.split(/\s+/));
+
+test('no unknown HTML tags hiding text (escape it: \\<Latest\\> or `List<T>`)', () => {
+  expect(
+    offenders((h) => [...h.matchAll(/<([a-zA-Z][\w-]*)/g)].map((m) => m[1]).filter((t) => !HTML_ELEMENTS.has(t.toLowerCase())).map((t) => `<${t}>`)),
+  ).toEqual([]);
+});

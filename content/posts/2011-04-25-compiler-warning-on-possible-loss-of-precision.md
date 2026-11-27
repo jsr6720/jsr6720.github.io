@@ -8,7 +8,7 @@ uid: 276ac24a-6b38-40ae-810d-9199ad51c29e
 slug: compiler-warning-on-possible-loss-of-precision
 ---
 
-## Compiler warning on possible loss of precision
+## Compiler warning on possible loss of precision
 
 Just a small wish that 4D compiler would detect and warn on possible losses of precision.
 
@@ -51,4 +51,4 @@ Link to official [4D feature request](http://forums.4d.fr/Post//5588408/1/) (log
 
 	Original Wordpress tags: "4D", "Wish List", "possible loss of precision", "real to integer"
 
-	Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/04/25/compiler-warning-on-possible-loss-of-precision/#comments">1 Comment</a>
+	Original Wordpress comments: [1 Comment](https://txcowboycoder.wordpress.com/2011/04/25/compiler-warning-on-possible-loss-of-precision/#comments)

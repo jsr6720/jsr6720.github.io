@@ -8,7 +8,7 @@ uid: 8fb511d4-1143-434f-86f7-fa9dd761a349
 slug: wordpress-engine-fail-on-embeded-smilies-in-source
 ---
 
-## WordPress engine fail on embeded smilies in source
+## WordPress engine fail on embeded smilies in source
 
 So I went to post a source code snippet and kept getting this
 
@@ -37,4 +37,4 @@ Turns out [smilies](http://en.support.wordpress.com/smilies/)[^emojii] can be di
 
     Original Wordpress tags: "Misc", "parse", "smilies", "wordpress engine"
 
-    Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/01/16/wordpress-engine-fail-on-embeded-smilies-in-source/#comments">1 Comment</a>
+    Original Wordpress comments: [1 Comment](https://txcowboycoder.wordpress.com/2011/01/16/wordpress-engine-fail-on-embeded-smilies-in-source/#comments)

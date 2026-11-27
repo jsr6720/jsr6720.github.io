@@ -8,7 +8,7 @@ uid: a41da66c-b735-4380-ab0c-ec43ad759ef3
 slug: ruby-rakefile-auto-executes-includes
 ---
 
-## Ruby Rakefile auto executes includes
+## Ruby Rakefile auto executes includes
 
 When the custom [rake task](http://www.jsrowe.com/request-tracker-to-redmine-migration/index.html) to migrate data from one system to another was implemented our cron job stopped working.
 

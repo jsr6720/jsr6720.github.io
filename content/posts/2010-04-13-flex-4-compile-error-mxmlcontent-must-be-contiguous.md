@@ -88,4 +88,4 @@ Flex 4
 
 	Original Wordpress tags: "flex", "compile error", "flex", "mxmlContent"
 
-	Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2010/04/13/mxmlcontent-must-be-contiguous/#comments">2 Comments</a>
+	Original Wordpress comments: [2 Comments](https://txcowboycoder.wordpress.com/2010/04/13/mxmlcontent-must-be-contiguous/#comments)

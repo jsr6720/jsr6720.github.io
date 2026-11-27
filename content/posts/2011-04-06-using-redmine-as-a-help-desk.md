@@ -8,7 +8,7 @@ uid: 8e771049-77d5-4aa9-a81a-26afd91dd3c8
 slug: using-redmine-as-a-help-desk
 ---
 
-## Using Redmine as a help desk
+## Using Redmine as a help desk
 
 The primary purpose of [Redmine](http://www.redmine.org) is a project management tool.
 
@@ -35,4 +35,4 @@ See the documentation for the most up to date information. Now when a user or an
 
     Original Wordpress tags: "Misc", "help desk", "redmine"
 
-    Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/04/06/using-redmine-as-a-help-desk/#comments">3 Comments</a>
+    Original Wordpress comments: [3 Comments](https://txcowboycoder.wordpress.com/2011/04/06/using-redmine-as-a-help-desk/#comments)

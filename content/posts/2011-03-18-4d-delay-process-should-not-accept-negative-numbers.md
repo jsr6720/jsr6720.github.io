@@ -8,7 +8,7 @@ uid: bb23408b-aac2-48f8-ae9c-c18e25348f84
 slug: 4d-delay-process-should-not-accept-negative-numbers
 ---
 
-## 4D Delay Process should not accept negative numbers
+## 4D Delay Process should not accept negative numbers
 
 Working on a procedure that dynamically slows or speeds itself up based on demand.
 

@@ -8,7 +8,7 @@ uid: 5fb22543-48fc-4acf-b39f-6f8b28159707
 slug: new-database-event-on-transaction-validate
 ---
 
-## New Database event – On Transaction Validate
+## New Database event – On Transaction Validate
 
 Right now there is no event thrown for VALIDATE/CANCEL transaction. I would like Database event to also return “On validate transaction” and “On cancel transaction”. 
 

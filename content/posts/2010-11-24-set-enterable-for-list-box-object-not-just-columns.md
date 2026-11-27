@@ -8,7 +8,7 @@ uid: f8afa7e4-f965-4df1-bc85-3ec869ba79c7
 slug: set-enterable-for-list-box-object-not-just-columns
 ---
 
-## Set enterable for list box object not just columns
+## Set enterable for list box object not just columns
 
 Title says it all, I can set individual columns of a list box to be enterable false using the property inspector, but I can’t do this for the overall listbox.
 

@@ -8,7 +8,7 @@ uid: d4ca8905-7fab-443e-97b8-9873975dde9c
 slug: pass-object-association-by-reference-via-to-save-resources
 ---
 
-### Pass object association by reference via & to save resources
+### Pass object association by reference via & to save resources
 
 Not really a big deal, but could save resources on larger arrays. Is also a clean code practice to avoid awkward traversing array and assigning to ‘itself’ from what is essentially a sub routine.
 

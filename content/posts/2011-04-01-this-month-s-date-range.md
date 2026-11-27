@@ -8,7 +8,7 @@ uid: 1a21734e-7cf3-4385-81f4-1794f26b33d4
 slug: this-month-s-date-range
 ---
 
-## This month’s date range
+## This month’s date range
 
 I noticed that many people search for ‘this month’s date range’. The trick lies in knowing which month you want to go to and that [mktime](http://us.php.net/mktime) can automatically find the end of the month by passing 0 into the day field.
 

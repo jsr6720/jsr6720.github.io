@@ -8,7 +8,7 @@ uid: bf4aac5b-8551-411c-b158-bfc6b57643a9
 slug: get-last-month-s-date-range-in-php
 ---
 
-## Get last month’s date range in PHP
+## Get last month’s date range in PHP
 
 I needed to get last month’s valid date range in php for running reports. A quick google search showed the top results for accomplishing this used `for` loops that subtracted/added days from now until casting as a date object returned false.
 
@@ -42,4 +42,4 @@ var_dump($first_of_last_month, $end_of_last_month);
 
     Original Wordpress tags: "PHP", "date", "monthly date range", "php"
 
-    Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/02/10/get-last-months-date-range-in-php/#comments">2 Comments</a>
+    Original Wordpress comments: [2 Comments](https://txcowboycoder.wordpress.com/2011/02/10/get-last-months-date-range-in-php/#comments)

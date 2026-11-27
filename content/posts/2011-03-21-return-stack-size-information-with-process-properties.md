@@ -8,7 +8,7 @@ uid: 2bd5eb09-f82a-4cf0-b3ab-5e99e83b284e
 slug: return-stack-size-information-with-process-properties
 ---
 
-## Return stack size information with PROCESS PROPERTIES
+## Return stack size information with PROCESS PROPERTIES
 
 See my [official feature request](http://forums.4d.fr/Post//5368969/1/).
 

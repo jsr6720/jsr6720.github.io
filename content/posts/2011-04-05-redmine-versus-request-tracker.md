@@ -8,7 +8,7 @@ uid: f4fbbfdc-180b-42ea-b022-a38d2153bcef
 slug: redmine-versus-request-tracker
 ---
 
-## Redmine versus Request Tracker
+## Redmine versus Request Tracker
 
 A comparison of [Request Tracker](http://bestpractical.com/rt/) version 3.8.4 to [Redmine](http://www.redmine.org) version [1.0.4](http://www.redmine.org/projects/redmine/versions/26).
 
@@ -119,4 +119,4 @@ For just issue tracking, both systems offer lots of features. However for me Red
 
     Original Wordpress tags: "Misc", "redmine", "request tracker", "rt vs redmine", "rt3"
 
-    Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/04/05/redmine-versus-request-tracker/#comments">6 Comments</a>
+    Original Wordpress comments: [6 Comments](https://txcowboycoder.wordpress.com/2011/04/05/redmine-versus-request-tracker/#comments)

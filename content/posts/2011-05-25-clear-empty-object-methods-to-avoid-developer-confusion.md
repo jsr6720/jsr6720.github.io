@@ -8,7 +8,7 @@ uid: 21461fef-1de8-43e1-a9be-e1e0e9f4d8d9
 slug: clear-empty-object-methods-to-avoid-developer-confusion
 ---
 
-## Clear empty object methods to avoid developer confusion
+## Clear empty object methods to avoid developer confusion
 
 Part of working with any code base is understanding what is already developed. Luckily [shields](http://kb.4d.com/search/assetid=37121) help show actions associated with objects in the form editor. However, an object method shield will show for empty (‘blank’) object methods. We should clear any empty object methods to avoid confusion and optimize the code base.
 
@@ -18,7 +18,7 @@ Two objects on a form, both with an object method shield indicating the presence
 
 ![4D form with objects showing method shields](/assets/posts-images/4d-object_methods.png)
 
-The last developer removed the object method content from the `variable` input area but did not explicitly clear the object method. This falsely indicates object method content, and worse yet 4D will execute the blank object method for [each event enabled](/toggle-off-4d-form-events-for-easier-debugging/ "Toggle off 4D form events for easier debugging")[^original-link] on that object.
+The last developer removed the object method content from the `variable` input area but did not explicitly clear the object method. This falsely indicates object method content, and worse yet 4D will execute the blank object method for [each event enabled](/toggle-off-4d-form-events-for-easier-debugging/ "Toggle off 4D form events for easier debugging")[^original-link] on that object.
 
 The best approach is to [clear the object method](http://kb.4d.com/search/assetid=33479 "4D Tech Tip - Clear Object Method") so that no shield displays, and reduce the number of lines the 4D engine executes.
 

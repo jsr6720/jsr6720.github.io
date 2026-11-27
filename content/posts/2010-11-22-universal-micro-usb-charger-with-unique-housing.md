@@ -8,7 +8,7 @@ uid: a4dac276-3ec1-44db-99f6-88b207f0b89f
 slug: universal-micro-usb-charger-with-unique-housing
 ---
 
-## Universal micro usb charger with unique housing
+## Universal micro usb charger with unique housing
 
 Just a huge pet peeve after switching phones over the weekend. Micro USB is supposed to be the new universal[^xkcd] charge/data transfer male/female connector for phones.
 

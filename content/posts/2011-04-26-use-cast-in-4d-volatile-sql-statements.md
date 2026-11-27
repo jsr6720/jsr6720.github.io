@@ -8,7 +8,7 @@ uid: 26d65656-5d14-4122-9329-0686d112634b
 slug: use-cast-in-4d-volatile-sql-statements
 ---
 
-## Use CAST in 4D volatile SQL statements
+## Use CAST in 4D volatile SQL statements
 
 Hint, to avoid hair pulling use the 4D function [`CAST`](http://doc.4d.com/4Dv12.1/help/Title/en/page18321.html) to explicitly type [data types](http://doc.4d.com/4Dv12.1/help/Title/en/page18465.html) in 4D SQL statements.
 
@@ -44,7 +44,7 @@ Begin SQL
 End SQL
 ```
 
-Of course it would be nice if [4D compiler could detect these](/compiler-warning-on-possible-loss-of-precision/ "Compiler warning on possible loss of precision")[^original-link] types of problems before they occur.
+Of course it would be nice if [4D compiler could detect these](/compiler-warning-on-possible-loss-of-precision/ "Compiler warning on possible loss of precision")[^original-link] types of problems before they occur.
 
 ---
 
@@ -63,4 +63,4 @@ Of course it would be nice if [4D compiler could detect these](/compiler-warning
 
 	Original Wordpress tags: "4D", "4D", "CAST", "data types", "Error code: 1108", "sql"
 
-	Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/04/26/use-cast-in-4d-volatile-sql-statements/#comments">1 Comment</a>
+	Original Wordpress comments: [1 Comment](https://txcowboycoder.wordpress.com/2011/04/26/use-cast-in-4d-volatile-sql-statements/#comments)

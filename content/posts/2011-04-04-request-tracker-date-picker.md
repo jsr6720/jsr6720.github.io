@@ -8,7 +8,7 @@ uid: 499397f3-35a5-4942-b5a8-df5113c86cb3
 slug: request-tracker-date-picker
 ---
 
-## Request Tracker date picker
+## Request Tracker date picker
 
 If there was any one thing that drove me nuts about Request Tracker (3.8.4), it was the date picker.
 

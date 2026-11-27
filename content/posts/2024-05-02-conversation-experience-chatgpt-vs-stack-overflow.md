@@ -60,7 +60,7 @@ But I've been there. I felt like I understood OP wasn't asking the *best* way to
 I decided to compare the above experience to ChatGPT. One huge advantage, all of these responses can be inspected and built on. For example you could stop and ask "What are serializable objects?" or "How do you connect to a SQL Database?" and ChatGPT is happy to provide an answer without making you start a new chat.
 
 > **User**
-> How to upload genetic List<T> to SQL database
+> How to upload genetic `List<T>` to SQL database
 
 > **ChatGPT**
 > To upload a list of genetic objects (`List<T>`) to a SQL database, you typically follow these steps:
@@ -79,7 +79,55 @@ I decided to compare the above experience to ChatGPT. One huge advantage, all of
 > 
 > Here's a simplified example in C#:
 
-<script src="https://gist.github.com/jsr6720/76b738af36c62792d1ab7cd6d3bdf91e.js"></script>
+```csharp
+using System;
+using System.Collections.Generic;
+using System.Data.SqlClient;
+using Newtonsoft.Json; // For JSON serialization
+
+// Define your genetic object
+public class GenericObject
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+    // Add other properties as needed
+}
+
+public class Program
+{
+    public static void Main()
+    {
+        // Your list of genetic objects
+        List<GenericObject> geneticList = new List<GenericObject>
+        {
+            new GenericObject { Id = 1, Name = "Generic Object 1" },
+            new GenericObject { Id = 2, Name = "Generic Object 2" },
+            // Add more objects as needed
+        };
+
+        // Serialize the genetic list to JSON
+        string serializedList = JsonConvert.SerializeObject(geneticList);
+
+        // Establish database connection
+        string connectionString = "YourConnectionString";
+        using (SqlConnection connection = new SqlConnection(connectionString))
+        {
+            connection.Open();
+
+            // Prepare SQL insert statement
+            string insertSql = "INSERT INTO YourTableName (JsonData) VALUES (@JsonData)";
+            SqlCommand command = new SqlCommand(insertSql, connection);
+            command.Parameters.AddWithValue("@JsonData", serializedList);
+
+            // Execute SQL statement
+            int rowsAffected = command.ExecuteNonQuery();
+            Console.WriteLine($"{rowsAffected} rows inserted.");
+        }
+    }
+}
+```
+
+From my gist [GenericObjectSQLInsert.cs](https://gist.github.com/jsr6720/76b738af36c62792d1ab7cd6d3bdf91e).
 
 #### Expanding that same ChatGPT conversation to utilize `SQLBulkCopy`
 
@@ -89,7 +137,73 @@ I decided to compare the above experience to ChatGPT. One huge advantage, all of
 > **ChatGPT**
 > Using SQL Bulk Copy is an efficient way to insert a large amount of data into a SQL Server database. Here's how you can use SQL Bulk Copy with a list of genetic objects (`List<T>`) in C#:
 
-<script src="https://gist.github.com/jsr6720/23739f7541934194e306e15f8cace01b.js"></script>
+```csharp
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
+
+// Define your generic object
+public class GenericObject
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+    // Add other properties as needed
+}
+
+public class Program
+{
+    public static void Main()
+    {
+        // Your list of genetic objects
+        List<GenericObject> geneticList = new List<GenericObject>
+        {
+            new GenericObject { Id = 1, Name = "Generic Object 1" },
+            new GenericObject { Id = 2, Name = "Generic Object 2" },
+            // Add more objects as needed
+        };
+
+        // Convert list of genetic objects to DataTable
+        DataTable dataTable = new DataTable();
+        dataTable.Columns.Add("Id", typeof(int));
+        dataTable.Columns.Add("Name", typeof(string));
+        foreach (var item in geneticList)
+        {
+            dataTable.Rows.Add(item.Id, item.Name);
+        }
+
+        // Establish database connection
+        string connectionString = "YourConnectionString";
+        using (SqlConnection connection = new SqlConnection(connectionString))
+        {
+            connection.Open();
+
+            // Prepare SQL bulk copy
+            using (SqlBulkCopy bulkCopy = new SqlBulkCopy(connection))
+            {
+                bulkCopy.DestinationTableName = "YourTableName";
+                // Map DataTable columns to database table columns
+                bulkCopy.ColumnMappings.Add("Id", "Id");
+                bulkCopy.ColumnMappings.Add("Name", "Name");
+
+                // Set additional options if needed
+                // bulkCopy.BatchSize = 1000;
+                // bulkCopy.NotifyAfter = 1000;
+                // bulkCopy.SqlRowsCopied += (sender, args) =>
+                // {
+                //    Console.WriteLine($"{args.RowsCopied} rows copied.");
+                // };
+
+                // Execute SQL bulk copy
+                bulkCopy.WriteToServer(dataTable);
+                Console.WriteLine($"{geneticList.Count} rows inserted.");
+            }
+        }
+    }
+}
+```
+
+From my gist [GenericObjectBulkCopy.cs](https://gist.github.com/jsr6720/23739f7541934194e306e15f8cace01b).
 
 ## Postscript
 

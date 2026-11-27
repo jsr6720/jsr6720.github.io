@@ -8,7 +8,7 @@ uid: 1eae0bc3-f65e-4229-baf3-f887faa99638
 slug: infinite-is-a-real-number-in-4d
 ---
 
-## Infinite is a real number in 4D
+## Infinite is a real number in 4D
 
 **Final Update:**
 

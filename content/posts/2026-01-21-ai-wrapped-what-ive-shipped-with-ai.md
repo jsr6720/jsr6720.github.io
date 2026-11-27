@@ -44,7 +44,7 @@ To capture my work for the day, I run `/document`, which builds a natural-langua
 
 ![/document prompt](/assets/posts-images/2025-ai-wrapped-series/slash-command-document.png)
 
-### Command: `/feature` Summarizes Discussion into a <feature>.md
+### Command: `/feature` Summarizes Discussion into a `<feature>.md`
 
 One of the most seductive (and, frankly, distracting) things about working with AI is the ability to immediately gratify the impulse to [add scope](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/) to a solution. I’ve frequently thought, “One more prompt and I’ll have something even better!” 
 

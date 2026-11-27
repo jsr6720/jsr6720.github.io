@@ -8,7 +8,7 @@ uid: 1d8dc9fa-bdb2-4de8-ae90-19927a7d8f4b
 slug: windows-get-cpu-usage-command
 ---
 
-## Windows get CPU usage command
+## Windows get CPU usage command
 
 Searched high and low for a command to get CPU usage on the internet to no avail. From a DOS command prompt (Windows server 2003) CPU usage for all nodes:
 

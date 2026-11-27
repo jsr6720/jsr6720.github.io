@@ -8,7 +8,7 @@ uid: a4dd9a60-403b-40d0-a55f-a87aa4dca387
 slug: rubies-for-the-holidays
 ---
 
-## Rubies for the holidays
+## Rubies for the holidays
 
 Over the last two weeks I have been taking vacation and diving head first into my [first major ruby language project](http://jsrowe.com/request-tracker-to-redmine-migration/index.html).
 

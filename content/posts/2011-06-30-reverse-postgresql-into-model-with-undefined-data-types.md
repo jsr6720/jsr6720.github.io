@@ -8,7 +8,7 @@ uid: 21ed9d3b-72dd-4c5e-8847-d8e3f4da19d0
 slug: reverse-postgresql-into-model-with-undefined-data-types
 ---
 
-## Reverse PostgreSQL into model with undefined data types
+## Reverse PostgreSQL into model with undefined data types
 
 Recently while importing a new physical schema from PostgreSQL 8.4 into Oracle Data Integrator(ODI) via JDBC driver all of the tables were reversing into the model without data types defined for text, double precision, smallint, integer and boolean.
 

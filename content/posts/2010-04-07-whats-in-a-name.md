@@ -8,7 +8,7 @@ uid: e3087b41-5c72-448c-a8b2-5196bcb8e7f3
 slug: whats-in-a-name
 ---
 
-## What’s in a name?[^draft]
+## What’s in a name?[^draft]
 
 I’m here cracking into the crowed field of programming blogs. Maybe I’ll learn to write more concisely, or even improve my spelling.
 
@@ -16,7 +16,7 @@ Though mainly, I thought I would start something that I could collect my thought
 
 Other times I might just post something unrelated to programming for conversation’s sake.
 
-What’s in a name? I currently work in an environment where bugs and problems crop up like bad guys in [High Noon](http://www.imdb.com/title/tt0044706/). Even if one day I work in a different environment, cowboy coding to me is some of the most exciting and frustrating work with programming.
+What’s in a name? I currently work in an environment where bugs and problems crop up like bad guys in [High Noon](http://www.imdb.com/title/tt0044706/). Even if one day I work in a different environment, cowboy coding to me is some of the most exciting and frustrating work with programming.
 
 Whether it’s looking a new languages or exploring different tools, every problem could benefit from a revolver full of ideas emptied at it.
 

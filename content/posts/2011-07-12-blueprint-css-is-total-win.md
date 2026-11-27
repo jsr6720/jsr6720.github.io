@@ -8,7 +8,7 @@ uid: 585f76ac-ed2a-4c56-8b33-23010d3b1b28
 slug: blueprint-css-is-total-win
 ---
 
-## Blueprint CSS is total win
+## Blueprint CSS is total win
 
 Having not played around with CSS frameworks before I found this one very appealing.
 

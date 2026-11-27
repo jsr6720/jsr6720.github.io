@@ -8,7 +8,7 @@ uid: 90bcff0b-cfd2-4351-ad42-352fce0d6c07
 slug: use-4d-header-macro-to-identify-code-blocks
 ---
 
-## Use 4D header macro to identify code blocks
+## Use 4D header macro to identify code blocks
 
 Standard installation of 4Dv11 comes with a [set of macros](http://kb.4d.com/search/assetid=76246) to use in design mode.
 

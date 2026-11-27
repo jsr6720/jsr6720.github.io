@@ -8,7 +8,7 @@ uid: d528e4b5-e1a1-4d55-9224-c8740f244076
 slug: automatic-cron-backup-of-postgresql-database
 ---
 
-## Automatic cron backup of PostgreSQL database
+## Automatic cron backup of PostgreSQL database
 
 There are lots of great backup tools and utilities out there, but utilizing a simple script and cron task to target specific PostgreSQL database is often the fastest way to a locally based backup procedure.
 
@@ -81,4 +81,4 @@ fi
 
     Original Wordpress tags: "Bash", "Postgres", "backup", "cron", "pgsql", "pg_dump", "PostgreSQL", "shell script"
 
-    Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/06/03/automatic-cron-backup-of-postgresql-database/#comments">6 Comments</a>
+    Original Wordpress comments: [6 Comments](https://txcowboycoder.wordpress.com/2011/06/03/automatic-cron-backup-of-postgresql-database/#comments)

@@ -53,4 +53,4 @@ Requires login, official feature request.
 
     Original Wordpress tags: "4D", "Wish List", "adobe layers", "flash layers", "layers", "views"
 
-    Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/04/29/4d-forms-to-have-layers-instead-of-limited-number-of-views/#comments">1 Comment</a>
+    Original Wordpress comments: [1 Comment](https://txcowboycoder.wordpress.com/2011/04/29/4d-forms-to-have-layers-instead-of-limited-number-of-views/#comments)

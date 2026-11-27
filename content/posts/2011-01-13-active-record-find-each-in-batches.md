@@ -8,7 +8,7 @@ uid: 643e2b2e-4bd5-44d6-ad31-08c62a959777
 slug: active-record-find-each-in-batches
 ---
 
-## Active record find_each in batches
+## Active record find_each in batches
 
 I wanted to iterate over an active record in batches. Found a [great example](http://guides.rubyonrails.org/active_record_querying.html#retrieving-multiple-objects-in-batches) but for my needs I wanted to walk backwards over the batch.
 

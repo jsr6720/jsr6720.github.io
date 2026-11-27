@@ -329,4 +329,4 @@ GROUP_C=<ldap group>
 
 	Original Wordpress tags: "flex", "Java", "ldap"
 
-	Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2010/04/08/ldap-authentication/#comments">2 Comments</a>
+	Original Wordpress comments: [2 Comments](https://txcowboycoder.wordpress.com/2010/04/08/ldap-authentication/#comments)

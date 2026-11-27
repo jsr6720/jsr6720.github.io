@@ -8,7 +8,7 @@ uid: 0c551d75-95d6-486b-84e4-88f3e48568e2
 slug: 4dv11-8-drag-and-drop-with-list-boxes-header-gotcha
 ---
 
-## 4Dv11.8 drag and drop with list boxes header gotcha
+## 4Dv11.8 drag and drop with list boxes header gotcha
 
 Using new functionality [drag and drop](http://doc.4d.com/4D-Language-Reference-11.6/Drag-and-Drop/Drag-and-Drop.300-206161.en.html) with 4D list boxes?
 

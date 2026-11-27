@@ -8,7 +8,7 @@ uid: f54ffbc1-6807-4e74-a212-9554aac8d4ca
 slug: 4d-database-timestamp-makes-no-sense
 ---
 
-## 4D Database timestamp makes no sense
+## 4D Database timestamp makes no sense
 
 As part of the 4Dv11 upgrade timestamps were supposed to be included.
 

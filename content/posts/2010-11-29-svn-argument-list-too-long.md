@@ -8,7 +8,7 @@ uid: d68e181d-e47f-4a38-872e-720281b57ebf
 slug: svn-argument-list-too-long
 ---
 
-## svn: Argument list too long
+## svn: Argument list too long
 
 Recently I needed to add thousands of files to an existing repository, but every time I tried `svn add *` or the `svn import` functionality I got the error: 
 

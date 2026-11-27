@@ -8,7 +8,7 @@ uid: 9aa7add4-7702-4387-88a6-a79df11688d9
 slug: new-4d-variable-data-type-float
 ---
 
-## New 4D variable data type – float
+## New 4D variable data type – float
 
 Now that 4Dv11 SQL supports `float` data type; it would be nice to match that with a `C_FLOAT`. Using `C_REAL` throws an error for incompatible assignment at runtime.
 
@@ -40,4 +40,4 @@ And while we’re at it, why are [SQL data type values](http://kb.4d.com/search/
 
     Original Wordpress tags: "Wish List", "4D", "data types", "float", "sql"
 
-    Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2010/11/11/new-4d-variable-data-type-float/#comments">1 Comment</a>
+    Original Wordpress comments: [1 Comment](https://txcowboycoder.wordpress.com/2010/11/11/new-4d-variable-data-type-float/#comments)

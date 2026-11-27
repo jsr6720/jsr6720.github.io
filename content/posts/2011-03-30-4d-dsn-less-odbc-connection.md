@@ -8,7 +8,7 @@ uid: dc30133e-b5d9-4632-a423-f75a984cebd5
 slug: 4d-dsn-less-odbc-connection
 ---
 
-## 4D DSN-less ODBC connection
+## 4D DSN-less ODBC connection
 
 Took me forever to figure this out because the docs out there for 4D are minimal[^1] on connecting to the database without a system configured DSN using 4D's ODBC driver.
 
@@ -59,4 +59,4 @@ If I recall correctly our `4D` instance was deployed on a Mac Server and `PHP` a
 
     Original Wordpress tags: "4D", "4D ODBC driver", "DSN"
 
-    Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/03/30/4d-dsn-less-odbc-connection/#comments">7 Comments</a>
+    Original Wordpress comments: [7 Comments](https://txcowboycoder.wordpress.com/2011/03/30/4d-dsn-less-odbc-connection/#comments)

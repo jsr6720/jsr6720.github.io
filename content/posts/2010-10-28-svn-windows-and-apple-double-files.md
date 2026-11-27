@@ -8,7 +8,7 @@ uid: 778069d0-95ba-4272-807b-4e58ce3a052c
 slug: svn-windows-and-apple-double-files
 ---
 
-## SVN Windows and ‘._’ Apple double files
+## SVN Windows and ‘._’ Apple double files
 
 While going through and versioning old projects I had to import a fairly large project (6-7 subfolders, hundreds of files). Never mind that they weren’t under version control, they were on a windows machine, and I work via SMB mounts.
 

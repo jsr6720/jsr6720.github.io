@@ -8,7 +8,7 @@ uid: da92199e-dcc3-4fa2-b07a-86315309977f
 slug: postgres-dynamic-trigger-mirroring
 ---
 
-## Postgres dynamic trigger — mirroring
+## Postgres dynamic trigger — mirroring
 
 This is a companion post to the [4D mirroring](/mirroring-4d-data-to-another-database/)[^original-link] The approach to this problem, is to have data from the source mirror itself out to a target and accept changes from that mirror system back. All sql based INSERT UPDATE and DELETE operations are to send their changes to the target.
 

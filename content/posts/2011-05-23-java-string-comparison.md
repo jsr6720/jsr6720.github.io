@@ -32,8 +32,6 @@ public class Test {
 }
 ```
 
-&nbsp;
-
 ---
 
 ### Significant Revisions

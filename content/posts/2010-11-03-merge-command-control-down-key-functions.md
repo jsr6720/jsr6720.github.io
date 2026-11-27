@@ -8,7 +8,7 @@ uid: e4007da7-5a11-4aaa-922e-c95058a3d520
 slug: merge-command-control-down-key-functions
 ---
 
-## Merge command/control down key functions
+## Merge command/control down key functions
 
 Key modifiers can mean lot for contextual clicks:
 

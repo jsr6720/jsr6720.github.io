@@ -8,7 +8,7 @@ uid: 47ba2acc-c090-465e-83b6-064ee4a55b1c
 slug: validate-4d-string-data-with-regex-by-data-type
 ---
 
-## Validate 4d string data with regex by data type
+## Validate 4d string data with regex by data type
 
 [`Match regex`](http://doc.4d.com/4D-Language-Reference-12/String/Match-regex.301-155340.en.html) is a great addition to 4Dv11, but what I really need is a function that takes a string value, a data type and tells me if it’s valid or not.
 

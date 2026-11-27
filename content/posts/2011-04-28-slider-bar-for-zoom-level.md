@@ -8,7 +8,7 @@ uid: fd8d1bfe-6d9d-452a-be65-153873ffe668
 slug: slider-bar-for-zoom-level
 ---
 
-## Slider bar for zoom level
+## Slider bar for zoom level
 
 4Dv12 has a magnifying glass and preset zoom levels (50, 100, 200, 400, 800) to aid in designing forms. However, more fine tuned controls would aid in the design of complex and large forms.
 

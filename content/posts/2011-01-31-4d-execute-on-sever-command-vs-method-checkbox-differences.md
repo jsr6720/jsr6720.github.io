@@ -8,7 +8,7 @@ uid: 130d1c80-00e5-4be4-9a8d-d451755c7fd9
 slug: 4d-execute-on-sever-command-vs-method-checkbox-differences
 ---
 
-## 4D Execute on sever command vs method checkbox differences
+## 4D Execute on sever command vs method checkbox differences
 
 I was troubleshooting some long executing code when I discovered the difference between `Execute on server` command and it’s sibling checkbox in the method properties.
 

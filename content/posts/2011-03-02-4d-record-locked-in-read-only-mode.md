@@ -8,7 +8,7 @@ uid: 25f83d4a-da72-451f-b868-2a4db0744aea
 slug: 4d-record-locked-in-read-only-mode
 ---
 
-## 4D record locked in read only mode
+## 4D record locked in read only mode
 
 Was doing a bit of 4D v11 programming when I discovered this conundrum. I found it to be confusing, but maybe it makes perfect sense to everyone else.
 

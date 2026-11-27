@@ -8,7 +8,7 @@ uid: 5fa5be7b-6e29-44a5-93f9-2da3057b1ea9
 slug: currently-displayed-form-command
 ---
 
-## Currently displayed form command
+## Currently displayed form command
 
 A command `Currently displayed form` would return a text string of whatever form is set by `INPUT FORM` or `DIALOG` and is currently displayed.
 

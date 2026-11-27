@@ -8,7 +8,7 @@ uid: 9d8cfa52-f8f0-418e-b704-a978d1401aea
 slug: keep-code-base-clean-avoid-unnecessary-variable-assignments
 ---
 
-## Keep code base clean – avoid unnecessary variable assignments
+## Keep code base clean – avoid unnecessary variable assignments
 
 Can’t tell you how frustrating it is to find the context of a variable stripped away by a [meaningless re-assgiment](http://my.safaribooksonline.com/book/software-engineering-and-development/agile-development/9780136083238/meaningful-names/18) (login required).
 

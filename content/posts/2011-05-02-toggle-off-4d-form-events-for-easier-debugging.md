@@ -8,7 +8,7 @@ uid: 0d1f11d1-9d3c-454a-aad4-b404d2b84f1e
 slug: toggle-off-4d-form-events-for-easier-debugging
 ---
 
-## Toggle off 4D form events for easier debugging
+## Toggle off 4D form events for easier debugging
 
 **Default Setup**  
 
@@ -16,7 +16,7 @@ When creating a new form in 4D v11 it comes with a range of events ‘enabled’
 
 ![4d default form events](/assets/posts-images/4d-default_form_events.png)
 
-However, I advocate for turning off all events first and then [enabling specific events](/encapsulate-form-object-methods-with-form-event-case-statements/ "Encapsulate form/object methods with form event case statements")[^original-link] on an as needed basis.
+However, I advocate for turning off all events first and then [enabling specific events](/encapsulate-form-object-methods-with-form-event-case-statements/ "Encapsulate form/object methods with form event case statements")[^original-link] on an as needed basis.
 
 4D will go into each form method and object method that has the event enabled and execute the method. When debugging this can be a real hassle because each event will trigger even if there is no ‘real’ code executed. 4D can’t tell what is in your methods and is just throwing events that the developer has specified.
 

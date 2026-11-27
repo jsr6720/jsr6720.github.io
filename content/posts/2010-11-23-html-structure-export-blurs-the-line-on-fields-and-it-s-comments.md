@@ -8,7 +8,7 @@ uid: ddbacb36-52df-46bc-981b-bbd7852a2b0a
 slug: html-structure-export-blurs-the-line-on-fields-and-it-s-comments
 ---
 
-## HTML Structure export blurs the line on fields and it’s comments
+## HTML Structure export blurs the line on fields and it’s comments
 
 4D has a great feature to export structure information to HTML and XML files. Very handy for generating a data dictionary in a nice format to impress managers.
 
@@ -76,4 +76,4 @@ Notice field name and comments appended
 
     Original Wordpress tags: "4D", "4D", "HTML", "structure export", "XML"
 
-    Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2010/11/23/html-structure-export-blurs-the-line-on-fields-and-its-comments/#comments">1 Comment</a>
+    Original Wordpress comments: [1 Comment](https://txcowboycoder.wordpress.com/2010/11/23/html-structure-export-blurs-the-line-on-fields-and-its-comments/#comments)

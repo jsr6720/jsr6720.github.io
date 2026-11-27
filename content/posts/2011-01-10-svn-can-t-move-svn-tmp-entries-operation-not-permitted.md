@@ -8,7 +8,7 @@ uid: e799d85e-4cee-4da2-a8f0-ad1f5caec477
 slug: svn-can-t-move-svn-tmp-entries-operation-not-permitted
 ---
 
-## svn: Can’t move /.svn/tmp/entries: Operation not permitted
+## svn: Can’t move /.svn/tmp/entries: Operation not permitted
 
 Another weird SVN error. I keep telling myself I need to re-checkout a clean version of the svn repository, or better yet export to code, or even better use git.
 

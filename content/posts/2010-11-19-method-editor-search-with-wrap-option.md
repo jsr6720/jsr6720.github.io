@@ -8,7 +8,7 @@ uid: a1ea8f56-428d-4dff-9936-d0a04b8f5883
 slug: method-editor-search-with-wrap-option
 ---
 
-## Method editor search with wrap option
+## Method editor search with wrap option
 
 Can’t tell you how annoying it is that search in a method editor can only go forwards or backwards of the cursor.
 

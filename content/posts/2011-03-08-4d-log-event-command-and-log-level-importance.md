@@ -8,7 +8,7 @@ uid: 19636f63-63fc-4d92-b336-0fe3530a3b2c
 slug: 4d-log-event-command-and-log-level-importance
 ---
 
-## 4D Log Event command and log level importance
+## 4D Log Event command and log level importance
 
 I began experimenting with the 4D command [`LOG EVENT`](http://doc.4d.com/4D-Language-Reference-12.1/System-Environment/LOG-EVENT.301-479440.en.html).
 

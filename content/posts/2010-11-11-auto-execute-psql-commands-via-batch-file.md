@@ -8,7 +8,7 @@ uid: de5b266d-8c38-48dd-a178-62346e13664f
 slug: auto-execute-psql-commands-via-batch-file
 ---
 
-## Auto execute psql commands via batch file
+## Auto execute psql commands via batch file
 
 `psql` via command line does not have an option for password. To run a scheduled task using `psql` is pointless without full automation.
 
@@ -51,4 +51,4 @@ psql -X --variable=ON_ERROR_STOP= -1 -w -f filename.sql
 
     Original Wordpress tags: "DOS", "bat file", "batch file", "DOS", "psql"
 
-    Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2010/11/11/auto-execute-psql-commands-via-batch-file/#comments">2 Comments</a>
+    Original Wordpress comments: [2 Comments](https://txcowboycoder.wordpress.com/2010/11/11/auto-execute-psql-commands-via-batch-file/#comments)

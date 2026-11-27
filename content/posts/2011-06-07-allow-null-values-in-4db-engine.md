@@ -8,7 +8,7 @@ uid: 392ef8f3-499a-4b3c-b677-5628997f8e7f
 slug: allow-null-values-in-4db-engine
 ---
 
-## Allow NULL values in 4DB engine
+## Allow NULL values in 4DB engine
 
 Developers need to be able to use nulls if using SQL engine and 4DB engine in 4D. As of this writing the concepts of `NULL` values are very [loosely integrated with 4D](http://doc.4d.com/4Dv11.4/help/Title/en/page370.html).
 
@@ -33,7 +33,7 @@ Seems as if 4D is not giving developers all the tools to make a hybrid deployabl
 
 4D does annoying things like convert null values to blank values when trying to display them in an object, or puts into [object property definitions](http://kb.4d.com/search/assetid=75825) display attributes to control how null values are rendered.
 
-See my comments on [float data types](/new-4d-variable-data-type-float/ "New 4D variable data type – float")[^original-link].
+See my comments on [float data types](/new-4d-variable-data-type-float/ "New 4D variable data type – float")[^original-link].
 
 ---
 
@@ -52,4 +52,4 @@ See my comments on [float data types](/new-4d-variable-data-type-float/ "New 4D 
 
     Original Wordpress tags: "4D", "4D", "clean code", "null", "sql", "v11", "v12"
 
-    Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/06/07/allow-null-values-in-4db-engine/#comments">1 Comment</a>
+    Original Wordpress comments: [1 Comment](https://txcowboycoder.wordpress.com/2011/06/07/allow-null-values-in-4db-engine/#comments)

@@ -8,7 +8,7 @@ uid: 7022c227-3160-4a80-96fa-5a753506f2bb
 slug: count-sql-users-command
 ---
 
-## Count SQL users command
+## Count SQL users command
 
 >Product :4D – 4D Server  
 >4D : v12  

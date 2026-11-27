@@ -8,7 +8,7 @@ uid: b14ed348-2d0b-458d-b436-23f0d91f3086
 slug: request-tracker-to-redmine-migration
 ---
 
-## Request Tracker to Redmine Migration
+## Request Tracker to Redmine Migration
 
 The last two weeks have been focused on learning ruby to write a rake task that would migrate data from Perl based Request Tracker(TM) to a RoR based Redmine issue tracking system.
 
@@ -35,4 +35,4 @@ My summary of RoR is its nice to be working in a class based, object based MVC a
 
     Original Wordpress tags: "Ruby", "rake task", "redmine", "request tracker", "ruby on rails"
 
-    Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2011/01/07/request-tracker-to-redmine-migration/#comments">5 Comments</a>
+    Original Wordpress comments: [5 Comments](https://txcowboycoder.wordpress.com/2011/01/07/request-tracker-to-redmine-migration/#comments)

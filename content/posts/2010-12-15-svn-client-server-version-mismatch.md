@@ -8,7 +8,7 @@ uid: 57569740-577a-4bb1-a776-9c9fa4dcbfa5
 slug: svn-client-server-version-mismatch
 ---
 
-## SVN client/server version mismatch
+## SVN client/server version mismatch
 
 Not a huge deal, but I spent a while fighting with various svn errors and finally figured it out.
 

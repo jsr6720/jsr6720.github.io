@@ -8,7 +8,7 @@ uid: 9aad86d4-74a4-4fd1-811f-d127303db935
 slug: mirroring-4d-data-to-another-database
 ---
 
-## Mirroring 4D data to another database
+## Mirroring 4D data to another database
 
 **UPDATE:**
 

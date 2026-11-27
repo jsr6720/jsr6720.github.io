@@ -8,7 +8,7 @@ uid: eb54d4ce-41a1-47c8-bbb7-e39aba40e240
 slug: is-record-number-valid-command
 ---
 
-## Is record number valid – command
+## Is record number valid – command
 
 Instead of throwing an error when `GOTO RECORD` goes outside the range of record numbers in a table lets have a command that validates the action first.
 

@@ -16,7 +16,7 @@ Several different stored routines needed to be written, so I went about writing 
 
 Being impatient I glanced at the first few lines and found this:
 
-> Header: “19.2. Using Stored Routines (Procedures and Functions)”  
+> Header: “19.2. Using Stored Routines (Procedures and Functions)”  
 
 My Thought: Ok, so MySQL considers routines to be either procedures or functions, and because the documentation for both is all on one page, there couldn’t be that much difference between the two.
 

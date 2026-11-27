@@ -8,7 +8,7 @@ uid: 4449bff8-af9c-487a-bf26-dae642b49018
 slug: define-constants-without-a-plugin
 ---
 
-## Define constants without a plugin
+## Define constants without a plugin
 
 Would be nice if there were a way to define constants for use in 4D without creating a plugin. There is an [outstanding feature request](http://forums.4d.fr/Post//1470873/1/4687683) for this already. 
 

@@ -8,7 +8,7 @@ uid: fd5cfb88-fea7-4a9b-a9ca-3a5b470fa8fa
 slug: uuid-in-canonical-form-no-hyphens
 ---
 
-### Feature Request: return UUID in canonical form (no hyphens)
+### Feature Request: return UUID in canonical form (no hyphens)
 
 4D v12 has a new function [Generate UUID](http://doc.4d.com/4D-Language-Reference-12/Tools/Generate-UUID.301-186324.en.html)[^1] This is a much welcome feature, but fails to return an UUID in canonical (with hyphens) form like everyone else[^2].
 

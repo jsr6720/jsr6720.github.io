@@ -8,9 +8,9 @@ uid: edb36778-ffa9-4a5d-af4b-c0c5c5f0db75
 slug: modified-fieldname-no-longer-works
 ---
 
-## Modified({fieldname}) no longer works
+## Modified({fieldname}) no longer works
 
-4D finally did away with the Modified({fieldname}) command.
+4D finally did away with the Modified({fieldname}) command.
 
 I’ve replaced it in our code base with
 

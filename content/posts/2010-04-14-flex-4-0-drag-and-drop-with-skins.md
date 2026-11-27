@@ -8,7 +8,7 @@ uid: 29f532df-bf3d-42f2-ac22-4bd87314dd9c
 slug: flex-4-0-drag-and-drop-with-skins
 ---
 
-## Flex 4.0 drag-and-drop with skins
+## Flex 4.0 drag-and-drop with skins
 
 **UPDATE**
 
@@ -63,4 +63,4 @@ From above:
 
     Original Wordpress tags: "flex", "drag-and-drop", "flex", "skins"
 
-    Original Wordpress comments: <a href="https://txcowboycoder.wordpress.com/2010/04/14/flex-4-0-drag-and-drop-with-skins/#comments">2 Comments</a>
+    Original Wordpress comments: [2 Comments](https://txcowboycoder.wordpress.com/2010/04/14/flex-4-0-drag-and-drop-with-skins/#comments)
