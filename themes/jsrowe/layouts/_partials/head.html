@@ -1,0 +1,23 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ (.Description | default (.Summary | plainify | htmlUnescape | strings.TrimSpace | truncate 300)) | default site.Params.description }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{- partial "opengraph.html" . }}
+  {{- partial "twitter_cards.html" . }}
+  {{- partial "schema.html" . }}
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Source+Serif+4:wght@400;500;600;700&display=swap">
+  <link type="application/atom+xml" rel="alternate" href="{{ "feed.xml" | absURL }}" title="{{ site.Title }}">
+  {{- if .IsHome }}
+  {{- range site.Params.categories }}
+  <link rel="prefetch" href="/category/{{ . }}/">
+  {{- end }}
+  {{- end }}
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/assets/css/main-overrides.css">
+  <link rel="stylesheet" href="/assets/css/posts-breadcrumb-nav.css">
+  <link rel="stylesheet" href="/assets/css/share-buttons.css">
+</head>

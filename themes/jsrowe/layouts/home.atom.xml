@@ -1,0 +1,1 @@
+{{- partial "atom.xml" (dict "pages" (where site.RegularPages "Section" "posts") "title" site.Title "self" "feed.xml") -}}

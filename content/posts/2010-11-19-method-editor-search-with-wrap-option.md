@@ -1,0 +1,33 @@
+---
+layout: post
+author: James Rowe
+title: "Method editor search with wrap option"
+date: "2010-11-19 00:00:00 -0400"
+category: engineering
+tags: ["2010", txcowboycoder, 4D]
+uid: a1ea8f56-428d-4dff-9936-d0a04b8f5883
+slug: method-editor-search-with-wrap-option
+---
+
+## Method editor search with wrap option
+
+Can’t tell you how annoying it is that search in a method editor can only go forwards or backwards of the cursor.
+
+On larger methods (greater than 80 lines) I’ve done searches for words thinking they’re not in that method because I forgot to position my cursor at the top or do a forwards and backwards search.
+
+See my [feature request](http://forums.4d.fr/Post//4688233/1/) for this on 4D forums.
+
+---
+
+### Significant Revisions
+
+- May 6th, 2024 Converted to jekyll markdown format and copied to personal site
+- Nov 19th, 2010 Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/11/19/method/)[^draft]
+
+### Footnotes
+
+[^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
+
+    Original Wordpress categories: ['Wish List']
+
+    Original Wordpress tags: "Wish List", "4d search", "method editor"

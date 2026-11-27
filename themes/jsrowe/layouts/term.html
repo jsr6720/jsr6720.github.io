@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{- $isCategory := eq .Data.Plural "category" }}
+<div class="home post-list category-page">
+  <header class="post-header">
+    <h3 class="post-title">{{ cond $isCategory "Category" "Tag" }}: {{ .Title }}</h3>
+    <p class="post-subtitle">
+      You’re viewing a filtered list of posts {{ cond $isCategory "in this category" "with this tag" }}.
+      <a href="/">Back to all.</a>
+    </p>
+  </header>
+  {{- if $isCategory }}{{ partial "post-filters.html" .Data.Term }}{{ end }}
+  {{- with .Pages }}
+  {{- partial "post-list.html" . }}
+  {{- else }}
+  <p>No posts yet.</p>
+  {{- end }}
+</div>
+{{ end }}
