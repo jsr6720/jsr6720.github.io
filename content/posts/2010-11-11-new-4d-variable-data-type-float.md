@@ -3,7 +3,7 @@ author: James Rowe
 title: "New 4D variable data type – float"
 date: 2010-11-11 00:00:00 -0500
 category: engineering
-tags: ["2010", txcowboycoder, 4D]
+tags: [txcowboycoder, 4D]
 uid: 9aa7add4-7702-4387-88a6-a79df11688d9
 slug: new-4d-variable-data-type-float
 ---

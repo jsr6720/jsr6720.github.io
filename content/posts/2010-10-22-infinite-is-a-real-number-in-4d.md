@@ -3,7 +3,7 @@ author: James Rowe
 title: "Infinite is a real number in 4D"
 date: 2010-10-22 00:00:00 -0400
 category: engineering
-tags: ["2010", txcowboycoder, 4D]
+tags: [txcowboycoder, 4D]
 uid: 1eae0bc3-f65e-4229-baf3-f887faa99638
 slug: infinite-is-a-real-number-in-4d
 ---

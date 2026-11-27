@@ -3,7 +3,7 @@ author: James Rowe
 title: "4D unary operator (read i++)"
 date: 2011-01-21 00:00:00 -0500
 category: engineering
-tags: ["2011", txcowboycoder, 4D]
+tags: [txcowboycoder, 4D]
 uid: bbb58b89-8e90-4e50-a0d4-d3c62366d012
 slug: 4d-unary-operator-read-i
 ---

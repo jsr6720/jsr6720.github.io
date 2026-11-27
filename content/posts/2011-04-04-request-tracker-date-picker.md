@@ -3,7 +3,7 @@ author: James Rowe
 title: "Request Tracker date picker"
 date: 2011-04-04 00:00:00 -0400
 category: review
-tags: ["2011", txcowboycoder, request-tracker]
+tags: [txcowboycoder, request-tracker]
 uid: 499397f3-35a5-4942-b5a8-df5113c86cb3
 slug: request-tracker-date-picker
 ---

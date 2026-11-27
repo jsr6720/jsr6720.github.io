@@ -3,7 +3,7 @@ author: James Rowe
 title: "4D Delay Process should not accept negative numbers"
 date: 2011-03-18 00:00:00 -0400
 category: engineering
-tags: ["2011", txcowboycoder, 4D]
+tags: [txcowboycoder, 4D]
 uid: bb23408b-aac2-48f8-ae9c-c18e25348f84
 slug: 4d-delay-process-should-not-accept-negative-numbers
 ---

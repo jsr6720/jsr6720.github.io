@@ -3,7 +3,7 @@ author: James Rowe
 title: "Exception handling – try/catch/finally"
 date: 2010-10-21 00:00:00 -0400
 category: engineering
-tags: ["2010", txcowboycoder, 4D]
+tags: [txcowboycoder, 4D]
 uid: a1f6ae08-5be2-47b1-a9f2-a074cd9dc5eb
 slug: exception-handling-try-catch-finally
 ---

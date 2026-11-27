@@ -3,7 +3,7 @@ author: James Rowe
 title: "Cowboy Coder About page"
 date: 2010-04-07 13:07:28 -0400
 category: personal
-tags: ["2010", txcowboycoder, anecdote]
+tags: [txcowboycoder, anecdote]
 uid: E8C4ABDC-B45C-4215-8CBF-3A33A0F9E995
 slug: txcowboycoder-about-me-page
 ---

@@ -3,7 +3,7 @@ author: James Rowe
 title: "Cowboy Coder Resources page"
 date: 2010-10-27 08:51:35 -0400
 category: personal
-tags: ["2010", txcowboycoder, anecdote]
+tags: [txcowboycoder, anecdote]
 uid: 6C8278AC-C45C-4050-98DF-EC7628FB3038
 slug: txcowboycoder-resources-page
 ---

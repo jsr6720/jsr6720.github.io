@@ -3,7 +3,7 @@ author: James Rowe
 title: "HTML Structure export blurs the line on fields and it’s comments"
 date: 2010-11-23 00:00:00 -0500
 category: engineering
-tags: ["2010", txcowboycoder, 4D]
+tags: [txcowboycoder, 4D]
 uid: ddbacb36-52df-46bc-981b-bbd7852a2b0a
 slug: html-structure-export-blurs-the-line-on-fields-and-it-s-comments
 ---

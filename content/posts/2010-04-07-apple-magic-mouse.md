@@ -3,7 +3,7 @@ author: James Rowe
 title: "Apple’s Magic Mouse"
 date: 2010-04-07 00:00:00 -0400
 category: review
-tags: ["2010", txcowboycoder, hardware, apple]
+tags: [txcowboycoder, hardware, apple]
 uid: b635f552-59dc-408f-9d0a-2895b8d7dc3d
 slug: apple-magic-mouse
 ---

@@ -3,7 +3,7 @@ author: James Rowe
 title: "4D ‘blank’ user locked record"
 date: 2011-05-20 00:00:00 -0400
 category: engineering
-tags: ["2011", txcowboycoder, 4D]
+tags: [txcowboycoder, 4D]
 uid: 9bc29745-f1dd-445f-b137-9d1f7ef5132f
 slug: 4d-blank-user-locked-record
 ---

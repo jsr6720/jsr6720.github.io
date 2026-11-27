@@ -81,7 +81,7 @@ When a page's URL changes, add `aliases: ["/old/"]` to its front matter and list
 - The filename date must match `date:`. When publishing a draft on a later day, update both.
 - All dates are US Eastern (`timeZone: America/New_York`): `-0400` in summer, `-0500` in winter. `date "+%Y-%m-%d %H:%M:%S %z"` on my machine gets it right; the test checks.
 - `category` is one of `review` (books), `engineering`, `personal`.
-- Book tags follow Goodreads shelves; see README.
+- Book tags follow Goodreads shelves; see README. No year tags: the date already says when.
 - End with `### Significant Revisions` (newest first, e.g. `- Nov 26th, 2026 Originally published on [https://www.jsrowe.com](https://www.jsrowe.com) with uid …`) and `### Footnotes`. These are plain text; content files can't use template code.
 - Book reviews: cover from `static/assets/posts-images/book-covers/`, citation line, `## My Review N/5`.
 - Link other posts with a plain path: `[title](/slug/)`.

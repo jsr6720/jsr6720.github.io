@@ -3,7 +3,7 @@ author: James Rowe
 title: "Epoch/Unix timestamp command"
 date: 2011-01-19 00:00:00 -0500
 category: engineering
-tags: ["2011", txcowboycoder, 4D]
+tags: [txcowboycoder, 4D]
 uid: 44cef8cf-66ad-44fc-b99d-e34a80bde608
 slug: epoch-unix-timestamp-command
 ---

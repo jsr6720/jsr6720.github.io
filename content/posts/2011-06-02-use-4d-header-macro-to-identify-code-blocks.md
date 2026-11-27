@@ -3,7 +3,7 @@ author: James Rowe
 title: "Use 4D header macro to identify code blocks"
 date: 2011-06-02 00:00:00 -0400
 category: engineering
-tags: ["2011", txcowboycoder, 4D]
+tags: [txcowboycoder, 4D]
 uid: 90bcff0b-cfd2-4351-ad42-352fce0d6c07
 slug: use-4d-header-macro-to-identify-code-blocks
 ---

@@ -3,7 +3,7 @@ author: James Rowe
 title: "svn: Can’t move /.svn/tmp/entries: Operation not permitted"
 date: 2011-01-10 00:00:00 -0500
 category: engineering
-tags: ["2011", txcowboycoder, svn]
+tags: [txcowboycoder, svn]
 uid: e799d85e-4cee-4da2-a8f0-ad1f5caec477
 slug: svn-can-t-move-svn-tmp-entries-operation-not-permitted
 ---

@@ -3,7 +3,7 @@ author: James Rowe
 title: "4D DSN-less ODBC connection"
 date: 2011-03-30 00:00:00 -0400
 category: engineering
-tags: ["2011", txcowboycoder, 4D, odbc]
+tags: [txcowboycoder, 4D, odbc]
 uid: dc30133e-b5d9-4632-a423-f75a984cebd5
 slug: 4d-dsn-less-odbc-connection
 ---

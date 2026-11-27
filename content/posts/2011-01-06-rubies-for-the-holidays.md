@@ -3,7 +3,7 @@ author: James Rowe
 title: "Rubies for the holidays"
 date: 2011-01-06 00:00:00 -0500
 category: engineering
-tags: ["2011", txcowboycoder, ruby]
+tags: [txcowboycoder, ruby]
 uid: a4dd9a60-403b-40d0-a55f-a87aa4dca387
 slug: rubies-for-the-holidays
 ---

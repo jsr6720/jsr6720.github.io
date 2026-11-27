@@ -87,6 +87,10 @@ test('tags is a non-empty list', () => {
   expect(problems(({ data }) => !/^\[.*\S.*\]$/.test(data.tags ?? '') && `tags ${JSON.stringify(data.tags)}`)).toEqual([]);
 });
 
+test('no year tags (the date already says when)', () => {
+  expect(problems(({ data }) => /(^|[\[,\s"])\d{4}("|,|\]|\s)/.test(data.tags ?? '') && `tags ${data.tags}`)).toEqual([]);
+});
+
 test('uid is a UUID, unique across posts', () => {
   const seen = new Map<string, string>();
   expect(

@@ -3,7 +3,7 @@ author: James Rowe
 title: "LDAP Authentication"
 date: 2010-04-08 00:00:00 -0400
 category: engineering
-tags: ["2010", txcowboycoder, java, apache-flex]
+tags: [txcowboycoder, java, apache-flex]
 uid: ec7b94d8-d72c-4fb0-9b7a-6b488df527e3
 slug: ldap-authentication
 ---

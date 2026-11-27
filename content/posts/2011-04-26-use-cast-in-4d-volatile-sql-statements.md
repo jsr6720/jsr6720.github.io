@@ -3,7 +3,7 @@ author: James Rowe
 title: "Use CAST in 4D volatile SQL statements"
 date: 2011-04-26 00:00:00 -0400
 category: engineering
-tags: ["2011", txcowboycoder, 4D]
+tags: [txcowboycoder, 4D]
 uid: 26d65656-5d14-4122-9329-0686d112634b
 slug: use-cast-in-4d-volatile-sql-statements
 ---

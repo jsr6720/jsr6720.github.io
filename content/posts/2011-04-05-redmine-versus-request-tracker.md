@@ -3,7 +3,7 @@ author: James Rowe
 title: "Redmine versus Request Tracker"
 date: 2011-04-05 00:00:00 -0400
 category: review
-tags: ["2011", txcowboycoder, redmine, request-tracker]
+tags: [txcowboycoder, redmine, request-tracker]
 uid: f4fbbfdc-180b-42ea-b022-a38d2153bcef
 slug: redmine-versus-request-tracker
 ---

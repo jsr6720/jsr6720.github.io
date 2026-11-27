@@ -3,7 +3,7 @@ author: James Rowe
 title: "Joined Github"
 date: 2011-01-05 00:00:00 -0500
 category: review
-tags: ["2011", txcowboycoder, git]
+tags: [txcowboycoder, git]
 uid: 5f9108f3-37e5-4dd5-b234-1b71da251f66
 slug: joined-github
 ---

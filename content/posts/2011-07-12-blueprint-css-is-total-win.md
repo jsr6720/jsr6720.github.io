@@ -3,7 +3,7 @@ author: James Rowe
 title: "Blueprint CSS is total win"
 date: 2011-07-12 00:00:00 -0400
 category: review
-tags: ["2011", txcowboycoder, css]
+tags: [txcowboycoder, css]
 uid: 585f76ac-ed2a-4c56-8b33-23010d3b1b28
 slug: blueprint-css-is-total-win
 ---

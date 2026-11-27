@@ -3,7 +3,7 @@ author: James Rowe
 title: "Count SQL users command"
 date: 2011-01-27 00:00:00 -0500
 category: engineering
-tags: ["2011", txcowboycoder, 4D]
+tags: [txcowboycoder, 4D]
 uid: 7022c227-3160-4a80-96fa-5a753506f2bb
 slug: count-sql-users-command
 ---

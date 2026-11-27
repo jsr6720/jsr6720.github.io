@@ -3,7 +3,7 @@ author: James Rowe
 title: "3.5 to 4.0 Flex SDK upgrade"
 date: 2010-04-08 00:00:00 -0400
 category: engineering
-tags: ["2010", txcowboycoder, apache-flex]
+tags: [txcowboycoder, apache-flex]
 uid: e69f1f7d-6950-412c-8cd2-ecd5dc90894a
 slug: 3-5-to-4-0-flex-sdk-upgrade
 ---
