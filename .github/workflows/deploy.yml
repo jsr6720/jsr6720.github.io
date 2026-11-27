@@ -50,6 +50,7 @@ jobs:
         with:
           name: site
           path: public/
+          include-hidden-files: true # alias /how-to-talk-so-kids-will-listen/.and-listen-…/ is a dot folder
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3

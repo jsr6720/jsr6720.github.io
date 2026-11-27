@@ -38,6 +38,8 @@ Push to `main` deploys production. Open a PR; never push to `main`.
 
 Canonical, og:url, feeds and sitemap always point at www.jsrowe.com, on both. `/llms.txt` (index of posts) and `/llms-full.txt` (every post's markdown) follow https://llmstxt.org; they're built from `themes/jsrowe/layouts/home.llms*.txt`. Hugo version is pinned in `.hugo-version`; CI reads it.
 
+After a deploy, check the live site, not just the run: fetch every URL in https://www.jsrowe.com/sitemap.xml and every `from` in `tests/redirects.json`, and compare the page `<title>`, not only the status. CloudFront answers missing pages with the homepage and a 200 (soft 404), so a status check passes for a file that never reached S3.
+
 Versions (`scripts/next-version.py`, run on every merge): a post published since the last tag (new file or `draft` removed) = minor; anything else = patch; `major` label on the PR = major (my call: license change, rewrite).
 
 ## Build and check
@@ -103,6 +105,14 @@ When a page's URL changes, add `aliases: ["/old/"]` to its front matter and list
 - `_drafts/`: ideas and unfinished posts, not built. Older ones still contain Jekyll Liquid (`{{ page.date | date_to_string }}` etc.); replace it with plain text when moving one to `content/posts/`.
 - `_archive/`: kept in the repo, not published (Hugo only builds `content/`). "Archived" means this.
 - Don't add third-party PDFs or articles. The repo is public, so that's rehosting.
+
+## Gotchas (learned the hard way)
+
+- Hugo 0.146+ template lookup: `page.html` outranks `single.html`, so the post template is `posts/page.html`. `tests/templates.spec.ts` catches a page landing on the wrong template.
+- `capitalizeListTitles: false` keeps tag names as written, but also lowercases titles Hugo generates (`/tags/`, `/category/…/`). Title those with an `_index.md`.
+- `actions/upload-artifact` skips dot-files and dot-folders unless `include-hidden-files: true`. An alias folder starting with `.` once went missing from S3 this way while GitHub Pages (a different upload) had it.
+- `ubuntu-latest` moves. When Playwright can't install Chromium in CI, upgrade `@playwright/test` (pinned exactly in `tests/package.json`) to a release a few weeks old, run the tests locally, then push.
+- Fix content with a script over all posts, then prove it with a test that fails on the old content. Every cleanup in the Hugo move (time zones, year tags, code fence languages, hidden `<tag>` text) works this way, and each one found more than the first grep did.
 
 ## History
 
