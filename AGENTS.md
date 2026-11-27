@@ -38,6 +38,8 @@ Push to `main` deploys production. Open a PR; never push to `main`.
 
 Canonical, og:url, feeds and sitemap always point at www.jsrowe.com, on both. `/llms.txt` (index of posts) and `/llms-full.txt` (every post's markdown) follow https://llmstxt.org; they're built from `themes/jsrowe/layouts/home.llms*.txt`. Hugo version is pinned in `.hugo-version`; CI reads it.
 
+After a deploy, run `python3 scripts/check-live.py`. It fetches every sitemap URL and compares titles, not only status: CloudFront answers missing pages with the homepage and a 200 (soft 404), so a status check passes for a file that never reached S3. It also checks HTTPS against current practice (one-hop 301s to https://www, TLS 1.2+ only, HSTS and other security headers). The header and apex-hop failures are known; they belong to the Terraform/CloudFront work, not this repo.
+
 Versions (`scripts/next-version.py`, run on every merge): a post published since the last tag (new file or `draft` removed) = minor; anything else = patch; `major` label on the PR = major (my call: license change, rewrite).
 
 ## Build and check
@@ -51,7 +53,7 @@ Keep `--renderToMemory` on `hugo server`: without it, the dev server writes loca
 
 ## Tests
 
-Playwright smoke tests in `tests/` run against the built site in CI. They check top-level pages, every feed, previous/next links, table of contents, code blocks, images, header/footer links, SEO tags (canonical always www.jsrowe.com), redirects, the 404 page, and that nothing loads from third-party hosts. Sample posts are listed at the top of `tests/site.spec.ts`. `tests/build.spec.ts` scans every page in the build: no localhost URLs, no leftover Liquid, no hotlinked images, no images glued to text, every sitemap URL exists.
+Playwright smoke tests in `tests/` run against the built site in CI. They check top-level pages, every feed, previous/next links, table of contents, code blocks, images, header/footer links, SEO tags (canonical always www.jsrowe.com), redirects, the 404 page, and that nothing loads from third-party hosts. Sample posts are listed at the top of `tests/site.spec.ts`. `tests/build.spec.ts` scans every page in the build: no localhost URLs, no leftover Liquid, no hotlinked images, no images glued to text, no mixed content (`http://` resources), no third-party scripts, no hidden `<tag>` text, every sitemap URL exists.
 
 ```sh
 cd tests && npm ci && npx playwright install chromium
@@ -63,7 +65,7 @@ SITE_DIR=../public npx playwright test
 
 Run them before opening a PR. If a test fails, fix the site, not the test.
 
-When a page's URL changes, add `aliases: ["/old/"]` to its front matter and list it in `tests/redirects.json` (`{ "from": "/old/", "to": "/new/" }`).
+URLs don't change. The redirects for the four odd Jekyll URLs (dots, commas, apostrophes) were dropped on purpose in Nov 2026; their old URLs 404. Don't add `aliases` back for them. If a URL ever has to change, add `aliases: ["/old/"]` and list it in `tests/redirects.json` (now `[]`).
 
 ## Layout
 
@@ -104,6 +106,14 @@ When a page's URL changes, add `aliases: ["/old/"]` to its front matter and list
 - `_archive/`: kept in the repo, not published (Hugo only builds `content/`). "Archived" means this.
 - Don't add third-party PDFs or articles. The repo is public, so that's rehosting.
 
+## Gotchas (learned the hard way)
+
+- Hugo 0.146+ template lookup: `page.html` outranks `single.html`, so the post template is `posts/page.html`. `tests/templates.spec.ts` catches a page landing on the wrong template.
+- `capitalizeListTitles: false` keeps tag names as written, but also lowercases titles Hugo generates (`/tags/`, `/category/…/`). Title those with an `_index.md`.
+- `actions/upload-artifact` skips dot-files and dot-folders unless `include-hidden-files: true`. A dot-folder alias once went missing from S3 this way while GitHub Pages (a different upload) had it.
+- `ubuntu-latest` moves. When Playwright can't install Chromium in CI, upgrade `@playwright/test` (pinned exactly in `tests/package.json`) to a release a few weeks old, run the tests locally, then push.
+- Fix content with a script over all posts, then prove it with a test that fails on the old content. Every cleanup in the Hugo move (time zones, year tags, code fence languages, hidden `<tag>` text) works this way, and each one found more than the first grep did.
+
 ## History
 
 Older posts came from Goodreads and txcowboycoder.wordpress.com (tag `txcowboycoder`). Keep their "Originally published on…" lines.
@@ -113,5 +123,5 @@ The site was Jekyll + minima (Ruby) until v4.0.0; Hugo starts at v5.0.0. If some
 - `scripts/jekyll-to-hugo.py` baked Liquid into plain text (revision dates, `site.url`, `uid`), turned `post_url`/`link` tags into `/slug/` paths, made tags lists, and wrote `slug:` from the filename.
 - Revision dates use the date as written. Jekyll converted to local time, so ~120 old posts dated midnight `-0400` in winter showed the day before.
 - Kramdown-only syntax was dropped: `{: style=…}` attributes, `{:target="_blank"}`, emoji shortcodes (the one `:warning:` became ⚠️). Raw `<img>` tags became markdown images.
-- URLs that changed have aliases (see `tests/redirects.json`). `some-words-I-like` moved to `_archive/`.
+- Four URLs changed (Hugo strips `'` and `,`); their aliases were later dropped on purpose. `some-words-I-like` moved to `_archive/`.
 - `themes/jsrowe/static/assets/main.css` is minima's compiled CSS, copied in; we own it now.

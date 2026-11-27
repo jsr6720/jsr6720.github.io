@@ -92,3 +92,9 @@ test('no unknown HTML tags hiding text (escape it: \\<Latest\\> or `List<T>`)', 
     offenders((h) => [...h.matchAll(/<([a-zA-Z][\w-]*)/g)].map((m) => m[1]).filter((t) => !HTML_ELEMENTS.has(t.toLowerCase())).map((t) => `<${t}>`)),
   ).toEqual([]);
 });
+
+test('no mixed content: nothing loads over http://', () => {
+  expect(
+    offenders((h) => h.match(/<(img|script|link|iframe|source|video|audio|embed|object)\b[^>]*\b(src|href|srcset)="http:\/\/[^"]*"/g) ?? []),
+  ).toEqual([]);
+});

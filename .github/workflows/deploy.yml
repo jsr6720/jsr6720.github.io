@@ -50,6 +50,7 @@ jobs:
         with:
           name: site
           path: public/
+          include-hidden-files: true # upload-artifact skips dot-files/folders by default
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
