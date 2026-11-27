@@ -20,6 +20,7 @@ Prefer what Hugo ships over custom code: embedded templates (`opengraph.html`, `
 
 ## Design
 
+- Fewest overrides that keep the look and feel. `themes/jsrowe/static/assets/main.css` is minima's base, left as shipped; changes go in `css/main-overrides.css`. Before adding a rule, check whether an existing one can change instead; delete rules that no longer match anything.
 - Links in the writing (posts, pages, home intro, prev/next) are obvious: blue and always underlined. Site chrome (header, nav, post lists, footer) stays ink.
 - Images: see "Images" below.
 
