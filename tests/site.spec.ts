@@ -177,3 +177,71 @@ test.describe('redirects', () => {
     });
   }
 });
+
+test.describe('Hugo templates', () => {
+  const publishedAt = async (page: Page) =>
+    new Date((await page.locator('time.dt-published').getAttribute('datetime'))!).getTime();
+
+  test('"Previous" is the older post, "Next" the newer one', async ({ page }) => {
+    await page.goto(POSTS.review);
+    const current = await publishedAt(page);
+    const prev = await page.locator('.post-nav-prev a').getAttribute('href');
+    const next = await page.locator('.post-nav-next a').getAttribute('href');
+    await page.goto(prev!);
+    expect(await publishedAt(page), `previous ${prev}`).toBeLessThan(current);
+    await page.goto(next!);
+    expect(await publishedAt(page), `next ${next}`).toBeGreaterThan(current);
+  });
+
+  test('table of contents starts at h2 (no empty first bullet)', async ({ page }) => {
+    await page.goto(POSTS.engineering);
+    await expect(page.locator('#toc > nav > ul > li').first().locator('> a')).toHaveCount(1);
+  });
+
+  test('heading anchors link to their own heading', async ({ page }) => {
+    await page.goto(POSTS.engineering);
+    const anchors = page.locator('main h2 a.heading-anchor');
+    expect(await anchors.count()).toBeGreaterThan(0);
+    for (const a of await anchors.all()) {
+      const id = await a.evaluate((el) => el.parentElement!.id);
+      await expect(a).toHaveAttribute('href', `#${id}`);
+      await expect(a).toHaveAttribute('aria-label', /\S/);
+    }
+  });
+
+  test('share buttons are plain links with labels', async ({ page }) => {
+    await page.goto(POSTS.personal);
+    const links = page.locator('#share-buttons > a');
+    expect(await links.count()).toBeGreaterThan(0);
+    for (const a of await links.all()) {
+      await expect(a).toHaveAttribute('href', /^https:\/\//);
+      await expect(a).toHaveAttribute('aria-label', /\S/);
+    }
+  });
+
+  test('stand-alone markdown images render as centered figures', async ({ page }) => {
+    await page.goto(POSTS.review);
+    const img = page.locator('main figure.post-image img').first();
+    await expect(img).toBeVisible();
+    const { left, right } = await img.evaluate((el) => {
+      const r = el.getBoundingClientRect();
+      const p = el.closest('.post-content')!.getBoundingClientRect();
+      return { left: r.left - p.left, right: p.right - r.right };
+    });
+    expect(Math.abs(left - right), 'image centered in the column').toBeLessThan(2);
+  });
+
+  test('tags page links to tag pages that list posts', async ({ page }) => {
+    await page.goto('/tags/');
+    const first = page.locator('a.tag-pill').first();
+    const name = await first.evaluate((a) => a.firstChild!.textContent!.trim()); // pill text without the count
+    await first.click();
+    await expect(page.locator('main h3.post-title')).toHaveText(`Tag: ${name}`);
+    expect(await page.locator('main .post-item').count()).toBeGreaterThan(0);
+  });
+
+  test('category pages keep their titles', async ({ page }) => {
+    await page.goto('/category/review/');
+    await expect(page.locator('main h3.post-title')).toHaveText('Category: Reviews');
+  });
+});

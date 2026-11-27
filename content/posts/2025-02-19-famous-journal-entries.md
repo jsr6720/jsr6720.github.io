@@ -45,7 +45,9 @@ Considered the oldest ‘customer complaint’ known.[^verizon]
 
 A more somber entry. But what a tremendous weight a single X on a page represents.
 
-![light has gone out theodore roosevelt](https://upload.wikimedia.org/wikipedia/commons/e/e6/Light_has_gone_out.jpg)
+![light has gone out theodore roosevelt](/assets/posts-images/roosevelt-diary-light-has-gone-out.jpg)
+
+*Theodore Roosevelt's diary, February 14, 1884. Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Light_has_gone_out.jpg).*
 
 ### The Birth of an Airline
 

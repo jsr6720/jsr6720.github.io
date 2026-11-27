@@ -1,8 +1,8 @@
 import { defineConfig } from '@playwright/test';
 import path from 'node:path';
 
-// SITE_DIR is the built site to test: ../_site for Jekyll, ../public for Hugo.
-const siteDir = path.resolve(__dirname, process.env.SITE_DIR ?? '../_site');
+// SITE_DIR is the built site to test (hugo output).
+export const siteDir = path.resolve(__dirname, process.env.SITE_DIR ?? '../public');
 const port = 4321;
 
 export default defineConfig({

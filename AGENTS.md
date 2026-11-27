@@ -45,7 +45,7 @@ Keep `--renderToMemory` on `hugo server`: without it, the dev server writes loca
 
 ## Tests
 
-Playwright smoke tests in `tests/` run against the built site in CI. They check top-level pages, every feed, previous/next links, table of contents, code blocks, images, header/footer links, SEO tags (canonical always www.jsrowe.com), redirects, the 404 page, and that nothing loads from third-party hosts. Sample posts are listed at the top of `tests/site.spec.ts`.
+Playwright smoke tests in `tests/` run against the built site in CI. They check top-level pages, every feed, previous/next links, table of contents, code blocks, images, header/footer links, SEO tags (canonical always www.jsrowe.com), redirects, the 404 page, and that nothing loads from third-party hosts. Sample posts are listed at the top of `tests/site.spec.ts`. `tests/build.spec.ts` scans every page in the build: no localhost URLs, no leftover Liquid, no hotlinked images, no images glued to text, every sitemap URL exists.
 
 ```sh
 cd tests && npm ci && npx playwright install chromium
@@ -77,7 +77,7 @@ When a page's URL changes, add `aliases: ["/old/"]` to its front matter and list
 
 ## Images
 
-- Files go in `static/assets/posts-images/`, served at `/assets/posts-images/`. No hotlinking: a remote image is a third-party request. Exception: xkcd comics in `my-favorite-xkcd-comics` (xkcd allows hotlinking; copying them here would be rehosting).
+- Files go in `static/assets/posts-images/`, served at `/assets/posts-images/`. No hotlinking: a remote image is a third-party request. Download it and credit the source in the text under the image. Exception: xkcd comics in `my-favorite-xkcd-comics` (xkcd allows hotlinking; copying them here would be rehosting).
 - Use standard markdown, on its own line with a blank line above and below: `![alt text](/assets/posts-images/file.png)`. An image touching text renders inline in that paragraph.
 - No `<img>` tags, classes, inline styles or widths. `themes/jsrowe/layouts/_markup/render-image.html` centers every stand-alone image with rounded corners; CSS caps tall images.
 - No drop shadows or borders. Many screenshots already have a macOS window shadow baked in.

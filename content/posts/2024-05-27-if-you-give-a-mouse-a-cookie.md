@@ -9,7 +9,9 @@ uid: 6DEDF293-4120-4BD2-A7A4-6546297A422A
 slug: if-you-give-a-mouse-a-cookie
 ---
 
-![https://en.wikipedia.org/wiki/If_You_Give_a_Mouse_a_Cookie](https://upload.wikimedia.org/wikipedia/en/3/3c/If_you_Give_a_Mouse_a_Cookie.jpg)[^credit]
+![If You Give a Mouse a Cookie book cover](/assets/posts-images/book-covers/if-you-give-a-mouse-a-cookie.jpg)
+
+*Cover from Wikipedia.[^credit]*
 
 ## My Review 5/5
 
@@ -42,6 +44,6 @@ Accept quests. Especially with the vigor of Quest Sprout.
 
 ### Footnotes
 
-[^credit]: Book cover image hotlink credit <https://en.wikipedia.org/wiki/If_You_Give_a_Mouse_a_Cookie> until I can find my copy to take a picture. I guess I have my own side quest now.
+[^credit]: Book cover image credit <https://en.wikipedia.org/wiki/If_You_Give_a_Mouse_a_Cookie> until I can find my copy to take a picture. I guess I have my own side quest now.
 
 [^sidequest]: If you know what I'm talking about drop me a line! It used primarily Diablo 2 as an example, but Baulders Gate also comes to mind.
