@@ -240,6 +240,12 @@ test.describe('Hugo templates', () => {
     expect(await page.locator('main .post-item').count()).toBeGreaterThan(0);
   });
 
+  test('links in the writing are underlined', async ({ page }) => {
+    await page.goto('/bookshelf/');
+    const style = await page.locator('main .post-content li a').first().evaluate((a) => getComputedStyle(a).textDecorationLine);
+    expect(style).toContain('underline');
+  });
+
   test('category pages keep their titles', async ({ page }) => {
     await page.goto('/category/review/');
     await expect(page.locator('main h3.post-title')).toHaveText('Category: Reviews');

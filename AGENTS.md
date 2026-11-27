@@ -18,6 +18,11 @@ Share buttons are plain `<a href>` links with an `aria-label`. Ad blockers like 
 
 Prefer what Hugo ships over custom code: embedded templates (`opengraph.html`, `twitter_cards.html`, `schema.html`), `.ReadingTime`, `.TableOfContents`, taxonomies, aliases, archetypes, render hooks. No plugins, no theme from upstream. The only custom output is the Atom feed (`/feed.xml`, `/feed/{category}.xml`), kept so subscribers don't see a format change.
 
+## Design
+
+- Links in the writing (posts, pages, home intro) are obvious: blue and always underlined. Site chrome (header, nav, post lists, footer) stays ink.
+- Images: see "Images" below.
+
 ## License
 
 Writing is CC BY-NC-ND 4.0 (`LICENSE`); code samples are MIT (`CODE-LICENSE`). Don't change either.
