@@ -3,6 +3,7 @@
 baseURL: "https://www.jsrowe.com/"
 languageCode: en-us
 title: "James' Thoughts"
+capitalizeListTitles: false # tag pages show tags as written: "book", not "Book"
 theme: jsrowe
 enableRobotsTXT: false # static/robots.txt
 
