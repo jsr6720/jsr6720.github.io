@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The Power of Your Potential: How to Break Through Your Limits"
-date: 2020-02-20 00:00:00 -0400
+date: 2020-02-20 00:00:00 -0500
 category: review
 tags: [book, did-not-finish]
 uid: c9d072c2-c399-4259-a4fb-93b1276d931a

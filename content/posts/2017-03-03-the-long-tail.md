@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The Long Tail: Why the Future Is Selling Less of More"
-date: 2017-03-03 00:00:00 -0400
+date: 2017-03-03 00:00:00 -0500
 category: review
 tags: [book, did-not-finish]
 uid: e43717a5-f356-4ba4-acf5-5a3d61b9a1ec

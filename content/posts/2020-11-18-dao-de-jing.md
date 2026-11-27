@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Dao De Jing: The United Version"
-date: 2020-11-18 00:00:00 -0400
+date: 2020-11-18 00:00:00 -0500
 category: review
 tags: [book]
 uid: 8e99fd54-0624-4985-b0f8-ba670c98b9d3

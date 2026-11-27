@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on A Whole New Mind: Why Right-Brainers Will Rule the Future"
-date: 2016-03-08 00:00:00 -0400
+date: 2016-03-08 00:00:00 -0500
 category: review
 tags: [book, business]
 uid: a2166ca1-36dd-49d2-848e-a67222e5e5f3

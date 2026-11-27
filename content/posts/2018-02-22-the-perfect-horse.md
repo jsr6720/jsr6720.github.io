@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The Perfect Horse: the Daring U.S. Mission to Rescue the Priceless Stallions Kidnapped by the Nazis"
-date: 2018-02-22 00:00:00 -0400
+date: 2018-02-22 00:00:00 -0500
 category: review
 tags: [book, did-not-finish]
 uid: 096e4eee-bb5c-4158-86ee-e06bcfd0ff71

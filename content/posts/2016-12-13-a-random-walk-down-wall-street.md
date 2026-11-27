@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing"
-date: 2016-12-13 00:00:00 -0400
+date: 2016-12-13 00:00:00 -0500
 category: review
 tags: [book, business, read-again]
 uid: cb7787ad-0377-4c5d-9333-84d4a8af0415

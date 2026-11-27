@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Porting DATE_TO_CHAR function to PostgreSQL"
-date:  "2011-07-11 00:00:00 -0400"
+date: 2011-07-11 00:00:00 -0400
 category: engineering
 tags: ["2011", txcowboycoder, 4D, PostgreSQL]
 uid: 1e08d968-2bf0-4447-b115-825c7231f14e

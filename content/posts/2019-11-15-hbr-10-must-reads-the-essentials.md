@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on HBR's 10 Must Reads: The Essentials"
-date: 2019-11-15 00:00:00 -0400
+date: 2019-11-15 00:00:00 -0500
 category: review
 tags: [book, business]
 uid: 30c09f41-aa37-4633-814f-c82168c2d6f0

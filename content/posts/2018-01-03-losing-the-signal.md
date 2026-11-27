@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry"
-date: 2018-01-03 00:00:00 -0400
+date: 2018-01-03 00:00:00 -0500
 category: review
 tags: [book, business]
 uid: e145026e-41e7-4732-9051-9ead0f3ea735

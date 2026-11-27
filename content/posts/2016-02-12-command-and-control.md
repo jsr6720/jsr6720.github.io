@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Command and Control: Great Military Leaders from Washington to the Twenty-First Century"
-date: 2016-02-12 00:00:00 -0400
+date: 2016-02-12 00:00:00 -0500
 category: review
 tags: [book, history]
 uid: 3687ac96-ea04-4944-bfd2-111d388ffa42

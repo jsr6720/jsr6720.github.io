@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Think and Grow Rich"
-date: 2016-02-05 00:00:00 -0400
+date: 2016-02-05 00:00:00 -0500
 category: review
 tags: [book, read-again, personal-development]
 uid: 067a617f-ba04-4765-b5df-50429af52df2

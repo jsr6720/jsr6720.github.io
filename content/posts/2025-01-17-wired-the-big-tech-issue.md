@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on WIRED Jan/Feb 2025, The Big Tech Issue"
-date: "2025-01-17 22:27:49 -0500"
+date: 2025-01-17 22:27:49 -0500
 category: review
 tags: [periodical, nonfiction, leadership]
 uid: 6E76FAA2-700B-43FC-8AC0-17024CC96131

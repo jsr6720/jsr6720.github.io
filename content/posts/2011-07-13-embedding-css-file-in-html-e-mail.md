@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Embedding CSS file in html e-mail"
-date: "2011-07-13 00:00:00 -0400"
+date: 2011-07-13 00:00:00 -0400
 category: engineering
 tags: ["2011", txcowboycoder, php, css]
 uid: 78ab8410-e4b4-4c00-992e-225f525bda70

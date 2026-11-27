@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Castle of Wizardry (The Belgariad #4)"
-date: 2021-03-11 00:00:00 -0400
+date: 2021-03-11 00:00:00 -0500
 category: review
 tags: [book, fantasy, childhood-favorite]
 uid: 2b30c37e-a2cd-4e9c-b2df-2fc8d95d83cd

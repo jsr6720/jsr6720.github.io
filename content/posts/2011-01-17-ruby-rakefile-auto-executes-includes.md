@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Ruby Rakefile auto executes includes"
-date: "2011-01-17 00:00:00 -0400"
+date: 2011-01-17 00:00:00 -0500
 category: engineering
 tags: ["2011", txcowboycoder, ruby, rake]
 uid: a41da66c-b735-4380-ab0c-ec43ad759ef3

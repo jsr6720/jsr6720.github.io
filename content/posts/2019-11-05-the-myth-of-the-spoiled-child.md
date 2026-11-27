@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The Myth of the Spoiled Child: Challenging the Conventional Wisdom About Children and Parenting"
-date: 2019-11-05 00:00:00 -0400
+date: 2019-11-05 00:00:00 -0500
 category: review
 tags: [book, parenting]
 uid: 3a56e041-507b-4797-b106-0a7160a2dae6

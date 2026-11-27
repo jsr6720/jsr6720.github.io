@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Famous Journal Entries"
-date: "2025-02-19 21:12:28 -0500"
+date: 2025-02-19 21:12:28 -0500
 category: personal
 tags: [writing]
 uid: C518ED2F-8F63-4289-9AFD-0D9CD80EC2A1

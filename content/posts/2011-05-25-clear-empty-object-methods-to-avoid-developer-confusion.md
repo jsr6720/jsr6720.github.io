@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Clear empty object methods to avoid developer confusion"
-date: "2011-05-25 00:00:00 -0400"
+date: 2011-05-25 00:00:00 -0400
 category: engineering
 tags: ["2011", txcowboycoder, 4D]
 uid: 21461fef-1de8-43e1-a9be-e1e0e9f4d8d9

@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on David and Goliath: The Triumph of the Underdog"
-date: 2018-01-12 00:00:00 -0400
+date: 2018-01-12 00:00:00 -0500
 category: review
 tags: [book, economics, psychology]
 uid: e57c4a0a-2fc6-4d84-baa0-b654fb950ac5

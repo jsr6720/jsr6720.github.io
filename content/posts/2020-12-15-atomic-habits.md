@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
-date: 2020-12-15 00:00:00 -0400
+date: 2020-12-15 00:00:00 -0500
 category: review
 tags: [book, business, leadership, personal-development]
 uid: 4917ffb9-cd0b-45cb-a335-fe0705bce47f

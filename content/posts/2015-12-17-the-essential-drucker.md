@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The Essential Drucker"
-date: 2015-12-17 00:00:00 -0400
+date: 2015-12-17 00:00:00 -0500
 category: review
 tags: [book, business, read-again]
 uid: a97c3f48-3b47-48b7-a341-1a9038faf0cc

@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Private Empire: ExxonMobil and American Power"
-date: 2018-12-23 00:00:00 -0400
+date: 2018-12-23 00:00:00 -0500
 category: review
 tags: [book, business]
 uid: 7ecb5c02-7ec8-432c-9507-5d146f23c880

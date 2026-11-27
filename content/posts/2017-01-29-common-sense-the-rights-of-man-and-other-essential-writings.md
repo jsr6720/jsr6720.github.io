@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Common Sense, The Rights of Man and Other Essential Writings"
-date: 2017-01-29 00:00:00 -0400
+date: 2017-01-29 00:00:00 -0500
 category: review
 tags: [book, history, classics]
 uid: fa4e3fd4-b143-4372-837a-0455a963ea1b

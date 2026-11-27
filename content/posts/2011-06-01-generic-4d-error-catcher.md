@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Generic 4D error catcher"
-date: "2011-06-01 00:00:00 -0400"
+date: 2011-06-01 00:00:00 -0400
 category: engineering
 tags: ["2011", txcowboycoder, 4D]
 uid: 50bc216f-26a9-49ae-b239-11760d972acd

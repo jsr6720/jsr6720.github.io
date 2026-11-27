@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Beyond Entrepreneurship: Turning Your Business into an Enduring Great Company"
-date: 2021-02-06 00:00:00 -0400
+date: 2021-02-06 00:00:00 -0500
 category: review
 tags: [book, business, management]
 uid: f1069e63-761e-43ee-a0c8-7da421c3db2f

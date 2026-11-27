@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "4D Full variable introspection in debugger window"
-date: "2011-01-23 00:00:00 -0400"
+date: 2011-01-23 00:00:00 -0500
 category: engineering
 tags: ["2011", txcowboycoder, 4D]
 uid: 1f4524d9-1cf9-4d04-bf77-221e790256fb

@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on How to Talk so Kids Will Listen...And Listen So Kids Will Talk"
-date: 2017-01-23 00:00:00 -0400
+date: 2017-01-23 00:00:00 -0500
 category: review
 tags: [book]
 uid: 63e477a5-fe3c-4270-98a6-2a10e8fa6ac0

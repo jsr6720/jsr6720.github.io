@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Thinking, Fast and Slow"
-date: 2015-11-06 00:00:00 -0400
+date: 2015-11-06 00:00:00 -0500
 category: review
 tags: [book, psychology, read-again]
 uid: d3baf2cb-820c-4b84-b4d8-fb0f206f6d65

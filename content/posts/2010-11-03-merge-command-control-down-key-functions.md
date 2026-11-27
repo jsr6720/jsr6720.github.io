@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Merge command/control down key functions"
-date: "2010-11-03 00:00:00 -0400"
+date: 2010-11-03 00:00:00 -0400
 category: engineering
 tags: ["2010", txcowboycoder, 4D]
 uid: e4007da7-5a11-4aaa-922e-c95058a3d520

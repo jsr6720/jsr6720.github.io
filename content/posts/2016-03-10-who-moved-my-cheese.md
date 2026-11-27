@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Who Moved My Cheese"
-date: 2016-03-10 00:00:00 -0400
+date: 2016-03-10 00:00:00 -0500
 category: review
 tags: [book, business, read-again]
 uid: 7377e817-3ea0-4ce4-a6c7-d18d87c2b5bf

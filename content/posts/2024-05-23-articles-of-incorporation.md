@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Articles of Incorporation"
-date: "2024-05-23 12:00:00 -0400"
+date: 2024-05-23 12:00:00 -0400
 category: personal
 tags: [anecdote]
 uid: 67529DC1-EFBB-47CD-82A8-B11ADCC0DC0E

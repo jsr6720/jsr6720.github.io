@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The Everything Store: Jeff Bezos and the Age of Amazon"
-date: 2019-02-19 00:00:00 -0400
+date: 2019-02-19 00:00:00 -0500
 category: review
 tags: [book, business, biography]
 uid: 74e45e36-e2d8-4b2e-9dcc-20ec4a9d765b

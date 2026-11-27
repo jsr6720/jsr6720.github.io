@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Magician's Gambit (The Belgariad #3)"
-date: 2021-03-07 00:00:00 -0400
+date: 2021-03-07 00:00:00 -0500
 category: review
 tags: [book, fantasy, childhood-favorite]
 uid: 44bc9790-0351-43c2-ae04-327e7c24564b

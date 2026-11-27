@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Bringing Up Boys"
-date: 2017-02-20 00:00:00 -0400
+date: 2017-02-20 00:00:00 -0500
 category: review
 tags: [book, did-not-finish]
 uid: 671613b1-3129-4608-91e2-bdc9e342297a

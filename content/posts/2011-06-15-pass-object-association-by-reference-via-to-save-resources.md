@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Pass object association by reference via & to save resources"
-date: "2011-06-15 00:00:00 -0400"
+date: 2011-06-15 00:00:00 -0400
 category: engineering
 tags: ["2011", txcowboycoder, php]
 uid: d4ca8905-7fab-443e-97b8-9873975dde9c

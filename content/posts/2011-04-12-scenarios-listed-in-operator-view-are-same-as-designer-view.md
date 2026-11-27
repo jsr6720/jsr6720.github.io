@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Scenarios listed in Operator view are same as Designer view"
-date: "2011-04-12 00:00:00 -0400"
+date: 2011-04-12 00:00:00 -0400
 category: engineering
 tags: ["2011", txcowboycoder, odi, oracle]
 uid: e0e6fcdd-d512-4437-99c8-14a7fe820c66

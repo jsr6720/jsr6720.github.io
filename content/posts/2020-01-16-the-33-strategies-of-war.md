@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The 33 Strategies of War"
-date: 2020-01-16 00:00:00 -0400
+date: 2020-01-16 00:00:00 -0500
 category: review
 tags: [book]
 uid: 6bf75a10-9b71-4271-8b34-33d9de29e75d

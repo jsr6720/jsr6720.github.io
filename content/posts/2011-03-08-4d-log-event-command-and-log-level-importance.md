@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "4D Log Event command and log level importance"
-date: "2011-03-08 00:00:00 -0400"
+date: 2011-03-08 00:00:00 -0500
 category: engineering
 tags: ["2011", txcowboycoder, 4D]
 uid: 19636f63-63fc-4d92-b336-0fe3530a3b2c

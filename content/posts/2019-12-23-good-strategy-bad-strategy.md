@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Good Strategy/Bad Strategy: The Difference and Why It Matters"
-date: 2019-12-23 00:00:00 -0400
+date: 2019-12-23 00:00:00 -0500
 category: review
 tags: [book, did-not-finish]
 uid: aac928d7-2605-440f-a968-8150403bed0c

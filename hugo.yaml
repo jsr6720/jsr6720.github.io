@@ -2,6 +2,7 @@
 # so canonical/og/feed URLs always point at www.jsrowe.com.
 baseURL: "https://www.jsrowe.com/"
 languageCode: en-us
+timeZone: America/New_York # all post dates are Eastern
 title: "James' Thoughts"
 capitalizeListTitles: false # tag pages show tags as written: "book", not "Book"
 theme: jsrowe

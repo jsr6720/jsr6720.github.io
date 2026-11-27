@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "ChatGPT-4o Initial impressions on latest model (with citations)"
-date: "2024-05-15 00:48:56 -0400"
+date: 2024-05-15 00:48:56 -0400
 category: engineering
 tags: [ai, llm, chatgpt]
 uid: F3A05744-A899-4349-AB7F-121CE6A970BE

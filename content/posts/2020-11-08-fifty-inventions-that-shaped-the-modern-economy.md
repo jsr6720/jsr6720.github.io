@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Fifty Inventions That Shaped the Modern Economy"
-date: 2020-11-08 00:00:00 -0400
+date: 2020-11-08 00:00:00 -0500
 category: review
 tags: [book]
 uid: 84961761-6708-4e77-9163-236b746be691

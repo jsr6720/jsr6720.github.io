@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Compiler warning on possible loss of precision"
-date: "2011-04-25 00:00:00 -0400"
+date: 2011-04-25 00:00:00 -0400
 category: engineering
 tags: ["2011", txcowboycoder, 4D]
 uid: 276ac24a-6b38-40ae-810d-9199ad51c29e

@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Marriage Rules: A Manual for the Married and the Coupled Up"
-date: 2016-11-09 00:00:00 -0400
+date: 2016-11-09 00:00:00 -0500
 category: review
 tags: [book, personal-development, read-again]
 uid: 4516b860-525e-4cb9-8178-1242cf4ad691

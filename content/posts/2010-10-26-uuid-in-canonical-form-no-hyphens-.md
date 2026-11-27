@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "UUID in canonical form (no hyphens)"
-date: "2010-10-26 00:00:00 -0400"
+date: 2010-10-26 00:00:00 -0400
 category: engineering
 tags: ["2010", txcowboycoder, 4D]
 uid: fd5cfb88-fea7-4a9b-a9ca-3a5b470fa8fa

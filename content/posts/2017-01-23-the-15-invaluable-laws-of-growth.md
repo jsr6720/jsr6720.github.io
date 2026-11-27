@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The 15 Invaluable Laws of Growth: Live Them and Reach Your Potential"
-date: 2017-01-23 00:00:00 -0400
+date: 2017-01-23 00:00:00 -0500
 category: review
 tags: [book, personal-development, read-again]
 uid: 5c70077a-4ef2-4e0b-bb62-cc9f116f056a

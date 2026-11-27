@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Death by Meeting: A Leadership Fable"
-date: 2015-12-22 00:00:00 -0400
+date: 2015-12-22 00:00:00 -0500
 category: review
 tags: [book, business]
 uid: 83c7845b-5874-42a5-9858-3aeb7bbbbe96

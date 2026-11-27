@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Raising Men: Lessons Navy SEALs Learned from Their Training and Taught to Their Sons"
-date: 2019-11-05 00:00:00 -0400
+date: 2019-11-05 00:00:00 -0500
 category: review
 tags: [book, did-not-finish]
 uid: 32a91311-40ef-4644-9dcc-a1ee3b99e06f

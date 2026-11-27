@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "flex 4 compile error “‘mxmlContent’ must be contiguous”"
-date: "2010-04-13 00:00:00 -0400"
+date: 2010-04-13 00:00:00 -0400
 category: engineering
 tags: ["2010", txcowboycoder, apache-flex]
 uid: 1009bb0f-2826-4762-ac77-f89c4bb994f4

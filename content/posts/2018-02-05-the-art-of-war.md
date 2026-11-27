@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The Art of War"
-date: 2018-02-05 00:00:00 -0400
+date: 2018-02-05 00:00:00 -0500
 category: review
 tags: [book, classics, history]
 uid: 57948dd6-e87b-47fa-a068-67beb43e0676

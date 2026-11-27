@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Change Anything: The New Science of Personal Success"
-date: 2019-02-05 00:00:00 -0400
+date: 2019-02-05 00:00:00 -0500
 category: review
 tags: [book]
 uid: 88534ee2-9baa-4f42-9970-c609d720f56d

@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The Book of Five Rings"
-date: 2020-02-20 00:00:00 -0400
+date: 2020-02-20 00:00:00 -0500
 category: review
 tags: [book, history]
 uid: dc83ffc0-afed-4633-9089-f1adb6be9ddb

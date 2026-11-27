@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on If You Give a Mouse a Cookie"
-date: "2024-05-27 00:21:19 -0400"
+date: 2024-05-27 00:21:19 -0400
 category: review
 tags: [book, childhood-favorite]
 uid: 6DEDF293-4120-4BD2-A7A4-6546297A422A

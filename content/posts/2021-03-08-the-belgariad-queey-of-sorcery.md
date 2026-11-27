@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Queen of Sorcery (The Belgariad #2)"
-date: 2021-03-08 00:00:00 -0400
+date: 2021-03-08 00:00:00 -0500
 category: review
 tags: [book, fantasy, childhood-favorite]
 uid: d7e5d14b-c0c4-40ae-9e43-c2f1638af28e

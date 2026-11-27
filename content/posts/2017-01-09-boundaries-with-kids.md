@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Boundaries with Kids: When to Say Yes, When to Say No, to Help Your Children Gain Control of Their Lives"
-date: 2017-01-09 00:00:00 -0400
+date: 2017-01-09 00:00:00 -0500
 category: review
 tags: [book, personal-development, parenting]
 uid: 6b522e38-bc64-48e1-bb6f-d7b11cf2cc98

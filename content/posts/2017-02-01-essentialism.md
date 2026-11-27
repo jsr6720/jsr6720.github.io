@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Essentialism: The Disciplined Pursuit of Less"
-date: 2017-02-01 00:00:00 -0400
+date: 2017-02-01 00:00:00 -0500
 category: review
 tags: [book, personal-development, did-not-finish]
 uid: d99a5904-2730-4b68-bdf5-5d724c09cb49

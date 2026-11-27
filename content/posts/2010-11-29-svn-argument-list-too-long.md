@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "svn: Argument list too long"
-date: "2010-11-29 00:00:00 -0400"
+date: 2010-11-29 00:00:00 -0500
 category: engineering
 tags: ["2010", txcowboycoder, svn]
 uid: d68e181d-e47f-4a38-872e-720281b57ebf

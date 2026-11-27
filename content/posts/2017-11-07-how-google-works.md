@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on How Google Works"
-date: 2017-11-07 00:00:00 -0400
+date: 2017-11-07 00:00:00 -0500
 category: review
 tags: [book, business]
 uid: f0108b73-5c65-4e0b-9597-4ca03952fa22

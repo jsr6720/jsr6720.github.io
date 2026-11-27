@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The Danish Way of Parenting: What the Happiest People in the World Know About Raising Confident, Capable Kids"
-date: 2018-12-14 00:00:00 -0400
+date: 2018-12-14 00:00:00 -0500
 category: review
 tags: [book, parenting]
 uid: 6ed7b9de-713e-4bda-9a2f-f0fa65542cf5

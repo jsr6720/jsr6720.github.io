@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The Wright Brothers"
-date: 2020-02-20 00:00:00 -0400
+date: 2020-02-20 00:00:00 -0500
 category: review
 tags: [book, biography, history]
 uid: 18c6acde-b8fe-48f0-9357-b0c619cd0d50

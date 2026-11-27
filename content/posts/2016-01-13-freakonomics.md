@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Freakonomics: A Rogue Economist Explores the Hidden Side of Everything"
-date: 2016-01-13 00:00:00 -0400
+date: 2016-01-13 00:00:00 -0500
 category: review
 tags: [book, economics]
 uid: 7385eee5-7d8f-40b6-b7c8-da9858af80aa

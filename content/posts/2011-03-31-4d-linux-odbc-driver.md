@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "4D Linux ODBC Driver"
-date: "2011-03-31 00:00:00 -0400"
+date: 2011-03-31 00:00:00 -0400
 category: engineering
 tags: ["2011", txcowboycoder, 4D]
 uid: c54f90be-d857-4c66-bd13-7f52dd2ba918

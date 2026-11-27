@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Pawn of Prophecy (The Belgariad, #1)"
-date: 2021-03-04 00:00:00 -0400
+date: 2021-03-04 00:00:00 -0500
 category: review
 tags: [book, childhood-favorite, fantasy]
 uid: 4b8c210d-e186-48a9-96c7-8d6b68c51ad5

@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Define constants without a plugin"
-date: "2010-11-18 00:00:00 -0400"
+date: 2010-11-18 00:00:00 -0500
 category: engineering
 tags: ["2010", txcowboycoder, 4D]
 uid: 4449bff8-af9c-487a-bf26-dae642b49018

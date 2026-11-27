@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The First Billion Is the Hardest: Reflections on a Life of Comebacks and America's Energy Future"
-date: 2019-11-22 00:00:00 -0400
+date: 2019-11-22 00:00:00 -0500
 category: review
 tags: [book, biography]
 uid: d87ecab8-c180-4f97-8aa7-241bd082b468

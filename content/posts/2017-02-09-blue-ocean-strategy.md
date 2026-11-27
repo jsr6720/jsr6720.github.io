@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant"
-date: 2017-02-09 00:00:00 -0400
+date: 2017-02-09 00:00:00 -0500
 category: review
 tags: [book, business]
 uid: 44b33cc8-a209-4a03-b4c1-1ca12d95e067

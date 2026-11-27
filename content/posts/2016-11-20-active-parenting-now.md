@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Active Parenting Now"
-date: 2016-11-20 00:00:00 -0400
+date: 2016-11-20 00:00:00 -0500
 category: review
 tags: [book, read-again, parenting]
 uid: 795eb7cd-b8bb-47a8-bc3f-0db74582ca3c

@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Endurance: Shackleton's Incredible Voyage"
-date: 2018-01-25 00:00:00 -0400
+date: 2018-01-25 00:00:00 -0500
 category: review
 tags: [book, history]
 uid: 5af92feb-93a4-4e02-bac9-3b3e4ab68f0b

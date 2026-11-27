@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title:  "Modified({fieldname}) no longer works"
-date:   "2014-03-28 00:00:00 -0400"
+date: 2014-03-28 00:00:00 -0400
 category: engineering
 tags: ["2014", txcowboycoder, 4D]
 uid: edb36778-ffa9-4a5d-af4b-c0c5c5f0db75

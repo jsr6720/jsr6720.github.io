@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Just One Thing: Developing a Buddha Brain One Simple Practice at a Time"
-date: 2021-02-19 00:00:00 -0400
+date: 2021-02-19 00:00:00 -0500
 category: review
 tags: [book, personal-development, philosophy]
 uid: 924a2b7c-9768-4971-859e-c388d754b164

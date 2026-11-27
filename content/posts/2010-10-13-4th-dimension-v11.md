@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "4th Dimension v11"
-date: "2010-10-13 00:00:00 -0400"
+date: 2010-10-13 00:00:00 -0400
 category: engineering
 tags: ["2010", txcowboycoder, 4D]
 uid: 8a8ebfc7-90f2-4337-92bd-2dfd8b066914

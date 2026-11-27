@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on First Bite: How We Learn to Eat"
-date: 2018-11-14 00:00:00 -0400
+date: 2018-11-14 00:00:00 -0500
 category: review
 tags: [book, personal-development, psychology, food]
 uid: 508324c5-9beb-497f-bef5-a9337ef3327d

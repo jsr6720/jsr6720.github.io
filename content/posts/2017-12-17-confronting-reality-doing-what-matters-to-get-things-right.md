@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Confronting Reality Doing What Matters to Get Things Right"
-date: 2017-12-17 00:00:00 -0400
+date: 2017-12-17 00:00:00 -0500
 category: review
 tags: [book, business]
 uid: dc639b01-5438-49db-8447-d3b2b1087689

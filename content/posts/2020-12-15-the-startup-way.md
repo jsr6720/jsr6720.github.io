@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth"
-date: 2020-12-15 00:00:00 -0400
+date: 2020-12-15 00:00:00 -0500
 category: review
 tags: [book, business, management]
 uid: 116d7e63-84a0-444a-93f0-78a4e774fdf5

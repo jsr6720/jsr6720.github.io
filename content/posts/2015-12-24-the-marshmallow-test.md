@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The Marshmallow Test: Mastering Self-Control"
-date: 2015-12-24 00:00:00 -0400
+date: 2015-12-24 00:00:00 -0500
 category: review
 tags: [book, psychology]
 uid: 183c85d1-3b88-474c-9ecf-e0c097be4d31

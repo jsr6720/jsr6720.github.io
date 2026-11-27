@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Washington's Farewell: The Founding Father's Warning to Future Generations"
-date: 2020-01-21 00:00:00 -0400
+date: 2020-01-21 00:00:00 -0500
 category: review
 tags: [book, leadership, history]
 uid: 62d2e521-6f08-495f-807b-6da7602ff43e

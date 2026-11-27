@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time"
-date: 2016-03-03 00:00:00 -0400
+date: 2016-03-03 00:00:00 -0500
 category: review
 tags: [book, personal-development, read-again]
 uid: ea871ee1-79f6-4570-a862-5f37d9bbac05

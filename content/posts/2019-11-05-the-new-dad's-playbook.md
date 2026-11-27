@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The New Dad's Playbook: Gearing Up for the Biggest Game of Your Life"
-date: 2019-11-05 00:00:00 -0400
+date: 2019-11-05 00:00:00 -0500
 category: review
 tags: [book, did-not-finish]
 uid: 02c2add6-5fc1-4fcb-8d41-56efbcf31782

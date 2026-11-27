@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Slider bar for zoom level"
-date: "2011-04-28 00:00:00 -0400"
+date: 2011-04-28 00:00:00 -0400
 category: review
 tags: ["2011", txcowboycoder, 4D]
 uid: fd8d1bfe-6d9d-452a-be65-153873ffe668

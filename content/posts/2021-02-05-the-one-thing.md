@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results"
-date: 2021-02-05 00:00:00 -0400
+date: 2021-02-05 00:00:00 -0500
 category: review
 tags: [book, business, personal-development]
 uid: cacb4af0-2d3d-4acb-a06d-ee160352a463

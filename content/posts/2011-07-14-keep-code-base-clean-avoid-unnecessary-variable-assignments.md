@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Keep code base clean – avoid unnecessary variable assignments"
-date: "2011-07-14 00:00:00 -0400"
+date: 2011-07-14 00:00:00 -0400
 category: engineering
 tags: ["2011", txcowboycoder, php]
 uid: 9d8cfa52-f8f0-418e-b704-a978d1401aea

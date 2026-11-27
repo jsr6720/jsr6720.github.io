@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "MySQL Stored Routines"
-date: "2010-04-08 00:00:00 -0400"
+date: 2010-04-08 00:00:00 -0400
 category: engineering
 tags: ["2010", txcowboycoder, mysql, rtfm]
 uid: b6d11654-9c5d-4786-98de-ca3e2894ef96

@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "4D text interpolation"
-date: "2011-03-11 00:00:00 -0400"
+date: 2011-03-11 00:00:00 -0500
 category: engineering
 tags: ["2011", txcowboycoder, 4D]
 uid: d803522f-377e-4ade-8988-a2027f0a9da6

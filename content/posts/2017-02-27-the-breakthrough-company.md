@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The Breakthrough Company: How Everyday Companies Become Extraordinary Performers"
-date: 2017-02-27 00:00:00 -0400
+date: 2017-02-27 00:00:00 -0500
 category: review
 tags: [book, business]
 uid: 79556ec2-d249-47f1-a7da-54f5aa2215ed

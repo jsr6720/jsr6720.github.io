@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Java string comparison"
-date: "2011-05-23 00:00:00 -0400"
+date: 2011-05-23 00:00:00 -0400
 category: engineering
 tags: ["2011", txcowboycoder, java]
 uid: 73d73f93-b9a7-4baf-80eb-a00724b0262c

@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Using Redmine as a help desk"
-date: "2011-04-06 00:00:00 -0400"
+date: 2011-04-06 00:00:00 -0400
 category: review
 tags: ["2011", txcowboycoder, redmine]
 uid: 8e771049-77d5-4aa9-a81a-26afd91dd3c8

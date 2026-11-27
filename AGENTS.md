@@ -58,6 +58,9 @@ cd tests && npm ci && npx playwright install chromium
 SITE_DIR=../public npx playwright test
 ```
 
+- `tests/templates.spec.ts` has one check per template in `themes/jsrowe/layouts`. Adding, renaming or deleting a template fails the suite until `TEMPLATES` there is updated, so a new template ships with its test.
+- `tests/content.spec.ts` checks post front matter.
+
 Run them before opening a PR. If a test fails, fix the site, not the test.
 
 When a page's URL changes, add `aliases: ["/old/"]` to its front matter and list it in `tests/redirects.json` (`{ "from": "/old/", "to": "/new/" }`).
@@ -76,6 +79,7 @@ When a page's URL changes, add `aliases: ["/old/"]` to its front matter and list
 - Filename `YYYY-MM-DD-slug.md`; the URL is `/slug/` from the `slug:` front matter. Hugo strips `'` and `,` from URLs and lowercases them.
 - Front matter: `author`, `title`, `date` (`date "+%Y-%m-%d %H:%M:%S %z"`), `category`, `tags` (a list), `uid`, `slug`. Optional: `toc: true`, `images: [...]` (social preview), `description`, `aliases`, `draft`. No `layout`. `tests/content.spec.ts` enforces this, including typo'd keys.
 - The filename date must match `date:`. When publishing a draft on a later day, update both.
+- All dates are US Eastern (`timeZone: America/New_York`): `-0400` in summer, `-0500` in winter. `date "+%Y-%m-%d %H:%M:%S %z"` on my machine gets it right; the test checks.
 - `category` is one of `review` (books), `engineering`, `personal`.
 - Book tags follow Goodreads shelves; see README.
 - End with `### Significant Revisions` (newest first, e.g. `- Nov 26th, 2026 Originally published on [https://www.jsrowe.com](https://www.jsrowe.com) with uid …`) and `### Footnotes`. These are plain text; content files can't use template code.

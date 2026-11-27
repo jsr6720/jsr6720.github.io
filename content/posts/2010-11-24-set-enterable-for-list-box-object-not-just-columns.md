@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Set enterable for list box object not just columns"
-date: "2010-11-24 00:00:00 -0400"
+date: 2010-11-24 00:00:00 -0500
 category: engineering
 tags: ["2010", txcowboycoder, 4D]
 uid: f8afa7e4-f965-4df1-bc85-3ec869ba79c7

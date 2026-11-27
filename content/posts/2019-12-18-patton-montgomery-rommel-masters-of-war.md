@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Patton, Montgomery, Rommel: Masters of War"
-date: 2019-12-18 00:00:00 -0400
+date: 2019-12-18 00:00:00 -0500
 category: review
 tags: [book, history, leadership]
 uid: bb709571-d08a-4dc2-b093-0b4b69ddef64

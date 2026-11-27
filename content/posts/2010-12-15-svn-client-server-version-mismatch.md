@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "SVN client/server version mismatch"
-date: "2010-12-15 00:00:00 -0400"
+date: 2010-12-15 00:00:00 -0500
 category: engineering
 tags: ["2010", txcowboycoder, svn]
 uid: 57569740-577a-4bb1-a776-9c9fa4dcbfa5

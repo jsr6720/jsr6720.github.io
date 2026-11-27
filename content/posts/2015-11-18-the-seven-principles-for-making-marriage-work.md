@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The Seven Principles for Making Marriage Work: A Practical Guide from the Country's Foremost Relationship Expert"
-date: 2015-11-18 00:00:00 -0400
+date: 2015-11-18 00:00:00 -0500
 category: review
 tags: [book, psychology, read-again]
 uid: 186a7968-abdd-412e-9422-6a6f9bffef7e

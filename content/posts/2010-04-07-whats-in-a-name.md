@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "What’s in a name?"
-date: "2010-04-07 00:00:00 -0400"
+date: 2010-04-07 00:00:00 -0400
 category: personal
 tags: ["2010", txcowboycoder]
 uid: e3087b41-5c72-448c-a8b2-5196bcb8e7f3

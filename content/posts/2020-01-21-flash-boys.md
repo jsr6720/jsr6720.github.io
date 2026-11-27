@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on Flash Boys"
-date: 2020-01-21 00:00:00 -0400
+date: 2020-01-21 00:00:00 -0500
 category: review
 tags: [book, did-not-finish]
 uid: 91fc0c69-64ec-459a-91cc-bfe0be0c1b78

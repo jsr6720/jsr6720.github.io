@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Creating fields via SQL vs creating fields via structure editor"
-date: "2011-06-08 00:00:00 -0400"
+date: 2011-06-08 00:00:00 -0400
 category: engineering
 tags: ["2011", txcowboycoder, 4D]
 uid: ad4eb2d7-2abc-4ec5-a8ea-2f7722054fb4

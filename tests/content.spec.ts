@@ -56,6 +56,29 @@ test('date is "YYYY-MM-DD HH:MM:SS -0400" and matches the filename', () => {
   ).toEqual([]);
 });
 
+test('date offset is Eastern time for that date (-0400 in summer, -0500 in winter)', () => {
+  const easternOffset = (date: string) => {
+    // the instant the date names, shown in New York: offset and wall time must both match
+    const instant = new Date(date.replace(' ', 'T').replace(/ ([+-]\d{2})(\d{2})$/, '$1:$2'));
+    const parts = new Intl.DateTimeFormat('en-US', {
+      timeZone: 'America/New_York', timeZoneName: 'shortOffset', hourCycle: 'h23',
+      year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', second: '2-digit',
+    }).formatToParts(instant);
+    const get = (type: string) => parts.find((p) => p.type === type)!.value;
+    const off = get('timeZoneName').replace('GMT', ''); // e.g. "-4"
+    const sign = off.startsWith('+') ? '+' : '-';
+    const hours = String(Math.abs(parseInt(off, 10))).padStart(2, '0');
+    return `${get('year')}-${get('month')}-${get('day')} ${get('hour')}:${get('minute')}:${get('second')} ${sign}${hours}00`;
+  };
+  expect(
+    problems(({ data }) => {
+      if (!/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2} [+-]\d{4}$/.test(data.date)) return false; // format test reports it
+      const eastern = easternOffset(data.date);
+      return eastern !== data.date && `date ${data.date}; in Eastern time that's ${eastern}`;
+    }),
+  ).toEqual([]);
+});
+
 test(`category is one of ${CATEGORIES.join(', ')}`, () => {
   expect(problems(({ data }) => !CATEGORIES.includes(data.category) && `category ${JSON.stringify(data.category)}`)).toEqual([]);
 });

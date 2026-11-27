@@ -1,7 +1,7 @@
 ---
 author: James Rowe
 title: "Quick Thoughts on The Millionaire Next Door: The Surprising Secrets of Americas Wealthy"
-date: 2016-01-27 00:00:00 -0400
+date: 2016-01-27 00:00:00 -0500
 category: review
 tags: [book, business]
 uid: 18ed361a-3973-4f2c-abdc-acb7b3b850d8
