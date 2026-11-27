@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Common Sense, The Rights of Man and Other Essential Writings"
 date: 2017-01-29 00:00:00 -0400

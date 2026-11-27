@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The American Revolution"
 date: 2015-08-28 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Body Fat Solution: 5 Principles for Burning Fat, Building Lean Muscle, Ending Emotional Eating, and Maintaining Your Perfect Weight"
 date: 2016-07-13 00:00:00 -0400

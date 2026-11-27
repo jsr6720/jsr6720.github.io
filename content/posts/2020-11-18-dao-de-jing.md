@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Dao De Jing: The United Version"
 date: 2020-11-18 00:00:00 -0400

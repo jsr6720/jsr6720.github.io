@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Willpower: Rediscovering the Greatest Human Strength"
 date: 2021-04-11 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Use 4D header macro to identify code blocks"
 date: "2011-06-02 00:00:00 -0400"

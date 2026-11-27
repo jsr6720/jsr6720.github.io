@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "My favorite xkcd comics"
 date: 2024-04-16 00:58:06 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Allow NULL values in 4DB engine"
 date: "2011-06-07 00:00:00 -0400"

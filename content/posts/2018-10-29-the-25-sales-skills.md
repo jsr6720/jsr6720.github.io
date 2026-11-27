@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The 25 Sales Skills: They Don't Teach at Business School"
 date: 2018-10-29 00:00:00 -0400

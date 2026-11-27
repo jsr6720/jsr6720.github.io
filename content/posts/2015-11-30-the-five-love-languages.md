@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Five Love Languages: The Secret to Love that Lasts"
 date: 2015-11-30 00:00:00 -0400

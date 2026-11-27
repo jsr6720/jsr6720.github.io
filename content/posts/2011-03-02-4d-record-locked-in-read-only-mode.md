@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "4D record locked in read only mode"
 date: "2011-03-02 00:00:00 -0400"

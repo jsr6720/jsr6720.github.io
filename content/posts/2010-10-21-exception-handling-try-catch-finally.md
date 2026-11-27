@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Exception handling – try/catch/finally"
 date: "2010-10-21 00:00:00 -0400"

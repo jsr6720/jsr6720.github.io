@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Define constants without a plugin"
 date: "2010-11-18 00:00:00 -0400"

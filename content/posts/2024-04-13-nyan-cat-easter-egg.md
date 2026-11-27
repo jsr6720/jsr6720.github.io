@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Nyan cat easter egg"
 date: 2024-04-13 00:48:43 -0400

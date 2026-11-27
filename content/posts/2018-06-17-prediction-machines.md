@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Prediction Machines: The Simple Economics of Artificial Intelligence"
 date: 2018-06-17 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The New Dad's Playbook: Gearing Up for the Biggest Game of Your Life"
 date: 2019-11-05 00:00:00 -0400

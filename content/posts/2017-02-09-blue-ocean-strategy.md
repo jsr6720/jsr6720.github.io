@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant"
 date: 2017-02-09 00:00:00 -0400

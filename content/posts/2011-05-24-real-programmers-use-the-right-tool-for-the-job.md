@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Real programmers use the right tool for the job"
 date: "2011-05-24 00:00:00 -0400"

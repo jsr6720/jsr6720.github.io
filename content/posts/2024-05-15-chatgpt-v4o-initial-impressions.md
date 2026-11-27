@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "ChatGPT-4o Initial impressions on latest model (with citations)"
 date: "2024-05-15 00:48:56 -0400"

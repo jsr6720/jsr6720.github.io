@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Journaling, Why Write?"
 date: "2024-05-19 16:00:59 -0400"

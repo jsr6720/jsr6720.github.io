@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Falling Up"
 date: 2021-04-27 00:00:00 -0400

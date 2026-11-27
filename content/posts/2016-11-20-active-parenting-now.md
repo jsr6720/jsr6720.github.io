@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Active Parenting Now"
 date: 2016-11-20 00:00:00 -0400

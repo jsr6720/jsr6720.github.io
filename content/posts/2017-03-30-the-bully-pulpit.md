@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism"
 date: 2017-03-30 00:00:00 -0400

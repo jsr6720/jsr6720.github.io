@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Collaboration Begins With You: Be a Silo Buster"
 date: 2018-05-10 00:00:00 -0400

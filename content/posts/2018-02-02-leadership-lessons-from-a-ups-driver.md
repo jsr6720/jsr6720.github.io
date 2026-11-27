@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Leadership Lessons from a UPS Driver: Delivering a Culture of We, Not Me"
 date: 2018-02-02 00:00:00 -0400

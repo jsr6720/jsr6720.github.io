@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on River of Doubt"
 date: 2017-04-11 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Hello World, Jekyll"
 date: 2024-03-31 19:46:48 -0400

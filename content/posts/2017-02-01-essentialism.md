@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Essentialism: The Disciplined Pursuit of Less"
 date: 2017-02-01 00:00:00 -0400

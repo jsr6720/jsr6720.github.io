@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Epoch/Unix timestamp command"
 date: "2011-01-19 00:00:00 -0400"

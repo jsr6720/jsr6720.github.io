@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Tipping Point: How Little Things Can Make a Big Difference"
 date: 2016-06-14 00:00:00 -0400

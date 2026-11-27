@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Hot, Flat, and Crowded: Why We Need a Green Revolution and How It Can Renew America"
 date: 2017-08-03 00:00:00 -0400

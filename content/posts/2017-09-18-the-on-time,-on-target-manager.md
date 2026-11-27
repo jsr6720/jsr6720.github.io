@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The On-Time, On-Target Manager"
 date: 2017-09-18 00:00:00 -0400

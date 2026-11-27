@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Redmine versus Request Tracker"
 date: "2011-04-05 00:00:00 -0400"

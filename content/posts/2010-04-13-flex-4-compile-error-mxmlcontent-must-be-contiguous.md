@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "flex 4 compile error “‘mxmlContent’ must be contiguous”"
 date: "2010-04-13 00:00:00 -0400"

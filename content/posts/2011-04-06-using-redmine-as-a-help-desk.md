@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Using Redmine as a help desk"
 date: "2011-04-06 00:00:00 -0400"

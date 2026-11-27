@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "svn: Argument list too long"
 date: "2010-11-29 00:00:00 -0400"

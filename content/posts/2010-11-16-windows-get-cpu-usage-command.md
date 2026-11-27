@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Windows get CPU usage command"
 date: "2010-11-16 00:00:00 -0400"

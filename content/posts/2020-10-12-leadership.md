@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Leadership: In Turbulent Times"
 date: 2020-10-12 00:00:00 -0400

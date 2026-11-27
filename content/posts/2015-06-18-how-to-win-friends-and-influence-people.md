@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on How To Win Friends And Influence People"
 date: 2015-06-18 00:00:00 -0400

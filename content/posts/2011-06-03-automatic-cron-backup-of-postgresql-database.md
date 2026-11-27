@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Automatic cron backup of PostgreSQL database"
 date: "2011-06-03 00:00:00 -0400"

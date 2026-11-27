@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Daily Standup: The Status Update Trap"
 date: "2024-07-06 23:13:22 -0400"

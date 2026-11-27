@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "4D Delay Process should not accept negative numbers"
 date: "2011-03-18 00:00:00 -0400"

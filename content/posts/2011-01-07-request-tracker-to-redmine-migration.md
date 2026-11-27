@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title:  "Request Tracker to Redmine Migration"
 date:   "2011-01-07 00:00:00 -0400"

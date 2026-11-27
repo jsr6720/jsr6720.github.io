@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Rubies for the holidays"
 date: "2011-01-06 00:00:00 -0400"

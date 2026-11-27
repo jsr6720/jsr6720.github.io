@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism"
 date: 2018-09-06 00:00:00 -0400

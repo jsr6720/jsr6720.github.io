@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Toxic Parents: Overcoming Their Hurtful Legacy and Reclaiming Your Life"
 date: 2016-07-01 00:00:00 -0400

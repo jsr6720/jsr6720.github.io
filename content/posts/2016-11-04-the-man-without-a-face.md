@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Man Without a Face: The Unlikely Rise of Vladimir Putin"
 date: 2016-11-04 00:00:00 -0400

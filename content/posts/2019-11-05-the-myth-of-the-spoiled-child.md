@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Myth of the Spoiled Child: Challenging the Conventional Wisdom About Children and Parenting"
 date: 2019-11-05 00:00:00 -0400

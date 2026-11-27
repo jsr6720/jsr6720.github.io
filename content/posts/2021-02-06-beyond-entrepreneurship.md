@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Beyond Entrepreneurship: Turning Your Business into an Enduring Great Company"
 date: 2021-02-06 00:00:00 -0400

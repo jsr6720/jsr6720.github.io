@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Audacity of Hope: Thoughts on Reclaiming the American Dream"
 date: 2018-07-23 00:00:00 -0400

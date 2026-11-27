@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Reverse PostgreSQL into model with undefined data types"
 date: "2011-06-30 00:00:00 -0400"

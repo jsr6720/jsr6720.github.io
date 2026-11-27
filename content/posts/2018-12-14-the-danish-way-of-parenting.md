@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Danish Way of Parenting: What the Happiest People in the World Know About Raising Confident, Capable Kids"
 date: 2018-12-14 00:00:00 -0400

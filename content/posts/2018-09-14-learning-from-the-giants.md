@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Learning from the Giants: Life and Leadership Lessons from the Bible"
 date: 2018-09-14 00:00:00 -0400

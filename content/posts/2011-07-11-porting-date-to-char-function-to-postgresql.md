@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Porting DATE_TO_CHAR function to PostgreSQL"
 date:  "2011-07-11 00:00:00 -0400"

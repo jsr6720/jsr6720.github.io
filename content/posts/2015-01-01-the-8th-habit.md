@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The 8th Habit: From Effectiveness to Greatness"
 date: 2015-01-01 00:00:00 -0400

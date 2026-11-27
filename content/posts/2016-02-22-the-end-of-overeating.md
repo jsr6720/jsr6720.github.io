@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The End of Overeating: Taking Control of the Insatiable American Appetite"
 date: 2016-02-22 00:00:00 -0400

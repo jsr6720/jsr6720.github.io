@@ -1,8 +1,7 @@
 ---
-layout: post
 author: James Rowe
 title:  "Finding llm training data limits"
-date: "2024-05-12 22:23:30 -04:00"
+date: 2024-05-12 22:23:30 -0400
 category: engineering
 tags: [chatgpt, llm, ai]
 uid: 8EBC48B5-9AC4-422D-98CF-60B315082BDC

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Don't Think of an Elephant! Know Your Values and Frame the Debate: The Essential Guide for Progressives"
 date: 2020-09-09 00:00:00 -0400

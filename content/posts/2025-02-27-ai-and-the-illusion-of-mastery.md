@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "AI and the Illusion of Mastery: Software Engineering Skills in the Age of LLMs"
 date: 2025-02-27 22:14:50 -0500

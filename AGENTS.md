@@ -65,7 +65,7 @@ When a page's URL changes, add `aliases: ["/old/"]` to its front matter and list
 ## Layout
 
 - `content/posts/`: posts. `content/about.md`, `content/bookshelf.md`: pages. `content/feed/`: per-category feed definitions.
-- `themes/jsrowe/`: the design. `layouts/` (Hugo 0.146+ template names), `layouts/_markup/` (heading and image render hooks), `static/assets/` (CSS).
+- `themes/jsrowe/`: the design. `layouts/` (Hugo 0.146+ template names; `posts/page.html` is the post template, `page.html` the plain one for About/Bookshelf), `layouts/_markup/` (heading and image render hooks), `static/assets/` (CSS).
 - `static/`: served as-is (images, favicons, `robots.txt`).
 - `archetypes/posts.md`: new-post template.
 - `hugo.yaml`: site config.
@@ -74,7 +74,8 @@ When a page's URL changes, add `aliases: ["/old/"]` to its front matter and list
 
 - Start a post with `hugo new content content/posts/YYYY-MM-DD-slug.md`. It's created with `draft: true`, the date, slug, uid and a "Draft created" revision line. Remove `draft` to publish.
 - Filename `YYYY-MM-DD-slug.md`; the URL is `/slug/` from the `slug:` front matter. Hugo strips `'` and `,` from URLs and lowercases them.
-- Front matter: `author`, `title`, `date` (`date "+%Y-%m-%d %H:%M:%S %z"`), `category`, `tags` (a list), `uid`, `slug`. Optional: `toc: true`, `images: [...]` (social preview), `description`.
+- Front matter: `author`, `title`, `date` (`date "+%Y-%m-%d %H:%M:%S %z"`), `category`, `tags` (a list), `uid`, `slug`. Optional: `toc: true`, `images: [...]` (social preview), `description`, `aliases`, `draft`. No `layout`. `tests/content.spec.ts` enforces this, including typo'd keys.
+- The filename date must match `date:`. When publishing a draft on a later day, update both.
 - `category` is one of `review` (books), `engineering`, `personal`.
 - Book tags follow Goodreads shelves; see README.
 - End with `### Significant Revisions` (newest first, e.g. `- Nov 26th, 2026 Originally published on [https://www.jsrowe.com](https://www.jsrowe.com) with uid …`) and `### Footnotes`. These are plain text; content files can't use template code.

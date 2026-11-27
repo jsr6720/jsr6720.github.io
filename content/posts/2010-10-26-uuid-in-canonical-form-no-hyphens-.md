@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "UUID in canonical form (no hyphens)"
 date: "2010-10-26 00:00:00 -0400"

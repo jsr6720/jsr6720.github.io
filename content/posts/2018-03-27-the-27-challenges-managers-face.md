@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The 27 Challenges Managers Face: Step-by-Step Solutions to (Nearly) All of Your Management Problems"
 date: 2018-03-27 00:00:00 -0400

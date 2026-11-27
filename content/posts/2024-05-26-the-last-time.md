@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "The last time"
 date: "2024-05-26 22:51:59 -0400"

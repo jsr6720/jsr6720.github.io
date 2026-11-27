@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Five Temptations of a CEO"
 date: 2016-11-06 00:00:00 -0400

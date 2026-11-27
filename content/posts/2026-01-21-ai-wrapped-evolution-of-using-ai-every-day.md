@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "2025 AI Wrapped: Evolution of Using AI Every Day"
 date: 2026-01-21 06:01:00 -0500

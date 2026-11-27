@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Castle of Wizardry (The Belgariad #4)"
 date: 2021-03-11 00:00:00 -0400

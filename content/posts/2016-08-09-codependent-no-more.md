@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Codependent No More: How to Stop Controlling Others and Start Caring for Yourself"
 date: 2016-08-09 00:00:00 -0400

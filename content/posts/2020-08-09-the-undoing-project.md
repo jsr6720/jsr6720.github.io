@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Undoing Project: A Friendship That Changed Our Minds"
 date: 2020-08-09 00:00:00 -0400

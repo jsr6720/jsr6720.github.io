@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "What’s in a name?"
 date: "2010-04-07 00:00:00 -0400"

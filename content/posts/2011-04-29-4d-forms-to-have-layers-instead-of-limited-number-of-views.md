@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "4D Forms to have layers instead of limited number of ‘views’"
 date: "2011-04-29 00:00:00 -0400"

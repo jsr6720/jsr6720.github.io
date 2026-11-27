@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Articles of Incorporation"
 date: "2024-05-23 12:00:00 -0400"

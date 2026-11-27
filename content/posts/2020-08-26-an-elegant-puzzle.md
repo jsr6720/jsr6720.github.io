@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on An Elegant Puzzle: Systems of Engineering Management"
 date: 2020-08-26 00:00:00 -0400

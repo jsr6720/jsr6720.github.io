@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing"
 date: 2016-12-13 00:00:00 -0400

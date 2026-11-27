@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Why AI Won’t Break Brooks’s Law"
 date: 2026-04-25 16:09:51 -0400

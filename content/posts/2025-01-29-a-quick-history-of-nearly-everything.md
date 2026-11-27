@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on A Short History of Nearly Everything"
 date: 2025-01-29 23:16:08 -0500

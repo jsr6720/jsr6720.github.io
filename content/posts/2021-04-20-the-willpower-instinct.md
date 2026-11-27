@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It"
 date: 2021-04-20 00:00:00 -0400

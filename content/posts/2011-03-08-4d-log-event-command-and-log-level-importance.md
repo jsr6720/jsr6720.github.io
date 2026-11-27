@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "4D Log Event command and log level importance"
 date: "2011-03-08 00:00:00 -0400"

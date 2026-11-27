@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "4D Full variable introspection in debugger window"
 date: "2011-01-23 00:00:00 -0400"

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Primal Leadership: Realizing the Power of Emotional Intelligence (Leading with Emotional Intelligence)"
 date: 2019-06-11 00:00:00 -0400

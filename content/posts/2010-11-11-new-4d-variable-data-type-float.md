@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "New 4D variable data type – float"
 date: "2010-11-11 00:00:00 -0400"

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "ODBC Tracing on Windows 2003 server"
 date: "2011-01-26 00:00:00 -0400"

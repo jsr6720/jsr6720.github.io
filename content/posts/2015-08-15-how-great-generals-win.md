@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on How Great Generals Win"
 date: 2015-08-15 00:00:00 -0400

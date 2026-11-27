@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Long Tail: Why the Future Is Selling Less of More"
 date: 2017-03-03 00:00:00 -0400

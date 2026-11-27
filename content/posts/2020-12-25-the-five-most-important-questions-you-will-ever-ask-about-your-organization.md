@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Five Most Important Questions You Will Ever Ask About Your Organization"
 date: 2020-12-25 00:00:00 -0400

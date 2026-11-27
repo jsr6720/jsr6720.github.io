@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Import SQL files via psql command line scheduled task"
 date: "2010-11-11 00:00:00 -0400"

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on 21 Lessons for the 21st Century"
 date: 2019-02-05 00:00:00 -0400

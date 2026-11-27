@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work"
 date: 2018-10-25 00:00:00 -0400

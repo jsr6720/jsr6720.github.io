@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: Self-Publishing "AI Primer for Business Leaders"
 date: 2024-11-21 21:04:56 -0500

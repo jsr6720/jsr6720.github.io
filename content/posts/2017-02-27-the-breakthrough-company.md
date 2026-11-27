@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Breakthrough Company: How Everyday Companies Become Extraordinary Performers"
 date: 2017-02-27 00:00:00 -0400

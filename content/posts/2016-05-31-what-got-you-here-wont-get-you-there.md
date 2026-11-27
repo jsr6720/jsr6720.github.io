@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on What Got You Here Won't Get You There"
 date: 2016-05-31 00:00:00 -0400

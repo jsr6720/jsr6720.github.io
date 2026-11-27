@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Does Anyone Know a Good Software Engineer?"
 date: 2026-01-17 21:42:02 -0500

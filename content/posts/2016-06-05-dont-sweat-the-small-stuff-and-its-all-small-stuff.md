@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Dont Sweat the Small Stuff and Its All Small Stuff"
 date: 2016-06-05 00:00:00 -0400

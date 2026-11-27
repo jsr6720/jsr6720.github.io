@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "AWS Free Tier After One Year—Cost Breakdown"
 date: 2025-02-26 21:22:13 -0500

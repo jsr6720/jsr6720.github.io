@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Magician's Gambit (The Belgariad #3)"
 date: 2021-03-07 00:00:00 -0400

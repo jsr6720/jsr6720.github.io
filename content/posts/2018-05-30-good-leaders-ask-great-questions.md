@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Good Leaders Ask Great Questions: Your Foundation for Successful Leadership"
 date: 2018-05-30 00:00:00 -0400

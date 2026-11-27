@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Born Standing Up: A Comic's Life"
 date: 2017-06-15 00:00:00 -0400

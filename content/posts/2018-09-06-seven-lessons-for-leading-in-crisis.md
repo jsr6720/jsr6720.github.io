@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Seven Lessons for Leading in Crisis"
 date: 2018-09-06 00:00:00 -0400

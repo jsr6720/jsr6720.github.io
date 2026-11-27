@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Comfort Trap: or, What If You're Riding a Dead Horse?"
 date: 2016-10-18 00:00:00 -0400

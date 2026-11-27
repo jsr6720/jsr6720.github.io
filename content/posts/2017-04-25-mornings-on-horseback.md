@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Mornings on Horseback"
 date: 2017-04-25 00:00:00 -0400

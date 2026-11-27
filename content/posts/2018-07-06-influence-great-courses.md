@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Influence: Mastering Life's Most Powerful Skill"
 date: 2018-07-06 00:00:00 -0400

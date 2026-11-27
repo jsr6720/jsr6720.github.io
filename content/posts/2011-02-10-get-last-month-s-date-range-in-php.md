@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Get last month’s date range in PHP"
 date: "2011-02-10 00:00:00 -0400"

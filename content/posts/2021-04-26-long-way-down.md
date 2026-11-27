@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Long Way Down"
 date: 2021-04-26 00:00:00 -0400

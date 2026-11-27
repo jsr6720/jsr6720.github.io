@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Empire of the Summer Moon"
 date: 2021-08-25 00:00:00 -0400

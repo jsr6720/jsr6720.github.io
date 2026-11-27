@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on How to Raise an Adult: Break Free of the Overparenting Trap and Prepare Your Kid for Success"
 date: 2018-09-26 00:00:00 -0400

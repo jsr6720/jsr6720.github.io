@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues (J-B Lencioni Series)"
 date: 2018-04-30 00:00:00 -0400

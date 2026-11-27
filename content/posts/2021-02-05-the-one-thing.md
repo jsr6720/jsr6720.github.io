@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results"
 date: 2021-02-05 00:00:00 -0400

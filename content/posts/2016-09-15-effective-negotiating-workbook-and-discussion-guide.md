@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Effective Negotiating Workbook and Discussion Guide"
 date: 2016-09-15 00:00:00 -0400

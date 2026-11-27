@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Miracle of Self-Discipline"
 date: 2019-10-25 00:00:00 -0400

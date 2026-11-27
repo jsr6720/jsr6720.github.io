@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Good to Great: Why Some Companies Make the Leap...And Others Don't"
 date: 2016-03-22 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "4D Linux ODBC Driver"
 date: "2011-03-31 00:00:00 -0400"

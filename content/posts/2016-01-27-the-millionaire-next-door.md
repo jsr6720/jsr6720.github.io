@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Millionaire Next Door: The Surprising Secrets of Americas Wealthy"
 date: 2016-01-27 00:00:00 -0400

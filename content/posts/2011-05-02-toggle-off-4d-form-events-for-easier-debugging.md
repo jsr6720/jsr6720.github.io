@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Toggle off 4D form events for easier debugging"
 date: "2011-05-02 00:00:00 -0400"

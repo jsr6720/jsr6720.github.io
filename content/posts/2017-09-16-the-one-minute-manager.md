@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The One Minute Manager"
 date: 2017-09-16 00:00:00 -0400

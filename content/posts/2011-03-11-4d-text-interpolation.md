@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "4D text interpolation"
 date: "2011-03-11 00:00:00 -0400"

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Steve Jobs"
 date: 2019-04-26 00:00:00 -0400

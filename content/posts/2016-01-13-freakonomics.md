@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Freakonomics: A Rogue Economist Explores the Hidden Side of Everything"
 date: 2016-01-13 00:00:00 -0400

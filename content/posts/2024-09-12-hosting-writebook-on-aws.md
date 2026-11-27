@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: Hosting Writebook on AWS
 date: 2024-09-12 22:33:15 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "3.5 to 4.0 Flex SDK upgrade"
 date: "2010-04-08 00:00:00 -0400"

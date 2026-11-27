@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Dealing with China: An Insider Unmasks the New Economic Superpower"
 date: 2019-03-14 00:00:00 -0400

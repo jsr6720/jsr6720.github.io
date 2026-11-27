@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Think and Grow Rich"
 date: 2016-02-05 00:00:00 -0400

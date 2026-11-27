@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Great by Choice"
 date: 2018-03-28 00:00:00 -0400

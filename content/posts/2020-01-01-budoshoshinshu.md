@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Budoshoshinshu: Essential Teachings on the Way of the Warrior"
 date: 2020-01-01 00:00:00 -0400

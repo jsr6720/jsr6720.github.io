@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "4D unary operator (read i++)"
 date: "2011-01-21 00:00:00 -0400"

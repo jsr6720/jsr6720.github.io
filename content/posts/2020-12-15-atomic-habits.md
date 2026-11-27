@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
 date: 2020-12-15 00:00:00 -0400

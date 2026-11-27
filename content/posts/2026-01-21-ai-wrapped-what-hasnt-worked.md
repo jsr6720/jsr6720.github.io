@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "2025 AI Wrapped: What Hasn’t Worked"
 date: 2026-01-21 06:04:00 -0500

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Active record find_each in batches"
 date: "2011-01-13 00:00:00 -0400"

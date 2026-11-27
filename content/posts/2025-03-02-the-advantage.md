@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Advantage: Why Organizational Health Trumps Everything Else in Business"
 date: 2025-03-02 21:05:56 -0400

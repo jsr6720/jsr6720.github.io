@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Ruby Rakefile auto executes includes"
 date: "2011-01-17 00:00:00 -0400"

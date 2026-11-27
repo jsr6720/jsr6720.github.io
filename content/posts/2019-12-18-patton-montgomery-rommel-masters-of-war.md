@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Patton, Montgomery, Rommel: Masters of War"
 date: 2019-12-18 00:00:00 -0400

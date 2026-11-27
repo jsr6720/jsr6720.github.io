@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Fiefdom Syndrome"
 date: 2017-06-21 00:00:00 -0400

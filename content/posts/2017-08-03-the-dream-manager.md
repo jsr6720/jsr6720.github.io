@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Dream Manager"
 date: 2017-08-03 00:00:00 -0400

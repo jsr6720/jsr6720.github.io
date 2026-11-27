@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "SVN client/server version mismatch"
 date: "2010-12-15 00:00:00 -0400"

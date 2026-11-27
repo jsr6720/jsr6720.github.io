@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Aesop's Fables"
 date: 2015-07-14 00:00:00 -0400

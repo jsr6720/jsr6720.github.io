@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Use CAST in 4D volatile SQL statements"
 date: "2011-04-26 00:00:00 -0400"

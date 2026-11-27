@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Black Swan: The Impact of the Highly Improbable"
 date: 2017-07-17 00:00:00 -0400

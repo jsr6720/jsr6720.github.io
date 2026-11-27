@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on First Bite: How We Learn to Eat"
 date: 2018-11-14 00:00:00 -0400

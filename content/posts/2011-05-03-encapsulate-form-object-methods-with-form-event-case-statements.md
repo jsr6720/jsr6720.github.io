@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title:  "Encapsulate form/object methods with form event case statements"
 date:   "2011-05-03 00:00:00 -0400"

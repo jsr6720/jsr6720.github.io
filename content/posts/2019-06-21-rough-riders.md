@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Rough Riders: Theordore Roosevelt, His Cowboy Regiment, and the Immortal Charge Up San Juan Hill"
 date: 2019-06-21 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Book of Five Rings"
 date: 2020-02-20 00:00:00 -0400

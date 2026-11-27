@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "4D DSN-less ODBC connection"
 date: "2011-03-30 00:00:00 -0400"

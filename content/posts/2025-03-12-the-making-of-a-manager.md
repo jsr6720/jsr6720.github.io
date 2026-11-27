@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Making of a Manager: What to Do When Everyone Looks to You"
 date: 2025-03-12 21:54:53 -0400

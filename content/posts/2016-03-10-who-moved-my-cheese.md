@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Who Moved My Cheese"
 date: 2016-03-10 00:00:00 -0400

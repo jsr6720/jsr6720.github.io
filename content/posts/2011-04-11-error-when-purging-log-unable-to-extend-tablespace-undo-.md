@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Error when purging log unable to extend tablespace ‘UNDO’"
 date: "2011-04-11 00:00:00 -0400"

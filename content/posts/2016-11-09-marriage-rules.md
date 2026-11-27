@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Marriage Rules: A Manual for the Married and the Coupled Up"
 date: 2016-11-09 00:00:00 -0400

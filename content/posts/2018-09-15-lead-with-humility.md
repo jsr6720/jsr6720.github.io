@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Lead with Humility: 12 Leadership Lessons from Pope Francis"
 date: 2018-09-15 00:00:00 -0400

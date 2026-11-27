@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing"
 date: 2017-04-13 00:00:00 -0400

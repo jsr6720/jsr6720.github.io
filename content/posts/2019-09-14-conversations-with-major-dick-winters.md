@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Conversations With Major Dick Winters: Life Lessons from the Commander of the Band of Brothers"
 date: 2019-09-14 00:00:00 -0400

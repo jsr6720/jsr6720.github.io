@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics"
 date: 2018-08-01 00:00:00 -0400

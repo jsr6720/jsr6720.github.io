@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Count SQL users command"
 date: "2011-01-27 00:00:00 -0400"

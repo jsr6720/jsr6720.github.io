@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Long-Distance Leader: Rules for Remarkable Remote Leadership"
 date: 2021-01-09 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "SQL Based view"
 date: "2010-10-13 00:00:00 -0400"

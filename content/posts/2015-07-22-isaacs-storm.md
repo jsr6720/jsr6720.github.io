@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History"
 date: 2015-07-22 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Pass object association by reference via & to save resources"
 date: "2011-06-15 00:00:00 -0400"

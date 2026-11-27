@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on How Much Is Enough?: Everything You Need to Know to Steer Clear of Overindulgence and Raise Likeable, Responsible and Respectful Ch"
 date: 2018-09-28 00:00:00 -0400

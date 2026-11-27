@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "4D Execute on sever command vs method checkbox differences"
 date: "2011-01-31 00:00:00 -0400"

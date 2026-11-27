@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on How to Talk so Kids Will Listen...And Listen So Kids Will Talk"
 date: 2017-01-23 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Talking to my Daughter about the Economy: or, How Capitalism Works--and How It Fails"
 date: 2019-03-14 00:00:00 -0400

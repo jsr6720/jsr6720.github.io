@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title:  "New Database event – On Transaction Validate"
 date:   "2010-11-04 00:00:00 -0400"

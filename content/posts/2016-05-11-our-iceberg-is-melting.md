@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions"
 date: 2016-05-11 00:00:00 -0400

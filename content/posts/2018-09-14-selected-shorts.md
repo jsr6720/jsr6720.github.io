@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Selected Shorts: American Classics"
 date: 2018-09-14 00:00:00 -0400

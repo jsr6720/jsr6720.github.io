@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Famous Journal Entries"
 date: "2025-02-19 21:12:28 -0500"

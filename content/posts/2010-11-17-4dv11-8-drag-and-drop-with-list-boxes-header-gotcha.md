@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "4Dv11.8 drag and drop with list boxes header gotcha"
 date: "2010-11-17 00:00:00 -0400"

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on All I Really Need to Know I Learned in Kindergarten: Uncommon Thoughts on Common Things"
 date: 2018-06-20 00:00:00 -0400

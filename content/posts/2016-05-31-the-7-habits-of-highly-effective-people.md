@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change"
 date: 2016-05-31 00:00:00 -0400

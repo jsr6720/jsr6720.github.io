@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Bringing Up Bébé: One American Mother Discovers the Wisdom of French Parenting"
 date: 2017-05-24 00:00:00 -0400

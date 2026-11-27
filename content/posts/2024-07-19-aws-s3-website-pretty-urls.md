@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "AWS S3 Website Pretty URLs (Solved with CloudFront Functions)"
 date: "2024-07-19 21:34:54 -0400"

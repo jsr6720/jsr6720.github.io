@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on 50 Prosperity Classics: Attract It, Create It, Manage It, Share It - Wisdom From the Most Valuable Books on Wealth Creation and Abundance"
 date: 2020-03-02 00:00:00 -0400

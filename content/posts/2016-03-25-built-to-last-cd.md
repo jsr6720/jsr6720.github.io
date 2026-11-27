@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Built to Last CD: Successful Habits of Visionary Companies"
 date: 2016-03-25 00:00:00 -0400

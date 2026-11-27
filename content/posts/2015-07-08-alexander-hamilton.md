@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Alexander Hamilton"
 date: 2015-07-08 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title:  "Book Review of \"Building Your Business\""
 date: 2024-11-01 21:58:20 -0500

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Set enterable for list box object not just columns"
 date: "2010-11-24 00:00:00 -0400"

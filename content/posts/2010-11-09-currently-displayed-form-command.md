@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Currently displayed form command"
 date: "2010-11-09 00:00:00 -0400"

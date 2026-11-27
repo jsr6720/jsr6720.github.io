@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Librarian of Auschwitz"
 date: 2019-07-17 00:00:00 -0400

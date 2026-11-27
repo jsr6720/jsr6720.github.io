@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Washington's Farewell: The Founding Father's Warning to Future Generations"
 date: 2020-01-21 00:00:00 -0400

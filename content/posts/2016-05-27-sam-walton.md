@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Sam Walton: Made in America"
 date: 2016-05-27 00:00:00 -0400

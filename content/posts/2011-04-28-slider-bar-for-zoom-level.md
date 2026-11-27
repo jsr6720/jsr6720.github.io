@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Slider bar for zoom level"
 date: "2011-04-28 00:00:00 -0400"

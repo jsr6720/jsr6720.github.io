@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Phantom Tollbooth"
 date: 2021-04-03 00:00:00 -0400

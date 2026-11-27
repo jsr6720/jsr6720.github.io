@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Keep code base clean – avoid unnecessary variable assignments"
 date: "2011-07-14 00:00:00 -0400"

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Infinite is a real number in 4D"
 date: "2010-10-22 00:00:00 -0400"

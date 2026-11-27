@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Predictably Irrational: The Hidden Forces That Shape Our Decisions"
 date: 2018-08-10 00:00:00 -0400

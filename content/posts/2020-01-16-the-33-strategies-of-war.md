@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The 33 Strategies of War"
 date: 2020-01-16 00:00:00 -0400

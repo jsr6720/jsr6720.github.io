@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "2025 AI Wrapped: Thinking with AI"
 date: 2026-01-21 06:05:00 -0500

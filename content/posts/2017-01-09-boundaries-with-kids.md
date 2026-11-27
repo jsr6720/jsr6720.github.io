@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Boundaries with Kids: When to Say Yes, When to Say No, to Help Your Children Gain Control of Their Lives"
 date: 2017-01-09 00:00:00 -0400

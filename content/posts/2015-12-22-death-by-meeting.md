@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Death by Meeting: A Leadership Fable"
 date: 2015-12-22 00:00:00 -0400

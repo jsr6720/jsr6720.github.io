@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time"
 date: 2016-03-03 00:00:00 -0400

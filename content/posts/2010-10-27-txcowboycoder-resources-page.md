@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Cowboy Coder Resources page"
 date: "2010-10-27 12:51:35 +0000"

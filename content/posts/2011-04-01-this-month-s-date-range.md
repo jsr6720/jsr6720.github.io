@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "This month’s date range"
 date: "2011-04-01 00:00:00 -0400"

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Good Strategy/Bad Strategy: The Difference and Why It Matters"
 date: 2019-12-23 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on NPR Driveway Moments Baseball: Radio Stories That Won't Let You Go"
 date: 2017-06-25 00:00:00 -0400

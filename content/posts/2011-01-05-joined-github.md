@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Joined Github"
 date: "2011-01-05 00:00:00 -0400"

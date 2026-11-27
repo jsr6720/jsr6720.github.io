@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Perfect Horse: the Daring U.S. Mission to Rescue the Priceless Stallions Kidnapped by the Nazis"
 date: 2018-02-22 00:00:00 -0400

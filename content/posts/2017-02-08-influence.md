@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Influence: Science and Practice"
 date: 2017-02-08 00:00:00 -0400

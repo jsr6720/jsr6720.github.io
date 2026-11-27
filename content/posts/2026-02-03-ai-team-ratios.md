@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Why AI Demands New Engineering Ratios"
 date: 2026-02-03 21:46:48 -0500

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Art of War (Great Courses series)"
 date: 2018-02-08 00:00:00 -0400

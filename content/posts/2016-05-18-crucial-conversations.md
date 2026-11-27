@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Crucial Conversations: Tools for Talking When Stakes Are High"
 date: 2016-05-18 00:00:00 -0400

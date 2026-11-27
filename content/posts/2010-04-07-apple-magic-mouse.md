@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Apple’s Magic Mouse"
 date: "2010-04-07 00:00:00 -0400"

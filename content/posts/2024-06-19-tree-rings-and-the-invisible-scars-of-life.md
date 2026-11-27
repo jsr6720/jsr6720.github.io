@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Tree Rings and the Invisible Scars of Life"
 date: "2024-06-19 11:30:21 -0400"

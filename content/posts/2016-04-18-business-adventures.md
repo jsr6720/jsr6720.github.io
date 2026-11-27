@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Business Adventures: Twelve Classic Tales from the World of Wall Street"
 date: 2016-04-18 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Flex 4.0 drag-and-drop with skins"
 date: "2010-04-14 00:00:00 -0400"

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Enchanters' End Game (The Belgariad #5)"
 date: 2021-03-16 00:00:00 -0400

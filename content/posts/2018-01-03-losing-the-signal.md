@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry"
 date: 2018-01-03 00:00:00 -0400

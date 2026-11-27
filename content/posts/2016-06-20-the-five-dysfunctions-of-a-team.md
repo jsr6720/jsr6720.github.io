@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Five Dysfunctions of a Team"
 date: 2016-06-20 00:00:00 -0400

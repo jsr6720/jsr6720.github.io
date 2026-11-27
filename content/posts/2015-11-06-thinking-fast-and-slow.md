@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Thinking, Fast and Slow"
 date: 2015-11-06 00:00:00 -0400

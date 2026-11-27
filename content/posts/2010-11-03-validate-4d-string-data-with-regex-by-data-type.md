@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Validate 4d string data with regex by data type"
 date: "2010-11-03 00:00:00 -0400"

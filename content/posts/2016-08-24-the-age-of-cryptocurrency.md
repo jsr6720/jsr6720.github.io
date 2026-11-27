@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order"
 date: 2016-08-24 00:00:00 -0400

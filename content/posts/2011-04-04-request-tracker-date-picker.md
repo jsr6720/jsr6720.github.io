@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Request Tracker date picker"
 date: "2011-04-04 00:00:00 -0400"

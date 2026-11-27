@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money"
 date: 2017-03-10 00:00:00 -0400

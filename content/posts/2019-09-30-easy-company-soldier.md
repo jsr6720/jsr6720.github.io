@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Easy Company Soldier: The Legendary Battles of a Sergeant from World War II's \"Band of Brothers\""
 date: 2019-09-30 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You"
 date: 2015-09-25 00:00:00 -0400

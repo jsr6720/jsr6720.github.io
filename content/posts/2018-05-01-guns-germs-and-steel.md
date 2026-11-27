@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Guns, Germs and Steel: The Fates of Human Societies"
 date: 2018-05-01 00:00:00 -0400

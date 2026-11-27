@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "MySQL command options"
 date: "2011-03-21 00:00:00 -0400"

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on John Adams"
 date: 2015-06-24 00:00:00 -0400

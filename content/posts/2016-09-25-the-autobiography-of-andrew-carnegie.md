@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Autobiography of Andrew Carnegie"
 date: 2016-09-25 00:00:00 -0400

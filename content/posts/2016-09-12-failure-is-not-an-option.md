@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond"
 date: 2016-09-12 00:00:00 -0400

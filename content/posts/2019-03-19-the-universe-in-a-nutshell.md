@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Universe in a Nutshell"
 date: 2019-03-19 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Creating fields via SQL vs creating fields via structure editor"
 date: "2011-06-08 00:00:00 -0400"

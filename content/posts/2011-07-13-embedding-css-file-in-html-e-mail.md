@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Embedding CSS file in html e-mail"
 date: "2011-07-13 00:00:00 -0400"

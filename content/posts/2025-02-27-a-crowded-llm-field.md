@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "A Crowded LLM Field: Making Sense of AI Tooling"
 date: 2025-02-27 22:14:50 -0500

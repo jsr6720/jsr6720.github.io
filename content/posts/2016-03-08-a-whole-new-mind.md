@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on A Whole New Mind: Why Right-Brainers Will Rule the Future"
 date: 2016-03-08 00:00:00 -0400

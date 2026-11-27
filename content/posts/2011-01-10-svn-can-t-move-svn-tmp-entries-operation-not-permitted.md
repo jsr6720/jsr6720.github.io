@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "svn: Can’t move /.svn/tmp/entries: Operation not permitted"
 date: "2011-01-10 00:00:00 -0400"

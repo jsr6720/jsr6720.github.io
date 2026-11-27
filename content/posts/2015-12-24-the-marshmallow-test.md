@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Marshmallow Test: Mastering Self-Control"
 date: 2015-12-24 00:00:00 -0400

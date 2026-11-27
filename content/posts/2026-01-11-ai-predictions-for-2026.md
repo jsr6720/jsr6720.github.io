@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "AI Predictions for 2026"
 date: 2026-01-11 14:10:20 -0500

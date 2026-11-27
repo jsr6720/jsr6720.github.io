@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Practice Perfect: 42 Rules for Getting Better at Getting Better"
 date: 2019-03-14 00:00:00 -0400

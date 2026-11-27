@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Thank You for Being Late: Finding a Job, Running a Country, and Keeping Your Head in an Age of Accelerations"
 date: 2018-04-20 00:00:00 -0400

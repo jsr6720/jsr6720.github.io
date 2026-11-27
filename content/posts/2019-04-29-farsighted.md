@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Farsighted: How We Make the Decisions That Matter the Most"
 date: 2019-04-29 00:00:00 -0400

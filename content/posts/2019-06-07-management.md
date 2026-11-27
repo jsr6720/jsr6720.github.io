@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Management: The Brian Tracy Success Library"
 date: 2019-06-07 00:00:00 -0400

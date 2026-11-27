@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Team of Rivals: The Political Genius of Abraham Lincoln"
 date: 2016-10-08 00:00:00 -0400

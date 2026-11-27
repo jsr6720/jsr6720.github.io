@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Confronting Reality Doing What Matters to Get Things Right"
 date: 2017-12-17 00:00:00 -0400

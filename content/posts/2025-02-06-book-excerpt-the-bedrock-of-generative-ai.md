@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Book Excerpt: ‘The Bedrock of Generative AI’"
 date: 2025-02-06 00:31:27 -0500

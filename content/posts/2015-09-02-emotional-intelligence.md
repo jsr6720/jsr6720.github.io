@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Emotional Intelligence: Why It Can Matter More Than IQ (Leading with Emotional Intelligence)"
 date: 2015-09-02 00:00:00 -0400

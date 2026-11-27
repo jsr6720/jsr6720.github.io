@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Bringing Up Boys"
 date: 2017-02-20 00:00:00 -0400

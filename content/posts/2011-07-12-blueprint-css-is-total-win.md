@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Blueprint CSS is total win"
 date: "2011-07-12 00:00:00 -0400"

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Get Paid More and Promoted Faster: 21 Great Ways to Get Ahead in Your Career"
 date: 2018-09-07 00:00:00 -0400

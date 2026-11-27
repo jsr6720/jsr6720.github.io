@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Checklist Manifesto: How to Get Things Right"
 date: 2016-09-30 00:00:00 -0400

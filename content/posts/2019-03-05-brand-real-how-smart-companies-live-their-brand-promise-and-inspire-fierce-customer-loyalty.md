@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Brand real how smart companies live their brand promise and inspire fierce customer loyalty"
 date: 2019-03-05 00:00:00 -0400

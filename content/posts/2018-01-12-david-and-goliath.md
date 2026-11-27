@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on David and Goliath: The Triumph of the Underdog"
 date: 2018-01-12 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Dumbing Us Down - 25th Anniversary Hardback Edition: The Hidden Curriculum of Compulsory Schooling - 25th Anniversary Edition"
 date: 2018-08-22 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Team of Teams: The Power of Small Groups in a Fragmented World"
 date: 2017-01-04 00:00:00 -0400

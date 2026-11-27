@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Essential Drucker"
 date: 2015-12-17 00:00:00 -0400

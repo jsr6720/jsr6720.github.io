@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The First Billion Is the Hardest: Reflections on a Life of Comebacks and America's Energy Future"
 date: 2019-11-22 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Writing Well: The Classic Guide to Writing Nonfiction"
 date: 2025-05-05 21:20:23 -0400

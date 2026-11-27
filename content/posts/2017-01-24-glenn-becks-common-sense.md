@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Glenn Beck's Common Sense: The Case Against an Out-of-Control Government, Inspired by Thomas Paine"
 date: 2017-01-24 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on How Google Works"
 date: 2017-11-07 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Power of Habit: Why We Do What We Do in Life and Business"
 date: 2017-05-05 00:00:00 -0400

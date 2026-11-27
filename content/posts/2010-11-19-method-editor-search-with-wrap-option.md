@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Method editor search with wrap option"
 date: "2010-11-19 00:00:00 -0400"

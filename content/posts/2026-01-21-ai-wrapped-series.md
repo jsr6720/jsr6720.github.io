@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "2025 AI Wrapped: A Year in Review"
 date: 2026-01-21 07:00:00 -0500

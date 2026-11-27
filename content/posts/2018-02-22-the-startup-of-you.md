@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Startup of You: Adapt to the Future, Invest in Yourself, and Transform Your Career"
 date: 2018-02-22 00:00:00 -0400

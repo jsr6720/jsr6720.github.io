@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Compiler warning on possible loss of precision"
 date: "2011-04-25 00:00:00 -0400"

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Flash Boys"
 date: 2020-01-21 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Command and Control: Great Military Leaders from Washington to the Twenty-First Century"
 date: 2016-02-12 00:00:00 -0400

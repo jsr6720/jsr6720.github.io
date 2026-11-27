@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Complete 101 Collection"
 date: 2015-10-19 00:00:00 -0400

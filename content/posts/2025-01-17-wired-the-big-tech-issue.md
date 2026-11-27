@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on WIRED Jan/Feb 2025, The Big Tech Issue"
 date: "2025-01-17 22:27:49 -0500"

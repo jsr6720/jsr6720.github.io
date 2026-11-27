@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on High Output Management"
 date: 2020-12-31 00:00:00 -0400

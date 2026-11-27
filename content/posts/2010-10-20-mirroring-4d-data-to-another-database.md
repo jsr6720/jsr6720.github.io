@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Mirroring 4D data to another database"
 date: "2010-10-20 00:00:00 -0400"

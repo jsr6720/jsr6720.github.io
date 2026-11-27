@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Originals: How Non-Conformists Move the World"
 date: "2024-12-09 19:54:01 -0500"

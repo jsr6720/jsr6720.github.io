@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Queen of Sorcery (The Belgariad #2)"
 date: 2021-03-08 00:00:00 -0400

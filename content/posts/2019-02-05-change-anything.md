@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Change Anything: The New Science of Personal Success"
 date: 2019-02-05 00:00:00 -0400

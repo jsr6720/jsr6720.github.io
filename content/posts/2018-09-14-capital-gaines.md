@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Capital Gaines: Smart Things I Learned Doing Stupid Stuff"
 date: 2018-09-14 00:00:00 -0400

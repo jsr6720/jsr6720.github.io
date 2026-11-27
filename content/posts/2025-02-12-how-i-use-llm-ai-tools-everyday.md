@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "How I Use AI Tools Everyday: Leveraging Claude and ChatGPT"
 date: 2025-02-12 20:40:34 -0500

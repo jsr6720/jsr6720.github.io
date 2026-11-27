@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The All-or-Nothing Marriage: How the Best Marriages Work"
 date: 2018-08-27 00:00:00 -0400

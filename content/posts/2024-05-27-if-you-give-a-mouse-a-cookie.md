@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on If You Give a Mouse a Cookie"
 date: "2024-05-27 00:21:19 -0400"

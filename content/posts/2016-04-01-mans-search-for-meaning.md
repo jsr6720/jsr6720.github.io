@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Man's Search for Meaning"
 date: 2016-04-01 00:00:00 -0400

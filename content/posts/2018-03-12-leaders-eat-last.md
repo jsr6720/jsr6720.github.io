@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Leaders eat last : why some teams pull together and others don't"
 date: 2018-03-12 00:00:00 -0400

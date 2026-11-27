@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Auto execute psql commands via batch file"
 date: "2010-11-11 00:00:00 -0400"

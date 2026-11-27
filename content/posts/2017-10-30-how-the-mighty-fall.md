@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on How the Mighty Fall: And Why Some Companies Never Give In"
 date: 2017-10-30 00:00:00 -0400

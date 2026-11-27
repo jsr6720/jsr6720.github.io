@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Power of Your Potential: How to Break Through Your Limits"
 date: 2020-02-20 00:00:00 -0400

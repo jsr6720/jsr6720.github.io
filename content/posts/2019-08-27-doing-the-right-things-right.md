@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Doing the Right Things Right: How the Effective Executive Spends Time"
 date: 2019-08-27 00:00:00 -0400

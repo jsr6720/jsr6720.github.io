@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The New Articulate Executive: Look, Act and Sound Like a Leader"
 date: 2018-10-12 00:00:00 -0400

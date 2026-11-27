@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Merge command/control down key functions"
 date: "2010-11-03 00:00:00 -0400"

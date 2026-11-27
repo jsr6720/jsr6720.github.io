@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Generic 4D error catcher"
 date: "2011-06-01 00:00:00 -0400"

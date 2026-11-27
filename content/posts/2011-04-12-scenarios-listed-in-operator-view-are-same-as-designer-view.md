@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Scenarios listed in Operator view are same as Designer view"
 date: "2011-04-12 00:00:00 -0400"

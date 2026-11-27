@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on When Blood Breaks Down: Life Lessons from Leukemia"
 date: 2025-05-17 21:21:19 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Energy Bus: 10 Rules to Fuel Your Life, Work, and Team with Positive Energy"
 date: 2021-04-07 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Leading Change"
 date: 2020-10-12 00:00:00 -0400

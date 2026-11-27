@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Half the Sky: Turning Oppression into Opportunity for Women Worldwide"
 date: 2017-12-07 00:00:00 -0400

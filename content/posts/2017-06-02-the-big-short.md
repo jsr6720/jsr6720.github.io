@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Big Short: Inside the Doomsday Machine"
 date: 2017-06-02 00:00:00 -0400

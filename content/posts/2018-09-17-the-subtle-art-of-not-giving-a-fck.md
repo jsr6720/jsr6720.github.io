@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life"
 date: 2018-09-17 00:00:00 -0400

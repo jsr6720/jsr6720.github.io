@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title:  "Modified({fieldname}) no longer works"
 date:   "2014-03-28 00:00:00 -0400"

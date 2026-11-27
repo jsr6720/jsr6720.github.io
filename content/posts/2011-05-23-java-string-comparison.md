@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Java string comparison"
 date: "2011-05-23 00:00:00 -0400"

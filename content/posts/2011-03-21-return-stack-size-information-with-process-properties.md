@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Return stack size information with PROCESS PROPERTIES"
 date: "2011-03-21 00:00:00 -0400"

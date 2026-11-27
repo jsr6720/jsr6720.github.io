@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Postgres dynamic trigger — mirroring"
 date: "2010-10-27 00:00:00 -0400"

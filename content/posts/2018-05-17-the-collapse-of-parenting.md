@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Collapse of Parenting: How We Hurt Our Kids When We Treat Them Like Grown-Ups"
 date: 2018-05-17 00:00:00 -0400

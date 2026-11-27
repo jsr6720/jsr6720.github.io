@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration"
 date: 2015-06-09 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The 15 Invaluable Laws of Growth: Live Them and Reach Your Potential"
 date: 2017-01-23 00:00:00 -0400

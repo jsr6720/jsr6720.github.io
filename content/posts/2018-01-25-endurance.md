@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Endurance: Shackleton's Incredible Voyage"
 date: 2018-01-25 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "4D Database timestamp makes no sense"
 date: "2011-01-20 00:00:00 -0400"

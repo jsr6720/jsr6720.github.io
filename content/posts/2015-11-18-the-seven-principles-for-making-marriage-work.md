@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Seven Principles for Making Marriage Work: A Practical Guide from the Country's Foremost Relationship Expert"
 date: 2015-11-18 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Everything Store: Jeff Bezos and the Age of Amazon"
 date: 2019-02-19 00:00:00 -0400

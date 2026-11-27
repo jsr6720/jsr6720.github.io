@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Is record number valid – command"
 date: "2010-10-31 00:00:00 -0400"

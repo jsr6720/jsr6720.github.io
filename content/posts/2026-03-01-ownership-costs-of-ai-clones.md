@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "The Ownership Cost of AI Clones"
 date: 2026-03-01 14:25:33 -0500

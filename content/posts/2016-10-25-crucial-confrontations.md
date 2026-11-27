@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior"
 date: 2016-10-25 00:00:00 -0400

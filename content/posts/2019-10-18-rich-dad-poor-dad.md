@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Rich Dad Poor Dad"
 date: 2019-10-18 00:00:00 -0400

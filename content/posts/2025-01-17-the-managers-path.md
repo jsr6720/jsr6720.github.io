@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Manager’s Path: A Guide for Tech Leaders Navigating Growth & Change"
 date: 2025-01-17 23:23:33 -0500

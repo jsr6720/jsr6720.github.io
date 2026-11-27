@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "2025 AI Wrapped: What I've Shipped with AI"
 date: 2026-01-21 06:03:00 -0500

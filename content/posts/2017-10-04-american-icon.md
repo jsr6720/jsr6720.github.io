@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on American Icon: Alan Mulally and the Fight to Save Ford Motor Company"
 date: 2017-10-04 00:00:00 -0400

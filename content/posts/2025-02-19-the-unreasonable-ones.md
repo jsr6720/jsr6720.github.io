@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "The Unreasonable Ones: Humanity’s Role in an AI World"
 date: 2025-02-19 23:19:32 -0500

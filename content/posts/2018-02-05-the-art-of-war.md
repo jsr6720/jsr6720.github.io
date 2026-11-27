@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on The Art of War"
 date: 2018-02-05 00:00:00 -0400

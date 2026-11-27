@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Search Safari history by timestamp"
 date: 2024-04-14 20:47:18 -0400

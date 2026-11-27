@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on Plato and a Platypus Walk Into a Bar...: Understanding Philosophy Through Jokes"
 date: 2015-07-27 00:00:00 -0400

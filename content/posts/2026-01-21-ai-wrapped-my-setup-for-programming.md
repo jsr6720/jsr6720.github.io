@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "2025 AI Wrapped: My Setup for Programming"
 date: 2026-01-21 06:02:00 -0500

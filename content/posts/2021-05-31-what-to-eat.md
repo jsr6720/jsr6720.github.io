@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on What to Eat"
 date: 2021-05-31 00:00:00 -0400

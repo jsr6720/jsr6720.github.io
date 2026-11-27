@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "HTML Structure export blurs the line on fields and it’s comments"
 date: "2010-11-23 00:00:00 -0400"

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "Quick Thoughts on How Successful People Think: Change Your Thinking, Change Your Life"
 date: 2018-03-12 00:00:00 -0400

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "4th Dimension v11"
 date: "2010-10-13 00:00:00 -0400"

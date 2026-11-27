@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "4D based mirror component – take two"
 date: "2011-01-28 00:00:00 -0400"

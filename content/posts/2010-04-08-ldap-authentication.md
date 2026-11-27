@@ -1,5 +1,4 @@
 ---
-layout: post
 author: James Rowe
 title: "LDAP Authentication"
 date: "2010-04-08 00:00:00 -0400"
