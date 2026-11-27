@@ -16,7 +16,7 @@ The documentation states the third parameter, importance, is optional. I’ve ne
 
 `Information Message` (default) and `Warning Message` did not show.
 
-```
+```4d
 ` this works
 LOG EVENT(Into 4D Debug Message ;"My message";Error Message )
 

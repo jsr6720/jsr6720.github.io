@@ -25,7 +25,7 @@ Limitations* Requires `plpythonu` language installed on postgres
 You could even do a dictionary compare to find the difference between `TD["new"]` and `TD["old"]`.
 
 
-```
+```python
 for field_name, field_value in TD["new"].items():
 	# now we have field_name and field_value to do work on
 	if field_name='alpha_field':

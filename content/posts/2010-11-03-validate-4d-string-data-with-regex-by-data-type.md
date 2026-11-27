@@ -14,7 +14,7 @@ slug: validate-4d-string-data-with-regex-by-data-type
 
 I’m no regex expert, just compiled some online examples into one function. This is only a starting point, but it completes my needs for the time being. There is a whole [forum section](http://forums.4d.fr/List_Message/EN:0/0/2/1/1/1/1434147/0/0/1/-1/0/0/0/0/0/0) devoted to this online.
 
-```
+```4d
   ` ----------------------------------------------------
   ` User name (OS):
   ` Date and time: 11/02/10, 15:29:39

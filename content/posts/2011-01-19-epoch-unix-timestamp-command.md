@@ -16,7 +16,7 @@ Would really like to have a timestamp command that could return the number of se
 
 SQL functions `CURRENT_TIMESTAMP` and `CURTIME`return HH:MM:SS not seconds elapsed. (Never mind the apparent lack of a naming convention)
 
-```
+```4d
 C_LONGINT($seconds_since_epoch)
 ` Time is currently a command that requires parameters
 ` lets change it so no params = unix timestamp

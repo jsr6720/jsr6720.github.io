@@ -85,6 +85,7 @@ When a page's URL changes, add `aliases: ["/old/"]` to its front matter and list
 - End with `### Significant Revisions` (newest first, e.g. `- Nov 26th, 2026 Originally published on [https://www.jsrowe.com](https://www.jsrowe.com) with uid …`) and `### Footnotes`. These are plain text; content files can't use template code.
 - Book reviews: cover from `static/assets/posts-images/book-covers/`, citation line, `## My Review N/5`.
 - Link other posts with a plain path: `[title](/slug/)`.
+- Code blocks name their language (```` ```php ````); Hugo's built-in Chroma highlights them with minima's colors. Terminal sessions are `console`, error output and non-code are `text`. `4d` has no highlighter and renders plain.
 
 ## Images
 

@@ -18,7 +18,7 @@ This limited database has it’s draw backs for production use. If Data Integrat
 
 ![oracle java stack error](/assets/posts-images/error-when-purging-log.png)
 
-```
+```text
 Error When Purging Log
 
 java.sql.SQLException: ORA-30036: unable to extend segment by 8 in undo tablespace 'UNDO'

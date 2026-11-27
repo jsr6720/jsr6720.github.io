@@ -53,7 +53,7 @@ Accept the rest of the defaults and click Launch Instance at the bottom-right of
 
 ### 1. SSH into the EC2 instance and install docker.
 
-```
+```bash
 % ssh -i "once-writebook-key-pair.pem" ec2-user@<ec2-instance>.compute-1.amazonaws.com
 sudo yum install docker -y
 sudo service docker start
@@ -62,7 +62,7 @@ sudo usermod -a -G docker ec2-user
 
 ### 2. Run the Bash script with your unique key sent to your email from once.com.
 
-```
+```bash
 /bin/bash -c "$(curl -fsSL https://auth.once.com/install/<install-key>)"
 ```
 
@@ -82,7 +82,7 @@ I only encountered two errors when installing, but the log file I found was ters
 
 After that error message I found an error file at the root directory but it wasn’t helpful.
  
- ```
+```console
 [ec2-user@ip-172-31-91-108 ~]$ cat .once-error.log 
 2024/07/06 16:58:55 exit status 1
 2024/07/06 17:02:15 Get https://books.roweinnovations.com/up: remote error: tls: internal error
@@ -90,7 +90,7 @@ After that error message I found an error file at the root directory but it wasn
 
 I was able to load the above URL. So I checked Docker, which indicated the instance was running.
 
-```
+```console
 [ec2-user@ip-172-31-91-108 ~]$ docker ps
 CONTAINER ID   IMAGE                         COMMAND                  CREATED          STATUS          PORTS                                      NAMES
 58897f34c382   registry.once.com/writebook   "/rails/bin/docker-e…"   39 minutes ago   Up 39 minutes   0.0.0.0:80->80/tcp, 0.0.0.0:443->443/tcp   writebook 
@@ -100,7 +100,7 @@ After I confirmed the instance was running, I loaded the configured URL (`https:
 
 The other problem I noticed was that I didn’t get all of the “once” commands listed in the documentation. I only saw “help” and “setup”; the online docs indicate there should be more. Again, since I was able to try it out and abandon it, I didn’t look much further into this.
 
-```
+```console
 [ec2-user@ip-172-31-91-108 ~]$ once
 Install and manage ONCE products
 

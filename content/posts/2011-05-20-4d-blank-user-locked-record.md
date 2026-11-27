@@ -28,7 +28,7 @@ In the following simplified example a SQL query updates a record in a table, whi
 
 [Table\_2]Field\_2 (is alpha)
 
-```
+```4d
 ` the SQL code
 Begin SQL
 	UPDATE Table_1 SET Field_1='test' WHERE Field_1='a record'
@@ -44,7 +44,7 @@ LOAD RECORD([Table_2]) ` this 'locks' it for SQL server
 
 ### Solution
 
-```
+```4d
 C_TEXT($result)
 
 ` Using the SQL engine to LOAD and the UNLOAD the record works
@@ -62,7 +62,7 @@ ALERT($result)
 
 ### IsRecordLocked function
 
-```
+```4d
   ` ----------------------------------------------------
   ` User name (OS): jrowe
   ` Date and time: 05/20/11, 12:26:45

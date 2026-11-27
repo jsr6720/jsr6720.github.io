@@ -17,7 +17,7 @@ So not only am I using it, but I also joined [Github](https://github.com/jsr6720
 I am definitely a fan of the distributed nature of Git, and I love the error messages, very helpful. Thank you git for suggesting a common fix to probably a common problem.
 
 
-```
+```console
 $ git add
 Nothing specified, nothing added.
 Maybe you wanted to say 'git add .'?
@@ -25,7 +25,7 @@ Maybe you wanted to say 'git add .'?
 
 vs
 
-```
+```console
 $ svn add
 svn: Try 'svn help' for more info
 svn: Not enough arguments provided

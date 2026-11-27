@@ -16,7 +16,7 @@ I had wrongly assumed that [`Delay Process`](http://doc.4d.com/4Dv11.6/help/comm
 
 Solution: check for negative numbers and pass a positive number into the `Delay Process` command.
 
-```
+```4d
 ` 4D Server v11.8 HF2
 ` Running on xserve 10.5.6
 C_LONGINT($vl_ticks_to_wait;$vl_ticks_elapsed)

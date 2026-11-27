@@ -25,7 +25,7 @@ Either way it is frustrating to program around. How about a `Get current target`
 I should also note that returning -1 from `On Drag Over` event prevents any code from executing `On Drop` and displays the invalid drop target icon.
 
 
-```
+```4d
 ` old way
 DRAG AND DROP PROPERTIES ( srcObject ; srcElement ; srcProcess )
 ` new way

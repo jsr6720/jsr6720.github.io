@@ -18,7 +18,7 @@ The sample code builds a string with all the relevant error information. Additio
 
 Feedback welcome, sound off in the comments, what do you do for error handling?
 
-```
+```4d
   ` ----------------------------------------------------
   ` User name (OS):
   ` Date and time:

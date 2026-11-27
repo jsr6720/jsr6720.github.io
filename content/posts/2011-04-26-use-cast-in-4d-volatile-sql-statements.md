@@ -14,7 +14,7 @@ Hint, to avoid hair pulling use the 4D function [`CAST`](http://doc.4d.com/4Dv12
 
 Consider the following for boolean field \[ODBCTest\]FieldBoolean.
 
-```
+```4d
 // 4Dv12.1 sees this as a string assignment to boolean
 // FieldBoolean = true throws an unfound column error
 Begin SQL
@@ -26,7 +26,7 @@ End SQL
 
 This will throw error `1108`:
 
-```
+```text
 Error code: 1108
 Operation VK_STRING  = VK_BOOLEAN  is not type safe.
 component: 'SQLS'
@@ -35,7 +35,7 @@ task 11, name: 'P_2'
 
 However, using `CAST` will give us the desired result.
 
-```
+```4d
 // also works: CAST(1 as BOOLEAN)
 Begin SQL
 	UPDATE ODBCTest

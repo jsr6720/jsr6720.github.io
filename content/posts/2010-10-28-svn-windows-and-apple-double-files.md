@@ -16,7 +16,7 @@ Not that I would expect many people to get hung up on this. Editing windows file
 
 This shows as an invisible file on the SMB mount. Since I did a straight import, all ‘.\_\*’ files were included in the repository. However ‘\_.’ is an illegal file name for a windows machine. So when I tried to `svn co` or `svn up` I got the following error on other windows machines.
 
-```
+```text
 svn: In directory 'sesame/Images'
 svn: Can't open file 'sesame/images/.svn/tmp/text-base/._sesame_50.jpg.svn-base': No such file or directory
 ```

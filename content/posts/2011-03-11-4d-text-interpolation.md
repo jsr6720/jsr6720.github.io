@@ -21,7 +21,7 @@ $my_sentence = "Hello {$name}!";
 
 In 4D the same can be accomplished with text objects.
 
-```
+```4d
 `have a table [Table]full_name
 ` this is the typed string for the text
 ` notice the "<" and ">" enclosing the field reference

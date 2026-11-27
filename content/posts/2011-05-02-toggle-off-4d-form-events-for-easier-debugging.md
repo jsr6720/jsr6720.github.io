@@ -30,7 +30,7 @@ Consider a simple form with a drop down chooser and two buttons. The form level 
 
 **Form method**
 
-```
+```4d
 ` executes on load and on click and whatever other events are triggered
 ` set a default choice for the array aTable (drop down chooser)
 aTables:=aTables{1}
@@ -38,7 +38,7 @@ aTables:=aTables{1}
 
 **Object method**
 
-```
+```4d
 ` executes on click
 vTable_Chosen:=aTables
 ```

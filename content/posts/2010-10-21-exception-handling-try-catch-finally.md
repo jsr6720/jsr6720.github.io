@@ -17,7 +17,7 @@ I’m not advocating the removal of `ON ERR CALL` but I would love to just do so
 I suppose this type of concept is available with 4Dv12 and PHP, but not natively.
 
 
-```
+```4d
 ` this is my method that is called when ANY error is thrown
 ON ERR CALL("catch error")
 

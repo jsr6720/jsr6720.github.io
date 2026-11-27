@@ -20,7 +20,7 @@ While programming in 4D I discovered that 1/0 does not throw an error, and that 
 
 UPDATE: Depending on the declared type of the variable 4D stores two different results
 
-```
+```4d
 [Table]Field_Real:=1/0 ` results is INF
 ` totally unrelated but just as bizarre
 [Table]Field_Integer:=1/0 ` results is 2147483647
@@ -31,7 +31,7 @@ Why is this bad? Well for one php, ruby, python, perl, java, c++, javascript, ca
 Also, how do you do a SQL call on INF? How you query on INF? Why can you store an infinite number in a REAL datatype? Why does 4D return a different result for the same operation depending on data type?
 
 
-```
+```4d
   ` declare some variables
 C_REAL($inf)
 C_TEXT($tmp)

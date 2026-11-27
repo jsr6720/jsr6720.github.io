@@ -18,7 +18,7 @@ Developers need to be able to use nulls if using SQL engine and 4DB engine in 4D
 
 Never mind the very logic of a null value is to indicate not set. Mapping null values to ‘blank’ values only mucks up the data. Does a widget inventory level of 0 indicate ‘not yet set’ or ‘depleted to zero’? Yes business logic will clear these things up, but integration of null values with the 4D native engine would be better. 
 
-```
+```4d
 // http://doc.4d.com/4Dv11.6/help/command/en/page965.html
 // This is a useless command, and is only used by the SQL kernal of 4D
 SET FIELD VALUE NULL([Table_1]Field_1)

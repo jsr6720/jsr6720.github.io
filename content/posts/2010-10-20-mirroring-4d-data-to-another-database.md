@@ -32,7 +32,7 @@ On with the code. There are some bits in here that relate to accepting the chang
 I would be more than happy to help, if others find it useful, but not quite there.
 
 
-```
+```4d
   ` ----------------------------------------------------
   ` User name (OS):
   ` Date and time: 10/26/10, 09:21:36

@@ -18,7 +18,7 @@ I’ve replaced directory path with {folder root} for generic purposes.
 
 **Error**
 
-```
+```console
 $ svn commit -m "testing commit"
 svn: Commit failed (details follow):
 svn: Can't move '{folder root}/.svn/tmp/entries' to '{folder root}/.svn/entries': Operation not permitted
@@ -26,7 +26,7 @@ svn: Can't move '{folder root}/.svn/tmp/entries' to '{folder root}/.svn/entries'
 
 **Solution**
 
-```
+```console
 $ chflags -R nouchg ./
 ```
 

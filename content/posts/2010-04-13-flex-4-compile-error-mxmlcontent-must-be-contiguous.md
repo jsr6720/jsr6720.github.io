@@ -58,7 +58,7 @@ This code generates the error. Notice the comment to fix the error; move the lay
 Looking at the documentation (see below) we see that ‘mxmlContent’ refers to the visible children of that mxml tag. The description clued me that the error message referred to layout and children of the container.
 
 
-```
+```text
 [Write Only] The visual content children for this Group. This method is used internally by Flex and is not intended for direct use by developers.
 The content items should only be IVisualElement objects. An mxmlContent Array should not be shared between multiple Group containers because visual elements can only live in one container at a time.
 

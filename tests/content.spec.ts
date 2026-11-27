@@ -114,3 +114,17 @@ test('slug is lowercase letters, digits and hyphens, unique across posts', () =>
     }),
   ).toEqual([]);
 });
+
+test('every code block names a language (```text if it is not code)', () => {
+  const bare = posts.flatMap(({ file }) => {
+    const lines = fs.readFileSync(path.join(POSTS_DIR, file), 'utf8').split('\n');
+    let inside = false;
+    return lines.flatMap((line, n) => {
+      if (!/^\s{0,3}```/.test(line)) return [];
+      const opening = !inside;
+      inside = !inside;
+      return opening && line.trim() === '```' ? [`${file}:${n + 1}`] : [];
+    });
+  });
+  expect(bare, 'code fences without a language').toEqual([]);
+});

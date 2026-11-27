@@ -16,7 +16,7 @@ When showing a record to a user with the table in read only mode, 4D returns `Tr
 
 I would expect that 4D would not see this as a locked record, or return system information for `LOCKED ATTRIBUTES`. Further, when another process accesses this record in read write mode, 4D does not report this record to be locked, and it can be loaded modified and saved.
 
-```
+```4d
 ` "Save" button on a form in READ ONLY mode
 ` record is displayed in variables
 ` with DIALOG command

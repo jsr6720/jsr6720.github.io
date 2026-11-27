@@ -26,7 +26,7 @@ A header documents all the missing information to find the original code locatio
 
 ### Example Macro
 
-```
+```xml
 <macro name="Header">
 <text>` ----------------------------------------------------
 ` User name (OS): <user_os/>

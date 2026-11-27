@@ -15,7 +15,7 @@ Clean code principle: run targeted code only once, even if multiple executions w
 Make sure of this in 4D by encapsulating code with a `Case of` targeting specific events and turn off unneeded events.
 
 
-```4D
+```4d
 C_LONGINT($vl_form_event)
 $vl_form_event:=Form event
 
@@ -32,7 +32,7 @@ This provides clarity on what code is to execute for the specified event. It als
 
 I don’t type this every time I want to trap events. So I put the following in my [macro file](http://doc.4d.com/4Dv12.1/help/Title/en/page1034.html).
 
-```
+```xml
 <macro name="CaseOf Form event">
 	<text>
 		C_LONGINT($vl_form_event)

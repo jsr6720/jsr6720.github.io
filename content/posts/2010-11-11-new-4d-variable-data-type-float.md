@@ -14,7 +14,7 @@ Now that 4Dv11 SQL supports `float` data type; it would be nice to match that wi
 
 I.e. if your database has a field with float data type don’t plan on using it with native 4D code, and don’t expect the complier to warn you. See my [feature request](http://forums.4d.fr/Post//4654031/) with 4D.
 
-```
+```4d
 C_REAL($vr_test)
 ` throws error (from GET LAST ERROR STACK): 54 4DRT Argument types are incompatible.
 $vr_test:=[Table]float_field

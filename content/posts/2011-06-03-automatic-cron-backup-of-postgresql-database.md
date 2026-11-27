@@ -20,7 +20,7 @@ Personally I gzip the output, but improvements could be made to prevent hard dis
 
 ## crontab
 
-```
+```text
 # CRON table for postgres user.
 
 # run backup every night at 22:00 hours (10PM)

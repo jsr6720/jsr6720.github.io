@@ -12,7 +12,7 @@ slug: wordpress-engine-fail-on-embeded-smilies-in-source
 
 So I went to post a source code snippet and kept getting this
 
-```
+```html
 <img src="http://s1.wp.com/wp-includes/images/smilies/icon_surprised.gif?m=1268811515g" alt=":o" class="wp-smiley">
 ```
 

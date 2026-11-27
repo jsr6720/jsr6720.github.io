@@ -17,7 +17,7 @@ Logically I would think defining them in the `On Server Startup` database method
 Code could look like this if defined programatically:
 
 
-```
+```4d
 ` we want a constant for use throughout 4D
 C_{datatype}_CONSTANT("Constant name";value)
 
