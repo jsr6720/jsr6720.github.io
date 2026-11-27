@@ -1,0 +1,58 @@
+name: Hugo Check
+
+on:
+  pull_request:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pull-requests: write # version comment
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # tags and history for next-version.py
+
+      - name: Read Hugo version
+        run: echo "HUGO_VERSION=$(cat .hugo-version)" >> "$GITHUB_ENV"
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: ${{ env.HUGO_VERSION }}
+          extended: true
+
+      - name: Build
+        run: hugo --gc --cleanDestinationDir
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: tests/package-lock.json
+
+      - name: Install Playwright
+        working-directory: tests
+        run: npm ci && npx playwright install --with-deps chromium
+
+      - name: Playwright tests
+        working-directory: tests
+        run: npx playwright test
+        env:
+          SITE_DIR: ../public
+
+      - name: Comment the version this PR releases as
+        if: github.event_name == 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ github.event.pull_request.number }}
+          MAJOR: ${{ contains(github.event.pull_request.labels.*.name, 'major') && '--major' || '' }}
+        run: |
+          python3 scripts/next-version.py $MAJOR 2> reason.txt
+          gh pr comment "$PR" --edit-last --create-if-none --body "Merging releases **$(tail -1 reason.txt)**. New post = minor, edits = patch, \`major\` label = major."

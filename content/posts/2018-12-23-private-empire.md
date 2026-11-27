@@ -1,0 +1,30 @@
+---
+author: James Rowe
+title: "Quick Thoughts on Private Empire: ExxonMobil and American Power"
+date: 2018-12-23 00:00:00 -0500
+category: review
+tags: [book, business]
+uid: 7ecb5c02-7ec8-432c-9507-5d146f23c880
+slug: private-empire
+---
+
+Steve Coll, *[Private Empire: ExxonMobil and American Power](https://www.goodreads.com/book/show/13588080)*, Malcolm Hillgartner Penguin Audio 2012 (Audio CD) ISBN: ="1611760720"
+
+## My Review 4/5
+
+Long. Detailed. History of Exxon mobile from its birth out of the standard oil breakup. This book covers the key players including brief Secretary of State Rex tillerson. 
+
+At 18 cds broke this into two readings but covers the entire globe. Almost a collection of short stories based on location. 
+
+### Date Read
+2018/12/23
+
+### Date Added
+2018/02/15
+
+---
+
+### Significant Revisions
+
+- Dec 27th, 2024 Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- Dec 23rd, 2018 Originally published on [goodreads](https://www.goodreads.com) Bookshelves: business

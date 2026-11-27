@@ -1,0 +1,15 @@
+#share-buttons {display: flex; gap: 4px; align-items: center;}
+#share-buttons > a {display: flex; align-items: center; justify-content: center; height: 32px; width: 32px;}
+#share-buttons > a > svg {height: 20px; width: 20px; fill: #b5b5b5;}
+#share-buttons > a.x:hover > svg {fill: #000000;}
+#share-buttons > a.linkedin:hover > svg {fill: #0077b5;}
+
+.share-container {
+    margin: 0;
+}
+
+.share-container small {
+    display: block;
+    color: #666;
+    margin-bottom: 0.5rem;
+}

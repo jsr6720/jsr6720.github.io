@@ -1,6 +1,6 @@
 # jsr6720.github.io
 
-Using GitHub Pages/Jekyll to share observations and opinions. Also known as thoughts. Dare I say publish them.
+Using Hugo to share observations and opinions. Also known as thoughts. Dare I say publish them.
 
 ## Hosting
 

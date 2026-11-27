@@ -1,0 +1,84 @@
+# One build deploys to both S3 (www.jsrowe.com) and the GitHub Pages backup,
+# so canonical/og/feed URLs always point at www.jsrowe.com.
+baseURL: "https://www.jsrowe.com/"
+languageCode: en-us
+timeZone: America/New_York # all post dates are Eastern
+title: "James' Thoughts"
+capitalizeListTitles: false # tag pages show tags as written: "book", not "Book"
+theme: jsrowe
+
+permalinks:
+  page:
+    posts: /:slug/
+
+taxonomies:
+  tag: tags
+  category: category # /category/engineering/
+
+params:
+  author: James Rowe
+  description: The digital journal of James Rowe. Something between WordPress, LiveJournal and gists.
+  images: [/jsr6720-github-io-repo-social-preview.png]
+  categories: [engineering, personal, review]
+  feed_limit: 10
+  github_username: jsr6720
+  linkedin_username: jsr6720
+
+menus:
+  main:
+    - { name: About, pageRef: /about, weight: 1 }
+    - { name: Bookshelf, pageRef: /bookshelf, weight: 2 }
+    - { name: Tags, url: /tags/, weight: 3 }
+
+mediaTypes:
+  application/atom+xml:
+    suffixes: [xml]
+
+outputFormats:
+  atom:
+    mediaType: application/atom+xml
+    baseName: feed
+    rel: alternate
+  llms: # /llms.txt, https://llmstxt.org
+    mediaType: text/plain
+    baseName: llms
+    isPlainText: true
+    notAlternative: true
+  llmsfull: # /llms-full.txt, every post's markdown in one file
+    mediaType: text/plain
+    baseName: llms-full
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home: [html, atom, llms, llmsfull] # /feed.xml, /llms.txt, /llms-full.txt
+  section: [html]
+  taxonomy: [html]
+  term: [html]
+  page: [html]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # raw HTML in posts
+    parser:
+      autoHeadingIDType: github
+      wrapStandAloneImageWithinParagraph: false # lets render-image.html style stand-alone images as blocks
+  highlight:
+    noClasses: false # minima's .highlight CSS styles the tokens
+  tableOfContents:
+    startLevel: 2 # posts have no h1 in the body; the title is the h1
+    endLevel: 3
+
+sitemap:
+  changeFreq: ""
+  priority: -1
+
+# No tracking (AGENTS.md): turn off Hugo's built-in third-party embeds
+privacy:
+  disqus: { disable: true }
+  googleAnalytics: { disable: true }
+  instagram: { disable: true }
+  vimeo: { disable: true }
+  x: { disable: true }
+  youtube: { disable: true }

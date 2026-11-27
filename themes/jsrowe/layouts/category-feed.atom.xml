@@ -1,0 +1,3 @@
+{{- $c := .Params.category_feed -}}
+{{- $pages := where (where site.RegularPages "Section" "posts") "Params.category" $c -}}
+{{- partial "atom.xml" (dict "pages" $pages "title" (printf "%s | %s" site.Title .Title) "self" (printf "feed/%s.xml" $c)) -}}

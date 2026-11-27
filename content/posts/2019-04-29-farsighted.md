@@ -1,0 +1,42 @@
+---
+author: James Rowe
+title: "Quick Thoughts on Farsighted: How We Make the Decisions That Matter the Most"
+date: 2019-04-29 00:00:00 -0400
+category: review
+tags: [book, did-not-finish]
+uid: b13ba117-653c-454c-a6d4-1e50aecf1bca
+slug: farsighted
+---
+
+Steven Johnson, *[Farsighted: How We Make the Decisions That Matter the Most](https://www.goodreads.com/book/show/38769051)*,  Riverhead 2018 (Hardcover) ISBN: ="1594488215"
+
+## My Review 1/5
+
+https://en.wikipedia.org/wiki/Farsighted_(book)
+
+Summary: 
+
+Don't fall for the paradox of presented options
+
+mind map all available options
+
+Attach outcomes to the mind map
+
+Work through and eliminate the cruft
+
+Make the right decision
+
+*Caveat* did not finish this book. couldn't get past his narrative style.
+
+### Date Read
+
+
+### Date Added
+2019/04/29
+
+---
+
+### Significant Revisions
+
+- Dec 27th, 2024 Converted to jekyll markdown format and copied to personal site using <https://github.com/jsr6720/goodreads-csv-to-md>
+- Apr 29th, 2019 Originally published on [goodreads](https://www.goodreads.com) Bookshelves: did-not-finish

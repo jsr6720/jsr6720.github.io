@@ -1,0 +1,16 @@
+{{- $posts := where site.RegularPages "Section" "posts" -}}
+# {{ site.Title }}: full text
+
+> {{ site.Params.description }} Writing by {{ site.Params.author }}, licensed CC BY-NC-ND 4.0; code samples MIT. {{ len $posts }} posts, newest first.
+{{ range $posts }}
+---
+
+# {{ .Title }}
+
+URL: {{ .Permalink }}
+Published: {{ .Date.Format "2006-01-02" }}
+Category: {{ .Params.category }}
+Tags: {{ delimit .Params.tags ", " }}
+
+{{ .RawContent | strings.TrimSpace }}
+{{ end }}

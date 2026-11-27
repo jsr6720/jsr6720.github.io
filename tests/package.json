@@ -1,11 +1,11 @@
 {
   "name": "jsrowe-site-tests",
   "private": true,
-  "description": "Smoke tests for the built site. Works on any static output folder (Jekyll _site/ today, Hugo public/ later).",
+  "description": "Smoke tests for the built site. Run against Hugo's public/ (SITE_DIR).",
   "scripts": {
     "test": "playwright test"
   },
   "devDependencies": {
-    "@playwright/test": "1.54.2"
+    "@playwright/test": "1.64.1"
   }
 }

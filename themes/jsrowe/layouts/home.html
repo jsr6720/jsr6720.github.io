@@ -1,0 +1,7 @@
+{{ define "main" }}
+<div class="home post-list">
+  {{ .Content }}
+  {{- partial "post-filters.html" "all" }}
+  {{- partial "post-list.html" (where site.RegularPages "Section" "posts") }}
+</div>
+{{ end }}

@@ -1,0 +1,4 @@
+name = "jsrowe"
+description = "jsrowe.com design, ported from the site's customized minima Jekyll theme"
+license = "MIT"
+min_version = "0.151.0"

@@ -1,0 +1,15 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+  <div class="wrapper">
+    <div class="footer-inner">
+      <p class="footer-legal">&copy; 2010&ndash;{{ now.Year }} James Rowe &middot; <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" rel="license">CC BY-NC-ND 4.0</a></p>
+      <div class="footer-links">
+        <a href="/about/">About</a>
+        {{- with site.Params.linkedin_username }}<a href="https://www.linkedin.com/in/{{ . }}" target="_blank" rel="noopener">LinkedIn</a>{{ end }}
+        {{- with site.Params.github_username }}<a href="https://github.com/{{ . }}" target="_blank" rel="noopener">GitHub</a>{{ end }}
+        <a href="/feed.xml">RSS</a>
+      </div>
+    </div>
+    <p class="footer-legal">Views expressed are my own and do not represent those of my employer(s), past or present.</p>
+  </div>
+</footer>

@@ -1,0 +1,54 @@
+---
+author: James Rowe
+title: "Auto execute psql commands via batch file"
+date: 2010-11-11 00:00:00 -0500
+category: engineering
+tags: [txcowboycoder, PostgreSQL]
+uid: de5b266d-8c38-48dd-a178-62346e13664f
+slug: auto-execute-psql-commands-via-batch-file
+---
+
+## Auto execute psql commands via batch file
+
+`psql` via command line does not have an option for password. To run a scheduled task using `psql` is pointless without full automation.
+
+Warning postgres recommends against doing this, and instead use a [password file](http://www.postgresql.org/docs/8.4/interactive/libpq-pgpass.html).
+
+I use this script to kick off the [psql command in python](/import-sql-files-via-psql-command-line-scheduled-task/)[^original-link]. But you can execute psql straight from the batch file, just check the `%ERRORLEVEL%` batch variable from the calling method.
+
+
+```batch
+@echo off
+
+REM scheduled task point to .bat files
+REM besides we need to make sure we have system variables in place
+
+REM export a password for use with the system (no quotes)
+SET PGHOST=host
+SET PGDATABASE=database
+SET PGUSER=user
+SET PGPASSWORD=user
+
+REM execute psql by file, even though echo is off, errors will still show
+psql -X --variable=ON_ERROR_STOP= -1 -w -f filename.sql
+
+```
+
+---
+
+### Significant Revisions
+
+- May 6th, 2024 Converted to jekyll markdown format and copied to personal site
+- Nov 11th, 2010 Originally published on [txcowboycoder wordpress site](https://txcowboycoder.wordpress.com/2010/11/11/auto-execute-psql-commands-via-batch-file/)[^draft]
+
+### Footnotes
+
+[^original-link]: Originally cross linked in WordPress http://txcowboycoder.wordpress.com/2010/11/11/import-sql-files-via-psql-comma/
+
+[^draft]: Initial `md` Generated using <https://github.com/jsr6720/wordpress-html-scraper-to-md>
+
+    Original Wordpress categories: ['DOS']
+
+    Original Wordpress tags: "DOS", "bat file", "batch file", "DOS", "psql"
+
+    Original Wordpress comments: [2 Comments](https://txcowboycoder.wordpress.com/2010/11/11/auto-execute-psql-commands-via-batch-file/#comments)

@@ -1,0 +1,443 @@
+---
+---
+
+/** 
+Off white background colors I've tried
+#f5f5dc - chatGPT-3.5 told me this was the kindle color, but it looked too pale green
+#FFF8DC - chatGPT-4o told me it had that "Cornsilk color for a yellowed paper look" lies
+#faebd0 - stolen from project gutenberg. Too yellow
+#faf0e6 - too yellow.. was supposed to be a linen color
+*/
+
+:root {
+  color-scheme: light dark;
+  --bg-color-light: #FAFAF8; /* near-white, barely warm */
+  --text-color-light: #1B1B1B; /* deep charcoal for readability */
+}
+
+body {
+  background-color: var(--bg-color-light);
+  color: var(--text-color-light);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 600;
+  color: #222222;
+}
+
+body {
+  font-family: 'Source Serif 4', serif;
+  line-height: 1.8;
+}
+
+.site-header .rowe-icon {
+  width: 50px;
+  float: left;
+  margin-right: 15px;
+}
+
+.center-img {
+  margin: 20px auto;  /* Center the image and give some space around */
+}
+
+/** just spit them out in a row. chatgpt-4o */
+.flex-row {
+  display: flex;
+  justify-content: space-between; /* Adjusts space between the images */
+  align-items: center; /* Aligns images vertically in the center */
+}
+
+.flex-row img {
+  max-width: 48%; /* Ensures the images fit nicely in the row */
+  height: auto; /* Maintains the aspect ratio of the images */
+}
+
+/** thanks gpt4. I'm so cool */
+.img-stylish {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px; /* corners only, same as markdown images */
+}
+
+.post-list .post-flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start; /* Align items to the top */
+  margin-bottom: 6px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 6px;
+}
+
+.post-list .post-left {
+  flex: 1; /* Allow the left column to take up as much space as possible */
+}
+
+.post-list .post-title {
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.post-list .post-title .post-link {
+  font-size: 18px;
+}
+
+.post-list .post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.post-list .post-tag {
+  background-color: #f0f0f0;
+  border-radius: 3px;
+  padding: 2px 5px;
+}
+
+.post-list .post-date {
+  flex: 0 0 auto; /* Prevent the date column from growing or shrinking */
+  text-align: right;
+  color: #666;
+}
+
+.post-list .post-item {
+  margin-bottom: 12px;
+}
+
+.post-header .post-title {
+  font-size: 2em;
+}
+
+.category-page .post-header .post-title {
+  font-size: 1.5em;
+}
+
+.post-content h1 {
+  font-size: 1.75em;
+}
+
+.post-content h2 {
+  font-size: 1.5em;
+}
+
+.post-content h3 {
+  font-size: 1.25em;
+}
+
+.post-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin: 0.5rem 0 0;
+}
+
+.post-meta-left {
+  color: #666;
+}
+
+.post-meta-share {
+  flex: 0 0 auto;
+}
+
+@media (max-width: 600px) {
+  .post-meta {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+.tag-pill {
+  display: inline-block;
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  padding: 2px 10px;
+  margin: 0 6px 8px 0;
+  color: inherit;
+  text-decoration: none;
+  font-size: 0.95em;
+}
+
+.tag-pill:hover {
+  background-color: #e8e8e8;
+}
+
+.tag-pill .tag-count {
+  color: #666;
+}
+
+.post-filters {
+  margin: 0 0 12px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.post-filter-group {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  background-color: #f0f0f0;
+  overflow: hidden;
+}
+
+.post-filter {
+  background-color: transparent;
+  border: 0;
+  border-radius: 0;
+  padding: 4px 12px;
+  font-size: 0.95em;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  display: inline-flex;
+  align-items: center;
+}
+
+.post-filter.is-active {
+  background-color: #222;
+  color: #fff;
+}
+
+.post-filter.is-active + .post-filter-feed .post-filter-feed-icon {
+  filter: none;
+}
+
+.post-filters-label {
+  align-self: center;
+  color: #666;
+  font-size: 0.95em;
+}
+
+.post-filter-feed {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border-left: 1px solid #ddd;
+  background-color: transparent;
+  padding: 4px 8px;
+}
+
+.post-filter-feed:hover {
+  background-color: #e8e8e8;
+}
+
+.post-filter-feed-icon {
+  width: 14px;
+  height: 14px;
+  filter: grayscale(35%) brightness(0.9) contrast(1.05);
+}
+
+.post-filters-divider {
+  border: 0;
+  border-top: 1px solid #ddd;
+  margin: 0 0 16px;
+}
+
+.post-content h4 {
+  font-size: 1.1em;
+}
+
+.post-content h5 {
+  font-size: 1em;
+}
+
+.post-content h6 {
+  font-size: 0.9em;
+}
+
+.post-content hr {
+  margin: 10px 0;
+  border: 1px solid lightgray;
+}
+
+/* =============================================
+   DESIGN REFRESH — less 90s, more editorial
+   ============================================= */
+
+/* Kill the thick Minima header accent bar */
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid #e8e8e4;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  min-height: unset;
+}
+
+/* Site title: clean sans, all-caps, ink color */
+.site-title,
+.site-title:visited {
+  color: #1B1B1B;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+/* Nav links: smaller, muted until hovered */
+.site-nav .page-link,
+.site-nav .page-link:visited {
+  color: #888;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 0.8125rem;
+  letter-spacing: 0.02em;
+}
+
+.site-nav .page-link:hover {
+  color: #1B1B1B;
+  text-decoration: none;
+}
+
+/* Narrower reading column — newsletter width */
+.wrapper {
+  max-width: 700px;
+}
+
+/* Kill Minima blue links, use ink */
+a {
+  color: #1B1B1B;
+}
+
+a:visited {
+  color: #333;
+}
+
+a:hover {
+  color: #1B1B1B;
+  text-decoration: underline;
+}
+
+/* Links in the writing and prev/next look like links: color + underline, always. Chrome (nav, lists, footer) stays ink. */
+.post-content a:not(.heading-anchor),
+.post-navigation a,
+.home > p a {
+  color: #1a5fb4;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+.post-content a:not(.heading-anchor):visited,
+.post-navigation a:visited,
+.home > p a:visited {
+  color: #5e3c99;
+}
+.post-content a:not(.heading-anchor):hover,
+.post-navigation a:hover,
+.home > p a:hover {
+  color: #0d3d7a;
+  text-decoration-thickness: 2px;
+}
+
+/* Post list link specifically */
+.post-link,
+.post-link:visited {
+  color: #1B1B1B;
+}
+
+/* Post list: more breathing room, lighter dividers */
+.post-list .post-flex-container {
+  border-bottom: 1px solid #eeeee9;
+  padding-bottom: 22px;
+  margin-bottom: 0;
+}
+
+.post-list .post-item {
+  margin-bottom: 22px;
+}
+
+.post-list .post-item:last-child .post-flex-container {
+  border-bottom: none;
+}
+
+/* Code blocks: warm neutral, not the default bluish #eef */
+pre,
+code {
+  background-color: #f0efeb;
+  border-color: #ddd;
+}
+
+/* Blockquote: refined — thin bar, not the chunky default */
+blockquote {
+  border-left: 2px solid #1B1B1B;
+  color: #555;
+  letter-spacing: normal;
+}
+
+/* Post meta: consistent muted color */
+.post-meta-left {
+  color: #888;
+}
+
+/* Footer: single clean row, no three-column mess */
+.site-footer {
+  border-top: 1px solid #e8e8e4;
+  padding: 28px 0 40px;
+  margin-top: 56px;
+}
+
+.footer-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.footer-links {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.footer-links a,
+.footer-links a:visited {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 0.8125rem;
+  color: #888;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: #1B1B1B;
+}
+
+.footer-legal {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 0.75rem;
+  color: #aaa;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+.footer-legal a,
+.footer-legal a:visited {
+  color: #999;
+}
+
+.footer-legal a:hover {
+  color: #555;
+}
+
+/* heading anchor links (layouts/_markup/render-heading.html) */
+.heading-anchor::before { content: "#"; } /* drawn by CSS so "#" stays out of summaries and descriptions */
+.heading-anchor { margin-left: 0.35em; color: #b5b5b5; text-decoration: none; opacity: 0; transition: opacity 0.15s; }
+h2:hover .heading-anchor, h3:hover .heading-anchor, h4:hover .heading-anchor,
+h5:hover .heading-anchor, h6:hover .heading-anchor, .heading-anchor:focus { opacity: 1; }
+.heading-anchor:hover { color: #555; }
+@media (hover: none) { .heading-anchor { opacity: 1; } }
+
+/* markdown images (layouts/_markup/render-image.html) */
+figure.post-image { margin: 1.5rem 0; text-align: center; }
+/* corners only, no shadow: many screenshots already have a frame and shadow baked in */
+figure.post-image img { display: block; margin: 0 auto; max-width: 100%; height: auto; border-radius: 6px; }
+figure.post-image figcaption { margin-top: 0.5rem; text-align: center; font-size: 0.9rem; color: #666; }
+/* tall screenshots and photos shouldn't fill the screen */
+figure.post-image img { max-height: 36rem; width: auto; }

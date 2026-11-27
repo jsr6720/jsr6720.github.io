@@ -1,0 +1,17 @@
+{{- $active := . | default "all" }}
+<div class="post-filters" role="navigation" aria-label="Filter posts">
+  <span class="post-filters-label">Filter:</span>
+  <span class="post-filter-group">
+    <a class="post-filter{{ if eq $active "all" }} is-active{{ end }}" href="/">All</a>
+  </span>
+  {{- range $c := site.Params.categories }}
+  {{- $label := cond (eq $c "review") "Reviews" (title $c) }}
+  <span class="post-filter-group">
+    <a class="post-filter{{ if eq $active $c }} is-active{{ end }}" href="/category/{{ $c }}/">{{ $label }}</a>
+    <a class="post-filter-feed" href="/feed/{{ $c }}.xml" target="_blank" rel="noopener" aria-label="{{ $label }} RSS feed">
+      <img class="post-filter-feed-icon" alt="" src="/assets/rss-feed-icon.png">
+    </a>
+  </span>
+  {{- end }}
+</div>
+<hr class="post-filters-divider" />

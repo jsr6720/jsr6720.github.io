@@ -1,0 +1,9 @@
+{{- /* Stand-alone images: centered, rounded corners. Inline images stay inline. */ -}}
+{{- if .IsBlock }}
+<figure class="post-image">
+  <img src="{{ .Destination | safeURL }}" alt="{{ .PlainText }}"{{ with .Title }} title="{{ . }}"{{ end }}>
+  {{- with .Title }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>
+{{- else -}}
+<img src="{{ .Destination | safeURL }}" alt="{{ .PlainText }}"{{ with .Title }} title="{{ . }}"{{ end }}>
+{{- end -}}
